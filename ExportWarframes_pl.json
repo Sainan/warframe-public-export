@@ -3722,6 +3722,44 @@
             "productCategory": "Suits"
         },
         {
+            "uniqueName": "/Lotus/Powersuits/BrokenFrame/XakuPrime",
+            "name": "Xaku Prime",
+            "parentName": "/Lotus/Powersuits/BrokenFrame/BrokenFrameBaseSuit",
+            "description": "Dzieci\u0119 wojny i Pustki odradza si\u0119 w z\u0142ocie. To, co raz zosta\u0142o zniszczone, mo\u017ce powsta\u0107 silniejsze ni\u017c to, co nigdy nie zosta\u0142o z\u0142amane.",
+            "health": 269,
+            "shield": 263,
+            "armor": 167,
+            "stamina": 3,
+            "power": 181,
+            "codexSecret": false,
+            "masteryReq": 0,
+            "sprintSpeed": 1.0700001,
+            "passiveDescription": "|CHANCE|% Redukcji Obra\u017ce\u0144 przy Atakach Obszarowych i szansa na unikni\u0119cie obra\u017ce\u0144 od broni.",
+            "abilities": [
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenRotAbility",
+                    "abilityName": "Szept Xata",
+                    "description": "Zadawaj <DT_RADIANT_COLOR>Obra\u017cenia Pustki wyposa\u017con\u0105 broni\u0105 z ka\u017cdym atakiem, gdy ta umiej\u0119tno\u015b\u0107 jest aktywna."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenGraspAbility",
+                    "abilityName": "U\u015bcisk Lohk",
+                    "description": "Wici Pustki kradn\u0105 bro\u0144 pobliskim wrogom, aby u\u017cywa\u0107 jej jako w\u0142asnego, unosz\u0105cego si\u0119 w powietrzu or\u0119\u017ca o automatycznym namierzaniu. Zadawane obra\u017cenia rosn\u0105 w zale\u017cno\u015bci od poziomu wroga. Liczba z\u0142apanych broni okre\u015bla r\u00f3wnie\u017c mno\u017cnik obra\u017ce\u0144 promienia pustki Zaginiony: Zaprzeczenie."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenEmbraceAbility",
+                    "abilityName": "Zagubiony",
+                    "description": "Prze\u0142\u0105czaj si\u0119 pomi\u0119dzy trzema wariantami Zagubionego. Oskar\u017cenie tworzy Szczelin\u0119 Pustki, kt\u00f3ra zmieni wrog\u00f3w w sojusznik\u00f3w. Spojrzenie unieruchamia wybranego wroga przy pomocy wici Pustki, przechwytuj\u0105c zadawane obra\u017cenia i nak\u0142adaj\u0105c je, gdy cel zostanie uwolniony. Zaprzeczenie dezintegruje wi\u0105zk\u0105 energii Pustki, resetuj\u0105c odporno\u015bci \u015awiadomych."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenDestructAbility",
+                    "abilityName": "Rozleg\u0142y Nie-Czas",
+                    "description": "Tymczasowo zrzuca zewn\u0119trzne fragmenty Xaku w niszczycielskim wybuchu, a nast\u0119pnie wkrocz na pole bitwy w nowej, szybszej postaci szkieletu. Wrogowie zranieni od\u0142amkami staj\u0105 si\u0119 s\u0142absi od <DT_RADIANT_COLOR>Obra\u017ce\u0144 Pustki. Czas trwania innych aktywnych zdolno\u015bci Xaku zostan\u0105 zamro\u017cone w czasie trwania Rozleg\u0142y Nie-czas i wznowione po jego zako\u0144czeniu."
+                }
+            ],
+            "productCategory": "Suits"
+        },
+        {
             "uniqueName": "/Lotus/Powersuits/BrokenFrame/BrokenFrame",
             "name": "Xaku",
             "parentName": "/Lotus/Powersuits/BrokenFrame/BrokenFrameBaseSuit",

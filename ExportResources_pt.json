@@ -345,7 +345,7 @@
         {
             "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/SentientShards/LephantisShardItem",
             "name": "Hem\u00f3cito Cist\u00f3lito",
-            "description": "Mat\u00e9ria arrancada do ducto biliar de um Hem\u00f3cito abatido.\r\n\r\nLocaliza\u00e7\u00e3o: Hem\u00f3citos encontrados em Contratos de Recompensa do evento ''Praga Estelar'', nas Plan\u00edcies de Eidolon, na Terra.",
+            "description": "Mat\u00e9ria arrancada do ducto biliar de um Hem\u00f3cito abatido.\r\n\r\nLocaliza\u00e7\u00e3o: Hem\u00f3citos encontrados em Contratos de Recompensa do evento 'Praga Estelar', nas Plan\u00edcies de Eidolon, na Terra.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Gameplay/Eidolon/Resources/SentientShards/SentientShardBaseItem"
         },
@@ -433,7 +433,7 @@
         {
             "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/QuillsDogTag",
             "name": "N\u00facleo de Sentient (Intacto)",
-            "description": "Componente essencial da anatomia Sentient. Por ser raramente encontrado intacto, este esp\u00e9cime pode ser \u00fatil.\r\n\r\nLocaliza\u00e7\u00e3o: concedido por Vonvalistas nas Plan\u00edcies de Eidolon \u00e0 noite, na Terra, assim como por Sentients encontrados na Lua e na ''Pr\u00f3xima do V\u00e9u''.",
+            "description": "Componente essencial da anatomia Sentient. Por ser raramente encontrado intacto, este esp\u00e9cime pode ser \u00fatil.\r\n\r\nLocaliza\u00e7\u00e3o: concedido por Vonvalistas nas Plan\u00edcies de Eidolon \u00e0 noite, na Terra, assim como por Sentients encontrados na Lua e na 'Pr\u00f3xima do V\u00e9u'.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/SyndicateDogTags/DogTag"
         },
@@ -5043,7 +5043,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/MiscItems/SentientFragmentLootItem",
             "name": "Fragmento da Anomalia",
-            "description": "Um fragmento removido de uma anomalia Sentient na ''Pr\u00f3xima do V\u00e9u''. Sabe-se que a Little Duck os troca por produtos ex\u00f3ticos em algum lugar de Fortuna, em V\u00eanus.\r\n\r\nLocaliza\u00e7\u00e3o: em Naves Murex encontradas em miss\u00f5es da Railjack na 'Pr\u00f3xima do V\u00e9u', marcadas com um \u00edcone especial piscante.",
+            "description": "Um fragmento removido de uma anomalia Sentient na 'Pr\u00f3xima do V\u00e9u'. Sabe-se que a Little Duck os troca por produtos ex\u00f3ticos em algum lugar de Fortuna, em V\u00eanus.\r\n\r\nLocaliza\u00e7\u00e3o: em Naves Murex encontradas em miss\u00f5es da Railjack na 'Pr\u00f3xima do V\u00e9u', marcadas com um \u00edcone especial piscante.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
@@ -5604,7 +5604,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/AucruxRailjackItem",
             "name": "Capacitores Aucrux",
-            "description": "Uma vez instalados, esses sistemas de for\u00e7a se fundem aos motores dos Obeliscos Corpus. Portanto, capacitores n\u00e3o utilizados s\u00e3o muito valorizados.\r\n\r\nLocaliza\u00e7\u00e3o: Miss\u00f5es da Railjack na ''Pr\u00f3xima de V\u00eanus'', ''Pr\u00f3xima de Netuno'' e ''Pr\u00f3xima de Plut\u00e3o''.",
+            "description": "Uma vez instalados, esses sistemas de for\u00e7a se fundem aos motores dos Obeliscos Corpus. Portanto, capacitores n\u00e3o utilizados s\u00e3o muito valorizados.\r\n\r\nLocaliza\u00e7\u00e3o: Miss\u00f5es da Railjack na 'Pr\u00f3xima de V\u00eanus', 'Pr\u00f3xima de Netuno' e 'Pr\u00f3xima de Plut\u00e3o'.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem"
         },
@@ -5618,7 +5618,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
             "name": "Carbonetos",
-            "description": "Componentes altamente resilientes, utilizados para refor\u00e7ar os reparos met\u00e1licos encontrados em Naves Grineer.\r\n\r\nLocaliza\u00e7\u00e3o: ao derrotar Unidades Eximus no Cen\u00e1rio de Estaleiro Grineer ou em miss\u00f5es da Railjack na ''Pr\u00f3xima da Terra'', ''Pr\u00f3xima de Saturno'' ou ''Pr\u00f3xima do V\u00e9u''.",
+            "description": "Componentes altamente resilientes, utilizados para refor\u00e7ar os reparos met\u00e1licos encontrados em Naves Grineer.\r\n\r\nLocaliza\u00e7\u00e3o: ao derrotar Unidades Eximus no Cen\u00e1rio de Estaleiro Grineer ou em miss\u00f5es da Railjack na 'Pr\u00f3xima da Terra', 'Pr\u00f3xima de Saturno' ou 'Pr\u00f3xima do V\u00e9u'.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem"
         },
@@ -5646,7 +5646,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
             "name": "Vergalh\u00f5es Gallos",
-            "description": "C\u00e9lula combust\u00edvel de antimat\u00e9ria que energiza as Naves Grineer.\r\n\r\nLocaliza\u00e7\u00e3o: em miss\u00f5es da Railjack na ''Pr\u00f3xima da Terra'', ''Pr\u00f3xima de Saturno'' ou ''Pr\u00f3xima do V\u00e9u''.",
+            "description": "C\u00e9lula combust\u00edvel de antimat\u00e9ria que energiza as Naves Grineer.\r\n\r\nLocaliza\u00e7\u00e3o: em miss\u00f5es da Railjack na 'Pr\u00f3xima da Terra', 'Pr\u00f3xima de Saturno' ou 'Pr\u00f3xima do V\u00e9u'.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem"
         },
@@ -5667,7 +5667,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/KommsRailjackItem",
             "name": "Komms",
-            "description": "Um componente utilizado em redes seguras de comunica\u00e7\u00e3o Grineer.\r\n\r\nLocaliza\u00e7\u00e3o: em Miss\u00f5es da Railjack na ''Pr\u00f3xima da Terra'', ''Pr\u00f3xima de Saturno'' ou ''Pr\u00f3xima do V\u00e9u''.",
+            "description": "Um componente utilizado em redes seguras de comunica\u00e7\u00e3o Grineer.\r\n\r\nLocaliza\u00e7\u00e3o: em Miss\u00f5es da Railjack na 'Pr\u00f3xima da Terra', 'Pr\u00f3xima de Saturno' ou 'Pr\u00f3xima do V\u00e9u'.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem"
         },
@@ -9245,6 +9245,13 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/1999BoybandPoster",
+            "name": "Warframe: 1999 On-lyne Poster",
+            "description": "Celebrate the release of Warframe: 1999 with this poster of the On-lyne boys and their Technocyte Coda counterparts.",
+            "codexSecret": true,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/1999ComicCoverPoster",
             "name": "Exibidor da Gr\u00e1fica do \"Warframe: 1999\"",
             "description": "A capa da Gr\u00e1fica do 'Warframe: 1999', desenvolvida por TBG Karu.",
@@ -9253,11 +9260,10 @@
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/1999OnlyneWallPoster",
-            "name": "[PH] 1999 Onlyne Wall Posters Deco",
-            "description": "[PH] Description",
+            "name": "On-lyne Poster Collage",
+            "description": "Show your love for Zeke, Drillbit, DJ Rom, Hardrive and Packet with this lovingly arranged collection of On-lyne fold-out posters. Who is your favorite?",
             "codexSecret": true,
-            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
-            "excludeFromCodex": true
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/7thAnniversaryPoster",
@@ -11703,6 +11709,14 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/MirageTennobaumBobbleHead",
+            "name": "Estatueta: Mirage do Tennobaum",
+            "description": "Uma estatueta articulada da Mirage.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/MummyQuestVessel",
             "name": "Urna Sagrada",
             "description": "Uma rel\u00edquia peculiar da tumba de Inaros.",
@@ -12361,8 +12375,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard2024Tennotober",
-            "name": "Tennotober 2024 Prex",
-            "description": "Tennotober 2024 Prex card by cyberAntagonist.",
+            "name": "Prex: Tennotober 2024",
+            "description": "Carta Prex do Tennotober 2024, desenvolvida por cyberAntagonist.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
             "excludeFromCodex": true
@@ -13963,7 +13977,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/Solaris/DebtTokenA",
             "name": "T\u00cdTULO-D\u00cdVIDA: TREINAMENTO",
-            "description": "Os Corpus chamam de ''investimento para o futuro'', por\u00e9m, o financiamento para cobrir um treinamento de capacita\u00e7\u00e3o sempre custar\u00e1 mais do que o retorno obtido, sobretudo em raz\u00e3o dos juros.\r\n\r\nLocaliza\u00e7\u00e3o: Contratos de Recompensa no Vallis das Orbes ou junto \u00e0 Ticker, em Fortuna, ambos em V\u00eanus.",
+            "description": "Os Corpus chamam de 'investimento para o futuro', por\u00e9m, o financiamento para cobrir um treinamento de capacita\u00e7\u00e3o sempre custar\u00e1 mais do que o retorno obtido, sobretudo em raz\u00e3o dos juros.\r\n\r\nLocaliza\u00e7\u00e3o: Contratos de Recompensa no Vallis das Orbes ou junto \u00e0 Ticker, em Fortuna, ambos em V\u00eanus.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
@@ -13999,6 +14013,15 @@
             "uniqueName": "/Lotus/Types/Items/SongItems/AbyssofDagathSongItem",
             "name": "Trilha Sonora: Abismo da Dagath",
             "description": "A trilha sonora da atualiza\u00e7\u00e3o 'Abismo da Dagath' para ouvir no Somachord em sua Orbital.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/EmpyreanSongItem",
+            "name": "Trilha Sonora: Emp\u00edreo",
+            "description": "A trilha sonora da atualiza\u00e7\u00e3o 'Emp\u00edreo' para ouvir no Somachord em sua Orbital.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/SongItem",
             "excludeFromCodex": true,
@@ -16938,6 +16961,30 @@
             "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeChassisComponent",
+            "name": "Xaku Prime: Chassi",
+            "description": "Chassi componente do Warframe Xaku Prime.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+            "primeSellingPrice": 45
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeHelmetComponent",
+            "name": "Xaku Prime: Neurovisor",
+            "description": "Neurovisor componente do Warframe Xaku Prime.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+            "primeSellingPrice": 15
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeSystemsComponent",
+            "name": "Xaku Prime: Sistemas",
+            "description": "Sistemas componentes do Warframe Xaku Prime.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+            "primeSellingPrice": 45
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/YareliChassisComponent",
             "name": "Yareli: Chassi",
             "description": "Chassi componente do Warframe Yareli.",
@@ -18240,14 +18287,14 @@
         },
         {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/InfBoomerangBlade",
-            "name": "Pathocyst: L\u00e2mina",
+            "name": "Pathocista: L\u00e2mina",
             "description": "Um componente de fabrica\u00e7\u00e3o de armas.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
         },
         {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/InfBoomerangDisc",
-            "name": "Pathocyst: Subc\u00f3rtex",
+            "name": "Pathocista: Subc\u00f3rtex",
             "description": "Um componente de fabrica\u00e7\u00e3o de armas.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
@@ -19225,6 +19272,22 @@
             "primeSellingPrice": 45
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/QuassusPrimeBlade",
+            "name": "Quassus Prime: L\u00e2mina",
+            "description": "Um componente de fabrica\u00e7\u00e3o de Armas Prime.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 100
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/QuassusPrimeHandle",
+            "name": "Quassus Prime: Cabo",
+            "description": "Um componente de fabrica\u00e7\u00e3o de Armas Prime.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 15
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/RedeemerPrimeBlade",
             "name": "Redeemer Prime: L\u00e2mina",
             "description": "Um componente de fabrica\u00e7\u00e3o de Armas Prime.",
@@ -19833,6 +19896,30 @@
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeBarrel",
+            "name": "Trumna Prime: Cano",
+            "description": "Um componente de fabrica\u00e7\u00e3o de Armas Prime.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 100
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeReceiver",
+            "name": "Trumna Prime: Receptor",
+            "description": "Um componente de fabrica\u00e7\u00e3o de Armas Prime.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 100
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeStock",
+            "name": "Trumna Prime: Coronha",
+            "description": "Um componente de fabrica\u00e7\u00e3o de Armas Prime.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 45
         },
         {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TwinVipersWraithBarrel",

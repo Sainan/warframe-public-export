@@ -5370,6 +5370,18 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageXakuPrimeBright",
+            "name": "Xaku Prime Glyph - Bright",
+            "description": "A glyph depicting Xaku Prime on a bright background.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageXakuPrimeDark",
+            "name": "Xaku Prime Glyph - Dark",
+            "description": "A glyph depicting Xaku Prime on a dark background.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ScarletSpear/ImageScarletSpearGroundI",
             "name": "Scarlet Spear Condrix I Glyph",
             "description": "Earned through ground assaults against the Sentient Condrix during Operation Scarlet Spear.",
@@ -6096,6 +6108,24 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAmirAccoladeGlyph",
+            "name": "Amir Accolade Glyph",
+            "description": "A glyph representing a feat of strength by community artist Carl Tabora.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAoiAccoladeGlyph",
+            "name": "Aoi Accolade Glyph",
+            "description": "A glyph representing a feat of strength by community artist Carl Tabora.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageArthurAccoladeGlyph",
+            "name": "Arthur Accolade Glyph",
+            "description": "A glyph representing a feat of strength by community artist Carl Tabora.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAshAction",
             "name": "Ash in Action Glyph",
             "description": "A Glyph for your profile.",
@@ -6165,6 +6195,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBaruukDoanStyle",
             "name": "Baruuk Doan Silhouette Glyph",
             "description": "A glyph depicting Baruuk Doan.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBigBytesPizzaGlyph",
+            "name": "Big Bytes Pizza Glyph",
+            "description": "A Glyph for your profile.",
             "codexSecret": true
         },
         {
@@ -6277,9 +6313,21 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumGrimoire",
+            "name": "Community Tennobaum Grimoire Glyph",
+            "description": "A Glyph depicting Albrecht reading a festive Grimoire, created by Cyanfacade.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumKubrow",
             "name": "Community Tennobaum Kubrow Glyph",
             "description": "A Glyph depicting a Kubrow catching a snowflake on it's nose, designed by Nelosart.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumRelic",
+            "name": "Community Tennobaum Relic Glyph",
+            "description": "A Glyph depicting a festive relic, created by Cyanfacade.",
             "codexSecret": true
         },
         {
@@ -6463,6 +6511,12 @@
             "description": "It looks like you're customizing your profile! Add a bit of 1999 retro flair to your account with K.O.L.'s own Drippy.",
             "codexSecret": true,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageEleanorAccoladeGlyph",
+            "name": "Eleanor Accolade Glyph",
+            "description": "A glyph representing a feat of strength by community artist Carl Tabora.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageEmberAction",
@@ -7170,6 +7224,12 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLettieAccoladeGlyph",
+            "name": "Lettie Accolade Glyph",
+            "description": "A glyph representing a feat of strength by community artist Carl Tabora.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLokiAction",
             "name": "Loki in Action Glyph",
             "description": "A Glyph for your profile.",
@@ -7324,8 +7384,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMovember",
-            "name": "Movember 2023 Glyph",
-            "description": "Movember 2023 Glyph by RetroAlchemist.",
+            "name": "Movember Glyph",
+            "description": "Movember Glyph by RetroAlchemist.",
             "codexSecret": true
         },
         {
@@ -7389,6 +7449,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePartyCDGlyph",
+            "name": "Party CD Glyph",
+            "description": "A Glyph for your profile.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePrideCommunity",
             "name": "Pride Glyph I",
             "description": "This Glyph celebrates Pride. Designed by Debbysheen.",
@@ -7406,6 +7472,12 @@
             "description": "A Glyph for your profile.",
             "codexSecret": true,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageQuincyAccoladeGlyph",
+            "name": "Quincy Accolade Glyph",
+            "description": "A glyph representing a feat of strength by community artist Carl Tabora.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageRevenantAction",
@@ -7891,6 +7963,12 @@
             "description": "A Glyph celebrating 10 years of Warframe, designed by Searyn.",
             "codexSecret": false,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/CommunityTennobaum1999Mug",
+            "name": "Community Tennobaum 1999 Mug Glyph",
+            "description": "A Glyph depicting a mug of hot chocolate with 1999 marshmallows, created by Cyanfacade.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/DeimosRevolverGlyph",

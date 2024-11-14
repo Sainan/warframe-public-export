@@ -4073,6 +4073,20 @@
             "description": "A skin for the Xaku Warframe, designed by kakarrot2812."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuBrokenAlways",
+            "name": "Skeletal",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "[PH] Description"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuBrokenNever",
+            "name": "Corporeal",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "[PH] Description"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuDeluxeHelmet",
             "name": "Xaku Kagura Helmet",
             "codexSecret": false,
@@ -4083,6 +4097,19 @@
             "name": "Xaku Kagura Skin",
             "codexSecret": false,
             "description": "Those who lead a noble life bear the honor of gilded scars."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuPrimeHelmet",
+            "name": "Xaku Prime Helmet",
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Xaku Prime Warframe."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuPrimeSkin",
+            "name": "Xaku Prime Skin",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "The standard issue skin for the Xaku Prime Warframe."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Camo/AkimboViperCamo",
@@ -13403,6 +13430,12 @@
             "description": "A look worthy of one who has the power to straddle realities. Fitted for the Drifter."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultPrimeE",
+            "name": "Necra Prime Cuirass (Drifter)",
+            "codexSecret": false,
+            "description": "Necrotic accents define this testament to the Entrati family\u2019s aesthetic. Perhaps there\u2019s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitArabic",
             "name": "Operator Feldune Suit",
             "codexSecret": false,
@@ -13518,6 +13551,12 @@
             "name": "Clearvoy Prime Suit (Operator)",
             "codexSecret": false,
             "description": "A look worthy of one who has the power to straddle realities. Fitted for the Operator."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitPrimeE",
+            "name": "Necra Prime Cuirass (Operator)",
+            "codexSecret": false,
+            "description": "Necrotic accents define this testament to the Entrati family\u2019s aesthetic. Perhaps there\u2019s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitZephyrDeluxe",
@@ -14364,6 +14403,18 @@
             "description": "A look worthy of one who has the power to straddle realities. Fitted for the Drifter."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeE",
+            "name": "Necra Prime Hood (Drifter)",
+            "codexSecret": false,
+            "description": "Necrotic accents define this testament to the Entrati family\u2019s aesthetic. Perhaps there\u2019s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeEChina",
+            "name": "Necra Prime Vitalis Hood (Drifter)",
+            "codexSecret": false,
+            "description": "Necrotic accents define this testament to the Entrati family\u2019s aesthetic. Perhaps there\u2019s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodArabic",
             "name": "Operator Feldune Hood",
             "codexSecret": false,
@@ -14497,6 +14548,18 @@
             "name": "Clearvoy Prime Hood (Operator)",
             "codexSecret": false,
             "description": "A look worthy of one who has the power to straddle realities. Fitted for the Operator."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeE",
+            "name": "Necra Prime Hood (Operator)",
+            "codexSecret": false,
+            "description": "Necrotic accents define this testament to the Entrati family\u2019s aesthetic. Perhaps there\u2019s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeEChina",
+            "name": "Necra Prime Vitalis Hood (Operator)",
+            "codexSecret": false,
+            "description": "Necrotic accents define this testament to the Entrati family\u2019s aesthetic. Perhaps there\u2019s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodZephyrDeluxe",
@@ -14684,6 +14747,12 @@
             "description": "A look worthy of one who has the power to straddle realities. Fitted for the Drifter."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultPrimeE",
+            "name": "Necra Prime Greaves (Drifter)",
+            "codexSecret": false,
+            "description": "Necrotic accents define this testament to the Entrati family\u2019s aesthetic. Perhaps there\u2019s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsArabic",
             "name": "Operator Feldune Pants",
             "codexSecret": false,
@@ -14799,6 +14868,12 @@
             "name": "Clearvoy Prime Leggings (Operator)",
             "codexSecret": false,
             "description": "A look worthy of one who has the power to straddle realities. Fitted for the Operator."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsPrimeE",
+            "name": "Necra Prime Greaves (Operator)",
+            "codexSecret": false,
+            "description": "Necrotic accents define this testament to the Entrati family\u2019s aesthetic. Perhaps there\u2019s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsZephyrDeluxe",
@@ -15116,6 +15191,12 @@
             "description": "A look worthy of one who has the power to straddle realities. Fitted for the Drifter."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultPrimeE",
+            "name": "Necra Prime Pauldrons (Drifter)",
+            "codexSecret": false,
+            "description": "Necrotic accents define this testament to the Entrati family\u2019s aesthetic. Perhaps there\u2019s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesArabic",
             "name": "Operator Feldune Sleeves",
             "codexSecret": false,
@@ -15231,6 +15312,12 @@
             "name": "Clearvoy Prime Sleeves (Operator)",
             "codexSecret": false,
             "description": "A look worthy of one who has the power to straddle realities. Fitted for the Operator."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesPrimeE",
+            "name": "Necra Prime Pauldrons (Operator)",
+            "codexSecret": false,
+            "description": "Necrotic accents define this testament to the Entrati family\u2019s aesthetic. Perhaps there\u2019s a lesson in how those who gaze into the Void find beauty in the fusion of luxury and oblivion."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesZephyrDeluxe",
@@ -18492,6 +18579,12 @@
             "name": "Altra Prime Syandana",
             "codexSecret": false,
             "description": "A shining garment befitting the Saint of Altra."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeArtifexSyandana",
+            "name": "Artifex Prime Syandana",
+            "codexSecret": false,
+            "description": "A techno-organic Syandana, reimagined with regal flair worthy of the Orokin elite."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeAviaSyandana",

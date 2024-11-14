@@ -3716,7 +3716,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/MiscItems/Elitium",
             "name": "Vitus Essence",
-            "description": "Awarded by the Arbiters of Hexis to few Tenno capable of surviving Arbitration.\r\n\r\nLocation: Arbitration Missions",
+            "description": "Awarded by the Arbiters of Hexis to the few Tenno capable of surviving Arbitration.\r\n\r\nLocation: Arbitration Missions",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
@@ -9245,6 +9245,13 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/1999BoybandPoster",
+            "name": "Warframe: 1999 On-lyne Poster",
+            "description": "Celebrate the release of Warframe: 1999 with this poster of the On-lyne boys and their Technocyte Coda counterparts.",
+            "codexSecret": true,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/1999ComicCoverPoster",
             "name": "Warframe: 1999 Graphica Cover Display",
             "description": "The cover of the Warframe: 1999 graphica with art by TBG Karu",
@@ -9253,11 +9260,10 @@
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/1999OnlyneWallPoster",
-            "name": "[PH] 1999 Onlyne Wall Posters Deco",
-            "description": "[PH] Description",
+            "name": "On-lyne Poster Collage",
+            "description": "Show your love for Zeke, Drillbit, DJ Rom, Hardrive and Packet with this lovingly arranged collection of On-lyne fold-out posters. Who is your favorite?",
             "codexSecret": true,
-            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
-            "excludeFromCodex": true
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/7thAnniversaryPoster",
@@ -11703,6 +11709,14 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/MirageTennobaumBobbleHead",
+            "name": "Noggle Statue - Tennobaum Mirage",
+            "description": "A small wobbly statue of Mirage.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/MummyQuestVessel",
             "name": "Sacred Vessel",
             "description": "A peculiar relic from the tomb of Inaros.",
@@ -13999,6 +14013,15 @@
             "uniqueName": "/Lotus/Types/Items/SongItems/AbyssofDagathSongItem",
             "name": "Abyss of Dagath Login Music",
             "description": "The Abyss of Dagath login music to enjoy from the Somachord in your Orbiter.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/EmpyreanSongItem",
+            "name": "Empyrean Login Music",
+            "description": "The Empyrean login music to enjoy from the Somachord in your Orbiter.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/SongItem",
             "excludeFromCodex": true,
@@ -16938,6 +16961,30 @@
             "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeChassisComponent",
+            "name": "Xaku Prime Chassis",
+            "description": "Chassis component of the Xaku Prime Warframe.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+            "primeSellingPrice": 45
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeHelmetComponent",
+            "name": "Xaku Prime Neuroptics",
+            "description": "Neuroptics component of the Xaku Prime Warframe.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+            "primeSellingPrice": 15
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeSystemsComponent",
+            "name": "Xaku Prime Systems",
+            "description": "Systems component of the Xaku Prime Warframe.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+            "primeSellingPrice": 45
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/YareliChassisComponent",
             "name": "Yareli Chassis",
             "description": "Chassis component of the Yareli Warframe.",
@@ -19225,6 +19272,22 @@
             "primeSellingPrice": 45
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/QuassusPrimeBlade",
+            "name": "Quassus Prime Blade",
+            "description": "A prime weapon-crafting component.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 100
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/QuassusPrimeHandle",
+            "name": "Quassus Prime Handle",
+            "description": "A prime weapon-crafting component.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 15
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/RedeemerPrimeBlade",
             "name": "Redeemer Prime Blade",
             "description": "A prime weapon-crafting component.",
@@ -19833,6 +19896,30 @@
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeBarrel",
+            "name": "Trumna Prime Barrel",
+            "description": "A prime weapon-crafting component.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 100
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeReceiver",
+            "name": "Trumna Prime Receiver",
+            "description": "A prime weapon-crafting component.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 100
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeStock",
+            "name": "Trumna Prime Stock",
+            "description": "A prime weapon-crafting component.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 45
         },
         {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TwinVipersWraithBarrel",

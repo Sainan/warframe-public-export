@@ -3722,6 +3722,44 @@
             "productCategory": "Suits"
         },
         {
+            "uniqueName": "/Lotus/Powersuits/BrokenFrame/XakuPrime",
+            "name": "Xaku Prime",
+            "parentName": "/Lotus/Powersuits/BrokenFrame/BrokenFrameBaseSuit",
+            "description": "El hijo de la guerra y el Vac\u00edo renace en el oro. Lo que una vez fue destrozado puede resurgir m\u00e1s fuerte que lo que nunca se rompi\u00f3.",
+            "health": 269,
+            "shield": 263,
+            "armor": 167,
+            "stamina": 3,
+            "power": 181,
+            "codexSecret": false,
+            "masteryReq": 0,
+            "sprintSpeed": 1.0700001,
+            "passiveDescription": "|CHANCE| % de reducci\u00f3n de da\u00f1o en ataques de \u00e1rea de efecto y probabilidad de evitar da\u00f1o entrante de armas.",
+            "abilities": [
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenRotAbility",
+                    "abilityName": "Susurro de Xata",
+                    "description": "Ejerce da\u00f1o del <DT_RADIANT_COLOR>Vac\u00edo para todos los ataques de armas equipadas cuando se activa."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenGraspAbility",
+                    "abilityName": "Agarre de Lohk",
+                    "description": "Los zarcillos del Vac\u00edo roban las armas de los enemigos cercanos para que las uses como tu propio armamento flotante con objetivo autom\u00e1tico. El da\u00f1o que causan est\u00e1 basado en el nivel del enemigo. La cantidad de armas robadas tambi\u00e9n determina el multiplicador de da\u00f1o para el rayo del Vac\u00edo de \u00abLos perdidos: Negaci\u00f3n\u00bb."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenEmbraceAbility",
+                    "abilityName": "Los perdidos",
+                    "description": "Cambia entre un tr\u00edo de poderes perdidos de otros warframes. La habilidad Acusaci\u00f3n manifiesta una fisura del Vac\u00edo, que corrompe a los enemigos y los convierte en aliados. La habilidad Mirada atrapa a tus objetivos con zarcillos del Vac\u00edo, que capturan el da\u00f1o e infligen da\u00f1o cuando el objetivo es liberado. La habilidad Negaci\u00f3n aniquila con un rayo de energ\u00eda del Vac\u00edo, eliminando las resistencias conscientes."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenDestructAbility",
+                    "abilityName": "La vasta intemporalidad",
+                    "description": "Xaku se despoja temporalmente de las piezas exteriores en una explosi\u00f3n destructiva, luego acecha el campo de batalla en una nueva forma esquel\u00e9tica m\u00e1s r\u00e1pida. Los enemigos da\u00f1ados por la metralla del cuerpo se vuelven vulnerables al da\u00f1o del <DT_RADIANT_COLOR>Vac\u00edo. La duraci\u00f3n de las otras habilidades activas de Xaku se congelan en el tiempo y se reanudan una vez que expira La vasta intemporalidad."
+                }
+            ],
+            "productCategory": "Suits"
+        },
+        {
             "uniqueName": "/Lotus/Powersuits/BrokenFrame/BrokenFrame",
             "name": "Xaku",
             "parentName": "/Lotus/Powersuits/BrokenFrame/BrokenFrameBaseSuit",

@@ -9245,6 +9245,13 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/1999BoybandPoster",
+            "name": "Warframe: 1999 On-lyne Poster",
+            "description": "Celebrate the release of Warframe: 1999 with this poster of the On-lyne boys and their Technocyte Coda counterparts.",
+            "codexSecret": true,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/1999ComicCoverPoster",
             "name": "Exhibidor - Portada de Graphica de Warframe: 1999",
             "description": "La portada de la Graphica de Warframe: 1999, dise\u00f1ada por TBG Karu.",
@@ -9253,11 +9260,10 @@
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/1999OnlyneWallPoster",
-            "name": "[PH] 1999 Onlyne Wall Posters Deco",
-            "description": "[PH] Description",
+            "name": "On-lyne Poster Collage",
+            "description": "Show your love for Zeke, Drillbit, DJ Rom, Hardrive and Packet with this lovingly arranged collection of On-lyne fold-out posters. Who is your favorite?",
             "codexSecret": true,
-            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
-            "excludeFromCodex": true
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/7thAnniversaryPoster",
@@ -11703,6 +11709,14 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/MirageTennobaumBobbleHead",
+            "name": "Estatua tambaleante - Mirage Tennobaum",
+            "description": "Una peque\u00f1a y tambaleante estatua de Mirage.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/MummyQuestVessel",
             "name": "Vasija Sagrada",
             "description": "Una reliquia peculiar de la tumba de Inaros.",
@@ -12361,8 +12375,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard2024Tennotober",
-            "name": "Tennotober 2024 Prex",
-            "description": "Tennotober 2024 Prex card by cyberAntagonist.",
+            "name": "Prex de Tennotober 2024",
+            "description": "Carta Prex de Tennotober 2024, por cyberAntagonist.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
             "excludeFromCodex": true
@@ -13999,6 +14013,15 @@
             "uniqueName": "/Lotus/Types/Items/SongItems/AbyssofDagathSongItem",
             "name": "M\u00fasica de inicio de sesi\u00f3n de Abismo de Dagath",
             "description": "M\u00fasica de inicio de sesi\u00f3n del Abismo de Dagath para disfrutar desde el Somacordio en tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/EmpyreanSongItem",
+            "name": "M\u00fasica de inicio de sesi\u00f3n de Emp\u00edreo",
+            "description": "M\u00fasica de inicio de sesi\u00f3n de Emp\u00edreo para disfrutar desde el Somacordio en tu orbitador.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/SongItem",
             "excludeFromCodex": true,
@@ -16938,6 +16961,30 @@
             "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeChassisComponent",
+            "name": "Chasis de Xaku Prime",
+            "description": "Componente del chasis del warframe Xaku Prime.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+            "primeSellingPrice": 45
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeHelmetComponent",
+            "name": "Neur\u00f3pticas de Xaku Prime",
+            "description": "Componente de las neur\u00f3pticas del warframe Xaku Prime.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+            "primeSellingPrice": 15
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeSystemsComponent",
+            "name": "Sistemas de Xaku Prime",
+            "description": "Componente de los sistemas del warframe Xaku Prime.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+            "primeSellingPrice": 45
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/YareliChassisComponent",
             "name": "Chasis de Yareli",
             "description": "Componente de chasis del warframe Yareli.",
@@ -19225,6 +19272,22 @@
             "primeSellingPrice": 45
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/QuassusPrimeBlade",
+            "name": "Hoja de Quassus Prime",
+            "description": "Un componente de fabricaci\u00f3n de arma prime.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 100
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/QuassusPrimeHandle",
+            "name": "Empu\u00f1adura de Quassus Prime",
+            "description": "Un componente de fabricaci\u00f3n de arma prime.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 15
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/RedeemerPrimeBlade",
             "name": "Hoja de Redeemer Prime",
             "description": "Un componente de fabricaci\u00f3n de arma prime.",
@@ -19833,6 +19896,30 @@
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeBarrel",
+            "name": "Ca\u00f1\u00f3n de Trumna Prime",
+            "description": "Un componente de fabricaci\u00f3n de arma prime.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 100
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeReceiver",
+            "name": "Receptor de Trumna Prime",
+            "description": "Un componente de fabricaci\u00f3n de arma prime.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 100
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeStock",
+            "name": "Culata de Trumna Prime",
+            "description": "Un componente de fabricaci\u00f3n de arma prime.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 45
         },
         {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TwinVipersWraithBarrel",

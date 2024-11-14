@@ -4073,6 +4073,20 @@
             "description": "Sk\u00f3rka dla Warframe'a Xaku, zaprojektowana przez kakarrot2812."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuBrokenAlways",
+            "name": "Szkielet",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "[PH] Description"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuBrokenNever",
+            "name": "Kompletny",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "[PH] Description"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuDeluxeHelmet",
             "name": "Xaku: He\u0142m Kagura",
             "codexSecret": false,
@@ -4083,6 +4097,19 @@
             "name": "Xaku: Sk\u00f3rka Kagura",
             "codexSecret": false,
             "description": "Ci, kt\u00f3rzy prowadz\u0105 szlachetne \u017cycie, nosz\u0105 zaszczyt poz\u0142acanych blizn."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuPrimeHelmet",
+            "name": "Xaku Prime: He\u0142m",
+            "codexSecret": false,
+            "description": "Standardowy he\u0142m dla Warframe Xaku Prime."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuPrimeSkin",
+            "name": "Xaku Prime: Sk\u00f3rka",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Standardowa sk\u00f3rka dla Warframe Xaku Prime."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Camo/AkimboViperCamo",
@@ -13403,6 +13430,12 @@
             "description": "Wygl\u0105d godny pot\u0119gi zdolnej nagi\u0105\u0107 rzeczywisto\u015b\u0107. Dopasowane do W\u0142\u00f3cz\u0119gi."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultPrimeE",
+            "name": "Napier\u015bnik: Necra Prime (W\u0142\u00f3cz\u0119ga)",
+            "codexSecret": false,
+            "description": "Nekrotyczne podteksty definiuj\u0105 to \u015bwiadectwo estetyki rodziny Entrati. Mo\u017ce warto wyci\u0105gn\u0105\u0107 lekcj\u0119 ze sposobu, w jaki ci, kt\u00f3rzy kontempluj\u0105 Pustk\u0119, odnajduj\u0105 pi\u0119kno w po\u0142\u0105czeniu luksusu i zapomnienia."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitArabic",
             "name": "Kombinezon Feldune Operatora",
             "codexSecret": false,
@@ -13518,6 +13551,12 @@
             "name": "Kombinezon Clearvoy Prime (Operator)",
             "codexSecret": false,
             "description": "Wygl\u0105d godny pot\u0119gi zdolnej nagi\u0105\u0107 rzeczywisto\u015b\u0107. Dopasowane do Operatora."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitPrimeE",
+            "name": "Napier\u015bnik: Necra Prime (Operator)",
+            "codexSecret": false,
+            "description": "Nekrotyczne podteksty definiuj\u0105 to \u015bwiadectwo estetyki rodziny Entrati. Mo\u017ce warto wyci\u0105gn\u0105\u0107 lekcj\u0119 ze sposobu, w jaki ci, kt\u00f3rzy kontempluj\u0105 Pustk\u0119, odnajduj\u0105 pi\u0119kno w po\u0142\u0105czeniu luksusu i zapomnienia."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitZephyrDeluxe",
@@ -14364,6 +14403,18 @@
             "description": "Wygl\u0105d godny pot\u0119gi zdolnej nagi\u0105\u0107 rzeczywisto\u015b\u0107. Dopasowane do W\u0142\u00f3cz\u0119gi."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeE",
+            "name": "Kaptur Necra Prime (W\u0142\u00f3cz\u0119ga)",
+            "codexSecret": false,
+            "description": "Nekrotyczne podteksty definiuj\u0105 to \u015bwiadectwo estetyki rodziny Entrati. Mo\u017ce warto wyci\u0105gn\u0105\u0107 lekcj\u0119 ze sposobu, w jaki ci, kt\u00f3rzy kontempluj\u0105 Pustk\u0119, odnajduj\u0105 pi\u0119kno w po\u0142\u0105czeniu luksusu i zapomnienia."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeEChina",
+            "name": "Kaptur Vitalis Necra Prime (W\u0142\u00f3cz\u0119ga)",
+            "codexSecret": false,
+            "description": "Nekrotyczne podteksty definiuj\u0105 to \u015bwiadectwo estetyki rodziny Entrati. Mo\u017ce warto wyci\u0105gn\u0105\u0107 lekcj\u0119 ze sposobu, w jaki ci, kt\u00f3rzy kontempluj\u0105 Pustk\u0119, odnajduj\u0105 pi\u0119kno w po\u0142\u0105czeniu luksusu i zapomnienia."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodArabic",
             "name": "Kaptur Feldune Operatora",
             "codexSecret": false,
@@ -14497,6 +14548,18 @@
             "name": "Kaptur Clearvoy Prime (Operator)",
             "codexSecret": false,
             "description": "Wygl\u0105d godny pot\u0119gi zdolnej nagi\u0105\u0107 rzeczywisto\u015b\u0107. Dopasowane do Operatora."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeE",
+            "name": "Kaptur Necra Prime (Operator)",
+            "codexSecret": false,
+            "description": "Nekrotyczne podteksty definiuj\u0105 to \u015bwiadectwo estetyki rodziny Entrati. Mo\u017ce warto wyci\u0105gn\u0105\u0107 lekcj\u0119 ze sposobu, w jaki ci, kt\u00f3rzy kontempluj\u0105 Pustk\u0119, odnajduj\u0105 pi\u0119kno w po\u0142\u0105czeniu luksusu i zapomnienia."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeEChina",
+            "name": "Kaptur Vitalis Necra Prime (Operator)",
+            "codexSecret": false,
+            "description": "Nekrotyczne podteksty definiuj\u0105 to \u015bwiadectwo estetyki rodziny Entrati. Mo\u017ce warto wyci\u0105gn\u0105\u0107 lekcj\u0119 ze sposobu, w jaki ci, kt\u00f3rzy kontempluj\u0105 Pustk\u0119, odnajduj\u0105 pi\u0119kno w po\u0142\u0105czeniu luksusu i zapomnienia."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodZephyrDeluxe",
@@ -14684,6 +14747,12 @@
             "description": "Wygl\u0105d godny pot\u0119gi zdolnej nagi\u0105\u0107 rzeczywisto\u015b\u0107. Dopasowane do W\u0142\u00f3cz\u0119gi."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultPrimeE",
+            "name": "Nagolenniki: Necra Prime (W\u0142\u00f3cz\u0119ga)",
+            "codexSecret": false,
+            "description": "Nekrotyczne podteksty definiuj\u0105 to \u015bwiadectwo estetyki rodziny Entrati. Mo\u017ce warto wyci\u0105gn\u0105\u0107 lekcj\u0119 ze sposobu, w jaki ci, kt\u00f3rzy kontempluj\u0105 Pustk\u0119, odnajduj\u0105 pi\u0119kno w po\u0142\u0105czeniu luksusu i zapomnienia."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsArabic",
             "name": "Spodnie Feldune Operatora",
             "codexSecret": false,
@@ -14799,6 +14868,12 @@
             "name": "Spodnie Clearvoy Prime (Operator)",
             "codexSecret": false,
             "description": "Wygl\u0105d godny pot\u0119gi zdolnej nagi\u0105\u0107 rzeczywisto\u015b\u0107. Dopasowane do Operatora."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsPrimeE",
+            "name": "Nagolenniki: Necra Prime (Operator)",
+            "codexSecret": false,
+            "description": "Nekrotyczne podteksty definiuj\u0105 to \u015bwiadectwo estetyki rodziny Entrati. Mo\u017ce warto wyci\u0105gn\u0105\u0107 lekcj\u0119 ze sposobu, w jaki ci, kt\u00f3rzy kontempluj\u0105 Pustk\u0119, odnajduj\u0105 pi\u0119kno w po\u0142\u0105czeniu luksusu i zapomnienia."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsZephyrDeluxe",
@@ -15116,6 +15191,12 @@
             "description": "Wygl\u0105d godny pot\u0119gi zdolnej nagi\u0105\u0107 rzeczywisto\u015b\u0107. Dopasowane do W\u0142\u00f3cz\u0119gi."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultPrimeE",
+            "name": "Naramienniki: Necra Prime (W\u0142\u00f3cz\u0119ga)",
+            "codexSecret": false,
+            "description": "Nekrotyczne podteksty definiuj\u0105 to \u015bwiadectwo estetyki rodziny Entrati. Mo\u017ce warto wyci\u0105gn\u0105\u0107 lekcj\u0119 ze sposobu, w jaki ci, kt\u00f3rzy kontempluj\u0105 Pustk\u0119, odnajduj\u0105 pi\u0119kno w po\u0142\u0105czeniu luksusu i zapomnienia."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesArabic",
             "name": "R\u0119kawice Feldune Operatora",
             "codexSecret": false,
@@ -15231,6 +15312,12 @@
             "name": "R\u0119kawice Clearvoy Prime (Operator)",
             "codexSecret": false,
             "description": "Wygl\u0105d godny pot\u0119gi zdolnej nagi\u0105\u0107 rzeczywisto\u015b\u0107. Dopasowane do Operatora."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesPrimeE",
+            "name": "Naramienniki: Necra Prime (Operator)",
+            "codexSecret": false,
+            "description": "Nekrotyczne podteksty definiuj\u0105 to \u015bwiadectwo estetyki rodziny Entrati. Mo\u017ce warto wyci\u0105gn\u0105\u0107 lekcj\u0119 ze sposobu, w jaki ci, kt\u00f3rzy kontempluj\u0105 Pustk\u0119, odnajduj\u0105 pi\u0119kno w po\u0142\u0105czeniu luksusu i zapomnienia."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesZephyrDeluxe",
@@ -18492,6 +18579,12 @@
             "name": "Syandana Altra Prime",
             "codexSecret": false,
             "description": "L\u015bni\u0105ca szata godna \u015awi\u0119tego z Altry."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeArtifexSyandana",
+            "name": "Syandana Artifex Prime",
+            "codexSecret": false,
+            "description": "Techno-organiczna Syandana, zaprojektowana na nowo z kr\u00f3lewskim stylem godnym elity Orokin."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeAviaSyandana",

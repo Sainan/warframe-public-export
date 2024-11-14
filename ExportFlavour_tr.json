@@ -5370,6 +5370,18 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageXakuPrimeBright",
+            "name": "Xaku Prime Glif - A\u00e7\u0131k",
+            "description": "Xaku Prime'\u0131 tasvir eden a\u00e7\u0131k fonlu bir glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageXakuPrimeDark",
+            "name": "Xaku Prime Glif - Koyu",
+            "description": "Xaku Prime'\u0131 tasvir eden karanl\u0131k fonlu bir glif.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ScarletSpear/ImageScarletSpearGroundI",
             "name": "Scarlet Spear Condrix I Glif",
             "description": "Scarlet Spear Operasyonunda Sentient Condrix'ine kar\u015f\u0131 yap\u0131lan yer sald\u0131r\u0131lar\u0131nda kazan\u0131l\u0131r.",
@@ -6096,6 +6108,24 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAmirAccoladeGlyph",
+            "name": "Amir Ni\u015fan\u0131 Glif",
+            "description": "Topluluk sanat\u00e7\u0131s\u0131 Carl Tabora taraf\u0131ndan tasarlanan ve g\u00fcc\u00fc simgeleyen bir glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAoiAccoladeGlyph",
+            "name": "Aoi Ni\u015fan\u0131 Glif",
+            "description": "Topluluk sanat\u00e7\u0131s\u0131 Carl Tabora taraf\u0131ndan tasarlanan ve g\u00fcc\u00fc simgeleyen bir glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageArthurAccoladeGlyph",
+            "name": "Arthur Ni\u015fan\u0131 Glif",
+            "description": "Topluluk sanat\u00e7\u0131s\u0131 Carl Tabora taraf\u0131ndan tasarlanan ve g\u00fcc\u00fc simgeleyen bir glif.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAshAction",
             "name": "Ash \u0130\u015f Ba\u015f\u0131nda Glif",
             "description": "Profilin i\u00e7in bir Glif.",
@@ -6165,6 +6195,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBaruukDoanStyle",
             "name": "Baruuk Doan Siluet Glifi",
             "description": "Baruuk Doan'\u0131 temsil eden bir glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBigBytesPizzaGlyph",
+            "name": "Big Bytes Pizza Glif",
+            "description": "Profilin i\u00e7in bir Glif.",
             "codexSecret": true
         },
         {
@@ -6277,9 +6313,21 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumGrimoire",
+            "name": "Topluluk Tennobaum Grimoire Glifi",
+            "description": "Cyanfacade taraf\u0131ndan tasarlanan, Albrecht'in \u015fenlikli bir Grimoire'\u0131 okudu\u011funu g\u00f6steren bir Glif.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumKubrow",
             "name": "Topluluk Tennobaum Kubrow Glifi",
             "description": "Nelosart taraf\u0131ndan tasarlanan, burnundaki kar tanesini yakalayan bir Kubrow'u temsil eden bir Glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumRelic",
+            "name": "Topluluk Tennobaum Relic Glifi",
+            "description": "Cyanfacade taraf\u0131ndan tasarlanan \u015fenlikli bir Relic'i tasvir eden bir Glif.",
             "codexSecret": true
         },
         {
@@ -6463,6 +6511,12 @@
             "description": "G\u00f6r\u00fcn\u00fc\u015fe g\u00f6re Profilini \u00f6zelle\u015ftiriyorsun! K.O.L.'un kendisine ait olan Drippy ile hesab\u0131na 1999'un retro havas\u0131 kat.",
             "codexSecret": true,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageEleanorAccoladeGlyph",
+            "name": "Eleanor Ni\u015fan\u0131 Glif",
+            "description": "Topluluk sanat\u00e7\u0131s\u0131 Carl Tabora taraf\u0131ndan tasarlanan ve g\u00fcc\u00fc simgeleyen bir glif.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageEmberAction",
@@ -7170,6 +7224,12 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLettieAccoladeGlyph",
+            "name": "Lettie Ni\u015fan\u0131 Glif",
+            "description": "Topluluk sanat\u00e7\u0131s\u0131 Carl Tabora taraf\u0131ndan tasarlanan ve g\u00fcc\u00fc simgeleyen bir glif.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLokiAction",
             "name": "Loki \u0130\u015f Ba\u015f\u0131nda Glif",
             "description": "Profilin i\u00e7in bir Glif.",
@@ -7324,8 +7384,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMovember",
-            "name": "Movember 2023 Glif",
-            "description": "RetroAlchemist taraf\u0131ndan tasarlanan Movember 2023 Glifi.",
+            "name": "Movember Glif",
+            "description": "RetroAlchemist taraf\u0131ndan tasarlanan Movember Glifi.",
             "codexSecret": true
         },
         {
@@ -7389,6 +7449,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePartyCDGlyph",
+            "name": "Party CD Glif",
+            "description": "Profilin i\u00e7in bir Glif.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePrideCommunity",
             "name": "Pride Glif I",
             "description": "Bu Glif, Pride'\u0131 kutlar. Debbysheen taraf\u0131ndan dizayn edilmi\u015ftir.",
@@ -7406,6 +7472,12 @@
             "description": "Profilin i\u00e7in bir Glif.",
             "codexSecret": true,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageQuincyAccoladeGlyph",
+            "name": "Quincy Ni\u015fan\u0131 Glif",
+            "description": "Topluluk sanat\u00e7\u0131s\u0131 Carl Tabora taraf\u0131ndan tasarlanan ve g\u00fcc\u00fc simgeleyen bir glif.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageRevenantAction",
@@ -7891,6 +7963,12 @@
             "description": "Searyn taraf\u0131ndan tasarlanan ve Warframe'in 10. y\u0131l\u0131n\u0131 kutlayan bir Glif.",
             "codexSecret": false,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/CommunityTennobaum1999Mug",
+            "name": "Topluluk Tennobaum 1999 Kupas\u0131 Glifi",
+            "description": "Cyanfacade taraf\u0131ndan tasarlanan, 1999'da \u00fcretilmi\u015f \u015fekerlemelerle dolu bir kupa s\u0131cak \u00e7ikolatay\u0131 tasvir eden bir Glif.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/DeimosRevolverGlyph",

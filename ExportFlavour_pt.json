@@ -1937,7 +1937,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/Emotes/DanceTurnReverseTurn",
             "name": "Giro com piv\u00f4",
-            "description": "Um passo para a esquerda... um giro para a direita... e segue o baile!",
+            "description": "Um passo para a esquerda\u2026 um giro para a direita\u2026 e segue o baile!",
             "codexSecret": false
         },
         {
@@ -5370,6 +5370,18 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageXakuPrimeBright",
+            "name": "Glifo: Xaku Prime (Claro)",
+            "description": "Um glifo retratando os Xaku Prime em um fundo claro.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageXakuPrimeDark",
+            "name": "Glifo: Xaku Prime (Escuro)",
+            "description": "Um glifo retratando os Xaku Prime em um fundo escuro.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ScarletSpear/ImageScarletSpearGroundI",
             "name": "Glifo: Lan\u00e7a Escarlate Condrix I",
             "description": "Recebido atrav\u00e9s de ataques terrestres contra a Condrix Sentient durante a Opera\u00e7\u00e3o: Lan\u00e7a Escarlate.",
@@ -6096,6 +6108,24 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAmirAccoladeGlyph",
+            "name": "Glifo: Ins\u00edgnia do Amir",
+            "description": "Um glifo representando um feito de for\u00e7a, criado pelo artista Carl Tabora.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAoiAccoladeGlyph",
+            "name": "Glifo: Ins\u00edgnia da Aoi",
+            "description": "Um glifo representando um feito de for\u00e7a, criado pelo artista Carl Tabora.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageArthurAccoladeGlyph",
+            "name": "Glifo: Ins\u00edgnia do Arthur",
+            "description": "Um glifo representando um feito de for\u00e7a, criado pelo artista Carl Tabora.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAshAction",
             "name": "Glifo: Ash em A\u00e7\u00e3o",
             "description": "Um Glifo para o seu perfil.",
@@ -6165,6 +6195,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBaruukDoanStyle",
             "name": "Glifo: Silhueta do Baruuk Doan",
             "description": "Um glifo retratando o Baruuk Doan.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBigBytesPizzaGlyph",
+            "name": "Glifo: Pizza Big Bytes",
+            "description": "Um Glifo para o seu perfil.",
             "codexSecret": true
         },
         {
@@ -6277,9 +6313,21 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumGrimoire",
+            "name": "Glifo: Grim\u00f3rio do Tennobaum (Comunidade)",
+            "description": "Um glifo retratando o Albrecht lendo um Grim\u00f3rio festivo, desenvolvido por Cyanfacade.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumKubrow",
             "name": "Glifo: Tennobaum do Kubrow (Comunidade)",
             "description": "Um glifo retratando um Kubrow com um floco de neve no nariz, desenvolvido por Nelosart.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumRelic",
+            "name": "Glifo: Rel\u00edquia do Tennobaum (Comunidade)",
+            "description": "Um glifo retratando uma rel\u00edquia festiva, desenvolvido por Cyanfacade.",
             "codexSecret": true
         },
         {
@@ -6463,6 +6511,12 @@
             "description": "Parece que voc\u00ea est\u00e1 personalizando seu perfil! Adicione um pouco do estilo retr\u00f4 de 1999 \u00e0 sua conta com o Seu Gotinha do K.O.L.",
             "codexSecret": true,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageEleanorAccoladeGlyph",
+            "name": "Glifo: Ins\u00edgnia da Eleanor",
+            "description": "Um glifo representando um feito de for\u00e7a, criado pelo artista Carl Tabora.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageEmberAction",
@@ -7170,6 +7224,12 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLettieAccoladeGlyph",
+            "name": "Glifo: Ins\u00edgnia da L\u00ea",
+            "description": "Um glifo representando um feito de for\u00e7a, criado pelo artista Carl Tabora.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLokiAction",
             "name": "Glifo: Loki em A\u00e7\u00e3o",
             "description": "Um Glifo para o seu perfil.",
@@ -7324,8 +7384,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMovember",
-            "name": "Glifo: Novembro Azul 2023 (Movember)",
-            "description": "Glifo do Novembro Azul 2023 (Movember), criado por RetroAlchemist.",
+            "name": "Glifo: Novembro Azul (Movember)",
+            "description": "Glifo do Novembro Azul (Movember), criado por RetroAlchemist.",
             "codexSecret": true
         },
         {
@@ -7389,6 +7449,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePartyCDGlyph",
+            "name": "Glifo: CD de Festa",
+            "description": "Um Glifo para o seu perfil.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePrideCommunity",
             "name": "Glifo: Orgulho LGBTQIA+ I",
             "description": "Este Glifo, criado por Debbysheen, celebra o Orgulho LGBTQIA+.",
@@ -7406,6 +7472,12 @@
             "description": "Um Glifo para o seu perfil.",
             "codexSecret": true,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageQuincyAccoladeGlyph",
+            "name": "Glifo: Ins\u00edgnia do Quincy",
+            "description": "Um glifo representando um feito de for\u00e7a, criado pelo artista Carl Tabora.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageRevenantAction",
@@ -7891,6 +7963,12 @@
             "description": "Um Glifo celebrando os 10 anos do Warframe, criado por Searyn.",
             "codexSecret": false,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/CommunityTennobaum1999Mug",
+            "name": "Glifo: Caneca de 1999 do Tennobaum (Comunidade)",
+            "description": "Um glifo retratando uma caneca de chocolate quente com marshmallows de 1999, desenvolvido por Cyanfacade.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/DeimosRevolverGlyph",
@@ -10835,22 +10913,22 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2023BestInShowAwardGlyph",
-            "name": "TennoCon 2023: Pr\u00eamio ''Melhor do Evento''",
-            "description": "Parab\u00e9ns por ganhar o Pr\u00eamio ''Melhor do Evento'' no Concurso de Cosplay da TennoCon 2023!",
+            "name": "TennoCon 2023: Pr\u00eamio \"Melhor do Evento\"",
+            "description": "Parab\u00e9ns por ganhar o Pr\u00eamio 'Melhor do Evento' no Concurso de Cosplay da TennoCon 2023!",
             "codexSecret": false,
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2023BestPetAwardGlyph",
-            "name": "TennoCon 2023: Pr\u00eamio ''Mestre Teasonai''",
-            "description": "Parab\u00e9ns por ganhar o Pr\u00eamio ''Mestre Teasonai'' no Concurso de Cosplay da TennoCon 2023!",
+            "name": "TennoCon 2023: Pr\u00eamio \"Mestre Teasonai\"",
+            "description": "Parab\u00e9ns por ganhar o Pr\u00eamio 'Mestre Teasonai' no Concurso de Cosplay da TennoCon 2023!",
             "codexSecret": false,
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2023BestWorkmanshipAwardGlyph",
-            "name": "TennoCon 2023: Pr\u00eamio ''Artesanato Solaris''",
-            "description": "Parab\u00e9ns por ganhar o Pr\u00eamio ''Artesanato Solaris'' no Concurso de Cosplay da TennoCon 2023!",
+            "name": "TennoCon 2023: Pr\u00eamio \"Artesanato Solaris\"",
+            "description": "Parab\u00e9ns por ganhar o Pr\u00eamio 'Artesanato Solaris' no Concurso de Cosplay da TennoCon 2023!",
             "codexSecret": false,
             "excludeFromCodex": true
         },
@@ -10863,8 +10941,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2023FunniestAwardGlyph",
-            "name": "TennoCon 2023: Pr\u00eamio ''Ordis Comediante''",
-            "description": "Parab\u00e9ns por ganhar o Pr\u00eamio ''Ordis Comediante'' no Concurso de Cosplay da TennoCon 2023!",
+            "name": "TennoCon 2023: Pr\u00eamio \"Ordis Comediante\"",
+            "description": "Parab\u00e9ns por ganhar o Pr\u00eamio 'Ordis Comediante' no Concurso de Cosplay da TennoCon 2023!",
             "codexSecret": false,
             "excludeFromCodex": true
         },
@@ -10882,36 +10960,36 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2024BestInShowAwardGlyph",
-            "name": "TennoCon 2024: Pr\u00eamio ''Ouro Orokin''",
-            "description": "Parab\u00e9ns por ganhar o Pr\u00eamio ''Ouro Orokin'' no Concurso de Cosplay da TennoCon 2024!",
+            "name": "TennoCon 2024: Pr\u00eamio \"Ouro Orokin\"",
+            "description": "Parab\u00e9ns por ganhar o Pr\u00eamio 'Ouro Orokin' no Concurso de Cosplay da TennoCon 2024!",
             "codexSecret": false,
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2024BestPetAwardGlyph",
-            "name": "TennoCon 2024: Pr\u00eamio ''Mestre Teasonai''",
-            "description": "Parab\u00e9ns por ganhar o Pr\u00eamio ''Mestre Teasonai'' no Concurso de Cosplay da TennoCon 2024!",
+            "name": "TennoCon 2024: Pr\u00eamio \"Mestre Teasonai\"",
+            "description": "Parab\u00e9ns por ganhar o Pr\u00eamio 'Mestre Teasonai' no Concurso de Cosplay da TennoCon 2024!",
             "codexSecret": false,
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2024BestWorkmanshipAwardGlyph",
-            "name": "TennoCon 2024: Pr\u00eamio ''Artesanato Solaris''",
-            "description": "Parab\u00e9ns por ganhar o Pr\u00eamio ''Artesanato Solaris'' no Concurso de Cosplay da TennoCon 2024!",
+            "name": "TennoCon 2024: Pr\u00eamio \"Artesanato Solaris\"",
+            "description": "Parab\u00e9ns por ganhar o Pr\u00eamio 'Artesanato Solaris' no Concurso de Cosplay da TennoCon 2024!",
             "codexSecret": false,
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2024CutenessAwardGlyph",
-            "name": "TennoCon 2024: Pr\u00eamio ''Fofura Ador\u00e1vel''",
-            "description": "Parab\u00e9ns por ganhar o Pr\u00eamio ''Fofura Ador\u00e1vel'' no Concurso de Cosplay da TennoCon 2024!",
+            "name": "TennoCon 2024: Pr\u00eamio \"Fofura Ador\u00e1vel\"",
+            "description": "Parab\u00e9ns por ganhar o Pr\u00eamio 'Fofura Ador\u00e1vel' no Concurso de Cosplay da TennoCon 2024!",
             "codexSecret": false,
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2024FunniestAwardGlyph",
-            "name": "TennoCon 2024: Pr\u00eamio ''Ordis Comediante''",
-            "description": "Parab\u00e9ns por ganhar o Pr\u00eamio ''Ordis Comediante'' no Concurso de Cosplay da TennoCon 2024!",
+            "name": "TennoCon 2024: Pr\u00eamio \"Ordis Comediante\"",
+            "description": "Parab\u00e9ns por ganhar o Pr\u00eamio 'Ordis Comediante' no Concurso de Cosplay da TennoCon 2024!",
             "codexSecret": false,
             "excludeFromCodex": true
         },

@@ -4073,6 +4073,20 @@
             "description": "Un Aspect pour la Warframe Xaku, con\u00e7u par kakarrot2812."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuBrokenAlways",
+            "name": "Squelettique",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "[PH] Description"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuBrokenNever",
+            "name": "Corporel",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "[PH] Description"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuDeluxeHelmet",
             "name": "Casque Xaku Kagura",
             "codexSecret": false,
@@ -4083,6 +4097,19 @@
             "name": "Aspect Xaku Kagura",
             "codexSecret": false,
             "description": "Ceux qui m\u00e8nent une vie noble portent avec honneur des cicatrices dor\u00e9es."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuPrimeHelmet",
+            "name": "Casque Xaku Prime",
+            "codexSecret": false,
+            "description": "Le Casque standard pour la Warframe Xaku Prime."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuPrimeSkin",
+            "name": "Aspect Xaku Prime",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "L'Aspect standard pour la Warframe Xaku Prime."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Camo/AkimboViperCamo",
@@ -13403,6 +13430,12 @@
             "description": "Un look digne de celui qui a le pouvoir de d\u00e9passer les r\u00e9alit\u00e9s. Pour le Voyageur."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultPrimeE",
+            "name": "Cuirasse Necra Prime (Voyageur)",
+            "codexSecret": false,
+            "description": "Des accents n\u00e9crotiques d\u00e9finissent ce t\u00e9moignage de l'esth\u00e9tique de la famille Entrati. Peut-\u00eatre y a-t-il une le\u00e7on \u00e0 tirer de la fa\u00e7on dont ceux qui contemplent le N\u00e9ant trouvent la beaut\u00e9 dans la fusion du luxe et de l'oubli."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitArabic",
             "name": "Tenue de l'Op\u00e9rateur Feldune",
             "codexSecret": false,
@@ -13518,6 +13551,12 @@
             "name": "Combinaison Clearvoy Prime (Op\u00e9rateur)",
             "codexSecret": false,
             "description": "Un look digne de celui qui a le pouvoir de d\u00e9passer les r\u00e9alit\u00e9s. Pour l'Op\u00e9rateur."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitPrimeE",
+            "name": "Cuirasse Necra Prime (Op\u00e9rateur)",
+            "codexSecret": false,
+            "description": "Des accents n\u00e9crotiques d\u00e9finissent ce t\u00e9moignage de l'esth\u00e9tique de la famille Entrati. Peut-\u00eatre y a-t-il une le\u00e7on \u00e0 tirer de la fa\u00e7on dont ceux qui contemplent le N\u00e9ant trouvent la beaut\u00e9 dans la fusion du luxe et de l'oubli."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitZephyrDeluxe",
@@ -14364,6 +14403,18 @@
             "description": "Un look digne de celui qui a le pouvoir de d\u00e9passer les r\u00e9alit\u00e9s. Pour le Voyageur."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeE",
+            "name": "Capuche Necra Prime (Voyageur)",
+            "codexSecret": false,
+            "description": "Des accents n\u00e9crotiques d\u00e9finissent ce t\u00e9moignage de l'esth\u00e9tique de la famille Entrati. Peut-\u00eatre y a-t-il une le\u00e7on \u00e0 tirer de la fa\u00e7on dont ceux qui contemplent le N\u00e9ant trouvent la beaut\u00e9 dans la fusion du luxe et de l'oubli."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeEChina",
+            "name": "Capuche Necra Prime Vitalis (Voyageur)",
+            "codexSecret": false,
+            "description": "Des accents n\u00e9crotiques d\u00e9finissent ce t\u00e9moignage de l'esth\u00e9tique de la famille Entrati. Peut-\u00eatre y a-t-il une le\u00e7on \u00e0 tirer de la fa\u00e7on dont ceux qui contemplent le N\u00e9ant trouvent la beaut\u00e9 dans la fusion du luxe et de l'oubli."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodArabic",
             "name": "Capuche de l'Op\u00e9rateur Feldune",
             "codexSecret": false,
@@ -14497,6 +14548,18 @@
             "name": "Capuche Clearvoy Prime (Op\u00e9rateur)",
             "codexSecret": false,
             "description": "Un look digne de celui qui a le pouvoir de d\u00e9passer les r\u00e9alit\u00e9s. Pour l'Op\u00e9rateur."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeE",
+            "name": "Capuche Necra Prime (Op\u00e9rateur)",
+            "codexSecret": false,
+            "description": "Des accents n\u00e9crotiques d\u00e9finissent ce t\u00e9moignage de l'esth\u00e9tique de la famille Entrati. Peut-\u00eatre y a-t-il une le\u00e7on \u00e0 tirer de la fa\u00e7on dont ceux qui contemplent le N\u00e9ant trouvent la beaut\u00e9 dans la fusion du luxe et de l'oubli."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeEChina",
+            "name": "Capuche Necra Prime Vitalis (Op\u00e9rateur)",
+            "codexSecret": false,
+            "description": "Des accents n\u00e9crotiques d\u00e9finissent ce t\u00e9moignage de l'esth\u00e9tique de la famille Entrati. Peut-\u00eatre y a-t-il une le\u00e7on \u00e0 tirer de la fa\u00e7on dont ceux qui contemplent le N\u00e9ant trouvent la beaut\u00e9 dans la fusion du luxe et de l'oubli."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodZephyrDeluxe",
@@ -14684,6 +14747,12 @@
             "description": "Un look digne de celui qui a le pouvoir de d\u00e9passer les r\u00e9alit\u00e9s. Pour le Voyageur."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultPrimeE",
+            "name": "Gr\u00e8ves Necra Prime (Voyageur)",
+            "codexSecret": false,
+            "description": "Des accents n\u00e9crotiques d\u00e9finissent ce t\u00e9moignage de l'esth\u00e9tique de la famille Entrati. Peut-\u00eatre y a-t-il une le\u00e7on \u00e0 tirer de la fa\u00e7on dont ceux qui contemplent le N\u00e9ant trouvent la beaut\u00e9 dans la fusion du luxe et de l'oubli."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsArabic",
             "name": "Pantalon de l'Op\u00e9rateur Feldune",
             "codexSecret": false,
@@ -14799,6 +14868,12 @@
             "name": "Jambi\u00e8res Clearvoy Prime (Op\u00e9rateur)",
             "codexSecret": false,
             "description": "Un look digne de celui qui a le pouvoir de d\u00e9passer les r\u00e9alit\u00e9s. Pour l'Op\u00e9rateur."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsPrimeE",
+            "name": "Gr\u00e8ves Necra Prime (Op\u00e9rateur)",
+            "codexSecret": false,
+            "description": "Des accents n\u00e9crotiques d\u00e9finissent ce t\u00e9moignage de l'esth\u00e9tique de la famille Entrati. Peut-\u00eatre y a-t-il une le\u00e7on \u00e0 tirer de la fa\u00e7on dont ceux qui contemplent le N\u00e9ant trouvent la beaut\u00e9 dans la fusion du luxe et de l'oubli."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsZephyrDeluxe",
@@ -15116,6 +15191,12 @@
             "description": "Un look digne de celui qui a le pouvoir de d\u00e9passer les r\u00e9alit\u00e9s. Pour le Voyageur."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultPrimeE",
+            "name": "\u00c9pauli\u00e8res Necra Prime (Voyageur)",
+            "codexSecret": false,
+            "description": "Des accents n\u00e9crotiques d\u00e9finissent ce t\u00e9moignage de l'esth\u00e9tique de la famille Entrati. Peut-\u00eatre y a-t-il une le\u00e7on \u00e0 tirer de la fa\u00e7on dont ceux qui contemplent le N\u00e9ant trouvent la beaut\u00e9 dans la fusion du luxe et de l'oubli."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesArabic",
             "name": "Manches de l'Op\u00e9rateur Feldune",
             "codexSecret": false,
@@ -15231,6 +15312,12 @@
             "name": "Manches Clearvoy Prime (Op\u00e9rateur)",
             "codexSecret": false,
             "description": "Un look digne de celui qui a le pouvoir de d\u00e9passer les r\u00e9alit\u00e9s. Pour l'Op\u00e9rateur."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesPrimeE",
+            "name": "\u00c9pauli\u00e8res Necra Prime (Op\u00e9rateur)",
+            "codexSecret": false,
+            "description": "Des accents n\u00e9crotiques d\u00e9finissent ce t\u00e9moignage de l'esth\u00e9tique de la famille Entrati. Peut-\u00eatre y a-t-il une le\u00e7on \u00e0 tirer de la fa\u00e7on dont ceux qui contemplent le N\u00e9ant trouvent la beaut\u00e9 dans la fusion du luxe et de l'oubli."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesZephyrDeluxe",
@@ -18492,6 +18579,12 @@
             "name": "Syandana Altra Prime",
             "codexSecret": false,
             "description": "Un v\u00eatement brillant qui sied au Conqu\u00e9rant d'Altra."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeArtifexSyandana",
+            "name": "Syandana Artifex Prime",
+            "codexSecret": false,
+            "description": "Une Syandana techno-organique, r\u00e9imagin\u00e9e avec une touche royale digne de l'\u00e9lite Orokin."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeAviaSyandana",

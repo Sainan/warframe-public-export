@@ -9245,6 +9245,13 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/1999BoybandPoster",
+            "name": "Warframe: 1999 On-lyne Poster",
+            "description": "Celebrate the release of Warframe: 1999 with this poster of the On-lyne boys and their Technocyte Coda counterparts.",
+            "codexSecret": true,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/1999ComicCoverPoster",
             "name": "Wy\u015bwietlacz: Ok\u0142adka Grafiki Warframe 1999",
             "description": "Ok\u0142adka Grafiki Warframe 1999 z grafik\u0105 autorstwa TBG Karu",
@@ -9253,11 +9260,10 @@
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/1999OnlyneWallPoster",
-            "name": "[PH] 1999 Onlyne Wall Posters Deco",
-            "description": "[PH] Description",
+            "name": "On-lyne Poster Collage",
+            "description": "Show your love for Zeke, Drillbit, DJ Rom, Hardrive and Packet with this lovingly arranged collection of On-lyne fold-out posters. Who is your favorite?",
             "codexSecret": true,
-            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
-            "excludeFromCodex": true
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/7thAnniversaryPoster",
@@ -11703,6 +11709,14 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/MirageTennobaumBobbleHead",
+            "name": "Figurka Noggle \u2014 Mirage Tennobaum",
+            "description": "Ma\u0142a, chwiejna figurka Mirage.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/MummyQuestVessel",
             "name": "\u015awi\u0119te Naczynie",
             "description": "Intryguj\u0105cy relikt z grobowca Inarosa.",
@@ -12361,8 +12375,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard2024Tennotober",
-            "name": "Tennotober 2024 Prex",
-            "description": "Tennotober 2024 Prex card by cyberAntagonist.",
+            "name": "Prex: Tennotober 2024",
+            "description": "Karta Prex Tennotober 2024 od cyberAntagonist.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
             "excludeFromCodex": true
@@ -13999,6 +14013,15 @@
             "uniqueName": "/Lotus/Types/Items/SongItems/AbyssofDagathSongItem",
             "name": "Muzyka logowania Otch\u0142ani Dagath",
             "description": "Muzyka logowania Otch\u0142ani Dagath, kt\u00f3r\u0105 mo\u017cna si\u0119 cieszy\u0107 w swoim Orbiterze dzi\u0119ki Somakordowi.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/EmpyreanSongItem",
+            "name": "Muzyka logowania Empireum",
+            "description": "Muzyka logowania Empireum, kt\u00f3r\u0105 mo\u017cna si\u0119 cieszy\u0107 w swoim Orbiterze dzi\u0119ki Somakordowi.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/SongItem",
             "excludeFromCodex": true,
@@ -16938,6 +16961,30 @@
             "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeChassisComponent",
+            "name": "Xaku Prime: Pow\u0142oka",
+            "description": "Pow\u0142oka dla Warframe Xaku Prime.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+            "primeSellingPrice": 45
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeHelmetComponent",
+            "name": "Xaku Prime: Neurooptyka",
+            "description": "Neurooptyka dla Warframe Xaku Prime.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+            "primeSellingPrice": 15
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeSystemsComponent",
+            "name": "Xaku Prime: Systemy",
+            "description": "Systemy dla Warframe Xaku Prime.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+            "primeSellingPrice": 45
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/YareliChassisComponent",
             "name": "Yareli: Pow\u0142oka",
             "description": "Pow\u0142oka dla Warframe Yareli.",
@@ -19225,6 +19272,22 @@
             "primeSellingPrice": 45
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/QuassusPrimeBlade",
+            "name": "Quassus Prime: Ostrze",
+            "description": "Element wytwarzania broni Prime.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 100
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/QuassusPrimeHandle",
+            "name": "Quassus Prime: R\u0119koje\u015b\u0107",
+            "description": "Element wytwarzania broni Prime.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 15
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/RedeemerPrimeBlade",
             "name": "Redeemer Prime: Ostrze",
             "description": "Element wytwarzania broni Prime.",
@@ -19833,6 +19896,30 @@
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeBarrel",
+            "name": "Trumna Prime: Lufa",
+            "description": "Element wytwarzania broni Prime.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 100
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeReceiver",
+            "name": "Trumna Prime: Korpus",
+            "description": "Element wytwarzania broni Prime.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 100
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeStock",
+            "name": "Trumna Prime: Kolba",
+            "description": "Element wytwarzania broni Prime.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 45
         },
         {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TwinVipersWraithBarrel",

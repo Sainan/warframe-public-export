@@ -5370,6 +5370,18 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageXakuPrimeBright",
+            "name": "Glyphe: Xaku Prime (Hell)",
+            "description": "Eine Glyphe, die Xaku Prime vor einem hellen Hintergrund darstellt.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageXakuPrimeDark",
+            "name": "Glyphe: Xaku Prime (Dunkel)",
+            "description": "Eine Glyphe, die Xaku Prime vor einem dunklen Hintergrund darstellt.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ScarletSpear/ImageScarletSpearGroundI",
             "name": "Glyphe: Scharlachroter Speer Condrix I",
             "description": "Verdient durch Bodenangriffe gegen den Sentient Condrix, w\u00e4hrend der Operation: Scharlachroter Speer.",
@@ -6096,6 +6108,24 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAmirAccoladeGlyph",
+            "name": "Glyphe: Amir Auszeichnung",
+            "description": "Eine Glyphe, die eine tapfere Leistung repr\u00e4sentiert, entworfen von Community-K\u00fcnstler Carl Tabora.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAoiAccoladeGlyph",
+            "name": "Glyphe: Aoi Auszeichnung",
+            "description": "Eine Glyphe, die eine tapfere Leistung repr\u00e4sentiert, entworfen von Community-K\u00fcnstler Carl Tabora.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageArthurAccoladeGlyph",
+            "name": "Glyphe: Arthur Auszeichnung",
+            "description": "Eine Glyphe, die eine tapfere Leistung repr\u00e4sentiert, entworfen von Community-K\u00fcnstler Carl Tabora.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAshAction",
             "name": "Glyphe: Ash in Aktion",
             "description": "Eine Glyphe f\u00fcr dein Profil.",
@@ -6165,6 +6195,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBaruukDoanStyle",
             "name": "Glyphe: Baruuk Doan Silhouette",
             "description": "Eine Glyphe, die Baruuk Doan darstellt.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBigBytesPizzaGlyph",
+            "name": "Glyphe: Big Bytes Pizza",
+            "description": "Eine Glyphe f\u00fcr dein Profil.",
             "codexSecret": true
         },
         {
@@ -6277,9 +6313,21 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumGrimoire",
+            "name": "Glyphe: Tennobaum Grimoire Community",
+            "description": "Eine Glyphe, die Albrecht darstellt, wie er in einem festlichen Grimoire liest, entworfen von Cyanfacade.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumKubrow",
             "name": "Glyphe: Tennobaum Kubrow Community",
             "description": "Eine Glyphe, die einen Kubrow mit einer Schneeflocke auf der Nase darstellt, entworfen von Nelosart.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumRelic",
+            "name": "Glyphe: Tennobaum Relikt Community",
+            "description": "Eine Glyphe, die ein festliches Relikt darstellt, entworfen von Cyanfacade.",
             "codexSecret": true
         },
         {
@@ -6463,6 +6511,12 @@
             "description": "Es sieht so aus, als w\u00fcrdest du dein Profil anpassen! Verleihe deinem Account mit K.O.L.s eigenem Drippy ein bisschen Retro-Flair von 1999.",
             "codexSecret": true,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageEleanorAccoladeGlyph",
+            "name": "Glyphe: Eleanor Auszeichnung",
+            "description": "Eine Glyphe, die eine tapfere Leistung repr\u00e4sentiert, entworfen von Community-K\u00fcnstler Carl Tabora.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageEmberAction",
@@ -7170,6 +7224,12 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLettieAccoladeGlyph",
+            "name": "Glyphe: Lettie Auszeichnung",
+            "description": "Eine Glyphe, die eine tapfere Leistung repr\u00e4sentiert, entworfen von Community-K\u00fcnstler Carl Tabora.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLokiAction",
             "name": "Glyphe: Loki in Aktion",
             "description": "Eine Glyphe f\u00fcr dein Profil.",
@@ -7324,8 +7384,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMovember",
-            "name": "Glyphe: Movember 2023",
-            "description": "Glyphe: Movember 2023 von RetroAlchemist.",
+            "name": "Glyphe: Movember",
+            "description": "Glyphe: Movember von RetroAlchemist.",
             "codexSecret": true
         },
         {
@@ -7389,6 +7449,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePartyCDGlyph",
+            "name": "Glyphe: Party-CD",
+            "description": "Eine Glyphe f\u00fcr dein Profil.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePrideCommunity",
             "name": "Glyphe: Pride I",
             "description": "Diese Glyphe zelebriert Pride. Entworfen von Debbysheen.",
@@ -7406,6 +7472,12 @@
             "description": "Eine Glyphe f\u00fcr dein Profil.",
             "codexSecret": true,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageQuincyAccoladeGlyph",
+            "name": "Glyphe: Quincy Auszeichnung",
+            "description": "Eine Glyphe, die eine tapfere Leistung repr\u00e4sentiert, entworfen von Community-K\u00fcnstler Carl Tabora.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageRevenantAction",
@@ -7891,6 +7963,12 @@
             "description": "Eine Glyphe, die 10 Jahre Warframe feiert, erstellt von Searyn.",
             "codexSecret": false,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/CommunityTennobaum1999Mug",
+            "name": "Glyphe: Tennobaum 1999 Tasse Community",
+            "description": "Eine Glyphe, die eine Tasse hei\u00dfe Schokolade mit 1999 Marshmallows darstellt, entworfen von Cyanfacade.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/DeimosRevolverGlyph",

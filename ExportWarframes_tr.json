@@ -1792,7 +1792,7 @@
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/TeleportToAbility",
-                    "abilityName": "I\u015f\u0131nlan",
+                    "abilityName": "Teleport",
                     "description": "Ash hedefe do\u011fru \u0131\u015f\u0131nlan\u0131r ve d\u00fc\u015fmanlar\u0131n\u0131 yak\u0131n d\u00f6v\u00fc\u015f alan\u0131na getirerek onlar\u0131 bitirici vuru\u015flara savunmas\u0131z hale getirir."
                 },
                 {
@@ -1830,7 +1830,7 @@
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/TeleportToAbility",
-                    "abilityName": "I\u015f\u0131nlan",
+                    "abilityName": "Teleport",
                     "description": "Ash hedefe do\u011fru \u0131\u015f\u0131nlan\u0131r ve d\u00fc\u015fmanlar\u0131n\u0131 yak\u0131n d\u00f6v\u00fc\u015f alan\u0131na getirerek onlar\u0131 bitirici vuru\u015flara savunmas\u0131z hale getirir."
                 },
                 {
@@ -3717,6 +3717,44 @@
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ChoirEruptAbility",
                     "abilityName": "Glory on High",
                     "description": "Y\u0131k\u0131c\u0131 g\u00fc\u00e7le s\u00fcz\u00fcl. Judgment'leri patlatmak i\u00e7in alternatif at\u0131\u015f tu\u015funu kullan ve Ye\u015fim I\u015f\u0131\u011f\u0131 patlamas\u0131na neden ol. Light's Judgment'\u0131n alan\u0131 i\u00e7indeki d\u00fc\u015fmanlar patlamay\u0131 g\u00fc\u00e7lendirir."
+                }
+            ],
+            "productCategory": "Suits"
+        },
+        {
+            "uniqueName": "/Lotus/Powersuits/BrokenFrame/XakuPrime",
+            "name": "Xaku Prime",
+            "parentName": "/Lotus/Powersuits/BrokenFrame/BrokenFrameBaseSuit",
+            "description": "Sava\u015f\u0131n ve Void'in \u00e7ocu\u011fu alt\u0131na b\u00fcr\u00fcnd\u00fc. Par\u00e7alara ayr\u0131ld\u0131 ama hi\u00e7 k\u0131r\u0131lmam\u0131\u015flardan daha g\u00fc\u00e7l\u00fc bir \u015fekilde geri d\u00f6nd\u00fc.",
+            "health": 269,
+            "shield": 263,
+            "armor": 167,
+            "stamina": 3,
+            "power": 181,
+            "codexSecret": false,
+            "masteryReq": 0,
+            "sprintSpeed": 1.0700001,
+            "passiveDescription": "AOE (Etki Alan\u0131) sald\u0131r\u0131lar\u0131nda %|CHANCE| Hasar Azaltma ve al\u0131nan silah hasar\u0131ndan ka\u00e7ma \u015fans\u0131.",
+            "abilities": [
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenRotAbility",
+                    "abilityName": "Xata's Whisper",
+                    "description": "Etkinle\u015ftirildi\u011finde ku\u015fan\u0131lm\u0131\u015f silahlardan gelen t\u00fcm sald\u0131r\u0131larda <DT_RADIANT_COLOR>Void Hasar\u0131 verir."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenGraspAbility",
+                    "abilityName": "Grasp of Lohk",
+                    "description": "Void Uzuvlar\u0131, yak\u0131nlardaki d\u00fc\u015fmanlar\u0131n silahlar\u0131n\u0131 \u00e7alarak, bunlar\u0131 kendi silahlar\u0131n\u0131n yan\u0131nda otomatik-hedef alan silahlar olarak kullanman\u0131 sa\u011flar. Hasar oran\u0131 d\u00fc\u015fman seviyesine g\u00f6re y\u00fckselir. Ele ge\u00e7irilen silah say\u0131s\u0131, The Lost: Deny's Void \u0131\u015f\u0131n\u0131 i\u00e7in hasar \u00e7o\u011falt\u0131c\u0131y\u0131 da belirler."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenEmbraceAbility",
+                    "abilityName": "The Lost",
+                    "description": "\u00dc\u00e7 Kay\u0131p Warframe yetene\u011fi aras\u0131nda seyahat et. Accuse, d\u00fc\u015fmanlar\u0131 m\u00fcttefiklere d\u00f6n\u00fc\u015ft\u00fcrmek i\u00e7in bir Void Fissure olu\u015fturur. Gaze, hedefleri Void uzuvlar\u0131 ile tuza\u011fa d\u00fc\u015f\u00fcrerek hasar toplar ve hedefler serbest b\u0131rak\u0131ld\u0131\u011f\u0131nda hasar verir. Deny, Sentient diren\u00e7lerini ortadan kald\u0131ran bir Void enerjisi \u0131\u015f\u0131n\u0131 yans\u0131t\u0131r."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenDestructAbility",
+                    "abilityName": "The Vast Untime",
+                    "description": "Xaku'nun par\u00e7alar\u0131n\u0131 ge\u00e7ici olarak y\u0131k\u0131c\u0131 bir patlamayla f\u0131rlat, ard\u0131ndan sava\u015f alan\u0131nda yeni ve daha h\u0131zl\u0131 bir iskelet formunda dola\u015f. V\u00fccut \u015farapneli taraf\u0131ndan hasar g\u00f6ren d\u00fc\u015fmanlar <DT_RADIANT_COLOR>Void Hasar\u0131na daha zay\u0131f hale gelir. Xaku'nun aktif di\u011fer yeteneklerinin s\u00fcresi dondurulur ve The Vast Untime tamamland\u0131ktan sonra kald\u0131\u011f\u0131 yerden devam eder."
                 }
             ],
             "productCategory": "Suits"

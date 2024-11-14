@@ -203,35 +203,35 @@
         {
             "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/GenericDuviriFishPartAItem",
             "name": "Perlmutt-Kiesel",
-            "description": "Sammler staunen gerne \u00fcber die eigent\u00fcmliche Herkunft von Perlmutt-Kieseln. Ihre Sch\u00f6nheit ist das Ergebnis gew\u00f6hnlicher Kieselsteine, die vom Goldschlund verschluckt und wieder hervorgew\u00fcrgt wurden.\r\n\r\nFundort: Kann durch die Schlund-F\u00fctterung im Duviri-Erlebnis erlangt werden.",
+            "description": "Sammler staunen gerne \u00fcber die eigent\u00fcmliche Herkunft von Perlmutt-Kieseln. Ihre Sch\u00f6nheit ist das Ergebnis gew\u00f6hnlicher Kieselsteine, die vom Goldschlund verschluckt und wieder hervorgew\u00fcrgt wurden.\r\n\r\nQuelle: Kann durch die Schlund-F\u00fctterung im Duviri-Erlebnis erlangt werden.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriBaseResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/GenericDuviriFishPartBItem",
             "name": "Ariette-Schuppe",
-            "description": "Jede Fischart von Duviri hat einzigartige Merkmale, aber sie haben alle wundersch\u00f6ne chromatische Schuppen entwickelt.\r\n\r\nFundort: Kann durch die Schlund-F\u00fctterung im Duviri-Erlebnis erlangt werden.",
+            "description": "Jede Fischart von Duviri hat einzigartige Merkmale, aber sie haben alle wundersch\u00f6ne chromatische Schuppen entwickelt.\r\n\r\nQuelle: Kann durch die Schlund-F\u00fctterung im Duviri-Erlebnis erlangt werden.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriBaseResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/GenericDuviriFishPartCItem",
             "name": "Schlund-Rei\u00dfzahn",
-            "description": "Sieht aus, als h\u00e4tte es jemand w\u00e4hrend eines k\u00f6stlichen Festmahls \u00fcbertrieben.\r\n\r\nFundort: Kann durch die Schlund-F\u00fctterung im Duviri-Erlebnis erlangt werden.",
+            "description": "Sieht aus, als h\u00e4tte es jemand w\u00e4hrend eines k\u00f6stlichen Festmahls \u00fcbertrieben.\r\n\r\nQuelle: Kann durch die Schlund-F\u00fctterung im Duviri-Erlebnis erlangt werden.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriBaseResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriDragonDropItem",
             "name": "Pathos-Mal",
-            "description": "Die Manifestation von Thrax' B\u00f6sartigkeit, die die Ausbr\u00fcche der Orowyrmer pr\u00e4gt.\r\n\r\nFundort: Belohnung f\u00fcr den Sieg \u00fcber den Orowyrm in Duviri ",
+            "description": "Die Manifestation von Thrax' B\u00f6sartigkeit, die die Ausbr\u00fcche der Orowyrmer pr\u00e4gt.\r\n\r\nQuelle: Belohnung f\u00fcr den Sieg \u00fcber den Orowyrm in Duviri ",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriEndlessItem",
             "name": "Tertium",
-            "description": "Seine Macht liegt in seinem Potenzial.\r\n\r\nFundort: Duviri",
+            "description": "Seine Macht liegt in seinem Potenzial.\r\n\r\nQuelle: Duviri",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
             "excludeFromCodex": true
@@ -239,28 +239,28 @@
         {
             "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriEnemyDropItem",
             "name": "Lamentus",
-            "description": "Ein Fl\u00fcstern der Gefallenen.\r\n\r\nFundort: Duviri",
+            "description": "Ein Fl\u00fcstern der Gefallenen.\r\n\r\nQuelle: Duviri",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriFractalItem",
             "name": "Runenmark",
-            "description": "Runenmark bricht aus Duviris Innerstem hervor.\r\n\r\nFundort: In der Gruft in Duviri",
+            "description": "Runenmark bricht aus Duviris Innerstem hervor.\r\n\r\nQuelle: In der Gruft in Duviri",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriBaseResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriKullervoDropItem",
             "name": "Kullervos Ruin",
-            "description": "Kullervos Wut in Person. Acrithis wird dieses wertvolle Artefakt gegen bestimmte Gegenst\u00e4nde aus ihrer Sammlung eintauschen.\r\n\r\nFundort: Belohnung f\u00fcr die Konfrontation mit Kullervo und den Sieg \u00fcber den Orowyrm in derselben Duviri-Mission w\u00e4hrend der Angst--, Wut- oder Trauerspirale",
+            "description": "Kullervos Wut in Person. Acrithis wird dieses wertvolle Artefakt gegen bestimmte Gegenst\u00e4nde aus ihrer Sammlung eintauschen.\r\n\r\nQuelle: Belohnung f\u00fcr die Konfrontation mit Kullervo und den Sieg \u00fcber den Orowyrm in derselben Duviri-Mission w\u00e4hrend der Angst--, Wut- oder Trauerspirale",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriMushroomItem",
             "name": "Tasoma-Extrakt",
-            "description": "B\u00fcrger von Duviri, die von Albtr\u00e4umen geplagt werden, begehren Tasoma, da die St\u00e4ngel zersto\u00dfen und zu Saft verarbeitet werden k\u00f6nnen, der angenehme Tr\u00e4ume einl\u00e4dt. Leider ist die Suche nach Tasoma schwierig, da es nur in H\u00f6hlen w\u00e4chst.\r\n\r\nFundort: Duviri",
+            "description": "B\u00fcrger von Duviri, die von Albtr\u00e4umen geplagt werden, begehren Tasoma, da die St\u00e4ngel zersto\u00dfen und zu Saft verarbeitet werden k\u00f6nnen, der angenehme Tr\u00e4ume einl\u00e4dt. Leider ist die Suche nach Tasoma schwierig, da es nur in H\u00f6hlen w\u00e4chst.\r\n\r\nQuelle: Duviri",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriBaseResourceItem"
         },
@@ -275,77 +275,77 @@
         {
             "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemA",
             "name": "Kovnik",
-            "description": "Die B\u00fcrger von Duviri ernten Kovnik-Bl\u00e4tter, um sie zu belebenden Tees zu verarbeiten.\r\n\r\nFundort: Duviri",
+            "description": "Die B\u00fcrger von Duviri ernten Kovnik-Bl\u00e4tter, um sie zu belebenden Tees zu verarbeiten.\r\n\r\nQuelle: Duviri",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriBaseResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemB",
             "name": "Eevani",
-            "description": "B\u00fcrger von Duviri sind daf\u00fcr bekannt, Eevani-Bl\u00e4tter zu einer Paste zu p\u00fcrieren, die Beschwerden frischer Wunden lindert.\r\n\r\nFundort: Duviri",
+            "description": "B\u00fcrger von Duviri sind daf\u00fcr bekannt, Eevani-Bl\u00e4tter zu einer Paste zu p\u00fcrieren, die Beschwerden frischer Wunden lindert.\r\n\r\nQuelle: Duviri",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriBaseResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemC",
             "name": "Connla-Spross",
-            "description": "Das Wasser, das durch Connla-Sprossen flie\u00dft, schmeckt s\u00fc\u00df und erfrischend.\r\n\r\nFundort: Duviri",
+            "description": "Das Wasser, das durch Connla-Sprossen flie\u00dft, schmeckt s\u00fc\u00df und erfrischend.\r\n\r\nQuelle: Duviri",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriBaseResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemD",
             "name": "Yao-Strauch",
-            "description": "Das warme Licht von Yao-Str\u00e4uchern leuchtet sogar an kalten, dunklen Orten.\r\n\r\nFundort: Duviri",
+            "description": "Das warme Licht von Yao-Str\u00e4uchern leuchtet sogar an kalten, dunklen Orten.\r\n\r\nQuelle: Duviri",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriBaseResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemE",
             "name": "Silphsela",
-            "description": "Traditionell wird angenommen, wenn man Silphsela in der Luft schweben sieht, k\u00fcndigt dies eine \u00c4nderung des Himmels an.\r\n\r\nFundort: Duviri",
+            "description": "Traditionell wird angenommen, wenn man Silphsela in der Luft schweben sieht, k\u00fcndigt dies eine \u00c4nderung des Himmels an.\r\n\r\nQuelle: Duviri",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriBaseResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemF",
             "name": "Drac-Wurzel",
-            "description": "Drac-Wurzel ist ein Hauptbestandteil der Ern\u00e4hrung eines Wyrmlings.\r\n\r\nFundort: Duviri",
+            "description": "Drac-Wurzel ist ein Hauptbestandteil der Ern\u00e4hrung eines Wyrmlings.\r\n\r\nQuelle: Duviri",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriBaseResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemG",
             "name": "Ueymag",
-            "description": "Das Fleisch der Ueymag soll k\u00f6stlich sein. Achte nur auf die Widerhaken.\r\n\r\nFundort: Duviri",
+            "description": "Das Fleisch der Ueymag soll k\u00f6stlich sein. Achte nur auf die Widerhaken.\r\n\r\nQuelle: Duviri",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriBaseResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriProcessedItem",
             "name": "Saggen-Perle",
-            "description": "Thrax Krieger nutzen die schwere Fl\u00fcssigkeit, die aus Saggen-Quellen, gewonnen wird, um ihre Waffen zu polieren.\r\n\r\nFundort: Duviri",
+            "description": "Thrax Krieger nutzen die schwere Fl\u00fcssigkeit, die aus Saggen-Quellen, gewonnen wird, um ihre Waffen zu polieren.\r\n\r\nQuelle: Duviri",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriBaseResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPuzzleItem",
             "name": "Enigma Gyrum",
-            "description": "Ein Zeichen, das die erfolgreiche L\u00f6sung eines Duviri-R\u00e4tsels feiert.\r\n\r\nFundort: Wird durch das L\u00f6sen von R\u00e4tseln im 'Duviri-Erlebnis' verdient.",
+            "description": "Ein Zeichen, das die erfolgreiche L\u00f6sung eines Duviri-R\u00e4tsels feiert.\r\n\r\nQuelle: Wird durch das L\u00f6sen von R\u00e4tseln im 'Duviri-Erlebnis' verdient.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriRockItem",
             "name": "Aggristein",
-            "description": "Es hei\u00dft, dass Aggri-Formationen geh\u00e4rteter Speichel der m\u00e4chtigen Orowyrmer sind. B\u00fcrger von Duviri glauben, dass Aggristeine m\u00e4chtige Talismane sind.\r\n\r\nFundort: Duviri",
+            "description": "Es hei\u00dft, dass Aggri-Formationen geh\u00e4rteter Speichel der m\u00e4chtigen Orowyrmer sind. B\u00fcrger von Duviri glauben, dass Aggristeine m\u00e4chtige Talismane sind.\r\n\r\nQuelle: Duviri",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriBaseResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/SentientShards/LephantisShardItem",
             "name": "H\u00e4mozyt Cystolith",
-            "description": "Aus der Galle eines abtr\u00fcnnigen H\u00e4mozyten entrissen.\r\n\r\nFundort: Von H\u00e4mozyten in Auftr\u00e4gen w\u00e4hrend des Plagenstern Events in den Ebenen von Eidolon auf der Erde.",
+            "description": "Aus der Galle eines abtr\u00fcnnigen H\u00e4mozyten entrissen.\r\n\r\nQuelle: Von H\u00e4mozyten in Auftr\u00e4gen w\u00e4hrend des Plagenstern Events in den Ebenen von Eidolon auf der Erde.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Gameplay/Eidolon/Resources/SentientShards/SentientShardBaseItem"
         },
@@ -384,70 +384,70 @@
         {
             "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/BirdOfPreyPartItem",
             "name": "Condroc-Fl\u00fcgel",
-            "description": "Die Klauen am Fl\u00fcgel eines Condrocs sind scharf genug, um durch Knochen zu schneiden.\r\n\r\nFundort: Ebenen von Eidolon auf der Erde",
+            "description": "Die Klauen am Fl\u00fcgel eines Condrocs sind scharf genug, um durch Knochen zu schneiden.\r\n\r\nQuelle: Ebenen von Eidolon auf der Erde",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/CetusWispItem",
             "name": "Cetus-Irrlicht",
-            "description": "Diese steinernen Lebensformen sind vor allem nachts anzutreffen und werden von den vom Eidolon ber\u00fchrten Ufern angezogen. Sie halten sich rund um die Seen in den Ebenen von Eidolon zu jeder Stunde auf. Ihre Herkunft bleibt r\u00e4tselhaft.\r\n\r\nFundort: Ebenen von Eidolon auf der Erde",
+            "description": "Diese steinernen Lebensformen sind vor allem nachts anzutreffen und werden von den vom Eidolon ber\u00fchrten Ufern angezogen. Sie halten sich rund um die Seen in den Ebenen von Eidolon zu jeder Stunde auf. Ihre Herkunft bleibt r\u00e4tselhaft.\r\n\r\nQuelle: Ebenen von Eidolon auf der Erde",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem",
             "name": "Maprico",
-            "description": "Diese z\u00e4he Frucht hat eine dicke Haut, um rauen Witterungen zu widerstehen. Das Innere besteht jedoch aus saftigem Fruchtfleisch.\r\n\r\nFundort: Ebenen von Eidolon auf der Erde",
+            "description": "Diese z\u00e4he Frucht hat eine dicke Haut, um rauen Witterungen zu widerstehen. Das Innere besteht jedoch aus saftigem Fruchtfleisch.\r\n\r\nQuelle: Ebenen von Eidolon auf der Erde",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/ForestRodentPartItem",
             "name": "Kuaka-R\u00fcckenkralle",
-            "description": "Die Sehne der R\u00fcckenkrallen eines Kuaka kann gegerbt werden, um ein robustes, flexibles Leder zu erhalten.\r\n\r\nFundort: Ebenen von Eidolon auf der Erde",
+            "description": "Die Sehne der R\u00fcckenkrallen eines Kuaka kann gegerbt werden, um ein robustes, flexibles Leder zu erhalten.\r\n\r\nQuelle: Ebenen von Eidolon auf der Erde",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
             "name": "Grokdrul",
-            "description": "Als sch\u00e4dliche Mischung aus Polysacchariden und langkettigen Polymeren, ist Grokdrul eine Chemikalie, die standardm\u00e4\u00dfig in der Grineer Produktion verwendet wird.\r\n\r\nFundort: Ebenen von Eidolon auf der Erde",
+            "description": "Als sch\u00e4dliche Mischung aus Polysacchariden und langkettigen Polymeren, ist Grokdrul eine Chemikalie, die standardm\u00e4\u00dfig in der Grineer Produktion verwendet wird.\r\n\r\nQuelle: Ebenen von Eidolon auf der Erde",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/IraditeItem",
             "name": "Iradite",
-            "description": "Ein f\u00fcr die Ostron wertvolles Mineral.\r\n\r\nFundort: Ebenen von Eidolon auf der Erde",
+            "description": "Ein f\u00fcr die Ostron wertvolles Mineral.\r\n\r\nQuelle: Ebenen von Eidolon auf der Erde",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/NistlebrushItem",
             "name": "Nistlekapsel",
-            "description": "Vom Nistlebusch dazu genutzt, Beute zu fangen und zu t\u00f6ten.\r\n\r\nFundort: Ebenen von Eidolon auf der Erde",
+            "description": "Vom Nistlebusch dazu genutzt, Beute zu fangen und zu t\u00f6ten.\r\n\r\nQuelle: Ebenen von Eidolon auf der Erde",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/QuillsDogTag",
             "name": "Intakter Sentient Kern",
-            "description": "Ein integraler Bestandteil der Sentient Anatomie. Wird selten unbesch\u00e4digt gefunden, k\u00f6nnte sich als n\u00fctzlich erweisen.\r\n\r\nFundort: Wird von Vomvalysten in den Ebenen von Eidolon (Erde) fallen gelassen und von Sentients auf Lua und im Veil Proxima.",
+            "description": "Ein integraler Bestandteil der Sentient Anatomie. Wird selten unbesch\u00e4digt gefunden, k\u00f6nnte sich als n\u00fctzlich erweisen.\r\n\r\nQuelle: Wird von Vomvalysten in den Ebenen von Eidolon (Erde) fallen gelassen und von Sentients auf Lua und im Veil Proxima.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/SyndicateDogTags/DogTag"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/QuillsRareDogTag",
             "name": "Makelloser Sentient Kern",
-            "description": "Ein Sentient Kern dieser Qualit\u00e4t und in diesem Zustand wurden nur selten gefunden. Wahrlich ein seltenes Exemplar.\r\n\r\nFundort: Kann verdient werden, indem man Eidolons f\u00e4ngt, welche die Ebenen von Eidolon (Erde) nachts durchstreifen.",
+            "description": "Ein Sentient Kern dieser Qualit\u00e4t und in diesem Zustand wurden nur selten gefunden. Wahrlich ein seltenes Exemplar.\r\n\r\nQuelle: Kann verdient werden, indem man Eidolons f\u00e4ngt, welche die Ebenen von Eidolon (Erde) nachts durchstreifen.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/SyndicateDogTags/DogTag"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/QuillsUncommonDogTag",
             "name": "\u00dcberragender Sentient Kern",
-            "description": "Eine begehrte Probe interner Sentient Anatomie. Exemplare dieses Alters und dieser Qualit\u00e4t sind selten und wertvoll.\r\n\r\nFundort: Eidolons, welche die Ebenen von Eidolon (Erde) nachts durchstreifen",
+            "description": "Eine begehrte Probe interner Sentient Anatomie. Exemplare dieses Alters und dieser Qualit\u00e4t sind selten und wertvoll.\r\n\r\nQuelle: Eidolons, welche die Ebenen von Eidolon (Erde) nachts durchstreifen",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/SyndicateDogTags/DogTag"
         },
@@ -470,28 +470,28 @@
         {
             "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiEventCurseItemA",
             "name": "Fluch des Wissens",
-            "description": "Dieser Fluch enth\u00e4lt Wissen, das Fibonacci dabei helfen wird, Feinde daran zu hindern, aus dem Sanctum auszubrechen. F\u00fcttere den Jahu Gargoyle in deinem Clan-Dojo mit Fl\u00fcchen, um seine Verteidigungsf\u00e4higkeiten neu zu kalibrieren.\r\n\r\nFundort: Effervo (Deimos) w\u00e4hrend der Operation: Schrei des Gargoyles",
+            "description": "Dieser Fluch enth\u00e4lt Wissen, das Fibonacci dabei helfen wird, Feinde daran zu hindern, aus dem Sanctum auszubrechen. F\u00fcttere den Jahu Gargoyle in deinem Clan-Dojo mit Fl\u00fcchen, um seine Verteidigungsf\u00e4higkeiten neu zu kalibrieren.\r\n\r\nQuelle: Effervo (Deimos) w\u00e4hrend der Operation: Schrei des Gargoyles",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiEventCurseItemB",
             "name": "Fluch des H\u00f6rens",
-            "description": "Dieser Fluch enth\u00e4lt Wissen, das Fibonacci dabei helfen wird, Feinde daran zu hindern, aus dem Sanctum auszubrechen. F\u00fcttere den Jahu Gargoyle in deinem Clan-Dojo mit Fl\u00fcchen, um seine Verteidigungsf\u00e4higkeiten neu zu kalibrieren.\r\n\r\nFundort: Effervo (Deimos) w\u00e4hrend der Operation: Schrei des Gargoyles",
+            "description": "Dieser Fluch enth\u00e4lt Wissen, das Fibonacci dabei helfen wird, Feinde daran zu hindern, aus dem Sanctum auszubrechen. F\u00fcttere den Jahu Gargoyle in deinem Clan-Dojo mit Fl\u00fcchen, um seine Verteidigungsf\u00e4higkeiten neu zu kalibrieren.\r\n\r\nQuelle: Effervo (Deimos) w\u00e4hrend der Operation: Schrei des Gargoyles",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiEventCurseItemC",
             "name": "Fluch des Sehens",
-            "description": "Dieser Fluch enth\u00e4lt Wissen, das Fibonacci dabei helfen wird, Feinde daran zu hindern, aus dem Sanctum auszubrechen. F\u00fcttere den Jahu Gargoyle in deinem Clan-Dojo mit Fl\u00fcchen, um seine Verteidigungsf\u00e4higkeiten neu zu kalibrieren.\r\n\r\nFundort: Effervo (Deimos) w\u00e4hrend der Operation: Schrei des Gargoyles",
+            "description": "Dieser Fluch enth\u00e4lt Wissen, das Fibonacci dabei helfen wird, Feinde daran zu hindern, aus dem Sanctum auszubrechen. F\u00fcttere den Jahu Gargoyle in deinem Clan-Dojo mit Fl\u00fcchen, um seine Verteidigungsf\u00e4higkeiten neu zu kalibrieren.\r\n\r\nQuelle: Effervo (Deimos) w\u00e4hrend der Operation: Schrei des Gargoyles",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiEventOctopedeItem",
             "name": "Grotesker Splitter",
-            "description": "Ein unheilvolles Fragment der gewaltigen Gleichg\u00fcltigkeit.\r\n\r\nFundort: Effervo (Deimos) w\u00e4hrend der Operation: Schrei des Gargoyles",
+            "description": "Ein unheilvolles Fragment der gewaltigen Gleichg\u00fcltigkeit.\r\n\r\nQuelle: Effervo (Deimos) w\u00e4hrend der Operation: Schrei des Gargoyles",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
@@ -505,42 +505,42 @@
         {
             "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagCommon",
             "name": "Schriller Voca",
-            "description": "Ein Schrei der Voidsprache, im Stein gefangen. Entscheidend, um die Geheimnisse des Raunens zu l\u00fcften.\r\n\r\nFundort: Albrechts Labore (Deimos)",
+            "description": "Ein Schrei der Voidsprache, im Stein gefangen. Entscheidend, um die Geheimnisse des Raunens zu l\u00fcften.\r\n\r\nQuelle: Albrechts Labore (Deimos)",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTag"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagRare",
             "name": "Hallender Voca",
-            "description": "Die leisesten und schwer fassbaren \u00c4u\u00dferungen der Voidsprache. Von Albrecht gesucht, aber nie gefunden.\r\n\r\nFundort: Albrechts Labore (Deimos)",
+            "description": "Die leisesten und schwer fassbaren \u00c4u\u00dferungen der Voidsprache. Von Albrecht gesucht, aber nie gefunden.\r\n\r\nQuelle: Albrechts Labore (Deimos)",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTag"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagUncommon",
             "name": "Br\u00fcllender Voca",
-            "description": "Das tiefste St\u00f6hnen der Voidsprache, in Stein gemei\u00dfelt. Ein ungew\u00f6hnlicher Gegenstand beim Bau von Albrechts Gef\u00e4\u00dfen.\r\n\r\nFundort: Albrechts Labore (Deimos)",
+            "description": "Das tiefste St\u00f6hnen der Voidsprache, in Stein gemei\u00dfelt. Ein ungew\u00f6hnlicher Gegenstand beim Bau von Albrechts Gef\u00e4\u00dfen.\r\n\r\nQuelle: Albrechts Labore (Deimos)",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTag"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemA",
             "name": "Entrati Obols",
-            "description": "W\u00e4hrend der Orokin \u00c4ra waren diese Obols ein allgemein anerkanntes Zeichen der Familie Entrati. Einige Archimeden nutzten sie sogar als Gl\u00fccksbringer.\r\n\r\nFundort: Albrechts Labore (Deimos)",
+            "description": "W\u00e4hrend der Orokin \u00c4ra waren diese Obols ein allgemein anerkanntes Zeichen der Familie Entrati. Einige Archimeden nutzten sie sogar als Gl\u00fccksbringer.\r\n\r\nQuelle: Albrechts Labore (Deimos)",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemB",
             "name": "Necraspule",
-            "description": "Diese experimentelle Anordnung wandelt Void-Energie in hohe Spannungen mit niedrigen Str\u00f6men um.\r\n\r\nFundort: Albrechts Labore (Deimos)",
+            "description": "Diese experimentelle Anordnung wandelt Void-Energie in hohe Spannungen mit niedrigen Str\u00f6men um.\r\n\r\nQuelle: Albrechts Labore (Deimos)",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLanthornBundle",
             "name": "Entrati Latorne",
-            "description": "Ein zeremonielles Leuchtfeuer, das verwendet wird, um Void-Standorte im realen Raum abzubilden.\r\n\r\nFundort: Albrechts Labore (Deimos) und Zariman",
+            "description": "Ein zeremonielles Leuchtfeuer, das verwendet wird, um Void-Standorte im realen Raum abzubilden.\r\n\r\nQuelle: Albrechts Labore (Deimos) und Zariman",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
             "excludeFromCodex": true
@@ -548,63 +548,63 @@
         {
             "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/MurmurItem",
             "name": "Stela",
-            "description": "Dieser vom Void ber\u00fchrte Stein enth\u00e4lt eine unheilvolle Essenz.\r\n\r\nFundort: Albrechts Labore (Deimos)",
+            "description": "Dieser vom Void ber\u00fchrte Stein enth\u00e4lt eine unheilvolle Essenz.\r\n\r\nQuelle: Albrechts Labore (Deimos)",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/VesselCapillaries",
             "name": "Gef\u00e4\u00dfkapillaren",
-            "description": "Eine entscheidende Unterkomponente beim Bau der Gef\u00e4\u00dfe von Albrecht Entrati.\r\n\r\nFundort: Wird durch das Abschlie\u00dfen von St\u00f6rung-Missionen auf Armatus, Deimos, erlangt.",
+            "description": "Eine entscheidende Unterkomponente beim Bau der Gef\u00e4\u00dfe von Albrecht Entrati.\r\n\r\nQuelle: Wird durch das Abschlie\u00dfen von St\u00f6rung-Missionen auf Armatus, Deimos, erlangt.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartChassisItem",
             "name": "Necramech: Besch\u00e4digte Karkasse",
-            "description": "Die besch\u00e4digten \u00dcberreste eines Necramechgestells.\r\n\r\nFundort: Von feindlichen Necramechs in Isolationsgew\u00f6lben, von Auftr\u00e4gen aus der Cambion-Drift und durch den Kauf von Loid im Necralisk auf Deimos, nachdem die Quest 'Der Innere Krieg' abgeschlossen wurde.",
+            "description": "Die besch\u00e4digten \u00dcberreste eines Necramechgestells.\r\n\r\nQuelle: Von feindlichen Necramechs in Isolationsgew\u00f6lben, von Auftr\u00e4gen aus der Cambion-Drift und durch den Kauf von Loid im Necralisk auf Deimos, nachdem die Quest 'Der Innere Krieg' abgeschlossen wurde.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartEngineItem",
             "name": "Necramech: Besch\u00e4digter Antrieb",
-            "description": "Ein Antrieb, erschaffen f\u00fcr einen Necramech. Leider ist er besch\u00e4digt.\r\n\r\nFundort: Von feindlichen Necramechs in Isolationsgew\u00f6lben, von Auftr\u00e4gen aus der Cambion-Drift und durch den Kauf von Loid im Necralisk auf Deimos, nachdem die Quest 'Der Innere Krieg' abgeschlossen wurde.",
+            "description": "Ein Antrieb, erschaffen f\u00fcr einen Necramech. Leider ist er besch\u00e4digt.\r\n\r\nQuelle: Von feindlichen Necramechs in Isolationsgew\u00f6lben, von Auftr\u00e4gen aus der Cambion-Drift und durch den Kauf von Loid im Necralisk auf Deimos, nachdem die Quest 'Der Innere Krieg' abgeschlossen wurde.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartSystemsItem",
             "name": "Necramech: Besch\u00e4digte H\u00fclse",
-            "description": "Eine modulare Komponente f\u00fcr einen Necramech. Besch\u00e4digt und bedarf einer Reparatur.\r\n\r\nFundort: Von feindlichen Necramechs in Isolationsgew\u00f6lben, von Auftr\u00e4gen aus der Cambion-Drift und durch den Kauf von Loid im Necralisk auf Deimos, nachdem die Quest 'Der Innere Krieg' abgeschlossen wurde.",
+            "description": "Eine modulare Komponente f\u00fcr einen Necramech. Besch\u00e4digt und bedarf einer Reparatur.\r\n\r\nQuelle: Von feindlichen Necramechs in Isolationsgew\u00f6lben, von Auftr\u00e4gen aus der Cambion-Drift und durch den Kauf von Loid im Necralisk auf Deimos, nachdem die Quest 'Der Innere Krieg' abgeschlossen wurde.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartWeaponPodItem",
             "name": "Necramech: Besch\u00e4digte Waffenkapsel",
-            "description": "Ein besch\u00e4digtes Waffensystem f\u00fcr einen Necramech.\r\n\r\nFundort: Von feindlichen Necramechs in Isolationsgew\u00f6lben, von Auftr\u00e4gen aus der Cambion-Drift und durch den Kauf von Loid im Necralisk auf Deimos, nachdem die Quest 'Der Innere Krieg' abgeschlossen wurde.",
+            "description": "Ein besch\u00e4digtes Waffensystem f\u00fcr einen Necramech.\r\n\r\nQuelle: Von feindlichen Necramechs in Isolationsgew\u00f6lben, von Auftr\u00e4gen aus der Cambion-Drift und durch den Kauf von Loid im Necralisk auf Deimos, nachdem die Quest 'Der Innere Krieg' abgeschlossen wurde.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponBarrelItem",
             "name": "Necramech: Besch\u00e4digter Waffenlauf",
-            "description": "Der besch\u00e4digte Lauf einer schweren Necramech-Waffe.\r\n\r\nFundort: Von feindlichen Necramechs in Isolationsgew\u00f6lben, und Geheimen Isolationsgw\u00f6lbe von Auftr\u00e4gen aus der Cambion-Drift und durch den Kauf von Loid im Necralisk auf Deimos, nachdem die Quest 'Der Innere Krieg' abgeschlossen wurde.",
+            "description": "Der besch\u00e4digte Lauf einer schweren Necramech-Waffe.\r\n\r\nQuelle: Von feindlichen Necramechs in Isolationsgew\u00f6lben, und Geheimen Isolationsgw\u00f6lbe von Auftr\u00e4gen aus der Cambion-Drift und durch den Kauf von Loid im Necralisk auf Deimos, nachdem die Quest 'Der Innere Krieg' abgeschlossen wurde.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponReceiverItem",
             "name": "Necramech: Besch\u00e4digtes Waffengeh\u00e4use",
-            "description": "Der zerst\u00f6rte Rahmen, der f\u00fcr die Herstellung einer Necramech-Waffe verwendet wurde.\r\n\r\nFundort: Von feindlichen Necramechs in Isolationsgew\u00f6lben und Geheimen Isolationsgw\u00f6lbe, von Auftr\u00e4gen aus der Cambion-Drift und durch den Kauf von Loid im Necralisk auf Deimos, nachdem die Quest 'Der Innere Krieg' abgeschlossen wurde.",
+            "description": "Der zerst\u00f6rte Rahmen, der f\u00fcr die Herstellung einer Necramech-Waffe verwendet wurde.\r\n\r\nQuelle: Von feindlichen Necramechs in Isolationsgew\u00f6lben und Geheimen Isolationsgw\u00f6lbe, von Auftr\u00e4gen aus der Cambion-Drift und durch den Kauf von Loid im Necralisk auf Deimos, nachdem die Quest 'Der Innere Krieg' abgeschlossen wurde.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponStockItem",
             "name": "Necramech: Besch\u00e4digter Waffenschaft",
-            "description": "Die zerbrochene hintere Komponente einer gro\u00dfen Necramech-Waffe.\r\n\r\nFundort: Von feindlichen Necramechs in Isolationsgew\u00f6lben und Geheimen Isolationsgw\u00f6lbe, von Auftr\u00e4gen aus der Cambion-Drift und durch den Kauf von Loid im Necralisk auf Deimos, nachdem die Quest 'Der Innere Krieg' abgeschlossen wurde.",
+            "description": "Die zerbrochene hintere Komponente einer gro\u00dfen Necramech-Waffe.\r\n\r\nQuelle: Von feindlichen Necramechs in Isolationsgew\u00f6lben und Geheimen Isolationsgw\u00f6lbe, von Auftr\u00e4gen aus der Cambion-Drift und durch den Kauf von Loid im Necralisk auf Deimos, nachdem die Quest 'Der Innere Krieg' abgeschlossen wurde.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
@@ -1001,14 +1001,14 @@
         {
             "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/EclipseVoidWraithItem",
             "name": "Lua Thrax-Plasma",
-            "description": "Eine einzigartige Variante des Thrax-Plasmas, das w\u00e4hrend der Void-Konjunktion auf Lua gewonnen wird \r\n\r\nFundort: Yuvarium und Circulus auf Lua",
+            "description": "Eine einzigartige Variante des Thrax-Plasmas, das w\u00e4hrend der Void-Konjunktion auf Lua gewonnen wird \r\n\r\nQuelle: Yuvarium und Circulus auf Lua",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Gameplay/Zariman/Resources/VoidWraithItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/VoidAngelItem",
             "name": "Void-Feder: Flug",
-            "description": "Die lebende Feder eines Void-Engels, die im Kampf herausgerissen wurde.\r\n\r\nFundort: Zariman",
+            "description": "Die lebende Feder eines Void-Engels, die im Kampf herausgerissen wurde.\r\n\r\nQuelle: Zariman",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/SyndicateDogTags/AutoSharedDogTag",
             "longDescription": "Das meist gesch\u00e4tzte Teil eines Eidolons. Schmuck aus Eidolon Scherben wird in Cetus hoch gehandelt."
@@ -1016,7 +1016,7 @@
         {
             "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/VoidWraithItem",
             "name": "Thrax-Plasma",
-            "description": "In den \u00dcberresten von Thrax-Void-Manifestationen vorzufinden, hat dieses Plasma mehrere erstaunlich praktische Anwendungen.\r\n\r\nFundort: Zariman",
+            "description": "In den \u00dcberresten von Thrax-Void-Manifestationen vorzufinden, hat dieses Plasma mehrere erstaunlich praktische Anwendungen.\r\n\r\nQuelle: Zariman",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
@@ -1030,42 +1030,42 @@
         {
             "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanDogTagBounty",
             "name": "Void-Feder: Schwung",
-            "description": "Ein Symbol des Genies, das vor langer Zeit von einem Void-Engel verloren wurde.\r\n\r\nFundort: Zariman",
+            "description": "Ein Symbol des Genies, das vor langer Zeit von einem Void-Engel verloren wurde.\r\n\r\nQuelle: Zariman",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/SyndicateDogTags/AutoSharedDogTag"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanDogTagCommon",
             "name": "Void-Feder: Daune",
-            "description": "Stachelig und halb echt, von einem Void-Engel abgeworfen.\r\n\r\nFundort: Zariman",
+            "description": "Stachelig und halb echt, von einem Void-Engel abgeworfen.\r\n\r\nQuelle: Zariman",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanDogTag"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanDogTagRare",
             "name": "Void-Feder: Kontur",
-            "description": "Die feine Feder aus der Krone eines Void-Engels.\r\n\r\nFundort: Zariman",
+            "description": "Die feine Feder aus der Krone eines Void-Engels.\r\n\r\nQuelle: Zariman",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanDogTag"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanDogTagUncommon",
             "name": "Void-Feder: Schirm",
-            "description": "Eine metallische Feder aus dem Fl\u00fcgel eines Void-Engels.\r\n\r\nFundort: Zariman",
+            "description": "Eine metallische Feder aus dem Fl\u00fcgel eines Void-Engels.\r\n\r\nQuelle: Zariman",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanDogTag"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemA",
             "name": "Voidgel-Kugel",
-            "description": "Eine Probe der Umgebungsenergie des Voids, destilliert in einen neutralen Zustand.\r\n\r\nFundort: Zariman",
+            "description": "Eine Probe der Umgebungsenergie des Voids, destilliert in einen neutralen Zustand.\r\n\r\nQuelle: Zariman",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemB",
             "name": "Entrati Latorne",
-            "description": "Ein zeremonielles Leuchtfeuer, das verwendet wird, um Void-Standorte im realen Raum abzubilden.\r\n\r\nFundort: Albrechts Labore (Deimos) und Zariman",
+            "description": "Ein zeremonielles Leuchtfeuer, das verwendet wird, um Void-Standorte im realen Raum abzubilden.\r\n\r\nQuelle: Albrechts Labore (Deimos) und Zariman",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
             "longDescription": "Das meist gesch\u00e4tzte Teil eines Eidolons. Schmuck aus Eidolon Scherben wird in Cetus hoch gehandelt."
@@ -2771,420 +2771,420 @@
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonGemACutItem",
             "name": "Facettenreiches Tiamerit",
-            "description": "Verfeinerte Reinheit, aus der befallenen Masse befreit.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Otak im Necralisk auf Deimos.",
+            "description": "Verfeinerte Reinheit, aus der befallenen Masse befreit.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Otak im Necralisk auf Deimos.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonGemAItem",
             "name": "Tiametrit",
-            "description": "Befallener Neurotransmitter, kondensiert unter Druck.\r\n\r\nFundort: Cambion-Drift auf Deimos, aus blauen L\u00e4sionen, Sagiant Entrati Urnen und Bonus-Gew\u00f6lben in Isolationsgew\u00f6lbe-Auftr\u00e4gen.",
+            "description": "Befallener Neurotransmitter, kondensiert unter Druck.\r\n\r\nQuelle: Cambion-Drift auf Deimos, aus blauen L\u00e4sionen, Sagiant Entrati Urnen und Bonus-Gew\u00f6lben in Isolationsgew\u00f6lbe-Auftr\u00e4gen.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonGemBCutItem",
             "name": "Gereinigter Dagonik",
-            "description": "Kristalline Symmetrie, weit entfernt von ihrem korrupten Ursprung.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Otak im Necralisk auf Deimos.",
+            "description": "Kristalline Symmetrie, weit entfernt von ihrem korrupten Ursprung.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Otak im Necralisk auf Deimos.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonGemBItem",
             "name": "Dagonik",
-            "description": "Rinnsale von Excorine-Fl\u00fcssigkeit, die im Laufe der Jahrhunderte geh\u00e4rtet wurden.\r\n\r\nFundort: Cambion-Drift auf Deimos, aus blauen L\u00e4sionen, Sagiant Entrati Urnen und Bonus-Gew\u00f6lben in Isolationsgew\u00f6lbe-Auftr\u00e4gen.",
+            "description": "Rinnsale von Excorine-Fl\u00fcssigkeit, die im Laufe der Jahrhunderte geh\u00e4rtet wurden.\r\n\r\nQuelle: Cambion-Drift auf Deimos, aus blauen L\u00e4sionen, Sagiant Entrati Urnen und Bonus-Gew\u00f6lben in Isolationsgew\u00f6lbe-Auftr\u00e4gen.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreAAlloyItem",
             "name": "Adramal-Legierung",
-            "description": "Von Sporen und Verunreinigungen befreit, ist diese Legierung \u00e4u\u00dferst vielseitig.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Otak im Necralisk auf Deimos.",
+            "description": "Von Sporen und Verunreinigungen befreit, ist diese Legierung \u00e4u\u00dferst vielseitig.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Otak im Necralisk auf Deimos.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreAItem",
             "name": "Adramalium",
-            "description": "Sehnig und metallisch, von gro\u00dfer elastischer Kraft.\r\n\r\nFundort: Cambion-Drift auf Deimos, aus gelben L\u00e4sionen, Befallenen Spitia Zysten und Befallenen Rolizor Zysten.",
+            "description": "Sehnig und metallisch, von gro\u00dfer elastischer Kraft.\r\n\r\nQuelle: Cambion-Drift auf Deimos, aus gelben L\u00e4sionen, Befallenen Spitia Zysten und Befallenen Rolizor Zysten.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreBAlloyItem",
             "name": "Getempertes Bapholit",
-            "description": "Mit seinen inaktiven Befallenen Ranken zu einer haltbaren Legierung verschmolzen.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Otak im Necralisk auf Deimos.",
+            "description": "Mit seinen inaktiven Befallenen Ranken zu einer haltbaren Legierung verschmolzen.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Otak im Necralisk auf Deimos.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreBItem",
             "name": "Bapholit",
-            "description": "Formbar, dank eingeschlossener Venen befallenen Proteins.\r\n\r\nFundort: Cambion-Drift auf Deimos, aus gelben L\u00e4sionen, Befallenen Rolizor Zysten und Bonus-Gew\u00f6lben in Isolationsgew\u00f6lbe-Auftr\u00e4gen.",
+            "description": "Formbar, dank eingeschlossener Venen befallenen Proteins.\r\n\r\nQuelle: Cambion-Drift auf Deimos, aus gelben L\u00e4sionen, Befallenen Rolizor Zysten und Bonus-Gew\u00f6lben in Isolationsgew\u00f6lbe-Auftr\u00e4gen.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemACutItem",
             "name": "Trapezoid Xenorhast",
-            "description": "Facetten schimmern im Unlicht des Voids.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Otak im Necralisk auf Deimos.",
+            "description": "Facetten schimmern im Unlicht des Voids.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Otak im Necralisk auf Deimos.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemAItem",
             "name": "Xenorhast",
-            "description": "Ein Knoten aus Urmaterie, eingekapselt in befallenem Fleisch.\r\n\r\nFundort: Cambion-Drift auf Deimos, aus blauen L\u00e4sionen. Dieser seltene Edelstein kann nur mit dem Effizienteren Nosam-Schneider oder dem Sonnenpunkt Plasmabohrer abgebaut werden.",
+            "description": "Ein Knoten aus Urmaterie, eingekapselt in befallenem Fleisch.\r\n\r\nQuelle: Cambion-Drift auf Deimos, aus blauen L\u00e4sionen. Dieser seltene Edelstein kann nur mit dem Effizienteren Nosam-Schneider oder dem Sonnenpunkt Plasmabohrer abgebaut werden.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemBCutItem",
             "name": "Cabochon Embolos",
-            "description": "Konvex und glatt, zu einer Linse oder einem Ornament geschliffen.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Otak im Necralisk auf Deimos.",
+            "description": "Konvex und glatt, zu einer Linse oder einem Ornament geschliffen.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Otak im Necralisk auf Deimos.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemBItem",
             "name": "Embolos",
-            "description": "Dieser seltene Edelstein bildet sich in einer geronnenen Masse innerhalb des Befalls.\r\n\r\nFundort: Cambion-Drift auf Deimos, aus blauen L\u00e4sionen. Dieser seltene Edelstein kann nur mit dem Effizienteren Nosam-Schneider oder dem Sonnenpunkt Plasmabohrer abgebaut werden.",
+            "description": "Dieser seltene Edelstein bildet sich in einer geronnenen Masse innerhalb des Befalls.\r\n\r\nQuelle: Cambion-Drift auf Deimos, aus blauen L\u00e4sionen. Dieser seltene Edelstein kann nur mit dem Effizienteren Nosam-Schneider oder dem Sonnenpunkt Plasmabohrer abgebaut werden.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosRareGemACutItem",
             "name": "Sternenf\u00f6rmiges Necrathan",
-            "description": "Eine prismatische Veredelung von rohem Necrathan, sehr begehrt.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Otak im Necralisk auf Deimos.",
+            "description": "Eine prismatische Veredelung von rohem Necrathan, sehr begehrt.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Otak im Necralisk auf Deimos.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosRareGemAItem",
             "name": "Necrathan",
-            "description": "Eingeklemmt in befallenen H\u00fcllen, seit Jahrtausenden konserviert.\r\n\r\nFundort: Cambion-Drift auf Deimos, aus blauen L\u00e4sionen und Requiem Obelisken.",
+            "description": "Eingeklemmt in befallenen H\u00fcllen, seit Jahrtausenden konserviert.\r\n\r\nQuelle: Cambion-Drift auf Deimos, aus blauen L\u00e4sionen und Requiem Obelisken.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosRareOreAAlloyItem",
             "name": "Thaumisches Destillat",
-            "description": "Thaumica reduziert auf seine haltbarsten, praktikabelsten Elemente.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Otak im Necralisk auf Deimos.",
+            "description": "Thaumica reduziert auf seine haltbarsten, praktikabelsten Elemente.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Otak im Necralisk auf Deimos.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosRareOreAItem",
             "name": "Thaumica",
-            "description": "Kann durch den Befall geformt werden, bleibt aber dagegen resistent.\r\n\r\nFundort: Cambion-Drift auf Deimos, aus gelben L\u00e4sionen, Requiem-Obelisken und Befallenen Spitia Zysten.",
+            "description": "Kann durch den Befall geformt werden, bleibt aber dagegen resistent.\r\n\r\nQuelle: Cambion-Drift auf Deimos, aus gelben L\u00e4sionen, Requiem-Obelisken und Befallenen Spitia Zysten.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonGemACutItem",
             "name": "Reiner Heciphron",
-            "description": "Aus dem Befall extrahiert und zu einem hochgesch\u00e4tzten Edelstein geschliffen.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Otak im Necralisk auf Deimos.",
+            "description": "Aus dem Befall extrahiert und zu einem hochgesch\u00e4tzten Edelstein geschliffen.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Otak im Necralisk auf Deimos.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonGemAItem",
             "name": "Heciphron",
-            "description": "Aggregate in den Neo-Lymphsystemen befallener Massen.\r\n\r\nFundort: Cambion-Drift auf Deimos, aus blauen L\u00e4sionen.",
+            "description": "Aggregate in den Neo-Lymphsystemen befallener Massen.\r\n\r\nQuelle: Cambion-Drift auf Deimos, aus blauen L\u00e4sionen.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonOreAAlloyItem",
             "name": "Entwickeltes Namalon",
-            "description": "Aus seinem befallenen Zustand geholt, nun wieder von Wert und Nutzen.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Otak im Necralisk auf Deimos.",
+            "description": "Aus seinem befallenen Zustand geholt, nun wieder von Wert und Nutzen.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Otak im Necralisk auf Deimos.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonOreAItem",
             "name": "Namalon",
-            "description": "Befallene Mineralablagerungen, welche die Form lebender Organe nachahmen.\r\n\r\nFundort: Cambion-Drift auf Deimos, aus gelben L\u00e4sionen und Bonus-Gew\u00f6lben aus Isolationsgew\u00f6lbe-Auftr\u00e4gen.",
+            "description": "Befallene Mineralablagerungen, welche die Form lebender Organe nachahmen.\r\n\r\nQuelle: Cambion-Drift auf Deimos, aus gelben L\u00e4sionen und Bonus-Gew\u00f6lben aus Isolationsgew\u00f6lbe-Auftr\u00e4gen.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemACutAItem",
             "name": "Azurit-Tr\u00e4ne",
-            "description": "Poliert und perfekt geschnitten.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Old Man Suumbaat in Cetus auf der Erde.",
+            "description": "Poliert und perfekt geschnitten.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Old Man Suumbaat in Cetus auf der Erde.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemAItem",
             "name": "Azurit",
-            "description": "Ein blauer Edelstein, der mit Verunreinigungen \u00fcberzogen ist.\r\n\r\nFundort: Durch das Abbauen von blauen Erzadern und von Klopfern in den Ebenen von Eidolon auf der Erde.",
+            "description": "Ein blauer Edelstein, der mit Verunreinigungen \u00fcberzogen ist.\r\n\r\nQuelle: Durch das Abbauen von blauen Erzadern und von Klopfern in den Ebenen von Eidolon auf der Erde.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemBCutAItem",
             "name": "Esher-Devar",
-            "description": "Poliert und perfekt geschnitten.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Old Man Suumbaat in Cetus auf der Erde.",
+            "description": "Poliert und perfekt geschnitten.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Old Man Suumbaat in Cetus auf der Erde.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemBItem",
             "name": "Devar",
-            "description": "Ein tr\u00fcber Kristall.\r\n\r\nFundort: Ebenen von Eidolon auf der Erde, aus blauen Erzadern und von Klopfern.",
+            "description": "Ein tr\u00fcber Kristall.\r\n\r\nQuelle: Ebenen von Eidolon auf der Erde, aus blauen Erzadern und von Klopfern.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreAAlloyAItem",
             "name": "Pyroltic-Legierung",
-            "description": "Pyrol, das zu einem h\u00e4rteren Metall geschmiedet wurde.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Old Man Suumbaat in Cetus auf der Erde.",
+            "description": "Pyrol, das zu einem h\u00e4rteren Metall geschmiedet wurde.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Old Man Suumbaat in Cetus auf der Erde.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreAItem",
             "name": "Pyrol",
-            "description": "Ein angelaufenes, spr\u00f6des Metall.\r\n\r\nFundort: Ebenen von Eidolon auf der Erde, aus roten Erzadern und von Klopfern.",
+            "description": "Ein angelaufenes, spr\u00f6des Metall.\r\n\r\nQuelle: Ebenen von Eidolon auf der Erde, aus roten Erzadern und von Klopfern.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreBAlloyBItem",
             "name": "Coprite-Legierung",
-            "description": "Coprun, das zu einem h\u00e4rteren Metall geschmiedet wurde.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Old Man Suumbaat in Cetus auf der Erde.",
+            "description": "Coprun, das zu einem h\u00e4rteren Metall geschmiedet wurde.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Old Man Suumbaat in Cetus auf der Erde.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreBItem",
             "name": "Coprun",
-            "description": "Ein weiches, formbares Metall.\r\n\r\nFundort: Ebenen von Eidolon auf der Erde, aus roten Erzadern.",
+            "description": "Ein weiches, formbares Metall.\r\n\r\nQuelle: Ebenen von Eidolon auf der Erde, aus roten Erzadern.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemACutAItem",
             "name": "Radiant-Sentirum",
-            "description": "Poliert und perfekt geschnitten.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Old Man Suumbaat in Cetus auf der Erde.",
+            "description": "Poliert und perfekt geschnitten.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Old Man Suumbaat in Cetus auf der Erde.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemAItem",
             "name": "Sentirum",
-            "description": "Ein seltener lokaler Edelstein, der entsteht, wenn das Blut eines uralten Sentients versteinert.\r\n\r\nFundort: Ebenen von Eidolon auf der Erde, aus blauen Erzadern und von Klopfer Bullen. Dieser seltene Edelstein kann nur mit dem Effizienteren Nosam-Schneider oder dem Sonnenpunkt Plasmabohrer abgebaut werden.",
+            "description": "Ein seltener lokaler Edelstein, der entsteht, wenn das Blut eines uralten Sentients versteinert.\r\n\r\nQuelle: Ebenen von Eidolon auf der Erde, aus blauen Erzadern und von Klopfer Bullen. Dieser seltene Edelstein kann nur mit dem Effizienteren Nosam-Schneider oder dem Sonnenpunkt Plasmabohrer abgebaut werden.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemBCutAItem",
             "name": "Herz-Nyth",
-            "description": "Poliert und perfekt geschnitten.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Old Man Suumbaat in Cetus auf der Erde.",
+            "description": "Poliert und perfekt geschnitten.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Old Man Suumbaat in Cetus auf der Erde.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemBItem",
             "name": "Nyth",
-            "description": "Ein seltener lokaler Edelstein, der entsteht, wenn das als 'Atem des Eidolon' bekannte Gas in geschmolzenem Iradit eingeschlossen wird.\r\n\r\nFundort: Ebenen von Eidolon auf der Erde, aus blauen Erzadern und von Klopfer Bullen. Dieser seltene Edelstein kann nur mit dem Effizienteren Nosam-Schneider oder dem Sonnenpunkt Plasmabohrer abgebaut werden.",
+            "description": "Ein seltener lokaler Edelstein, der entsteht, wenn das als 'Atem des Eidolon' bekannte Gas in geschmolzenem Iradit eingeschlossen wird.\r\n\r\nQuelle: Ebenen von Eidolon auf der Erde, aus blauen Erzadern und von Klopfer Bullen. Dieser seltene Edelstein kann nur mit dem Effizienteren Nosam-Schneider oder dem Sonnenpunkt Plasmabohrer abgebaut werden.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareGemACutAItem",
             "name": "Sterncrimzian",
-            "description": "Poliert und perfekt geschnitten.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Old Man Suumbaat in Cetus auf der Erde.",
+            "description": "Poliert und perfekt geschnitten.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Old Man Suumbaat in Cetus auf der Erde.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareGemAItem",
             "name": "Crimzian",
-            "description": "Ein blutroter Edelstein.\r\n\r\nFundort: Ebenen von Eidolon auf der Erde, aus blauen Erzadern und von Klopfern.",
+            "description": "Ein blutroter Edelstein.\r\n\r\nQuelle: Ebenen von Eidolon auf der Erde, aus blauen Erzadern und von Klopfern.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareOreAAlloyAItem",
             "name": "Auroxium-Legierung",
-            "description": "Auron, das zu einem h\u00e4rteren Metall geschmiedet wurde.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Old Man Suumbaat in Cetus auf der Erde.",
+            "description": "Auron, das zu einem h\u00e4rteren Metall geschmiedet wurde.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Old Man Suumbaat in Cetus auf der Erde.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareOreAItem",
             "name": "Auron",
-            "description": "Ein brillantes, dichtes und leitf\u00e4higes Metall.\r\n\r\nFundort: Ebenen von Eidolon auf der Erde, aus roten Erzadern und von Klopfern.",
+            "description": "Ein brillantes, dichtes und leitf\u00e4higes Metall.\r\n\r\nQuelle: Ebenen von Eidolon auf der Erde, aus roten Erzadern und von Klopfern.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonGemACutAItem",
             "name": "Marquise-Veridos",
-            "description": "Poliert und perfekt geschnitten.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Old Man Suumbaat in Cetus auf der Erde.",
+            "description": "Poliert und perfekt geschnitten.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Old Man Suumbaat in Cetus auf der Erde.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonGemAItem",
             "name": "Veridos",
-            "description": "Ein stark reflektierender, gr\u00fcner Edelstein.\r\n\r\nFundort: Ebenen von Eidolon auf der Erde, aus blauen Erzadern und von Klopfern.",
+            "description": "Ein stark reflektierender, gr\u00fcner Edelstein.\r\n\r\nQuelle: Ebenen von Eidolon auf der Erde, aus blauen Erzadern und von Klopfern.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonOreAAlloyAItem",
             "name": "Ferstahl-Legierung",
-            "description": "Ferros, das zu einem h\u00e4rteren Metall geschmiedet wurde.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Old Man Suumbaat in Cetus auf der Erde.",
+            "description": "Ferros, das zu einem h\u00e4rteren Metall geschmiedet wurde.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Old Man Suumbaat in Cetus auf der Erde.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonOreAItem",
             "name": "Ferros",
-            "description": "Ein widerstandsf\u00e4higes Metall, das durch Verunreinigungen im Inneren geh\u00e4rtet wird.\r\n\r\nFundort: Ebenen von Eidolon auf der Erde, aus roten Erzadern und von Klopfern.",
+            "description": "Ein widerstandsf\u00e4higes Metall, das durch Verunreinigungen im Inneren geh\u00e4rtet wird.\r\n\r\nQuelle: Ebenen von Eidolon auf der Erde, aus roten Erzadern und von Klopfern.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemACutItem",
             "name": "Glatter Phasmin",
-            "description": "Poliert und perfekt geschnitten.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Smokefinger in Fortuna auf der Venus.",
+            "description": "Poliert und perfekt geschnitten.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Smokefinger in Fortuna auf der Venus.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemAItem",
             "name": "Phasmin",
-            "description": "Ein unheimlich gr\u00fcner Edelstein, der in metallischen Splittern eingeschlossen gefunden wird.\r\n\r\nFundort: Orbis-Tal auf der Venus, aus blauen Erzadern und aus Ressourcencontainern in der Landschaft.",
+            "description": "Ein unheimlich gr\u00fcner Edelstein, der in metallischen Splittern eingeschlossen gefunden wird.\r\n\r\nQuelle: Orbis-Tal auf der Venus, aus blauen Erzadern und aus Ressourcencontainern in der Landschaft.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem",
             "name": "Herz-Noctrul",
-            "description": "Poliert und perfekt geschnitten.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Smokefinger in Fortuna auf der Venus.",
+            "description": "Poliert und perfekt geschnitten.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Smokefinger in Fortuna auf der Venus.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBItem",
             "name": "Noctrul",
-            "description": "Ein schwarzer Edelstein mit schillernden blauen Verunreinigungen.\r\n\r\nFundort: Orbis-Tal auf der Venus, aus blauen Erzadern und aus Ressourcencontainern in der Landschaft.",
+            "description": "Ein schwarzer Edelstein mit schillernden blauen Verunreinigungen.\r\n\r\nQuelle: Orbis-Tal auf der Venus, aus blauen Erzadern und aus Ressourcencontainern in der Landschaft.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem",
             "name": "Travozyt-Legierung",
-            "description": "Eine aus Travorid gebildete Verbindung.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Smokefinger in Fortuna auf der Venus.",
+            "description": "Eine aus Travorid gebildete Verbindung.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Smokefinger in Fortuna auf der Venus.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAItem",
             "name": "Travorid",
-            "description": "Ein Mineral, das durch den massiven Druck der Venusatmosph\u00e4re geh\u00e4rtet wurde.\r\n\r\nFundort: Orbis-Tal auf der Venus, aus roten Erzadern und aus Ressourcencontainern in der Landschaft.",
+            "description": "Ein Mineral, das durch den massiven Druck der Venusatmosph\u00e4re geh\u00e4rtet wurde.\r\n\r\nQuelle: Orbis-Tal auf der Venus, aus roten Erzadern und aus Ressourcencontainern in der Landschaft.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
             "name": "Axidrol-Legierung",
-            "description": "Eine aus Axidite gebildete Verbindung.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Smokefinger in Fortuna auf der Venus.",
+            "description": "Eine aus Axidite gebildete Verbindung.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Smokefinger in Fortuna auf der Venus.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBItem",
             "name": "Axidite",
-            "description": "Ein Sediment, das sich aus Schwefelregen gebildet hat, der unter Eis eingeschlossen wurde.\r\n\r\nFundort: Orbis-Tal auf der Venus, aus roten Erzadern und aus Ressourcencontainern in der Landschaft.",
+            "description": "Ein Sediment, das sich aus Schwefelregen gebildet hat, der unter Eis eingeschlossen wurde.\r\n\r\nQuelle: Orbis-Tal auf der Venus, aus roten Erzadern und aus Ressourcencontainern in der Landschaft.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemACutItem",
             "name": "Strahlender Zodian",
-            "description": "Poliert und perfekt geschnitten.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Smokefinger in Fortuna auf der Venus.",
+            "description": "Poliert und perfekt geschnitten.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Smokefinger in Fortuna auf der Venus.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemAItem",
             "name": "Zodian",
-            "description": "Ein blauer Edelstein, der astrale Energie ausstrahlt.\r\n\r\nFundort: Orbis-Tal auf der Venus, aus blauen Erzadern und vom Ausbeuter. Dieser seltene Edelstein kann nur mit dem Effizienteren Nosam-Schneider oder dem Sonnenpunkt Plasmabohrer abgebaut werden.",
+            "description": "Ein blauer Edelstein, der astrale Energie ausstrahlt.\r\n\r\nQuelle: Orbis-Tal auf der Venus, aus blauen Erzadern und vom Ausbeuter. Dieser seltene Edelstein kann nur mit dem Effizienteren Nosam-Schneider oder dem Sonnenpunkt Plasmabohrer abgebaut werden.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemBCutItem",
             "name": "Marquise-Thyst",
-            "description": "Poliert und perfekt geschnitten.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Smokefinger in Fortuna auf der Venus.",
+            "description": "Poliert und perfekt geschnitten.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Smokefinger in Fortuna auf der Venus.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemBItem",
             "name": "Thyst",
-            "description": "Eine wundersch\u00f6ne, schillernde, rote Scherbe.\r\n\r\nFundort: Orbis-Tal auf der Venus, aus blauen Erzadern und vom Ausbeuter. Dieser seltene Edelstein kann nur mit dem Effizienteren Nosam-Schneider oder dem Sonnenpunkt Plasmabohrer abgebaut werden.",
+            "description": "Eine wundersch\u00f6ne, schillernde, rote Scherbe.\r\n\r\nQuelle: Orbis-Tal auf der Venus, aus blauen Erzadern und vom Ausbeuter. Dieser seltene Edelstein kann nur mit dem Effizienteren Nosam-Schneider oder dem Sonnenpunkt Plasmabohrer abgebaut werden.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemACutItem",
             "name": "Stern-Amarast",
-            "description": "Poliert und perfekt geschnitten.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Smokefinger in Fortuna auf der Venus.",
+            "description": "Poliert und perfekt geschnitten.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Smokefinger in Fortuna auf der Venus.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemAItem",
             "name": "Amarast",
-            "description": "Ein violetter Edelstein, der durch das Kristallisieren von Nebenprodukten aus den Weinenden T\u00fcrmen entsteht.\r\n\r\nFundort: Orbis-Tal auf der Venus, aus blauen Erzadern und aus Ressourcencontainern in der Landschaft.",
+            "description": "Ein violetter Edelstein, der durch das Kristallisieren von Nebenprodukten aus den Weinenden T\u00fcrmen entsteht.\r\n\r\nQuelle: Orbis-Tal auf der Venus, aus blauen Erzadern und aus Ressourcencontainern in der Landschaft.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareOreAAlloyItem",
             "name": "Hespazym-Legierung",
-            "description": "Eine aus Hesperon gebildete Verbindung.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Smokefinger in Fortuna auf der Venus.",
+            "description": "Eine aus Hesperon gebildete Verbindung.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Smokefinger in Fortuna auf der Venus.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareOreAItem",
             "name": "Hesperon",
-            "description": "Ton, der sich zu extrem haltbarem Stein verfestigt, wenn er auf Temperaturen unter Null gebracht wird.\r\n\r\nFundort: Orbis-Tal auf der Venus, aus roten Erzadern und aus Ressourcencontainern in der Landschaft.",
+            "description": "Ton, der sich zu extrem haltbarem Stein verfestigt, wenn er auf Temperaturen unter Null gebracht wird.\r\n\r\nQuelle: Orbis-Tal auf der Venus, aus roten Erzadern und aus Ressourcencontainern in der Landschaft.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
             "name": "Tr\u00e4nen-Goblite",
-            "description": "Poliert und perfekt geschnitten.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Smokefinger in Fortuna auf der Venus.",
+            "description": "Poliert und perfekt geschnitten.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Smokefinger in Fortuna auf der Venus.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemAItem",
             "name": "Goblite",
-            "description": "Ein seltsamer Kristall, der in ausgebeuteten Erzadern w\u00e4chst.\r\n\r\nFundort: Orbis-Tal auf der Venus, aus blauen Erzadern.",
+            "description": "Ein seltsamer Kristall, der in ausgebeuteten Erzadern w\u00e4chst.\r\n\r\nQuelle: Orbis-Tal auf der Venus, aus blauen Erzadern.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
             "name": "Venerdo-Legierung",
-            "description": "Eine aus Venerol gebildete Verbindung.\r\n\r\nFundort: Blaupause erh\u00e4ltlich von Smokefinger in Fortuna auf der Venus.",
+            "description": "Eine aus Venerol gebildete Verbindung.\r\n\r\nQuelle: Blaupause erh\u00e4ltlich von Smokefinger in Fortuna auf der Venus.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreItem",
             "name": "Venerol",
-            "description": "Ein Edelmetall, das aus K\u00fchlmittelnebenprodukten geschmiedet wird.\r\n\r\nFundort: Im Orbis-Tal auf der Venus, aus roten Erzadern und aus Ressourcencontainern in der Landschaft.",
+            "description": "Ein Edelmetall, das aus K\u00fchlmittelnebenprodukten geschmiedet wird.\r\n\r\nQuelle: Im Orbis-Tal auf der Venus, aus roten Erzadern und aus Ressourcencontainern in der Landschaft.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Gems/GemItem"
         },
@@ -3652,7 +3652,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/MiscItems/ConcentratedGas",
             "name": "Hexenon",
-            "description": "Ein Reagenz, das \u00fcblicherweise dazu benutzt wird, hochexplosiven Treibstoff herzustellen.\r\n\r\nFundort: Jupiter",
+            "description": "Ein Reagenz, das \u00fcblicherweise dazu benutzt wird, hochexplosiven Treibstoff herzustellen.\r\n\r\nQuelle: Jupiter",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
@@ -3681,7 +3681,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/MiscItems/DagathAbyssItem",
             "name": "Edeldorn",
-            "description": "Der seltene Dorn einer ausgestorbenen Rose und wichtige Komponente in Orokin Defixios und anderer Technologie. Wurde zuletzt in der N\u00e4he der Abyssalen Zone gesichtet.\r\n\r\nFundort: Abyssale Zone auf Ceres. Ben\u00f6tigt ein Abyssales Signal f\u00fcr den Zugang.",
+            "description": "Der seltene Dorn einer ausgestorbenen Rose und wichtige Komponente in Orokin Defixios und anderer Technologie. Wurde zuletzt in der N\u00e4he der Abyssalen Zone gesichtet.\r\n\r\nQuelle: Abyssale Zone auf Ceres. Ben\u00f6tigt ein Abyssales Signal f\u00fcr den Zugang.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
@@ -3709,7 +3709,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/MiscItems/Eidolonium",
             "name": "Atem des Eidolon",
-            "description": "Ein Gas, das nur in den Ebenen von Eidolon gefunden werden kann, zu seiner reinsten Form verfeinert. \r\n\r\nFundort: Ebenen von Eidolon Auftr\u00e4ge auf der Erde",
+            "description": "Ein Gas, das nur in den Ebenen von Eidolon gefunden werden kann, zu seiner reinsten Form verfeinert. \r\n\r\nQuelle: Ebenen von Eidolon Auftr\u00e4ge auf der Erde",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
@@ -3944,7 +3944,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/MiscItems/MemoryCryptoFragment",
             "name": "Somatische Fasern",
-            "description": "Neurale Fasern, gesammelt von einem fr\u00fchen Warframe Prototypen und konserviert in stabilisierender, zerebraler Fl\u00fcssigkeit.\r\n\r\nFundort: Von Zerst\u00f6rern auf Apollo, auf Lua, und durch Gekoppeltes \u00dcberleben Missionen auf Lua",
+            "description": "Neurale Fasern, gesammelt von einem fr\u00fchen Warframe Prototypen und konserviert in stabilisierender, zerebraler Fl\u00fcssigkeit.\r\n\r\nQuelle: Von Zerst\u00f6rern auf Apollo, auf Lua, und durch Gekoppeltes \u00dcberleben Missionen auf Lua",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
@@ -3980,7 +3980,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/MiscItems/NarmerBountyResource",
             "name": "Narmer Isoplast",
-            "description": "Eine adaptive Sentient Basiskomponente, die f\u00fcr den Kommunikationsfluss verantwortlich ist. Wird h\u00e4ufig bei der Narmer-Invasion verwendet. Ein wertvoller Rohstoff f\u00fcr die Quill und Vox Solaris.\r\n\r\nFundort: Narmer-Auftr\u00e4ge in den Ebenen von Eidolon auf der Erde und im Orbis-Tal auf der Venus.",
+            "description": "Eine adaptive Sentient Basiskomponente, die f\u00fcr den Kommunikationsfluss verantwortlich ist. Wird h\u00e4ufig bei der Narmer-Invasion verwendet. Ein wertvoller Rohstoff f\u00fcr die Quill und Vox Solaris.\r\n\r\nQuelle: Narmer-Auftr\u00e4ge in den Ebenen von Eidolon auf der Erde und im Orbis-Tal auf der Venus.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
@@ -4975,7 +4975,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/MiscItems/RivenFragment",
             "name": "Riven-Scherbe",
-            "description": "Ein Fragment einer zerschmetterten Riven. Es ist bekannt, dass Palladino aus genug Riven-Scherben eine vollst\u00e4ndige Riven wiederherstellen kann. Finde sie in der Eisenwacht, auf der Erde, nachdem du die Quest 'Ketten des Harrow' abgeschlossen hast.\r\n\r\nFundort: Von Eximus-Einheiten und auf Requiem-Relikten.",
+            "description": "Ein Fragment einer zerschmetterten Riven. Es ist bekannt, dass Palladino aus genug Riven-Scherben eine vollst\u00e4ndige Riven wiederherstellen kann. Finde sie in der Eisenwacht, auf der Erde, nachdem du die Quest 'Ketten des Harrow' abgeschlossen hast.\r\n\r\nQuelle: Von Eximus-Einheiten und auf Requiem-Relikten.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
@@ -5036,14 +5036,14 @@
         {
             "uniqueName": "/Lotus/Types/Items/MiscItems/SchismKey",
             "name": "Aya",
-            "description": "Rohes Orokin Erinnerungsplasma. Varzias Schmiede kann Aya nutzen, um Void-Relikte herzustellen. Du findest sie in Maroos Basar auf dem Mars.\r\n\r\nFundort: Void-Missionen und Auftr\u00e4ge",
+            "description": "Rohes Orokin Erinnerungsplasma. Varzias Schmiede kann Aya nutzen, um Void-Relikte herzustellen. Du findest sie in Maroos Basar auf dem Mars.\r\n\r\nQuelle: Void-Missionen und Auftr\u00e4ge",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
         },
         {
             "uniqueName": "/Lotus/Types/Items/MiscItems/SentientFragmentLootItem",
             "name": "Anomaliesplitter",
-            "description": "Der abgespaltene Splitter einer Sentient Anomalie im Veil Proxima. Kann bei Little Duck in Fortuna auf der Venus gegen exotische G\u00fcter eingetauscht werden.\r\n\r\nFundort: Murex Schiffe, die auf Railjack-Knoten im Veil Proxima gefunden werden k\u00f6nnen, die besonders markiert sind.",
+            "description": "Der abgespaltene Splitter einer Sentient Anomalie im Veil Proxima. Kann bei Little Duck in Fortuna auf der Venus gegen exotische G\u00fcter eingetauscht werden.\r\n\r\nQuelle: Murex Schiffe, die auf Railjack-Knoten im Veil Proxima gefunden werden k\u00f6nnen, die besonders markiert sind.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
@@ -5081,7 +5081,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/MiscItems/SpecterParticleResidue",
             "name": "Spektrale Tr\u00fcmmer",
-            "description": "Entladene spektrale Partikel bilden einen tr\u00e4gen Staub, der gesammelt und neu geladen werden kann, f\u00fcr diverse Robotik-Projekte.\r\n\r\nFundort: Von Verirrten Phantomen aus dem Granum-Void mit dem Levelset: Corpus Schiff erhalten.",
+            "description": "Entladene spektrale Partikel bilden einen tr\u00e4gen Staub, der gesammelt und neu geladen werden kann, f\u00fcr diverse Robotik-Projekte.\r\n\r\nQuelle: Von Verirrten Phantomen aus dem Granum-Void mit dem Levelset: Corpus Schiff erhalten.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
@@ -5095,14 +5095,14 @@
         {
             "uniqueName": "/Lotus/Types/Items/MiscItems/SteelEssence",
             "name": "Stahlessenz",
-            "description": "Ein Zeichen von Teshins Hochachtung. Sie k\u00f6nnen gegen Gegenst\u00e4nde eingetauscht werden, die eure F\u00e4higkeiten als Krieger beweisen.\r\n\r\nFundort: Sie k\u00f6nnen durch \u00dcberfall-Alarmierungen oder von Akolyten auf dem St\u00e4hlernen Pfad erhalten werden.",
+            "description": "Ein Zeichen von Teshins Hochachtung. Sie k\u00f6nnen gegen Gegenst\u00e4nde eingetauscht werden, die eure F\u00e4higkeiten als Krieger beweisen.\r\n\r\nQuelle: Sie k\u00f6nnen durch \u00dcberfall-Alarmierungen oder von Akolyten auf dem St\u00e4hlernen Pfad erhalten werden.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/MiscItems/SteelEssence20Pack",
             "name": "Stahlessenz",
-            "description": "Ein Zeichen von Teshins Hochachtung. Sie k\u00f6nnen gegen Gegenst\u00e4nde eingetauscht werden, die eure F\u00e4higkeiten als Krieger beweisen.\r\n\r\nFundort: Sie k\u00f6nnen durch \u00dcberfall-Alarmierungen oder von Akolyten auf dem St\u00e4hlernen Pfad erhalten werden.",
+            "description": "Ein Zeichen von Teshins Hochachtung. Sie k\u00f6nnen gegen Gegenst\u00e4nde eingetauscht werden, die eure F\u00e4higkeiten als Krieger beweisen.\r\n\r\nQuelle: Sie k\u00f6nnen durch \u00dcberfall-Alarmierungen oder von Akolyten auf dem St\u00e4hlernen Pfad erhalten werden.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
             "excludeFromCodex": true
@@ -5490,21 +5490,21 @@
         {
             "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonDayPlantItem",
             "name": "Sonnenlicht Dreschzapfen",
-            "description": "Diese gew\u00f6hnliche Pflanze kann nur tags\u00fcber gefunden werden. \r\n\r\nFundort: Erh\u00e4ltlich, indem man Codex-Scanner bei Sonnenlicht Dreschzapfen nutzt, die auf der Erde wachsen.",
+            "description": "Diese gew\u00f6hnliche Pflanze kann nur tags\u00fcber gefunden werden. \r\n\r\nQuelle: Erh\u00e4ltlich, indem man Codex-Scanner bei Sonnenlicht Dreschzapfen nutzt, die auf der Erde wachsen.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Plants/MiscItems/PlantItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonNightPlantItem",
             "name": "Mondlicht Dreschzapfen",
-            "description": "Diese gew\u00f6hnliche Pflanze kann nur nachts gefunden werden.\r\n\r\nFundort: Erh\u00e4ltlich, indem man Codex-Scanner bei Mondlicht Dreschzapfen nutzt, die auf der Erde wachsen.",
+            "description": "Diese gew\u00f6hnliche Pflanze kann nur nachts gefunden werden.\r\n\r\nQuelle: Erh\u00e4ltlich, indem man Codex-Scanner bei Mondlicht Dreschzapfen nutzt, die auf der Erde wachsen.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Plants/MiscItems/PlantItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/GftPlantRuksClawMaturePlantItem",
             "name": "Ruks Klaue",
-            "description": "Diese Pflanze wurde in ausged\u00f6rrten Regionen \u00fcberall im Ursprungssystem eingef\u00fchrt, da sie Feuchtigkeit auch in rauen Gebieten sammeln kann.\r\n\r\nFundort: Erh\u00e4ltlich, indem man Codex-Scanner bei Ruks Klaue nutzt, die auf dem Mars wachsen.",
+            "description": "Diese Pflanze wurde in ausged\u00f6rrten Regionen \u00fcberall im Ursprungssystem eingef\u00fchrt, da sie Feuchtigkeit auch in rauen Gebieten sammeln kann.\r\n\r\nQuelle: Erh\u00e4ltlich, indem man Codex-Scanner bei Ruks Klaue nutzt, die auf dem Mars wachsen.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Plants/MiscItems/PlantItem"
         },
@@ -5519,7 +5519,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/MossGroundCoverAPlantItem",
             "name": "Vestanmoos",
-            "description": "Eine der wenigen bekannten Pflanzenarten, die auf Asteroiden im fernen Weltraum gedeihen k\u00f6nnen. \r\n\r\nFundort: Erh\u00e4ltlich, indem man Codex-Scanner bei Vestanmoos nutzt, die auf Merkur, Saturn und Sedna wachsen.",
+            "description": "Eine der wenigen bekannten Pflanzenarten, die auf Asteroiden im fernen Weltraum gedeihen k\u00f6nnen. \r\n\r\nQuelle: Erh\u00e4ltlich, indem man Codex-Scanner bei Vestanmoos nutzt, die auf Merkur, Saturn und Sedna wachsen.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Plants/MiscItems/PlantItem"
         },
@@ -5548,63 +5548,63 @@
         {
             "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareDayPlantItem",
             "name": "Sonnenlicht Jadeblatt",
-            "description": "Diese seltene Pflanze kann nur tags\u00fcber gefunden werden.\r\n\r\nFundort: Erh\u00e4ltlich, indem man Codex-Scanner bei Sonnenlicht Jadebl\u00e4ttern nutzt, die auf der Erde wachsen.",
+            "description": "Diese seltene Pflanze kann nur tags\u00fcber gefunden werden.\r\n\r\nQuelle: Erh\u00e4ltlich, indem man Codex-Scanner bei Sonnenlicht Jadebl\u00e4ttern nutzt, die auf der Erde wachsen.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Plants/MiscItems/PlantItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareNightPlantItem",
             "name": "Mondlicht Jadeblatt",
-            "description": "Diese seltene Pflanze kann nur nachts gefunden werden.\r\n\r\nFundort: Erh\u00e4ltlich, indem man Codex-Scanner bei Mondlicht Jadebl\u00e4ttern nutzt, die auf der Erde wachsen.",
+            "description": "Diese seltene Pflanze kann nur nachts gefunden werden.\r\n\r\nQuelle: Erh\u00e4ltlich, indem man Codex-Scanner bei Mondlicht Jadebl\u00e4ttern nutzt, die auf der Erde wachsen.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Plants/MiscItems/PlantItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonDayPlantItem",
             "name": "Sonnenlicht Drachenlilie",
-            "description": "Diese ungew\u00f6hnliche Pflanze kann nur tags\u00fcber gefunden werden.\r\n\r\nFundort: Erh\u00e4ltlich, indem man Codex-Scanner bei Sonnenlicht Drachenlilien nutzt, die auf der Erde wachsen.",
+            "description": "Diese ungew\u00f6hnliche Pflanze kann nur tags\u00fcber gefunden werden.\r\n\r\nQuelle: Erh\u00e4ltlich, indem man Codex-Scanner bei Sonnenlicht Drachenlilien nutzt, die auf der Erde wachsen.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Plants/MiscItems/PlantItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonNightPlantItem",
             "name": "Mondlicht Drachenlilie",
-            "description": "Diese ungew\u00f6hnliche Pflanze kann nur nachts gefunden werden.\r\n\r\nFundort: Erh\u00e4ltlich, indem man Codex-Scanner bei Mondlicht Drachenlilien nutzt, die auf der Erde wachsen.",
+            "description": "Diese ungew\u00f6hnliche Pflanze kann nur nachts gefunden werden.\r\n\r\nQuelle: Erh\u00e4ltlich, indem man Codex-Scanner bei Mondlicht Drachenlilien nutzt, die auf der Erde wachsen.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Plants/MiscItems/PlantItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/WildGingerBPlantItem",
             "name": "Frostlaub",
-            "description": "Diese widerstandsf\u00e4hige Pflanze stellt eine nat\u00fcrliche Futterquelle in eisigen Gbieten des Ursprungssystems dar.\r\n\r\nFundort: Erh\u00e4ltlich, indem man Codex-Scanner bei Frostlaub nutzt, die auf Venus, Neptun und Pluto wachsen.",
+            "description": "Diese widerstandsf\u00e4hige Pflanze stellt eine nat\u00fcrliche Futterquelle in eisigen Gbieten des Ursprungssystems dar.\r\n\r\nQuelle: Erh\u00e4ltlich, indem man Codex-Scanner bei Frostlaub nutzt, die auf Venus, Neptun und Pluto wachsen.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Plants/MiscItems/PlantItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/ZenCobraLotusPlantItem",
             "name": "Sarracenia der D\u00e4mmerung",
-            "description": "Diese robuste, fleischfressende Pflanze hat sich an ein Leben in verschmutzten Gew\u00e4sser gew\u00f6hnt.\r\n\r\nFundort: Erh\u00e4ltlich, indem man Codex-Scanner bei Sarracenia der D\u00e4mmerung nutzt, die im Levelset: Grineer Schiffswerft auf Ceres wachsen.",
+            "description": "Diese robuste, fleischfressende Pflanze hat sich an ein Leben in verschmutzten Gew\u00e4sser gew\u00f6hnt.\r\n\r\nQuelle: Erh\u00e4ltlich, indem man Codex-Scanner bei Sarracenia der D\u00e4mmerung nutzt, die im Levelset: Grineer Schiffswerft auf Ceres wachsen.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Plants/MiscItems/PlantItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/ZenPitcherPlantItem",
             "name": "Lunarische Krugpflanze",
-            "description": "Diese fleischfressende Pflanze w\u00e4chst in der Wildnis auf Lua. \r\n\r\nFundort: Erh\u00e4ltlich, indem man Codex-Scanner bei Lunarische Krugpflanzen nutzt, die auf Lua wachsen.",
+            "description": "Diese fleischfressende Pflanze w\u00e4chst in der Wildnis auf Lua. \r\n\r\nQuelle: Erh\u00e4ltlich, indem man Codex-Scanner bei Lunarische Krugpflanzen nutzt, die auf Lua wachsen.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Plants/MiscItems/PlantItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/AsteriteRailjackItem",
             "name": "Asterit",
-            "description": "\u00dcber Milliarden von Jahren hat sich dieser Kristall gebildet und kann am h\u00e4ufigsten in Weltraumgestein eingebettet gefunden werden.\r\n\r\nFundort: Railjack Missionen",
+            "description": "\u00dcber Milliarden von Jahren hat sich dieser Kristall gebildet und kann am h\u00e4ufigsten in Weltraumgestein eingebettet gefunden werden.\r\n\r\nQuelle: Railjack Missionen",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/AucruxRailjackItem",
             "name": "Aucrux Kondensator",
-            "description": "Sobald sie installiert sind, verschmelzen diese empfindlichen Systeme mit den Triebwerken eines Corpus Obelisk. Ungenutzte Kondensatoren sind daher sehr wertvoll.\r\n\r\nFundort: Railjack-Missionen auf Venus, Neptun und den Pluto Proximas",
+            "description": "Sobald sie installiert sind, verschmelzen diese empfindlichen Systeme mit den Triebwerken eines Corpus Obelisk. Ungenutzte Kondensatoren sind daher sehr wertvoll.\r\n\r\nQuelle: Railjack-Missionen auf Venus, Neptun und den Pluto Proximas",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem"
         },
@@ -5618,21 +5618,21 @@
         {
             "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
             "name": "Carbide",
-            "description": "Robuste Komponente, welche die gepanzerten Metallplatten an Grineer Schiffen verst\u00e4rkt.\r\n\r\nFundort: Von Eximus-Einheiten in den Levelsets: Grineer Schiffswerft und Railjack-Missionen in den Erde, Saturn und Veil Proximas.",
+            "description": "Robuste Komponente, welche die gepanzerten Metallplatten an Grineer Schiffen verst\u00e4rkt.\r\n\r\nQuelle: Von Eximus-Einheiten in den Levelsets: Grineer Schiffswerft und Railjack-Missionen in den Erde, Saturn und Veil Proximas.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/CopernicsRailjackItem",
             "name": "Copernics",
-            "description": "Eine Zelle eingekapselter Void-Energie.\r\n\r\nFundort: Lua",
+            "description": "Eine Zelle eingekapselter Void-Energie.\r\n\r\nQuelle: Lua",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/CubicsRailjackItem",
             "name": "W\u00fcrfel-Dioden",
-            "description": "Wichtige Komponente in der Herstellung von Corpus Photon-Netzwerken.\r\n\r\nFundort: Von Eximus-Einheiten in den Levelsets: Corpus Eisplanet und Railjack-Missionen in den Venus, Neptun und Pluto Proximas.",
+            "description": "Wichtige Komponente in der Herstellung von Corpus Photon-Netzwerken.\r\n\r\nQuelle: Von Eximus-Einheiten in den Levelsets: Corpus Eisplanet und Railjack-Missionen in den Venus, Neptun und Pluto Proximas.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem"
         },
@@ -5646,14 +5646,14 @@
         {
             "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
             "name": "Gallos-Brennst\u00e4be",
-            "description": "Antimaterie-Brennstoffzelle, die Grineer Schiffe antreibt.\r\n\r\nFundort: Railjack-Missionen in den Erde, Saturn und den Veil Proximas.",
+            "description": "Antimaterie-Brennstoffzelle, die Grineer Schiffe antreibt.\r\n\r\nQuelle: Railjack-Missionen in den Erde, Saturn und den Veil Proximas.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/IsosRailjackItem",
             "name": "Isos",
-            "description": "Eine selbstreplizierende Fl\u00fcssigkeit aus Nanoproxies, die eigenst\u00e4ndig verschlissene und besch\u00e4digte Systeme reparieren kann.\r\n\r\nFundort: Railjack-Missionen in den Venus, Neptun und Pluto Proximas.",
+            "description": "Eine selbstreplizierende Fl\u00fcssigkeit aus Nanoproxies, die eigenst\u00e4ndig verschlissene und besch\u00e4digte Systeme reparieren kann.\r\n\r\nQuelle: Railjack-Missionen in den Venus, Neptun und Pluto Proximas.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem"
         },
@@ -5667,28 +5667,28 @@
         {
             "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/KommsRailjackItem",
             "name": "Komms",
-            "description": "Eine Komponente, die in gesicherten Grineer Kommunikationsnetzwerken benutzt wird.\r\n\r\nFundort: Railjack-Missionen in den Erde, Saturn und Veil Proximas.",
+            "description": "Eine Komponente, die in gesicherten Grineer Kommunikationsnetzwerken benutzt wird.\r\n\r\nQuelle: Railjack-Missionen in den Erde, Saturn und Veil Proximas.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/NullstonesRailjackItem",
             "name": "Nullsteine",
-            "description": "Nullsteine missachten diverse Gesetze der Physik, weshalb sie f\u00fcr die Optimierung empfindlicher Komponenten sehr gefragt sind.\r\n\r\nFundort: Railjack Missionen",
+            "description": "Nullsteine missachten diverse Gesetze der Physik, weshalb sie f\u00fcr die Optimierung empfindlicher Komponenten sehr gefragt sind.\r\n\r\nQuelle: Railjack Missionen",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/PustrelsRailjackItem",
             "name": "Pustrels",
-            "description": "Ein parasit\u00e4rer Wuchs, der oft Eximus-Einheiten bef\u00e4llt, die in befallenen Umgebungen stationiert sind.\r\n\r\nFundort: Eris",
+            "description": "Ein parasit\u00e4rer Wuchs, der oft Eximus-Einheiten bef\u00e4llt, die in befallenen Umgebungen stationiert sind.\r\n\r\nQuelle: Eris",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/ScrapRailjackItem",
             "name": "Ticorplatte",
-            "description": "Hochdichte Legierungsbeschichtung, die beim Bau offensiver Raumfahrzeuge verwendet wird.\r\n\r\nFundort: Railjack Missionen",
+            "description": "Hochdichte Legierungsbeschichtung, die beim Bau offensiver Raumfahrzeuge verwendet wird.\r\n\r\nQuelle: Railjack Missionen",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem",
             "excludeFromCodex": true
@@ -5696,7 +5696,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
             "name": "Titanium",
-            "description": "Dieses \u00e4u\u00dferst formbare Metall wurde in gro\u00dfen Mengen von den Orokin ausgebeutet und kann nun nur noch innerhalb von Weltraumgestein gefunden werden.\r\n\r\nFundort: Railjack Missionen",
+            "description": "Dieses \u00e4u\u00dferst formbare Metall wurde in gro\u00dfen Mengen von den Orokin ausgebeutet und kann nun nur noch innerhalb von Weltraumgestein gefunden werden.\r\n\r\nQuelle: Railjack Missionen",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/RailjackMiscItems/BaseRailjackItem"
         },
@@ -5738,7 +5738,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/Research/BioComponent",
             "name": "Mutagenmasse",
-            "description": "Diese lebendige Masse kann waffenf\u00e4hige Gifte f\u00fcr Waffen produzieren. \r\n\r\nFundort: Clan-Forschung (Biolabor im Dojo) und Belohnung nach Befallsausbruch Invasion",
+            "description": "Diese lebendige Masse kann waffenf\u00e4hige Gifte f\u00fcr Waffen produzieren. \r\n\r\nQuelle: Clan-Forschung (Biolabor im Dojo) und Belohnung nach Befallsausbruch Invasion",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Research/SampleBase"
         },
@@ -5752,7 +5752,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/Research/ChemComponent",
             "name": "Detonit-Injektor",
-            "description": "Detonit-Injektoren sind die Basis f\u00fcr Explosiv- und Brandwaffen.\r\n\r\nFundort: Clan-Forschung (Chemielabor im Dojo) und Belohnung nach Grineer Invasion",
+            "description": "Detonit-Injektoren sind die Basis f\u00fcr Explosiv- und Brandwaffen.\r\n\r\nQuelle: Clan-Forschung (Chemielabor im Dojo) und Belohnung nach Grineer Invasion",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Research/SampleBase"
         },
@@ -5780,7 +5780,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/Research/EnergyComponent",
             "name": "Fieldron",
-            "description": "Mit ClanTech waffenf\u00e4hig gemachtes Eind\u00e4mmungsfeld, das \u00fcberhitzte Substanzen eind\u00e4mmen kann.\r\n\r\nFundort: Clan-Forschung (Energielabor im Dojo) und Belohnung nach Corpus Invasion",
+            "description": "Mit ClanTech waffenf\u00e4hig gemachtes Eind\u00e4mmungsfeld, das \u00fcberhitzte Substanzen eind\u00e4mmen kann.\r\n\r\nQuelle: Clan-Forschung (Energielabor im Dojo) und Belohnung nach Corpus Invasion",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Research/SampleBase"
         },
@@ -9245,19 +9245,25 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/1999BoybandPoster",
+            "name": "Warframe: 1999 On-lyne Poster",
+            "description": "Celebrate the release of Warframe: 1999 with this poster of the On-lyne boys and their Technocyte Coda counterparts.",
+            "codexSecret": true,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/1999ComicCoverPoster",
-            "name": "Display: Warframe: 1999 Graphika Titelblatt",
+            "name": "Display: Warframe: 1999 Graphika-Titelblatt",
             "description": "Das Titelblatt der Warframe: 1999 Graphika, entworfen von TBG Karu.",
             "codexSecret": true,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/1999OnlyneWallPoster",
-            "name": "[PH] 1999 Onlyne Wall Posters Deco",
-            "description": "[PH] Description",
+            "name": "On-lyne Poster Collage",
+            "description": "Show your love for Zeke, Drillbit, DJ Rom, Hardrive and Packet with this lovingly arranged collection of On-lyne fold-out posters. Who is your favorite?",
             "codexSecret": true,
-            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
-            "excludeFromCodex": true
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/7thAnniversaryPoster",
@@ -11703,6 +11709,14 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/MirageTennobaumBobbleHead",
+            "name": "Noggle-Statue: Tennobaum Mirage",
+            "description": "Eine kleine Wackelfigur von Mirage.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/MummyQuestVessel",
             "name": "Heiliges Gef\u00e4ss",
             "description": "Ein besonderes Relikt aus dem Grabmal des Inaros.",
@@ -12362,7 +12376,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard2024Tennotober",
             "name": "Tennotober 2024 Prex",
-            "description": "Tennotober 2024 Prex card by cyberAntagonist.",
+            "description": "Tennotober 2024 Prex-Karte, erstellt von cyberAntagonist.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
             "excludeFromCodex": true
@@ -13999,6 +14013,15 @@
             "uniqueName": "/Lotus/Types/Items/SongItems/AbyssofDagathSongItem",
             "name": "Anmeldemusik: Abyss of Dagath",
             "description": "Die Anmeldemusik: Abyss of Dagath, die im Orbiter mit Somachord abgespielt werden kann.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/EmpyreanSongItem",
+            "name": "Anmeldemusik: Empyrean",
+            "description": "Die Anmeldemusik: Empyrean, die im Orbiter mit Somachord abgespielt werden kann.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/SongItem",
             "excludeFromCodex": true,
@@ -16938,6 +16961,30 @@
             "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeChassisComponent",
+            "name": "Xaku Prime: Chassis",
+            "description": "Chassis-Komponente f\u00fcr den Xaku Prime Warframe.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+            "primeSellingPrice": 45
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeHelmetComponent",
+            "name": "Xaku Prime: Neuroptik",
+            "description": "Neuroptik-Komponente f\u00fcr den Xaku Prime Warframe.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+            "primeSellingPrice": 15
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeSystemsComponent",
+            "name": "Xaku Prime: Systeme",
+            "description": "Systeme-Komponente f\u00fcr den Xaku Prime Warframe.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+            "primeSellingPrice": 45
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/YareliChassisComponent",
             "name": "Yareli: Chassis",
             "description": "Chassis-Komponente f\u00fcr den Yareli Warframe.",
@@ -19225,6 +19272,22 @@
             "primeSellingPrice": 45
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/QuassusPrimeBlade",
+            "name": "Quassus Prime: Klinge",
+            "description": "Eine Komponente f\u00fcr die Herstellung von Prime Waffen.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 100
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/QuassusPrimeHandle",
+            "name": "Quassus Prime: Griff",
+            "description": "Eine Komponente f\u00fcr die Herstellung von Prime Waffen.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 15
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/RedeemerPrimeBlade",
             "name": "Redeemer Prime: Klinge",
             "description": "Eine Komponente f\u00fcr die Herstellung von Prime Waffen.",
@@ -19833,6 +19896,30 @@
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeBarrel",
+            "name": "Trumna Prime: Lauf",
+            "description": "Eine Komponente f\u00fcr die Herstellung von Prime Waffen.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 100
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeReceiver",
+            "name": "Trumna Prime: Geh\u00e4use",
+            "description": "Eine Komponente f\u00fcr die Herstellung von Prime Waffen.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 100
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeStock",
+            "name": "Trumna Prime: Schaft",
+            "description": "Eine Komponente f\u00fcr die Herstellung von Prime Waffen.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 45
         },
         {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TwinVipersWraithBarrel",

@@ -3973,7 +3973,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
             "name": "\u5948\u7c73\u80de\u5b50",
-            "description": "\u7e96\u7dad\u72c0\u7684 Technocyte \u816b\u7624\u3002\u8acb\u8b39\u614e\u8655\u7406\u611f\u67d3\u8005\u7d44\u7e54\u3002\r\n\r\n\u5730\u9ede\uff1a\u571f\u661f\u3001\u6d77\u738b\u661f\u3001\u9b29\u795e\u661f\u548c\u706b\u885b\u4e8c",
+            "description": "\u7e96\u7dad\u72c0\u7684\u6280\u6539\u7d30\u80de\u816b\u7624\u3002\u8acb\u8b39\u614e\u8655\u7406\u611f\u67d3\u8005\u7d44\u7e54\u3002\r\n\r\n\u5730\u9ede\uff1a\u571f\u661f\u3001\u6d77\u738b\u661f\u3001\u9b29\u795e\u661f\u548c\u706b\u885b\u4e8c",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
@@ -9245,6 +9245,13 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/1999BoybandPoster",
+            "name": "Warframe: 1999 On-lyne Poster",
+            "description": "Celebrate the release of Warframe: 1999 with this poster of the On-lyne boys and their Technocyte Coda counterparts.",
+            "codexSecret": true,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/1999ComicCoverPoster",
             "name": "\u300aWarframe\uff1a1999\u300b\u6f2b\u756b\u518a\u5c01\u9762\u5c55\u793a\u5716",
             "description": "\u300aWarframe\uff1a1999\u300b\u6f2b\u756b\u518a\u7684\u5c01\u9762\uff0c\u85dd\u8853\u7531 TBG Karu \u5275\u4f5c\u3002",
@@ -9253,11 +9260,10 @@
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/1999OnlyneWallPoster",
-            "name": "[PH] 1999 Onlyne Wall Posters Deco",
-            "description": "[PH] Description",
+            "name": "On-lyne Poster Collage",
+            "description": "Show your love for Zeke, Drillbit, DJ Rom, Hardrive and Packet with this lovingly arranged collection of On-lyne fold-out posters. Who is your favorite?",
             "codexSecret": true,
-            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
-            "excludeFromCodex": true
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/7thAnniversaryPoster",
@@ -11703,6 +11709,14 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/MirageTennobaumBobbleHead",
+            "name": "Tennobaum Mirage \u6416\u982d\u5a03\u5a03",
+            "description": "\u4e00\u5c0f\u5ea7 Mirage \u7684\u6416\u982d\u5a03\u5a03\u3002",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/MummyQuestVessel",
             "name": "\u795e\u8056\u5bb9\u5668",
             "description": "\u4f86\u81ea Inaros \u53e4\u5893\u4e2d\u7684\u5947\u602a\u6587\u7269\u3002",
@@ -12361,8 +12375,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCard2024Tennotober",
-            "name": "Tennotober 2024 Prex",
-            "description": "Tennotober 2024 Prex card by cyberAntagonist.",
+            "name": "\u5361\u724c \u2014 Tennotober 2024",
+            "description": "\u7531 cyberAntagonist \u6240\u8a2d\u8a08\u7684\u5361\u724c \u2014 Tennotober 2024\u3002",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
             "excludeFromCodex": true
@@ -13999,6 +14013,15 @@
             "uniqueName": "/Lotus/Types/Items/SongItems/AbyssofDagathSongItem",
             "name": "Dagath \u7684\u6df1\u6df5\u767b\u5165\u756b\u9762\u80cc\u666f\u97f3\u6a02",
             "description": "\u900f\u904e\u8ecc\u9053\u98db\u884c\u5668\u7684\u8eab\u5fc3\u548c\u5f26\u7434\u4f86\u6b23\u8cde Dagath \u7684\u6df1\u6df5\u7684\u767b\u5165\u756b\u9762\u80cc\u666f\u97f3\u6a02\u3002",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/EmpyreanSongItem",
+            "name": "\u4e5d\u91cd\u5929\u767b\u5165\u756b\u9762\u80cc\u666f\u97f3\u6a02",
+            "description": "\u900f\u904e\u8ecc\u9053\u98db\u884c\u5668\u7684\u8eab\u5fc3\u548c\u5f26\u7434\u4f86\u6b23\u8cde\u4e5d\u91cd\u5929\u7684\u767b\u5165\u756b\u9762\u80cc\u666f\u97f3\u6a02\u3002",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/SongItem",
             "excludeFromCodex": true,
@@ -16938,6 +16961,30 @@
             "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeChassisComponent",
+            "name": "Xaku Prime \u6a5f\u9ad4",
+            "description": "Xaku Prime Warframe \u7684\u6a5f\u9ad4\u7d44\u4ef6\u3002",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+            "primeSellingPrice": 45
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeHelmetComponent",
+            "name": "Xaku Prime \u982d\u90e8\u795e\u7d93\u5149\u5143",
+            "description": "Xaku Prime Warframe \u7684\u982d\u90e8\u795e\u7d93\u5149\u5143\u7d44\u4ef6\u3002",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+            "primeSellingPrice": 15
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeSystemsComponent",
+            "name": "Xaku Prime \u7cfb\u7d71",
+            "description": "Xalu Prime Warframe \u7684\u7cfb\u7d71\u7d44\u4ef6\u3002",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem",
+            "primeSellingPrice": 45
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/YareliChassisComponent",
             "name": "Yareli \u6a5f\u9ad4",
             "description": "Yareli Warframe \u7684\u6a5f\u9ad4\u7d44\u4ef6\u3002",
@@ -19225,6 +19272,22 @@
             "primeSellingPrice": 45
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/QuassusPrimeBlade",
+            "name": "\u5938\u745f Prime \u5200\u5203",
+            "description": "\u88fd\u4f5c Prime \u6b66\u5668\u7684\u90e8\u4ef6\u3002",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 100
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/QuassusPrimeHandle",
+            "name": "\u5938\u745f Prime \u63e1\u67c4",
+            "description": "\u88fd\u4f5c Prime \u6b66\u5668\u7684\u90e8\u4ef6\u3002",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 15
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/RedeemerPrimeBlade",
             "name": "\u6551\u8d16\u8005 Prime \u5200\u5203",
             "description": "\u88fd\u4f5c Prime \u6b66\u5668\u7684\u90e8\u4ef6\u3002",
@@ -19833,6 +19896,30 @@
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeBarrel",
+            "name": "\u5275\u75cd\u8005 Prime \u69cd\u7ba1",
+            "description": "\u88fd\u4f5c Prime \u6b66\u5668\u7684\u90e8\u4ef6\u3002",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 100
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeReceiver",
+            "name": "\u5275\u75cd\u8005 Prime \u69cd\u6a5f",
+            "description": "\u88fd\u4f5c Prime \u6b66\u5668\u7684\u90e8\u4ef6\u3002",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 100
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeStock",
+            "name": "\u5275\u75cd\u8005 Prime \u69cd\u6258",
+            "description": "\u88fd\u4f5c Prime \u6b66\u5668\u7684\u90e8\u4ef6\u3002",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "primeSellingPrice": 45
         },
         {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TwinVipersWraithBarrel",

@@ -4073,6 +4073,20 @@
             "description": "kakarrot2812 taraf\u0131ndan dizayn edilen Xaku Warframe skin."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuBrokenAlways",
+            "name": "\u0130skelet",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "[PH] Description"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuBrokenNever",
+            "name": "B\u00fct\u00fcn",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "[PH] Description"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuDeluxeHelmet",
             "name": "Xaku Kagura Mi\u011ffer",
             "codexSecret": false,
@@ -4083,6 +4097,19 @@
             "name": "Xaku Kagura Skin",
             "codexSecret": false,
             "description": "Asil bir hayat ya\u015fayanlar yald\u0131zl\u0131 yaralarla onurland\u0131r\u0131l\u0131r."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuPrimeHelmet",
+            "name": "Xaku Prime Mi\u011ffer",
+            "codexSecret": false,
+            "description": "Xaku Prime Warframe i\u00e7in standart mi\u011ffer."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuPrimeSkin",
+            "name": "Xaku Prime Skin",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Xaku Prime Warframe i\u00e7in standart skin."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Camo/AkimboViperCamo",
@@ -6288,13 +6315,13 @@
             "uniqueName": "/Lotus/Upgrades/Skins/Effects/Conquera2022Ephemera",
             "name": "Conquera II Ephemera",
             "codexSecret": false,
-            "description": "Bu \u00e7i\u00e7ekli Ephemera'y\u0131 Kanser Hastal\u0131\u011f\u0131n\u0131 Yenme Questine destek vermek i\u00e7in ku\u015fan."
+            "description": "Bu \u00e7i\u00e7ekli Ephemera'y\u0131 Kanseri Fethetme Questine destek vermek i\u00e7in ku\u015fan."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Effects/ConqueraEphemera",
             "name": "Conquera Ephemera",
             "codexSecret": false,
-            "description": "Bu kurdele Ephemera'y\u0131 Kanser Hastal\u0131\u011f\u0131n\u0131 Yenme Questine destek vermek i\u00e7in ku\u015fan."
+            "description": "Bu kurdele Ephemera'y\u0131 Kanseri Fethetme Questine destek vermek i\u00e7in ku\u015fan."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Effects/CorpusLichEphemeraA",
@@ -13403,6 +13430,12 @@
             "description": "Ger\u00e7eklikler aras\u0131nda gidip gelme g\u00fcc\u00fcne sahip birine yak\u0131\u015f\u0131r bir g\u00f6r\u00fcn\u00fcm. Gezgin i\u00e7in uyarland\u0131."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultPrimeE",
+            "name": "Necra Prime G\u00f6\u011f\u00fcs Z\u0131rh\u0131 (Gezgin)",
+            "codexSecret": false,
+            "description": "Nekrotik vurgular Entrati ailesine \u00f6zg\u00fc esteti\u011fin g\u00f6r\u00fcnt\u00fclerini ya\u015fat\u0131yor. Belki de Void'e bakanlar\u0131n l\u00fcks ve t\u00fckenmenin birle\u015fiminde g\u00fczelli\u011fi nas\u0131l bulduklar\u0131na dair bir ders vard\u0131r."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitArabic",
             "name": "Operat\u00f6r Feldune Kost\u00fcm\u00fc",
             "codexSecret": false,
@@ -13518,6 +13551,12 @@
             "name": "Clearvoy Prime Kost\u00fcm\u00fc (Operat\u00f6r)",
             "codexSecret": false,
             "description": "Ger\u00e7eklikler aras\u0131nda gidip gelme g\u00fcc\u00fcne sahip birine yak\u0131\u015f\u0131r bir g\u00f6r\u00fcn\u00fcm. Operat\u00f6r i\u00e7in uyarland\u0131."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitPrimeE",
+            "name": "Necra Prime G\u00f6\u011f\u00fcs Z\u0131rh\u0131 (Operat\u00f6r)",
+            "codexSecret": false,
+            "description": "Nekrotik vurgular Entrati ailesine \u00f6zg\u00fc esteti\u011fin g\u00f6r\u00fcnt\u00fclerini ya\u015fat\u0131yor. Belki de Void'e bakanlar\u0131n l\u00fcks ve t\u00fckenmenin birle\u015fiminde g\u00fczelli\u011fi nas\u0131l bulduklar\u0131na dair bir ders vard\u0131r."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitZephyrDeluxe",
@@ -14364,6 +14403,18 @@
             "description": "Ger\u00e7eklikler aras\u0131nda gidip gelme g\u00fcc\u00fcne sahip birine yak\u0131\u015f\u0131r bir g\u00f6r\u00fcn\u00fcm. Gezgin i\u00e7in uyarland\u0131."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeE",
+            "name": "Necra Prime Ba\u015fl\u0131k (Gezgin)",
+            "codexSecret": false,
+            "description": "Nekrotik vurgular Entrati ailesine \u00f6zg\u00fc esteti\u011fin g\u00f6r\u00fcnt\u00fclerini ya\u015fat\u0131yor. Belki de Void'e bakanlar\u0131n l\u00fcks ve t\u00fckenmenin birle\u015fiminde g\u00fczelli\u011fi nas\u0131l bulduklar\u0131na dair bir ders vard\u0131r."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeEChina",
+            "name": "Necra Prime Vitalis Ba\u015fl\u0131k (Gezgin)",
+            "codexSecret": false,
+            "description": "Nekrotik vurgular Entrati ailesine \u00f6zg\u00fc esteti\u011fin g\u00f6r\u00fcnt\u00fclerini ya\u015fat\u0131yor. Belki de Void'e bakanlar\u0131n l\u00fcks ve t\u00fckenmenin birle\u015fiminde g\u00fczelli\u011fi nas\u0131l bulduklar\u0131na dair bir ders vard\u0131r."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodArabic",
             "name": "Operat\u00f6r Feldune Ba\u015fl\u0131\u011f\u0131",
             "codexSecret": false,
@@ -14497,6 +14548,18 @@
             "name": "Clearvoy Prime Ba\u015fl\u0131k (Operat\u00f6r)",
             "codexSecret": false,
             "description": "Ger\u00e7eklikler aras\u0131nda gidip gelme g\u00fcc\u00fcne sahip birine yak\u0131\u015f\u0131r bir g\u00f6r\u00fcn\u00fcm. Operat\u00f6r i\u00e7in uyarland\u0131."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeE",
+            "name": "Necra Prime Ba\u015fl\u0131k (Operat\u00f6r)",
+            "codexSecret": false,
+            "description": "Nekrotik vurgular Entrati ailesine \u00f6zg\u00fc esteti\u011fin g\u00f6r\u00fcnt\u00fclerini ya\u015fat\u0131yor. Belki de Void'e bakanlar\u0131n l\u00fcks ve t\u00fckenmenin birle\u015fiminde g\u00fczelli\u011fi nas\u0131l bulduklar\u0131na dair bir ders vard\u0131r."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeEChina",
+            "name": "Necra Prime Vitalis Ba\u015fl\u0131k (Operat\u00f6r)",
+            "codexSecret": false,
+            "description": "Nekrotik vurgular Entrati ailesine \u00f6zg\u00fc esteti\u011fin g\u00f6r\u00fcnt\u00fclerini ya\u015fat\u0131yor. Belki de Void'e bakanlar\u0131n l\u00fcks ve t\u00fckenmenin birle\u015fiminde g\u00fczelli\u011fi nas\u0131l bulduklar\u0131na dair bir ders vard\u0131r."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodZephyrDeluxe",
@@ -14684,6 +14747,12 @@
             "description": "Ger\u00e7eklikler aras\u0131nda gidip gelme g\u00fcc\u00fcne sahip birine yak\u0131\u015f\u0131r bir g\u00f6r\u00fcn\u00fcm. Gezgin i\u00e7in uyarland\u0131."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultPrimeE",
+            "name": "Necra Prime Bacak Z\u0131rh\u0131 (Gezgin)",
+            "codexSecret": false,
+            "description": "Nekrotik vurgular Entrati ailesine \u00f6zg\u00fc esteti\u011fin g\u00f6r\u00fcnt\u00fclerini ya\u015fat\u0131yor. Belki de Void'e bakanlar\u0131n l\u00fcks ve t\u00fckenmenin birle\u015fiminde g\u00fczelli\u011fi nas\u0131l bulduklar\u0131na dair bir ders vard\u0131r."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsArabic",
             "name": "Operat\u00f6r Feldune Pantolonu",
             "codexSecret": false,
@@ -14799,6 +14868,12 @@
             "name": "Clearvoy Prime Pantolonu (Operat\u00f6r)",
             "codexSecret": false,
             "description": "Ger\u00e7eklikler aras\u0131nda gidip gelme g\u00fcc\u00fcne sahip birine yak\u0131\u015f\u0131r bir g\u00f6r\u00fcn\u00fcm. Operat\u00f6r i\u00e7in uyarland\u0131."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsPrimeE",
+            "name": "Necra Prime Bacak Z\u0131rh\u0131 (Operat\u00f6r)",
+            "codexSecret": false,
+            "description": "Nekrotik vurgular Entrati ailesine \u00f6zg\u00fc esteti\u011fin g\u00f6r\u00fcnt\u00fclerini ya\u015fat\u0131yor. Belki de Void'e bakanlar\u0131n l\u00fcks ve t\u00fckenmenin birle\u015fiminde g\u00fczelli\u011fi nas\u0131l bulduklar\u0131na dair bir ders vard\u0131r."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsZephyrDeluxe",
@@ -15116,6 +15191,12 @@
             "description": "Ger\u00e7eklikler aras\u0131nda gidip gelme g\u00fcc\u00fcne sahip birine yak\u0131\u015f\u0131r bir g\u00f6r\u00fcn\u00fcm. Gezgin i\u00e7in uyarland\u0131."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultPrimeE",
+            "name": "Necra Prime Omuzluklar\u0131 (Gezgin)",
+            "codexSecret": false,
+            "description": "Nekrotik vurgular Entrati ailesine \u00f6zg\u00fc esteti\u011fin g\u00f6r\u00fcnt\u00fclerini ya\u015fat\u0131yor. Belki de Void'e bakanlar\u0131n l\u00fcks ve t\u00fckenmenin birle\u015fiminde g\u00fczelli\u011fi nas\u0131l bulduklar\u0131na dair bir ders vard\u0131r."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesArabic",
             "name": "Operat\u00f6r Feldune Kolluklar\u0131",
             "codexSecret": false,
@@ -15233,6 +15314,12 @@
             "description": "Ger\u00e7eklikler aras\u0131nda gidip gelme g\u00fcc\u00fcne sahip birine yak\u0131\u015f\u0131r bir g\u00f6r\u00fcn\u00fcm. Operat\u00f6r i\u00e7in uyarland\u0131."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesPrimeE",
+            "name": "Necra Prime Omuzluklar\u0131 (Operat\u00f6r)",
+            "codexSecret": false,
+            "description": "Nekrotik vurgular Entrati ailesine \u00f6zg\u00fc esteti\u011fin g\u00f6r\u00fcnt\u00fclerini ya\u015fat\u0131yor. Belki de Void'e bakanlar\u0131n l\u00fcks ve t\u00fckenmenin birle\u015fiminde g\u00fczelli\u011fi nas\u0131l bulduklar\u0131na dair bir ders vard\u0131r."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesZephyrDeluxe",
             "name": "Harrier Kolluklar\u0131",
             "codexSecret": false,
@@ -15242,37 +15329,37 @@
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooCorpusA",
             "name": "Hava Kilidi Boyas\u0131",
             "codexSecret": false,
-            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden \u015feyleri iletebilir."
+            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooCorpusB",
             "name": "G\u00f6vde \u0130hlali Boyas\u0131",
             "codexSecret": false,
-            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden \u015feyleri iletebilir."
+            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooCorpusC",
             "name": "Soydan Gelen Boyas\u0131",
             "codexSecret": false,
-            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden \u015feyleri iletebilir."
+            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooCorpusD",
             "name": "Gelecek Boyas\u0131",
             "codexSecret": false,
-            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden \u015feyleri iletebilir."
+            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooCorpusE",
             "name": "B\u00f6l\u00fcnen Boyas\u0131",
             "codexSecret": false,
-            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden \u015feyleri iletebilir."
+            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooDuviriA",
             "name": "Verula Boyas\u0131",
             "codexSecret": false,
-            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden \u015feyleri iletebilir."
+            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooDuviriB",
@@ -15284,19 +15371,19 @@
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooDuviriC",
             "name": "Akademi Boyas\u0131",
             "codexSecret": false,
-            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden \u015feyleri iletebilir."
+            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooDuviriD",
             "name": "Kiai Boyas\u0131",
             "codexSecret": false,
-            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden \u015feyleri iletebilir."
+            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooDuviriE",
             "name": "Rota Boyas\u0131",
             "codexSecret": false,
-            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden \u015feyleri iletebilir."
+            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooDuviriF",
@@ -15315,56 +15402,56 @@
             "name": "Gneissic Boyas\u0131 (Orta Pigmentli)",
             "codexSecret": true,
             "excludeFromCodex": true,
-            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden \u015feyleri iletebilir."
+            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooGeodeBlack",
             "name": "Gneissic Boyas\u0131",
             "codexSecret": false,
-            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden \u015feyleri iletebilir."
+            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooGeodeGrey",
             "name": "Gneissic Boyas\u0131 (Hafif Pigmentli)",
             "codexSecret": true,
             "excludeFromCodex": true,
-            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden \u015feyleri iletebilir."
+            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooGrineerA",
             "name": "K\u00fcpe\u015fte Boyas\u0131",
             "codexSecret": false,
-            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden \u015feyleri iletebilir."
+            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooGrineerB",
             "name": "Exome Boyas\u0131",
             "codexSecret": false,
-            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden \u015feyleri iletebilir."
+            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooGrineerC",
             "name": "Avc\u0131 Boyas\u0131",
             "codexSecret": false,
-            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden \u015feyleri iletebilir."
+            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooGrineerD",
             "name": "Ku\u015fatma Boyas\u0131",
             "codexSecret": false,
-            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden \u015feyleri iletebilir."
+            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooGrineerE",
             "name": "Helix Boyas\u0131",
             "codexSecret": false,
-            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden \u015feyleri iletebilir."
+            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooLoveFlower",
             "name": "Tutku Boyas\u0131",
             "codexSecret": false,
-            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden \u015feyleri iletebilir."
+            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooLoveFlowerB",
@@ -15376,13 +15463,13 @@
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooLoveHeart",
             "name": "Eros Dokunu\u015fu Boyas\u0131",
             "codexSecret": false,
-            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden \u015feyleri iletebilir."
+            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooLoveRose",
             "name": "Sevgi Boyas\u0131",
             "codexSecret": false,
-            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden \u015feyleri iletebilir."
+            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooTennoG",
@@ -18492,6 +18579,12 @@
             "name": "Altra Prime Syandana",
             "codexSecret": false,
             "description": "Altra'n\u0131n Azizine yak\u0131\u015fan bir \u00f6rt\u00fc."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeArtifexSyandana",
+            "name": "Artifex Prime Syandana",
+            "codexSecret": false,
+            "description": "Orokin elitlerine lay\u0131k g\u00f6rkemli bir stil ile yeniden tasarlanm\u0131\u015f tekno-organik bir Syandana."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeAviaSyandana",

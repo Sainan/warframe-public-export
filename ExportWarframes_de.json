@@ -3722,6 +3722,44 @@
             "productCategory": "Suits"
         },
         {
+            "uniqueName": "/Lotus/Powersuits/BrokenFrame/XakuPrime",
+            "name": "Xaku Prime",
+            "parentName": "/Lotus/Powersuits/BrokenFrame/BrokenFrameBaseSuit",
+            "description": "Das Kind des Krieges und des Voids wird in Gold wiedergeboren. Was einst zerschmettert wurde, wird sich st\u00e4rker erheben als das, was nie zerbrochen wurde.",
+            "health": 269,
+            "shield": 263,
+            "armor": 167,
+            "stamina": 3,
+            "power": 181,
+            "codexSecret": false,
+            "masteryReq": 0,
+            "sprintSpeed": 1.0700001,
+            "passiveDescription": "|CHANCE| % Schadensreduktion bei Fl\u00e4chenangriffen und Chance, eingehenden Waffenschaden zu vermeiden.",
+            "abilities": [
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenRotAbility",
+                    "abilityName": "Xatas Fl\u00fcstern",
+                    "description": "F\u00fcge bei Aktivierung allen Angriffen von ausger\u00fcsteten Waffen <DT_RADIANT_COLOR>Void-Schaden hinzu."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenGraspAbility",
+                    "abilityName": "Lohks Griff",
+                    "description": "Void-Ranken stehlen die Waffen von nahen Gegnern und nutzen sie dann als schwebende, automatisch zielende Gesch\u00fctze. Verursachter Schaden erh\u00f6ht sich basierend auf dem Gegnerlevel. Die Anzahl der ergriffenen Waffen bestimmt auch den Schadensmultiplikator des Void-Strahls von \"Der Verlorene: Leugnen\"."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenEmbraceAbility",
+                    "abilityName": "Der Verlorene",
+                    "description": "Wechsele durch drei verlorene Warframe-Kr\u00e4fte. \"Beschuldigen\" manifestiert einen Void-Riss, der Feinde zu Verb\u00fcndeten korrumpiert. \"Starrer Blick\" setzt Ziele mit Void-Ranken fest, die Schaden auffangen und ihn austeilen, wenn das Ziel losgelassen wird. \"Leugnen\" zerst\u00f6rt mit einem Strahl aus Void-Energie und entfernt Widerst\u00e4nde von Sentients."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenDestructAbility",
+                    "abilityName": "Die gewaltige Unzeit",
+                    "description": "Sprengt vor\u00fcbergehend die \u00e4u\u00dferen Teile von Xaku in einer destruktiven Explosion ab und beschreitet das Schlachtfeld dann in flinkerer, skeletaler Form. Gegner, die von Schrapnell getroffen werden, sind gegen <DT_RADIANT_COLOR>Void-Schaden geschw\u00e4cht. Die Dauer von Xakus anderen aktiven F\u00e4higkeiten wird in der Zeit eingefroren und wieder fortgesetzt, sobald \"Die gewaltige Unzeit\" abl\u00e4uft."
+                }
+            ],
+            "productCategory": "Suits"
+        },
+        {
             "uniqueName": "/Lotus/Powersuits/BrokenFrame/BrokenFrame",
             "name": "Xaku",
             "parentName": "/Lotus/Powersuits/BrokenFrame/BrokenFrameBaseSuit",

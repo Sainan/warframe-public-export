@@ -4073,6 +4073,20 @@
             "description": "Una Skin per il Warframe Xaku, ideata da kakarrot2812."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuBrokenAlways",
+            "name": "Scheletrico",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "[PH] Description"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuBrokenNever",
+            "name": "Corporeo",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "[PH] Description"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuDeluxeHelmet",
             "name": "Elmo Xaku Kagura",
             "codexSecret": false,
@@ -4083,6 +4097,19 @@
             "name": "Skin Xaku Kagura",
             "codexSecret": false,
             "description": "Coloro che conducono una vita nobile portano con onore le cicatrici dorate."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuPrimeHelmet",
+            "name": "Elmo Xaku Prime",
+            "codexSecret": false,
+            "description": "Elmo standard per il Warframe Xaku Prime."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuPrimeSkin",
+            "name": "Skin Xaku Prime",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "La skin standard per il Warframe Xaku Prime."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Camo/AkimboViperCamo",
@@ -13403,6 +13430,12 @@
             "description": "Un aspetto degno di chi ha il potere di cavalcare la realt\u00e0. Su misura per il Drifter."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultPrimeE",
+            "name": "Corazza Necra Prime (Drifter)",
+            "codexSecret": false,
+            "description": "Accenti necrotici definiscono questa testimonianza dell'estetica della famiglia Entrati. Forse c'\u00e8 una lezione da imparare da come coloro che guardano dentro al Void trovino la bellezza nella fusione tra lusso e oblio."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitArabic",
             "name": "Tuta Feldune - Operatore",
             "codexSecret": false,
@@ -13518,6 +13551,12 @@
             "name": "Tuta Clearvoy Prime (Operatore)",
             "codexSecret": false,
             "description": "Un aspetto degno di chi ha il potere di cavalcare la realt\u00e0. Su misura per l'Operatore."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitPrimeE",
+            "name": "Corazza Necra Prime (Operatore)",
+            "codexSecret": false,
+            "description": "Accenti necrotici definiscono questa testimonianza dell'estetica della famiglia Entrati. Forse c'\u00e8 una lezione da imparare da come coloro che guardano dentro al Void trovino la bellezza nella fusione tra lusso e oblio."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitZephyrDeluxe",
@@ -14364,6 +14403,18 @@
             "description": "Un aspetto degno di chi ha il potere di cavalcare la realt\u00e0. Su misura per il Drifter."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeE",
+            "name": "Cappuccio Necra Prime (Drifter)",
+            "codexSecret": false,
+            "description": "Accenti necrotici definiscono questa testimonianza dell'estetica della famiglia Entrati. Forse c'\u00e8 una lezione da imparare da come coloro che guardano dentro al Void trovino la bellezza nella fusione tra lusso e oblio."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeEChina",
+            "name": "Cappuccio Necra Vitalis Prime (Drifter)",
+            "codexSecret": false,
+            "description": "Accenti necrotici definiscono questa testimonianza dell'estetica della famiglia Entrati. Forse c'\u00e8 una lezione da imparare da come coloro che guardano dentro al Void trovino la bellezza nella fusione tra lusso e oblio."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodArabic",
             "name": "Cappuccio Feldune - Operatore",
             "codexSecret": false,
@@ -14497,6 +14548,18 @@
             "name": "Cappuccio Clearvoy Prime (Operatore)",
             "codexSecret": false,
             "description": "Un aspetto degno di chi ha il potere di cavalcare la realt\u00e0. Su misura per l'Operatore."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeE",
+            "name": "Cappuccio Necra Prime (Operatore)",
+            "codexSecret": false,
+            "description": "Accenti necrotici definiscono questa testimonianza dell'estetica della famiglia Entrati. Forse c'\u00e8 una lezione da imparare da come coloro che guardano dentro al Void trovino la bellezza nella fusione tra lusso e oblio."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeEChina",
+            "name": "Cappuccio Necra Vitalis Prime (Operatore)",
+            "codexSecret": false,
+            "description": "Accenti necrotici definiscono questa testimonianza dell'estetica della famiglia Entrati. Forse c'\u00e8 una lezione da imparare da come coloro che guardano dentro al Void trovino la bellezza nella fusione tra lusso e oblio."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodZephyrDeluxe",
@@ -14684,6 +14747,12 @@
             "description": "Un aspetto degno di chi ha il potere di cavalcare la realt\u00e0. Su misura per il Drifter."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultPrimeE",
+            "name": "Gambali Necra Prime (Drifter)",
+            "codexSecret": false,
+            "description": "Accenti necrotici definiscono questa testimonianza dell'estetica della famiglia Entrati. Forse c'\u00e8 una lezione da imparare da come coloro che guardano dentro al Void trovino la bellezza nella fusione tra lusso e oblio."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsArabic",
             "name": "Pantaloni Feldune - Operatore",
             "codexSecret": false,
@@ -14799,6 +14868,12 @@
             "name": "Pantaloni Clearvoy Prime (Operatore)",
             "codexSecret": false,
             "description": "Un aspetto degno di chi ha il potere di cavalcare la realt\u00e0. Su misura per l'Operatore."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsPrimeE",
+            "name": "Gambali Necra Prime (Operatore)",
+            "codexSecret": false,
+            "description": "Accenti necrotici definiscono questa testimonianza dell'estetica della famiglia Entrati. Forse c'\u00e8 una lezione da imparare da come coloro che guardano dentro al Void trovino la bellezza nella fusione tra lusso e oblio."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsZephyrDeluxe",
@@ -15116,6 +15191,12 @@
             "description": "Un aspetto degno di chi ha il potere di cavalcare la realt\u00e0. Su misura per il Drifter."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultPrimeE",
+            "name": "Spallacci Necra Prime (Drifter)",
+            "codexSecret": false,
+            "description": "Accenti necrotici definiscono questa testimonianza dell'estetica della famiglia Entrati. Forse c'\u00e8 una lezione da imparare da come coloro che guardano dentro al Void trovino la bellezza nella fusione tra lusso e oblio."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesArabic",
             "name": "Maniche Feldune - Operatore",
             "codexSecret": false,
@@ -15231,6 +15312,12 @@
             "name": "Maniche Clearvoy Prime (Operatore)",
             "codexSecret": false,
             "description": "Un aspetto degno di chi ha il potere di cavalcare la realt\u00e0. Su misura per l'Operatore."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesPrimeE",
+            "name": "Spallacci Necra Prime (Operatore)",
+            "codexSecret": false,
+            "description": "Accenti necrotici definiscono questa testimonianza dell'estetica della famiglia Entrati. Forse c'\u00e8 una lezione da imparare da come coloro che guardano dentro al Void trovino la bellezza nella fusione tra lusso e oblio."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesZephyrDeluxe",
@@ -18492,6 +18579,12 @@
             "name": "Syandana Altra Prime",
             "codexSecret": false,
             "description": "Un indumento splendente che si addice al Redentore di Altra."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeArtifexSyandana",
+            "name": "Syandana Artifex Prime",
+            "codexSecret": false,
+            "description": "Una Syandana tecno-organica, ripensata con un tocco regale degno dell'\u00e9lite Orokin."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeAviaSyandana",

@@ -3722,6 +3722,44 @@
             "productCategory": "Suits"
         },
         {
+            "uniqueName": "/Lotus/Powersuits/BrokenFrame/XakuPrime",
+            "name": "Xaku Prime",
+            "parentName": "/Lotus/Powersuits/BrokenFrame/BrokenFrameBaseSuit",
+            "description": "The child of war and void is reborn in gold. That which was once shattered may rise stronger than that which was never broken.",
+            "health": 269,
+            "shield": 263,
+            "armor": 167,
+            "stamina": 3,
+            "power": 181,
+            "codexSecret": false,
+            "masteryReq": 0,
+            "sprintSpeed": 1.0700001,
+            "passiveDescription": "|CHANCE|% Damage Reduction on AOE attacks and chance to avoid incoming weapon damage.",
+            "abilities": [
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenRotAbility",
+                    "abilityName": "Xata's Whisper",
+                    "description": "Wield <DT_RADIANT_COLOR>Void Damage for all attacks from equipped weapons when activated."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenGraspAbility",
+                    "abilityName": "Grasp of Lohk",
+                    "description": "Void Tendrils steal weapons from nearby enemies to use as your own floating, auto-targeting armament. Damage output increases based on enemy level. The number of weapons grabbed also determines the damage multiplier for The Lost: Deny's Void beam."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenEmbraceAbility",
+                    "abilityName": "The Lost",
+                    "description": "Cycle through a trio of lost Warframe powers. Accuse manifests a Void fissure to corrupt enemies into allies. Gaze grasps targets in Void tendrils that capture damage and inflict it when the target is released. Deny annihilates with a beam of Void energy, wiping Sentient resistances."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenDestructAbility",
+                    "abilityName": "The Vast Untime",
+                    "description": "Temporarily shed the outer pieces of Xaku in a destructive blast, then stalk the battlefield in a new, swifter skeletal form. Enemies damaged by the body shrapnel are rendered weaker to <DT_RADIANT_COLOR>Void Damage. Xaku's other active abilities' duration is frozen in time and resumes once The Vast Untime expires."
+                }
+            ],
+            "productCategory": "Suits"
+        },
+        {
             "uniqueName": "/Lotus/Powersuits/BrokenFrame/BrokenFrame",
             "name": "Xaku",
             "parentName": "/Lotus/Powersuits/BrokenFrame/BrokenFrameBaseSuit",

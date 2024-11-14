@@ -4073,6 +4073,20 @@
             "description": "Xaku \u6218\u7532\u7684\u5916\u89c2\uff0c\u7531 kakarrot2812 \u8bbe\u8ba1\u3002"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuBrokenAlways",
+            "name": "Skeletal",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "[PH] Description"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuBrokenNever",
+            "name": "Corporeal",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "[PH] Description"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuDeluxeHelmet",
             "name": "Xaku \u795e\u4e50\u5934\u76d4",
             "codexSecret": false,
@@ -4083,6 +4097,19 @@
             "name": "Xaku \u795e\u4e50\u5916\u89c2",
             "codexSecret": false,
             "description": "\u90a3\u4e9b\u8fc7\u7740\u9ad8\u5c1a\u751f\u6d3b\u7684\u4eba\u80cc\u8d1f\u7740\u9540\u91d1\u4f24\u75a4\u6240\u5e26\u6765\u7684\u8363\u8000\u3002"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuPrimeHelmet",
+            "name": "Xaku Prime \u5934\u76d4",
+            "codexSecret": false,
+            "description": "Xaku Prime \u6218\u7532\u7684\u6807\u51c6\u5934\u76d4\u3002"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuPrimeSkin",
+            "name": "Xaku Prime \u5916\u89c2",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Xaku Prime \u6218\u7532\u7684\u6807\u51c6\u5916\u89c2\u914d\u7f6e\u3002"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Camo/AkimboViperCamo",
@@ -13403,6 +13430,12 @@
             "description": "\u552f\u6709\u638c\u63a7\u73b0\u5b9e\u4e4b\u529b\uff0c\u65b9\u80fd\u5f97\u6b64\u7ee3\u7f57\u8863\u88f3\u3002\u9002\u7528\u4e8e\u6f02\u6cca\u8005\u3002"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultPrimeE",
+            "name": "\u6b81\u4e16 Prime \u80f8\u7532\uff08\u6f02\u6cca\u8005\uff09",
+            "codexSecret": false,
+            "description": "\u8150\u751f\u7684\u7279\u8d28\u662f\u82f1\u62e9\u8c1b\u5bb6\u65cf\u7f8e\u5b66\u7684\u89c1\u8bc1\u3002\u4e5f\u8bb8\u8fd9\u662f\u4e00\u4e2a\u6559\u8bad\uff0c\u544a\u8bc9\u90a3\u4e9b\u51dd\u89c6\u865a\u7a7a\u7684\u4eba\u5982\u4f55\u5728\u5962\u534e\u4e0e\u865a\u65e0\u7684\u878d\u5408\u4e2d\u53d1\u73b0\u7f8e\u3002"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitArabic",
             "name": "\u6307\u6325\u5b98\u5760\u6c99\u5957\u670d",
             "codexSecret": false,
@@ -13518,6 +13551,12 @@
             "name": "\u660e\u89c1\u8005 Prime \u5957\u670d\uff08\u6307\u6325\u5b98\uff09",
             "codexSecret": false,
             "description": "\u552f\u6709\u638c\u63a7\u73b0\u5b9e\u4e4b\u529b\uff0c\u65b9\u80fd\u5f97\u6b64\u7ee3\u7f57\u8863\u88f3\u3002\u9002\u7528\u4e8e\u6307\u6325\u5b98\u3002"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitPrimeE",
+            "name": "\u6b81\u4e16 Prime \u80f8\u7532\uff08\u6307\u6325\u5b98\uff09",
+            "codexSecret": false,
+            "description": "\u8150\u751f\u7684\u7279\u8d28\u662f\u82f1\u62e9\u8c1b\u5bb6\u65cf\u7f8e\u5b66\u7684\u89c1\u8bc1\u3002\u4e5f\u8bb8\u8fd9\u662f\u4e00\u4e2a\u6559\u8bad\uff0c\u544a\u8bc9\u90a3\u4e9b\u51dd\u89c6\u865a\u7a7a\u7684\u4eba\u5982\u4f55\u5728\u5962\u534e\u4e0e\u865a\u65e0\u7684\u878d\u5408\u4e2d\u53d1\u73b0\u7f8e\u3002"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitZephyrDeluxe",
@@ -14364,6 +14403,18 @@
             "description": "\u552f\u6709\u638c\u63a7\u73b0\u5b9e\u4e4b\u529b\uff0c\u65b9\u80fd\u5f97\u6b64\u7ee3\u7f57\u8863\u88f3\u3002\u9002\u7528\u4e8e\u6f02\u6cca\u8005\u3002"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeE",
+            "name": "\u6b81\u4e16 Prime \u5934\u7f69\uff08\u6f02\u6cca\u8005\uff09",
+            "codexSecret": false,
+            "description": "\u8150\u751f\u7684\u7279\u8d28\u662f\u82f1\u62e9\u8c1b\u5bb6\u65cf\u7f8e\u5b66\u7684\u89c1\u8bc1\u3002\u4e5f\u8bb8\u8fd9\u662f\u4e00\u4e2a\u6559\u8bad\uff0c\u544a\u8bc9\u90a3\u4e9b\u51dd\u89c6\u865a\u7a7a\u7684\u4eba\u5982\u4f55\u5728\u5962\u534e\u4e0e\u865a\u65e0\u7684\u878d\u5408\u4e2d\u53d1\u73b0\u7f8e\u3002"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeEChina",
+            "name": "Necra Prime Vitalis Hood (Drifter)",
+            "codexSecret": false,
+            "description": "\u8150\u751f\u7684\u7279\u8d28\u662f\u82f1\u62e9\u8c1b\u5bb6\u65cf\u7f8e\u5b66\u7684\u89c1\u8bc1\u3002\u4e5f\u8bb8\u8fd9\u662f\u4e00\u4e2a\u6559\u8bad\uff0c\u544a\u8bc9\u90a3\u4e9b\u51dd\u89c6\u865a\u7a7a\u7684\u4eba\u5982\u4f55\u5728\u5962\u534e\u4e0e\u865a\u65e0\u7684\u878d\u5408\u4e2d\u53d1\u73b0\u7f8e\u3002"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodArabic",
             "name": "\u6307\u6325\u5b98\u5760\u6c99\u5934\u7f69",
             "codexSecret": false,
@@ -14497,6 +14548,18 @@
             "name": "\u660e\u89c1\u8005 Prime \u5934\u7f69\uff08\u6307\u6325\u5b98\uff09",
             "codexSecret": false,
             "description": "\u552f\u6709\u638c\u63a7\u73b0\u5b9e\u4e4b\u529b\uff0c\u65b9\u80fd\u5f97\u6b64\u7ee3\u7f57\u8863\u88f3\u3002\u9002\u7528\u4e8e\u6307\u6325\u5b98\u3002"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeE",
+            "name": "\u6b81\u4e16 Prime \u5934\u7f69\uff08\u6307\u6325\u5b98\uff09",
+            "codexSecret": false,
+            "description": "\u8150\u751f\u7684\u7279\u8d28\u662f\u82f1\u62e9\u8c1b\u5bb6\u65cf\u7f8e\u5b66\u7684\u89c1\u8bc1\u3002\u4e5f\u8bb8\u8fd9\u662f\u4e00\u4e2a\u6559\u8bad\uff0c\u544a\u8bc9\u90a3\u4e9b\u51dd\u89c6\u865a\u7a7a\u7684\u4eba\u5982\u4f55\u5728\u5962\u534e\u4e0e\u865a\u65e0\u7684\u878d\u5408\u4e2d\u53d1\u73b0\u7f8e\u3002"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeEChina",
+            "name": "Necra Prime Vitalis Hood (Operator)",
+            "codexSecret": false,
+            "description": "\u8150\u751f\u7684\u7279\u8d28\u662f\u82f1\u62e9\u8c1b\u5bb6\u65cf\u7f8e\u5b66\u7684\u89c1\u8bc1\u3002\u4e5f\u8bb8\u8fd9\u662f\u4e00\u4e2a\u6559\u8bad\uff0c\u544a\u8bc9\u90a3\u4e9b\u51dd\u89c6\u865a\u7a7a\u7684\u4eba\u5982\u4f55\u5728\u5962\u534e\u4e0e\u865a\u65e0\u7684\u878d\u5408\u4e2d\u53d1\u73b0\u7f8e\u3002"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodZephyrDeluxe",
@@ -14684,6 +14747,12 @@
             "description": "\u552f\u6709\u638c\u63a7\u73b0\u5b9e\u4e4b\u529b\uff0c\u65b9\u80fd\u5f97\u6b64\u7ee3\u7f57\u8863\u88f3\u3002\u9002\u7528\u4e8e\u6f02\u6cca\u8005\u3002"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultPrimeE",
+            "name": "\u6b81\u4e16 Prime \u62a4\u80eb\uff08\u6f02\u6cca\u8005\uff09",
+            "codexSecret": false,
+            "description": "\u8150\u751f\u7684\u7279\u8d28\u662f\u82f1\u62e9\u8c1b\u5bb6\u65cf\u7f8e\u5b66\u7684\u89c1\u8bc1\u3002\u4e5f\u8bb8\u8fd9\u662f\u4e00\u4e2a\u6559\u8bad\uff0c\u544a\u8bc9\u90a3\u4e9b\u51dd\u89c6\u865a\u7a7a\u7684\u4eba\u5982\u4f55\u5728\u5962\u534e\u4e0e\u865a\u65e0\u7684\u878d\u5408\u4e2d\u53d1\u73b0\u7f8e\u3002"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsArabic",
             "name": "\u6307\u6325\u5b98\u5760\u6c99\u88e4\u88c5",
             "codexSecret": false,
@@ -14799,6 +14868,12 @@
             "name": "\u660e\u89c1\u8005 Prime \u7ed1\u817f\uff08\u6307\u6325\u5b98\uff09",
             "codexSecret": false,
             "description": "\u552f\u6709\u638c\u63a7\u73b0\u5b9e\u4e4b\u529b\uff0c\u65b9\u80fd\u5f97\u6b64\u7ee3\u7f57\u8863\u88f3\u3002\u9002\u7528\u4e8e\u6307\u6325\u5b98\u3002"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsPrimeE",
+            "name": "\u6b81\u4e16 Prime \u62a4\u80eb\uff08\u6307\u6325\u5b98\uff09",
+            "codexSecret": false,
+            "description": "\u8150\u751f\u7684\u7279\u8d28\u662f\u82f1\u62e9\u8c1b\u5bb6\u65cf\u7f8e\u5b66\u7684\u89c1\u8bc1\u3002\u4e5f\u8bb8\u8fd9\u662f\u4e00\u4e2a\u6559\u8bad\uff0c\u544a\u8bc9\u90a3\u4e9b\u51dd\u89c6\u865a\u7a7a\u7684\u4eba\u5982\u4f55\u5728\u5962\u534e\u4e0e\u865a\u65e0\u7684\u878d\u5408\u4e2d\u53d1\u73b0\u7f8e\u3002"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsZephyrDeluxe",
@@ -15116,6 +15191,12 @@
             "description": "\u552f\u6709\u638c\u63a7\u73b0\u5b9e\u4e4b\u529b\uff0c\u65b9\u80fd\u5f97\u6b64\u7ee3\u7f57\u8863\u88f3\u3002\u9002\u7528\u4e8e\u6f02\u6cca\u8005\u3002"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultPrimeE",
+            "name": "\u6b81\u4e16 Prime \u62a4\u80a9\uff08\u6f02\u6cca\u8005\uff09",
+            "codexSecret": false,
+            "description": "\u8150\u751f\u7684\u7279\u8d28\u662f\u82f1\u62e9\u8c1b\u5bb6\u65cf\u7f8e\u5b66\u7684\u89c1\u8bc1\u3002\u4e5f\u8bb8\u8fd9\u662f\u4e00\u4e2a\u6559\u8bad\uff0c\u544a\u8bc9\u90a3\u4e9b\u51dd\u89c6\u865a\u7a7a\u7684\u4eba\u5982\u4f55\u5728\u5962\u534e\u4e0e\u865a\u65e0\u7684\u878d\u5408\u4e2d\u53d1\u73b0\u7f8e\u3002"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesArabic",
             "name": "\u6307\u6325\u5b98\u5760\u6c99\u8896\u4ef6",
             "codexSecret": false,
@@ -15231,6 +15312,12 @@
             "name": "\u660e\u89c1\u8005 Prime \u8896\u4ef6\uff08\u6307\u6325\u5b98\uff09",
             "codexSecret": false,
             "description": "\u552f\u6709\u638c\u63a7\u73b0\u5b9e\u4e4b\u529b\uff0c\u65b9\u80fd\u5f97\u6b64\u7ee3\u7f57\u8863\u88f3\u3002\u9002\u7528\u4e8e\u6307\u6325\u5b98\u3002"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesPrimeE",
+            "name": "\u6b81\u4e16 Prime \u62a4\u80a9\uff08\u6307\u6325\u5b98\uff09",
+            "codexSecret": false,
+            "description": "\u8150\u751f\u7684\u7279\u8d28\u662f\u82f1\u62e9\u8c1b\u5bb6\u65cf\u7f8e\u5b66\u7684\u89c1\u8bc1\u3002\u4e5f\u8bb8\u8fd9\u662f\u4e00\u4e2a\u6559\u8bad\uff0c\u544a\u8bc9\u90a3\u4e9b\u51dd\u89c6\u865a\u7a7a\u7684\u4eba\u5982\u4f55\u5728\u5962\u534e\u4e0e\u865a\u65e0\u7684\u878d\u5408\u4e2d\u53d1\u73b0\u7f8e\u3002"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesZephyrDeluxe",
@@ -18492,6 +18579,12 @@
             "name": "\u963f\u5c14\u7279\u62c9 Prime \u62ab\u9970",
             "codexSecret": false,
             "description": "\u9002\u5408\u963f\u5c14\u7279\u62c9\u5723\u8005\u7684\u95ea\u4eae\u670d\u88c5\u3002"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeArtifexSyandana",
+            "name": "\u5de5\u827a Prime \u62ab\u9970",
+            "codexSecret": false,
+            "description": "\u4e00\u6b3e\u79d1\u6280\u6709\u673a\u62ab\u9970\uff0c\u91cd\u5851 Orokin \u7cbe\u82f1\u7684\u9ad8\u8d35\u6c14\u8d28\u3002"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeAviaSyandana",

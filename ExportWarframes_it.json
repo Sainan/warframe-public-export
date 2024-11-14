@@ -3722,6 +3722,44 @@
             "productCategory": "Suits"
         },
         {
+            "uniqueName": "/Lotus/Powersuits/BrokenFrame/XakuPrime",
+            "name": "Xaku Prime",
+            "parentName": "/Lotus/Powersuits/BrokenFrame/BrokenFrameBaseSuit",
+            "description": "Il figlio della guerra e del void rinasce nell'oro. Ci\u00f2 che una volta \u00e8 stato frantumato pu\u00f2 risorgere pi\u00f9 forte di ci\u00f2 che non lo \u00e8 mai stato.",
+            "health": 269,
+            "shield": 263,
+            "armor": 167,
+            "stamina": 3,
+            "power": 181,
+            "codexSecret": false,
+            "masteryReq": 0,
+            "sprintSpeed": 1.0700001,
+            "passiveDescription": "|CHANCE|% Riduzione del Danno sugli attacchi AOE e probabilit\u00e0 di evitare i danni in arrivo causati dalle armi nemiche.",
+            "abilities": [
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenRotAbility",
+                    "abilityName": "Xata's Whisper",
+                    "description": "Infliggi Danno <DT_RADIANT_COLOR>Void per tutti gli attacchi delle armi equipaggiate quando attiva."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenGraspAbility",
+                    "abilityName": "Grasp of Lohk",
+                    "description": "Dei Viticci del Void rubano le armi dai nemici vicini per usarle come armamento fluttuante con auto puntamento. Il Danno in uscita aumenta in base al livello del nemico. Il numero di armi rubate determina anche il moltiplicatore del danno per il raggio Void di The Lost: Deny."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenEmbraceAbility",
+                    "abilityName": "The Lost",
+                    "description": "Alterna tra un trio di poteri Warframe perduti. Accuse manifesta una Frattura Void per corrompere i nemici e li converte in alleati. Gaze afferra i bersagli con viticci Void che catturano il danno e lo infliggono quando il bersaglio viene rilasciato. Deny annienta con un raggio di energia Void, cancellando le resistenze Sentient."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenDestructAbility",
+                    "abilityName": "The Vast Untime",
+                    "description": "I pezzi esterni di Xaku vengono temporaneamente scagliati lontano dal suo corpo con un'esplosione per permettergli di inseguire i bersagli sul campo di battaglia in un nuovo corpo, scheletrico e agile. I nemici danneggiati dai frammenti di armatura diventano pi\u00f9 vulnerabili al Danno <DT_RADIANT_COLOR>Void. La durata delle altre abilit\u00e0 attive di Xaku si blocca e riprende nel momento in cui The Vast Untime scade."
+                }
+            ],
+            "productCategory": "Suits"
+        },
+        {
             "uniqueName": "/Lotus/Powersuits/BrokenFrame/BrokenFrame",
             "name": "Xaku",
             "parentName": "/Lotus/Powersuits/BrokenFrame/BrokenFrameBaseSuit",

@@ -3722,6 +3722,44 @@
             "productCategory": "Suits"
         },
         {
+            "uniqueName": "/Lotus/Powersuits/BrokenFrame/XakuPrime",
+            "name": "Xaku Prime",
+            "parentName": "/Lotus/Powersuits/BrokenFrame/BrokenFrameBaseSuit",
+            "description": "\u6230\u722d\u8207\u865b\u7a7a\u4e4b\u5b50\u9472\u91d1\u91cd\u751f\u3002\u66fe\u7d93\u652f\u96e2\u7834\u788e\u7684\uff0c\u5d1b\u8d77\u5f8c\u5f37\u904e\u5b8c\u597d\u7121\u640d\u7684\u3002",
+            "health": 269,
+            "shield": 263,
+            "armor": 167,
+            "stamina": 3,
+            "power": 181,
+            "codexSecret": false,
+            "masteryReq": 0,
+            "sprintSpeed": 1.0700001,
+            "passiveDescription": "\u53d7\u5230\u7bc4\u570d\u50b7\u5bb3\u6642\uff0c\u6e1b\u514d |CHANCE|% \u7684\u50b7\u5bb3\uff0c\u4e26\u4e14\u6709\u6a5f\u7387\u76f4\u63a5\u8ff4\u907f\u50b7\u5bb3\u3002",
+            "abilities": [
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenRotAbility",
+                    "abilityName": "\u771f\u7406\u8150\u5492",
+                    "description": "\u555f\u7528\u6642\uff0c\u5df2\u88dd\u5099\u6b66\u5668\u7684\u6240\u6709\u653b\u64ca\u90fd\u6703\u9020\u6210<DT_RADIANT_COLOR>\u865b\u7a7a\u50b7\u5bb3\u3002"
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenGraspAbility",
+                    "abilityName": "\u865b\u7a7a\u652f\u914d",
+                    "description": "\u865b\u7a7a\u6372\u9b1a\u6703\u5077\u8d70\u9644\u8fd1\u6575\u4eba\u7684\u6b66\u5668\uff0c\u4e26\u6210\u70ba\u81ea\u8eab\u7684\u6d6e\u7a7a\u81ea\u52d5\u7784\u6e96\u6b66\u5668\uff0c\u50b7\u5bb3\u8f38\u51fa\u6839\u64da\u6575\u4eba\u7684\u7b49\u7d1a\u800c\u589e\u52a0\u3002\u9664\u6b64\u4e4b\u5916\uff0c\u300c\u8ff7\u8e64\u4e09\u7d55\u2014\u2014\u62d2\u7d55\u300d\u7684\u865b\u7a7a\u5149\u675f\u50b7\u5bb3\u6703\u4ee5\u596a\u53d6\u5230\u7684\u6b66\u5668\u6578\u91cf\u4f5c\u70ba\u50b7\u5bb3\u52a0\u6210\u8a08\u7b97\u3002"
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenEmbraceAbility",
+                    "abilityName": "\u8ff7\u8e64\u4e09\u7d55",
+                    "description": "\u5faa\u74b0\u5207\u63db\u4e09\u7a2e Warframe \u7684\u8ff7\u8e64\u4e4b\u6280\u3002\u300c\u8b74\u8cac\u300d\u53ec\u559a\u4e00\u9053\u865b\u7a7a\u88c2\u7e2b\uff0c\u5c07\u6575\u4eba\u8150\u5316\u70ba\u53cb\u65b9\u3002\u300c\u6ce8\u8996\u300d\u5c07\u76ee\u6a19\u56f0\u65bc\u865b\u7a7a\u6372\u9b1a\u4e4b\u4e2d\uff0c\u7576\u76ee\u6a19\u88ab\u91cb\u653e\u6642\u5c07\u627f\u53d7\u4e00\u5207\u6355\u6349\u7684\u50b7\u5bb3\u3002\u300c\u62d2\u7d55\u300d\u4ee5\u4e00\u9053\u865b\u7a7a\u80fd\u91cf\u5149\u675f\u6bb2\u6ec5\u76ee\u6a19\uff0c\u4e26\u524a\u9664 Sentient \u7684\u6297\u6027\u3002"
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenDestructAbility",
+                    "abilityName": "\u6642\u7a7a\u8d85\u812b",
+                    "description": "\u4ee5\u6bc0\u6ec5\u6027\u7684\u7206\u70b8\u66ab\u6642\u5c07 Xaku \u7684\u5916\u88dd\u7532\u5378\u4e0b\uff0c\u7136\u5f8c\u4ee5\u5d84\u65b0\u4e14\u66f4\u8fc5\u901f\u7684\u9aa8\u9abc\u578b\u614b\u6f5b\u5165\u6230\u5834\u3002\u88ab\u5916\u88dd\u7532\u788e\u7247\u6240\u64ca\u4e2d\u7684\u6575\u4eba\u6703\u66f4\u5bb9\u6613\u53d7\u5230<DT_RADIANT_COLOR>\u865b\u7a7a\u50b7\u5bb3\u3002 Xaku \u5176\u4ed6\u555f\u52d5\u4e2d\u7684\u6280\u80fd\u6301\u7e8c\u6642\u9593\u5c07\u505c\u6b62\u8a08\u6642\uff0c\u76f4\u5230\u5c07\u300c\u6642\u7a7a\u8d85\u812b\u300d\u72c0\u614b\u89e3\u9664\u5f8c\u624d\u6703\u6062\u5fa9\u5012\u6578\u3002"
+                }
+            ],
+            "productCategory": "Suits"
+        },
+        {
             "uniqueName": "/Lotus/Powersuits/BrokenFrame/BrokenFrame",
             "name": "Xaku",
             "parentName": "/Lotus/Powersuits/BrokenFrame/BrokenFrameBaseSuit",

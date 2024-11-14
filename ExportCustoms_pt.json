@@ -4073,6 +4073,20 @@
             "description": "Uma Skin para o Warframe Xaku, desenvolvida por kakarrot2812."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuBrokenAlways",
+            "name": "Forma Esquel\u00e9tica",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "[PH] Description"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuBrokenNever",
+            "name": "Forma Corp\u00f3rea",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "[PH] Description"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuDeluxeHelmet",
             "name": "Xaku: Capacete Kagura",
             "codexSecret": false,
@@ -4083,6 +4097,19 @@
             "name": "Xaku: Skin Kagura",
             "codexSecret": false,
             "description": "Aqueles que levam uma vida honrada carregam cicatrizes douradas com louvor."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuPrimeHelmet",
+            "name": "Xaku Prime: Capacete Padr\u00e3o",
+            "codexSecret": false,
+            "description": "O capacete padr\u00e3o para o Warframe Xaku Prime."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuPrimeSkin",
+            "name": "Xaku Prime: Skin Padr\u00e3o",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "A Skin padr\u00e3o do Warframe Xaku Prime."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Camo/AkimboViperCamo",
@@ -4199,7 +4226,7 @@
             "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/Armor/CatbrowArmorDuviri",
             "name": "Armadura de Kavat: Gabrai",
             "codexSecret": false,
-            "description": "Uma Armadura elegante, inspirada no livro de hist\u00f3rias ''Contos de Duviri''."
+            "description": "Uma Armadura elegante, inspirada no livro de hist\u00f3rias 'Contos de Duviri'."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/Armor/CatbrowArmorGaraPrime",
@@ -9349,7 +9376,7 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Hoverboard/HoverboardStickerN",
-            "name": "MAS QUE...?",
+            "name": "MAS QUE\u2026?",
             "codexSecret": false,
             "excludeFromCodex": true,
             "description": "Esbo\u00e7o feito pelos \u00d3rf\u00e3os dos Dutos para personalizar os K-Drives."
@@ -12746,7 +12773,7 @@
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWAuresEarAcc",
             "name": "Brincos Aures",
             "codexSecret": false,
-            "description": "Um acess\u00f3rio Auricular exclusivo, desenvolvido por lukinu_u e HariPear."
+            "description": "Um par exclusivo de brincos, desenvolvido por lukinu_u e HariPear."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWBlazeOculusEyeAcc",
@@ -12770,7 +12797,7 @@
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWGarasuEarAcc",
             "name": "Brincos Garasu",
             "codexSecret": false,
-            "description": "Um acess\u00f3rio Auricular exclusivo, desenvolvido por Ixe e lukinu_u."
+            "description": "Um par exclusivo de brincos, desenvolvido por Ixe e lukinu_u."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWGarasuFacialAcc",
@@ -13403,6 +13430,12 @@
             "description": "Um visual digno de quem possui o poder de ultrapassar as realidades. Compat\u00edvel com o Peregrino."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultPrimeE",
+            "name": "Coura\u00e7a Necra Prime (Peregrino)",
+            "codexSecret": false,
+            "description": "Detalhes necr\u00f3ticos definem este testamento \u00e0 est\u00e9tica da fam\u00edlia Entrati. Talvez haja uma li\u00e7\u00e3o a ser aprendida com aqueles que olham para o Void e encontram a beleza na uni\u00e3o entre luxo e esquecimento."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitArabic",
             "name": "Traje Feldune do Operador",
             "codexSecret": false,
@@ -13518,6 +13551,12 @@
             "name": "Traje Clearvoy Prime (Operador)",
             "codexSecret": false,
             "description": "Um visual digno de quem possui o poder de ultrapassar as realidades. Compat\u00edvel com o Operador."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitPrimeE",
+            "name": "Coura\u00e7a Necra Prime (Operador)",
+            "codexSecret": false,
+            "description": "Detalhes necr\u00f3ticos definem este testamento \u00e0 est\u00e9tica da fam\u00edlia Entrati. Talvez haja uma li\u00e7\u00e3o a ser aprendida com aqueles que olham para o Void e encontram a beleza na uni\u00e3o entre luxo e esquecimento."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitZephyrDeluxe",
@@ -14364,6 +14403,18 @@
             "description": "Um visual digno de quem possui o poder de ultrapassar as realidades. Compat\u00edvel com o Peregrino."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeE",
+            "name": "Capuz Necra Prime (Peregrino)",
+            "codexSecret": false,
+            "description": "Detalhes necr\u00f3ticos definem este testamento \u00e0 est\u00e9tica da fam\u00edlia Entrati. Talvez haja uma li\u00e7\u00e3o a ser aprendida com aqueles que olham para o Void e encontram a beleza na uni\u00e3o entre luxo e esquecimento."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeEChina",
+            "name": "Capuz Necra Prime Vitalis (Peregrino)",
+            "codexSecret": false,
+            "description": "Detalhes necr\u00f3ticos definem este testamento \u00e0 est\u00e9tica da fam\u00edlia Entrati. Talvez haja uma li\u00e7\u00e3o a ser aprendida com aqueles que olham para o Void e encontram a beleza na uni\u00e3o entre luxo e esquecimento."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodArabic",
             "name": "Capuz Feldune do Operador",
             "codexSecret": false,
@@ -14497,6 +14548,18 @@
             "name": "Capuz Clearvoy Prime (Operador)",
             "codexSecret": false,
             "description": "Um visual digno de quem possui o poder de ultrapassar as realidades. Compat\u00edvel com o Operador."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeE",
+            "name": "Capuz Necra Prime (Operador)",
+            "codexSecret": false,
+            "description": "Detalhes necr\u00f3ticos definem este testamento \u00e0 est\u00e9tica da fam\u00edlia Entrati. Talvez haja uma li\u00e7\u00e3o a ser aprendida com aqueles que olham para o Void e encontram a beleza na uni\u00e3o entre luxo e esquecimento."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeEChina",
+            "name": "Capuz Necra Prime Vitalis (Operador)",
+            "codexSecret": false,
+            "description": "Detalhes necr\u00f3ticos definem este testamento \u00e0 est\u00e9tica da fam\u00edlia Entrati. Talvez haja uma li\u00e7\u00e3o a ser aprendida com aqueles que olham para o Void e encontram a beleza na uni\u00e3o entre luxo e esquecimento."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodZephyrDeluxe",
@@ -14684,6 +14747,12 @@
             "description": "Um visual digno de quem possui o poder de ultrapassar as realidades. Compat\u00edvel com o Peregrino."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultPrimeE",
+            "name": "Grevas Necra Prime (Peregrino)",
+            "codexSecret": false,
+            "description": "Detalhes necr\u00f3ticos definem este testamento \u00e0 est\u00e9tica da fam\u00edlia Entrati. Talvez haja uma li\u00e7\u00e3o a ser aprendida com aqueles que olham para o Void e encontram a beleza na uni\u00e3o entre luxo e esquecimento."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsArabic",
             "name": "Cal\u00e7as Feldune do Operador",
             "codexSecret": false,
@@ -14799,6 +14868,12 @@
             "name": "Cal\u00e7as Clearvoy Prime (Operador)",
             "codexSecret": false,
             "description": "Um visual digno de quem possui o poder de ultrapassar as realidades. Compat\u00edvel com o Operador."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsPrimeE",
+            "name": "Grevas Necra Prime (Operador)",
+            "codexSecret": false,
+            "description": "Detalhes necr\u00f3ticos definem este testamento \u00e0 est\u00e9tica da fam\u00edlia Entrati. Talvez haja uma li\u00e7\u00e3o a ser aprendida com aqueles que olham para o Void e encontram a beleza na uni\u00e3o entre luxo e esquecimento."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsZephyrDeluxe",
@@ -15116,6 +15191,12 @@
             "description": "Um visual digno de quem possui o poder de ultrapassar as realidades. Compat\u00edvel com o Peregrino."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultPrimeE",
+            "name": "Bra\u00e7adeiras Necra Prime (Peregrino)",
+            "codexSecret": false,
+            "description": "Detalhes necr\u00f3ticos definem este testamento \u00e0 est\u00e9tica da fam\u00edlia Entrati. Talvez haja uma li\u00e7\u00e3o a ser aprendida com aqueles que olham para o Void e encontram a beleza na uni\u00e3o entre luxo e esquecimento."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesArabic",
             "name": "Mangas Feldune do Operador",
             "codexSecret": false,
@@ -15231,6 +15312,12 @@
             "name": "Mangas Clearvoy Prime (Operador)",
             "codexSecret": false,
             "description": "Um visual digno de quem possui o poder de ultrapassar as realidades. Compat\u00edvel com o Operador."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesPrimeE",
+            "name": "Bra\u00e7adeiras Necra Prime (Operador)",
+            "codexSecret": false,
+            "description": "Detalhes necr\u00f3ticos definem este testamento \u00e0 est\u00e9tica da fam\u00edlia Entrati. Talvez haja uma li\u00e7\u00e3o a ser aprendida com aqueles que olham para o Void e encontram a beleza na uni\u00e3o entre luxo e esquecimento."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesZephyrDeluxe",
@@ -17678,13 +17765,13 @@
             "uniqueName": "/Lotus/Upgrades/Skins/Sandman/SWHorusHelmet",
             "name": "Inaros: Capacete Horus",
             "codexSecret": false,
-            "description": "Um capacete exclusivo para o Warframe Inaros, desenvolvido por ....A."
+            "description": "Um capacete exclusivo para o Warframe Inaros, desenvolvido por \u2026.A."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Sandman/SWHorusSkin",
             "name": "Inaros: Skin Horus",
             "codexSecret": false,
-            "description": "Uma Skin exclusiva para o Warframe Inaros, desenvolvida por ....A."
+            "description": "Uma Skin exclusiva para o Warframe Inaros, desenvolvida por \u2026.A."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Sandman/SWKephriHelmet",
@@ -18492,6 +18579,12 @@
             "name": "Syandana: Altra Prime",
             "codexSecret": false,
             "description": "Uma vestimenta brilhante, digna do Santo de Altra."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeArtifexSyandana",
+            "name": "Syandana: Artifex Prime",
+            "codexSecret": false,
+            "description": "Uma Syandana tecno-org\u00e2nica, reinventada com um toque real digno da elite Orokin."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeAviaSyandana",
@@ -22776,13 +22869,13 @@
             "uniqueName": "/Lotus/Upgrades/Skins/SteamWorkshop/Operator/Accessories/SWLumisEarAccessory",
             "name": "Brincos Lumis",
             "codexSecret": false,
-            "description": "Um acess\u00f3rio Auricular exclusivo, desenvolvido por lukinu_u."
+            "description": "Um par exclusivo de brincos, desenvolvido por lukinu_u."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/SteamWorkshop/Operator/Accessories/SWZenoriuEarAccessory",
             "name": "Brincos Zenoriu",
             "codexSecret": false,
-            "description": "Um acess\u00f3rio Auricular exclusivo, desenvolvido por led2012 e daemonstar."
+            "description": "Um par exclusivo de brincos, desenvolvido por led2012 e daemonstar."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/SteamWorkshop/Operator/Accessories/SWZenoriuEyeAccessory",

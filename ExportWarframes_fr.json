@@ -1108,7 +1108,7 @@
             "uniqueName": "/Lotus/Powersuits/Rhino/Rhino",
             "name": "Rhino",
             "parentName": "/Lotus/Powersuits/Rhino/RhinoBaseSuit",
-            "description": "Rhino a du punch. Il b\u00e9n\u00e9ficie d'une grande capacit\u00e9 de survie et de contr\u00f4le les foules. Le sage ferait bien de se tenir \u00e0 l'\u00e9cart lorsqu'il charge.",
+            "description": "Rhino a du punch. Il b\u00e9n\u00e9ficie d'une grande capacit\u00e9 de survie et de contr\u00f4le des foules. Le sage ferait bien de se tenir \u00e0 l'\u00e9cart lorsqu'il charge.",
             "health": 270,
             "shield": 455,
             "armor": 240,
@@ -3717,6 +3717,44 @@
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ChoirEruptAbility",
                     "abilityName": "Gloire C\u00e9leste",
                     "description": "Envolez-vous avec un pouvoir destructeur. Utilisez le Tir Alternatif pour faire \u00e9clater les Jugements, provoquant une explosion de Lumi\u00e8re de Jade. Les ennemis situ\u00e9 dans la zone d'effet du Jugement de la Lumi\u00e8re renforcent l'explosion."
+                }
+            ],
+            "productCategory": "Suits"
+        },
+        {
+            "uniqueName": "/Lotus/Powersuits/BrokenFrame/XakuPrime",
+            "name": "Xaku Prime",
+            "parentName": "/Lotus/Powersuits/BrokenFrame/BrokenFrameBaseSuit",
+            "description": "L'enfant de la guerre et du N\u00e9ant rena\u00eet en or. Ce qui a \u00e9t\u00e9 bris\u00e9 un jour peut se relever plus fort que ce qui n'a jamais \u00e9t\u00e9 endommag\u00e9.",
+            "health": 269,
+            "shield": 263,
+            "armor": 167,
+            "stamina": 3,
+            "power": 181,
+            "codexSecret": false,
+            "masteryReq": 0,
+            "sprintSpeed": 1.0700001,
+            "passiveDescription": "|CHANCE|% de R\u00e9duction des D\u00e9g\u00e2ts sur les attaques \u00e0 zone d'effet et de chances d'\u00e9viter les d\u00e9g\u00e2ts d'armes.",
+            "abilities": [
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenRotAbility",
+                    "abilityName": "Murmure de Xata",
+                    "description": "Infligez des D\u00e9g\u00e2ts du <DT_RADIANT_COLOR>N\u00e9ant avec toutes les attaques provenant des armes \u00e9quip\u00e9es quand le pouvoir est activ\u00e9."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenGraspAbility",
+                    "abilityName": "\u00c9treinte de Lohk",
+                    "description": "Les Vrilles du N\u00e9ant volent des armes aux ennemis proches pour les utiliser comme votre propre armement \u00e0 ciblage automatique. Les d\u00e9g\u00e2ts augmentent en fonction du niveau de l'ennemi. Le nombre d'armes saisies d\u00e9termine \u00e9galement le multiplicateur de D\u00e9g\u00e2ts du rayon de D\u00e9ni, des \u00c9gar\u00e9es."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenEmbraceAbility",
+                    "abilityName": "Les \u00c9gar\u00e9es",
+                    "description": "Parcourez un trio de Pouvoirs appartenant \u00e0 des Warframes perdues. Accusation g\u00e9n\u00e8re une Fissure du N\u00e9ant pour transformer les ennemis en alli\u00e9s. Regard pi\u00e8ge les cibles dans les vrilles du N\u00e9ant qui accumulent les D\u00e9g\u00e2ts et les infligent lorsque les cibles sont rel\u00e2ch\u00e9es. D\u00e9ni projette un faisceau d'\u00c9nergie du N\u00e9ant qui \u00e9limine les r\u00e9sistances Sentients."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenDestructAbility",
+                    "abilityName": "Vide Intemporel",
+                    "description": "Perdez temporairement les morceaux ext\u00e9rieurs de Xaku via une explosion destructrice, puis parcourez le champ de bataille sous une nouvelle forme squelettique plus rapide. Les ennemis endommag\u00e9s par les shrapnels du corps sont rendus plus vuln\u00e9rables aux D\u00e9g\u00e2ts du <DT_RADIANT_COLOR>N\u00e9ant. La dur\u00e9e des autres Pouvoirs actifs de Xaku est fig\u00e9e dans le temps et reprend une fois que le Vide Intemporel expire."
                 }
             ],
             "productCategory": "Suits"

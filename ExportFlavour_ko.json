@@ -5370,6 +5370,18 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageXakuPrimeBright",
+            "name": "\uc790\ucfe0 \ud504\ub77c\uc784 \uae00\ub9ac\ud504 - \ubc1d\uc74c",
+            "description": "\ubc1d\uc740 \ubc30\uacbd\uc744 \ub4f1\uc9c0\uace0 \uc788\ub294 \uc790\ucfe0 \ud504\ub77c\uc784\uc744 \ubb18\uc0ac\ud55c \uae00\ub9ac\ud504\uc785\ub2c8\ub2e4.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageXakuPrimeDark",
+            "name": "\uc790\ucfe0 \ud504\ub77c\uc784 \uae00\ub9ac\ud504 -\uc5b4\ub450\uc6c0",
+            "description": "\uc5b4\ub450\uc6b4 \ubc30\uacbd\uc744 \ub4f1\uc9c0\uace0 \uc788\ub294 \uc790\ucfe0 \ud504\ub77c\uc784\uc744 \ubb18\uc0ac\ud55c \uae00\ub9ac\ud504\uc785\ub2c8\ub2e4.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ScarletSpear/ImageScarletSpearGroundI",
             "name": "\uc2a4\uce7c\ub81b \uc2a4\ud53c\uc5b4 \ucf58\ub4dc\ub9ad\uc2a4 I \uae00\ub9ac\ud504",
             "description": "\uc2a4\uce7c\ub81b \uc2a4\ud53c\uc5b4 \uc791\uc804 \ub3c4\uc911 \uc13c\ud2f0\uc5b8\ud2b8 \ucf58\ub4dc\ub9ad\uc2a4\uc5d0 \ub300\ud55c \uc9c0\uc0c1 \uacf5\uaca9\uc744 \ud1b5\ud574 \uc5bb\uc744 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
@@ -6096,6 +6108,24 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAmirAccoladeGlyph",
+            "name": "Amir Accolade Glyph",
+            "description": "A glyph representing a feat of strength by community artist Carl Tabora.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAoiAccoladeGlyph",
+            "name": "Aoi Accolade Glyph",
+            "description": "A glyph representing a feat of strength by community artist Carl Tabora.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageArthurAccoladeGlyph",
+            "name": "Arthur Accolade Glyph",
+            "description": "A glyph representing a feat of strength by community artist Carl Tabora.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAshAction",
             "name": "\uc560\uc26c \uc778 \uc561\uc158 \uae00\ub9ac\ud504",
             "description": "\ud504\ub85c\ud544\uc744 \uc704\ud55c \uae00\ub9ac\ud504\uc785\ub2c8\ub2e4.",
@@ -6165,6 +6195,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBaruukDoanStyle",
             "name": "\ubc14\ub8e8\ud06c \ub3c4\uc548 \uc2e4\ub8e8\uc5e3 \uae00\ub9ac\ud504",
             "description": "\ubc14\ub8e8\ud06c \ub3c4\uc548\uc744 \ubb18\uc0ac\ud55c \uae00\ub9ac\ud504\uc785\ub2c8\ub2e4.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBigBytesPizzaGlyph",
+            "name": "\ube45 \ubc14\uc774\ud2b8 \ud53c\uc790 \uae00\ub9ac\ud504",
+            "description": "\ud504\ub85c\ud544\uc744 \uc704\ud55c \uae00\ub9ac\ud504\uc785\ub2c8\ub2e4.",
             "codexSecret": true
         },
         {
@@ -6277,9 +6313,21 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumGrimoire",
+            "name": "\ucee4\ubba4\ub2c8\ud2f0 \ud150\ub178\ubc14\uc6c0 \uadf8\ub9ac\ubaa8\uc5b4 \uae00\ub9ac\ud504",
+            "description": "Cyanfacade\uac00 \uc81c\uc791\ud55c, \ucd95\uc81c\uc6a9 \uadf8\ub9ac\ubaa8\uc5b4\ub97c \uc77d\ub294 \uc54c\ube0c\ub808\ud788\ud2b8\ub97c \ubb18\uc0ac\ud55c \uae00\ub9ac\ud504\uc785\ub2c8\ub2e4.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumKubrow",
             "name": "\ucee4\ubba4\ub2c8\ud2f0 \ud150\ub178\ubc14\uc6c0 \ucfe0\ube0c\ub85c \uae00\ub9ac\ud504",
             "description": "Nelosart\uc5d0 \uc758\ud574 \ub514\uc790\uc778\ub41c, \ub208\uaf43\uc1a1\uc774\ub97c \uc7a1\ub294 \ucfe0\ube0c\ub85c\ub97c \ubb18\uc0ac\ud55c \uae00\ub9ac\ud504\uc785\ub2c8\ub2e4.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumRelic",
+            "name": "\ucee4\ubba4\ub2c8\ud2f0 \ud150\ub178\ubc14\uc6c0 \uc131\uc720\ubb3c \uae00\ub9ac\ud504",
+            "description": "Cyanfacade\uac00 \uc81c\uc791\ud55c, \ucd95\uc81c\uc6a9 \uc131\uc720\ubb3c\uc744 \ubb18\uc0ac\ud55c \uae00\ub9ac\ud504\uc785\ub2c8\ub2e4.",
             "codexSecret": true
         },
         {
@@ -6463,6 +6511,12 @@
             "description": "\ud504\ub85c\ud544\uc744 \uafb8\ubbf8\uc2dc\uace0 \uacc4\uc2e0 \uac83 \uac19\ub124\uc694! K.O.L\uc758 \ub4dc\ub9ac\ud53c\ub85c \uc5ec\ub7ec\ubd84\uc758 \uacc4\uc815\uc5d0 1999\ub144 \ub808\ud2b8\ub85c \ubd84\uc704\uae30\ub97c \ub354\ud574\ubcf4\uc138\uc694.",
             "codexSecret": true,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageEleanorAccoladeGlyph",
+            "name": "Eleanor Accolade Glyph",
+            "description": "A glyph representing a feat of strength by community artist Carl Tabora.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageEmberAction",
@@ -7170,6 +7224,12 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLettieAccoladeGlyph",
+            "name": "Lettie Accolade Glyph",
+            "description": "A glyph representing a feat of strength by community artist Carl Tabora.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLokiAction",
             "name": "\ub85c\ud0a4 \uc778 \uc561\uc158 \uae00\ub9ac\ud504",
             "description": "\ud504\ub85c\ud544\uc744 \uc704\ud55c \uae00\ub9ac\ud504\uc785\ub2c8\ub2e4.",
@@ -7324,8 +7384,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMovember",
-            "name": "\ubaa8\ubcb0\ubc84 2023 \uae00\ub9ac\ud504",
-            "description": "RetroAlchemist\uac00 \ub514\uc790\uc778\ud55c \ubaa8\ubcb0\ubc84 2023 \uae00\ub9ac\ud504\uc785\ub2c8\ub2e4.",
+            "name": "\ubaa8\ubcb0\ubc84 \uae00\ub9ac\ud504",
+            "description": "RetroAlchemist\uac00 \ub514\uc790\uc778\ud55c \ubaa8\ubcb0\ubc84\uae00\ub9ac\ud504\uc785\ub2c8\ub2e4.",
             "codexSecret": true
         },
         {
@@ -7389,6 +7449,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePartyCDGlyph",
+            "name": "\ud30c\ud2f0 CD \uae00\ub9ac\ud504",
+            "description": "\ud504\ub85c\ud544\uc744 \uc704\ud55c \uae00\ub9ac\ud504\uc785\ub2c8\ub2e4.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePrideCommunity",
             "name": "\ud504\ub77c\uc774\ub4dc \uae00\ub9ac\ud504 I",
             "description": "\ud504\ub77c\uc774\ub4dc\ub97c \uae30\ub150\ud558\ub294 \uae00\ub9ac\ud504\uc785\ub2c8\ub2e4. Debbysheen\uc5d0 \uc758\ud574 \ub514\uc790\uc778\ub418\uc5c8\uc2b5\ub2c8\ub2e4.",
@@ -7406,6 +7472,12 @@
             "description": "\ud504\ub85c\ud544\uc744 \uc704\ud55c \uae00\ub9ac\ud504\uc785\ub2c8\ub2e4.",
             "codexSecret": true,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageQuincyAccoladeGlyph",
+            "name": "Quincy Accolade Glyph",
+            "description": "A glyph representing a feat of strength by community artist Carl Tabora.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageRevenantAction",
@@ -7891,6 +7963,12 @@
             "description": "Searyn\uc774 \uc81c\uc791\ud55c \uc6cc\ud504\ub808\uc784 10\uc8fc\ub144 \uae30\ub150 \uae00\ub9ac\ud504\uc785\ub2c8\ub2e4.",
             "codexSecret": false,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/CommunityTennobaum1999Mug",
+            "name": "\ucee4\ubba4\ub2c8\ud2f0 \ud150\ub178\ubc14\uc6c0 1999 \uba38\uadf8\ucef5 \uae00\ub9ac\ud504",
+            "description": "Cyanfacade\uac00 \uc81c\uc791\ud55c, 1999 \ub9c8\uc26c\uba5c\ub85c\uc6b0\uac00 \ub4e4\uc5b4\uc788\ub294 \ud56b \ucd08\ucf5c\ub9bf\uc774 \ub4e0 \uba38\uadf8\ucef5\uc744 \ubb18\uc0ac\ud55c \uae00\ub9ac\ud504\uc785\ub2c8\ub2e4.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/DeimosRevolverGlyph",

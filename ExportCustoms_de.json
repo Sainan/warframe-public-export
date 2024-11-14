@@ -4073,6 +4073,20 @@
             "description": "Ein Skin f\u00fcr den Xaku Warframe, entworfen von kakarrot2812."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuBrokenAlways",
+            "name": "Skelettiert",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "[PH] Description"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuBrokenNever",
+            "name": "K\u00f6rperlich",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "[PH] Description"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuDeluxeHelmet",
             "name": "Xaku-Helm: Kagura",
             "codexSecret": false,
@@ -4083,6 +4097,19 @@
             "name": "Xaku-Skin: Kagura",
             "codexSecret": false,
             "description": "Jene, die ein nobles Leben f\u00fchren, tragen die Ehre vergoldeter Narben."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuPrimeHelmet",
+            "name": "Xaku Prime Helm",
+            "codexSecret": false,
+            "description": "Der Standardhelm f\u00fcr den Xaku Prime Warframe."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuPrimeSkin",
+            "name": "Xaku Prime Skin",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Der Standardskin f\u00fcr den Xaku Prime Warframe."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Camo/AkimboViperCamo",
@@ -12626,7 +12653,7 @@
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/EarpieceBaroB",
             "name": "Ohrschmuck: Ki'Teer Solo",
             "codexSecret": false,
-            "description": "Ein hinrei\u00dfendes Design betont durch ein einzelnes Ohrschmuck."
+            "description": "Ein hinrei\u00dfendes Design betont durch einen einzelnen Ohrschmuck."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/EarpieceBaroC",
@@ -13403,6 +13430,12 @@
             "description": "Ein Look, w\u00fcrdig f\u00fcr jene, die die Macht haben, Realit\u00e4ten zu \u00fcberbr\u00fccken. F\u00fcr den Drifter angepasst."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultPrimeE",
+            "name": "K\u00fcrass: Necra Prime (Drifter)",
+            "codexSecret": false,
+            "description": "Nekrotische Akzente definieren dieses Zeugnis der Entrati \u00c4sthetik. M\u00f6glicherweise mit einer Lektion dar\u00fcber, wie jene, die in den Void blicken, Sch\u00f6nheit in der Verschmelzung von Luxus und Vergessenheit finden."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitArabic",
             "name": "Anzug: Feldune (Operator)",
             "codexSecret": false,
@@ -13518,6 +13551,12 @@
             "name": "Anzug: Clearvoy Prime (Operator)",
             "codexSecret": false,
             "description": "Ein Look, w\u00fcrdig f\u00fcr jene, die die Macht haben, Realit\u00e4ten zu \u00fcberbr\u00fccken. F\u00fcr den Operator angepasst."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitPrimeE",
+            "name": "K\u00fcrass: Necra Prime (Operator)",
+            "codexSecret": false,
+            "description": "Nekrotische Akzente definieren dieses Zeugnis der Entrati \u00c4sthetik. M\u00f6glicherweise mit einer Lektion dar\u00fcber, wie jene, die in den Void blicken, Sch\u00f6nheit in der Verschmelzung von Luxus und Vergessenheit finden."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitZephyrDeluxe",
@@ -14364,6 +14403,18 @@
             "description": "Ein Look, w\u00fcrdig f\u00fcr jene, die die Macht haben, Realit\u00e4ten zu \u00fcberbr\u00fccken. F\u00fcr den Drifter angepasst."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeE",
+            "name": "Kapuze: Necra Prime (Drifter)",
+            "codexSecret": false,
+            "description": "Nekrotische Akzente definieren dieses Zeugnis der Entrati \u00c4sthetik. M\u00f6glicherweise mit einer Lektion dar\u00fcber, wie jene, die in den Void blicken, Sch\u00f6nheit in der Verschmelzung von Luxus und Vergessenheit finden."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeEChina",
+            "name": "Kapuze: Necra Prime Vitalis (Drifter)",
+            "codexSecret": false,
+            "description": "Nekrotische Akzente definieren dieses Zeugnis der Entrati \u00c4sthetik. M\u00f6glicherweise mit einer Lektion dar\u00fcber, wie jene, die in den Void blicken, Sch\u00f6nheit in der Verschmelzung von Luxus und Vergessenheit finden."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodArabic",
             "name": "Kapuze: Feldune (Operator)",
             "codexSecret": false,
@@ -14497,6 +14548,18 @@
             "name": "Kapuze: Clearvoy Prime (Operator)",
             "codexSecret": false,
             "description": "Ein Look, w\u00fcrdig f\u00fcr jene, die die Macht haben, Realit\u00e4ten zu \u00fcberbr\u00fccken. F\u00fcr den Operator angepasst."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeE",
+            "name": "Kapuze: Necra Prime (Operator)",
+            "codexSecret": false,
+            "description": "Nekrotische Akzente definieren dieses Zeugnis der Entrati \u00c4sthetik. M\u00f6glicherweise mit einer Lektion dar\u00fcber, wie jene, die in den Void blicken, Sch\u00f6nheit in der Verschmelzung von Luxus und Vergessenheit finden."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodPrimeEChina",
+            "name": "Kapuze: Necra Prime Vitalis (Operator)",
+            "codexSecret": false,
+            "description": "Nekrotische Akzente definieren dieses Zeugnis der Entrati \u00c4sthetik. M\u00f6glicherweise mit einer Lektion dar\u00fcber, wie jene, die in den Void blicken, Sch\u00f6nheit in der Verschmelzung von Luxus und Vergessenheit finden."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodZephyrDeluxe",
@@ -14684,6 +14747,12 @@
             "description": "Ein Look, w\u00fcrdig f\u00fcr jene, die die Macht haben, Realit\u00e4ten zu \u00fcberbr\u00fccken. F\u00fcr den Drifter angepasst."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultPrimeE",
+            "name": "Beinschienen: Necra Prime (Drifter)",
+            "codexSecret": false,
+            "description": "Nekrotische Akzente definieren dieses Zeugnis der Entrati \u00c4sthetik. M\u00f6glicherweise mit einer Lektion dar\u00fcber, wie jene, die in den Void blicken, Sch\u00f6nheit in der Verschmelzung von Luxus und Vergessenheit finden."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsArabic",
             "name": "Hosen: Feldune (Operator)",
             "codexSecret": false,
@@ -14799,6 +14868,12 @@
             "name": "Hosen: Clearvoy Prime (Operator)",
             "codexSecret": false,
             "description": "Ein Look, w\u00fcrdig f\u00fcr jene, die die Macht haben, Realit\u00e4ten zu \u00fcberbr\u00fccken. F\u00fcr den Operator angepasst."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsPrimeE",
+            "name": "Beinschienen: Necra Prime (Operator)",
+            "codexSecret": false,
+            "description": "Nekrotische Akzente definieren dieses Zeugnis der Entrati \u00c4sthetik. M\u00f6glicherweise mit einer Lektion dar\u00fcber, wie jene, die in den Void blicken, Sch\u00f6nheit in der Verschmelzung von Luxus und Vergessenheit finden."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsZephyrDeluxe",
@@ -15116,6 +15191,12 @@
             "description": "Ein Look, w\u00fcrdig f\u00fcr jene, die die Macht haben, Realit\u00e4ten zu \u00fcberbr\u00fccken. F\u00fcr den Drifter angepasst."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultPrimeE",
+            "name": "Schulterst\u00fccke: Necra Prime (Drifter)",
+            "codexSecret": false,
+            "description": "Nekrotische Akzente definieren dieses Zeugnis der Entrati \u00c4sthetik. M\u00f6glicherweise mit einer Lektion dar\u00fcber, wie jene, die in den Void blicken, Sch\u00f6nheit in der Verschmelzung von Luxus und Vergessenheit finden."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesArabic",
             "name": "\u00c4rmel: Feldune (Operator)",
             "codexSecret": false,
@@ -15231,6 +15312,12 @@
             "name": "\u00c4rmel: Clearvoy Prime (Operator)",
             "codexSecret": false,
             "description": "Ein Look, w\u00fcrdig f\u00fcr jene, die die Macht haben, Realit\u00e4ten zu \u00fcberbr\u00fccken. F\u00fcr den Operator angepasst."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesPrimeE",
+            "name": "Schulterst\u00fccke: Necra Prime (Operator)",
+            "codexSecret": false,
+            "description": "Nekrotische Akzente definieren dieses Zeugnis der Entrati \u00c4sthetik. M\u00f6glicherweise mit einer Lektion dar\u00fcber, wie jene, die in den Void blicken, Sch\u00f6nheit in der Verschmelzung von Luxus und Vergessenheit finden."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesZephyrDeluxe",
@@ -18492,6 +18579,12 @@
             "name": "Altra Prime Syandana",
             "codexSecret": false,
             "description": "Ein gl\u00e4nzendes Kleidungsst\u00fcck, das dem Heiligen von Altra geb\u00fchrt."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeArtifexSyandana",
+            "name": "Artifex Prime Syandana",
+            "codexSecret": false,
+            "description": "Ein technisch-organisches Syandana, neu interpretiert mit k\u00f6niglichem Flair, das der Orokin Elite w\u00fcrdig ist."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeAviaSyandana",

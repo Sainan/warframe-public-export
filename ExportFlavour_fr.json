@@ -5370,6 +5370,18 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageXakuPrimeBright",
+            "name": "Glyphe Xaku Prime - Lumineux",
+            "description": "Un Glyphe repr\u00e9sentant Xaku Prime sur un fond lumineux.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageXakuPrimeDark",
+            "name": "Glyphe Xaku Prime - Sombre",
+            "description": "Un Glyphe repr\u00e9sentant Xaku Prime sur un fond sombre.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ScarletSpear/ImageScarletSpearGroundI",
             "name": "Glyphe de Condrix d'Incursion \u00c9carlate I",
             "description": "Obtenu en participant aux assauts terrestres contre le Condrix Sentient lors de l'Op\u00e9ration: Incursion \u00c9carlate.",
@@ -6096,6 +6108,24 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAmirAccoladeGlyph",
+            "name": "Glyphe Insigne d'Amir",
+            "description": "Un Glyphe repr\u00e9sentant un tour de force par l'artiste communautaire Carl Tabora.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAoiAccoladeGlyph",
+            "name": "Glyphe Insigne d'Aoi",
+            "description": "Un Glyphe repr\u00e9sentant un tour de force par l'artiste communautaire Carl Tabora.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageArthurAccoladeGlyph",
+            "name": "Glyphe Insigne d'Arthur",
+            "description": "Un Glyphe repr\u00e9sentant un tour de force par l'artiste communautaire Carl Tabora.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAshAction",
             "name": "Glyphe Ash en Action",
             "description": "Un Glyphe pour votre profil.",
@@ -6165,6 +6195,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBaruukDoanStyle",
             "name": "Glyphe Silhouette de Baruuk Doan",
             "description": "Un Glyphe repr\u00e9sentant Baruuk Doan.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBigBytesPizzaGlyph",
+            "name": "Glyphe Pizza Big Bytes",
+            "description": "Un Glyphe pour votre profil.",
             "codexSecret": true
         },
         {
@@ -6277,9 +6313,21 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumGrimoire",
+            "name": "Glyphe Communautaire Grimoire Tennobaum",
+            "description": "Un Glyphe repr\u00e9sentant Albrecht lisant un Grimoire festif, cr\u00e9\u00e9 par Cyanfacade.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumKubrow",
             "name": "Glyphe Communautaire Kubrow Tennobaum",
             "description": "Un Glyphe repr\u00e9sentant un Kubrow attrapant un flocon de neige sur son nez, con\u00e7u par Nelosart.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumRelic",
+            "name": "Glyphe Communautaire Relique Tennobaum",
+            "description": "Un Glyphe repr\u00e9sentant une relique festive, cr\u00e9\u00e9 par Cyanfacade.",
             "codexSecret": true
         },
         {
@@ -6463,6 +6511,12 @@
             "description": "On dirait que vous \u00eates en train de personnaliser votre profil! Ajoutez une touche r\u00e9tro de l'ann\u00e9e 1999 \u00e0 votre compte avec Drippy de K.O.L.",
             "codexSecret": true,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageEleanorAccoladeGlyph",
+            "name": "Glyphe Insigne d'Eleanor",
+            "description": "Un Glyphe repr\u00e9sentant un tour de force par l'artiste communautaire Carl Tabora.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageEmberAction",
@@ -7170,6 +7224,12 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLettieAccoladeGlyph",
+            "name": "Glyphe Insigne de Lettie",
+            "description": "Un Glyphe repr\u00e9sentant un tour de force par l'artiste communautaire Carl Tabora.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLokiAction",
             "name": "Glyphe Loki en Action",
             "description": "Un Glyphe pour votre profil.",
@@ -7324,8 +7384,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMovember",
-            "name": "Glyphe Movember 2023",
-            "description": "Glyphe Movember 2023 par RetroAlchemist.",
+            "name": "Glyphe Movember",
+            "description": "Glyphe Movember par RetroAlchemist.",
             "codexSecret": true
         },
         {
@@ -7389,6 +7449,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePartyCDGlyph",
+            "name": "Glyphe CD de F\u00eate",
+            "description": "Un Glyphe pour votre profil.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePrideCommunity",
             "name": "Glyphe de la Fiert\u00e9 I",
             "description": "Ce Glyphe c\u00e9l\u00e8bre la Fiert\u00e9. Cr\u00e9\u00e9 par Debbysheen.",
@@ -7406,6 +7472,12 @@
             "description": "Un Glyphe pour votre profil.",
             "codexSecret": true,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageQuincyAccoladeGlyph",
+            "name": "Glyphe Insigne de Quincy",
+            "description": "Un Glyphe repr\u00e9sentant un tour de force par l'artiste communautaire Carl Tabora.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageRevenantAction",
@@ -7891,6 +7963,12 @@
             "description": "Un Glyphe c\u00e9l\u00e9brant les 10 ans de Warframe, cr\u00e9\u00e9 par Searyn.",
             "codexSecret": false,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/CommunityTennobaum1999Mug",
+            "name": "Glyphe Communautaire Mug 1999 Tennobaum",
+            "description": "Un Glyphe repr\u00e9sentant une tasse de chocolat chaud avec des guimauves de 1999, cr\u00e9\u00e9 par Cyanfacade.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/DeimosRevolverGlyph",
@@ -24103,7 +24181,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerPrimeWarframesItemA",
-            "name": "Finition Prime",
+            "name": "Prime - Finition",
             "description": "Les couleurs exquises de la Collection Prime.",
             "codexSecret": false,
             "hexColours": [
@@ -24381,7 +24459,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerPrimeWarframesItemB",
-            "name": "Vernis Prime",
+            "name": "Prime - Vernis",
             "description": "Les couleurs exquises de la Collection Prime.",
             "codexSecret": false,
             "hexColours": [

@@ -397,7 +397,7 @@
         },
         {
             "uniqueName": "/Lotus/Interface/Graphics/CustomUI/NatahStyle",
-            "name": "Motyw Mrocznej Lotus",
+            "name": "Motyw Lotus - Ciemny",
             "description": "Personalizowany kolor motywu Interfejsu.",
             "codexSecret": false,
             "excludeFromCodex": true
@@ -5370,6 +5370,18 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageXakuPrimeBright",
+            "name": "Glif Xaku Prime \u2014 Jasny",
+            "description": "Glif przedstawiaj\u0105cy Warframe Xaku Prime na jasnym tle.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageXakuPrimeDark",
+            "name": "Glif Xaku Prime \u2014 Ciemny",
+            "description": "Glif przedstawiaj\u0105cy Warframe Xaku Prime na ciemnym tle.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ScarletSpear/ImageScarletSpearGroundI",
             "name": "Glif Szkar\u0142atnej W\u0142\u00f3czni: Kondriks I",
             "description": "Zdobyty poprzez naziemne szturmy przeciwko Kondriksom \u015awiadomych podczas Operacji: Szkar\u0142atna W\u0142\u00f3cznia.",
@@ -6096,6 +6108,24 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAmirAccoladeGlyph",
+            "name": "Glif Odznaczenia Amira",
+            "description": "Glif symbolizuj\u0105cy wyczyn si\u0142y autorstwa artysty spo\u0142eczno\u015bci Carla Tabory.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAoiAccoladeGlyph",
+            "name": "Glif Odznaczenia Aoi",
+            "description": "Glif symbolizuj\u0105cy wyczyn si\u0142y autorstwa artysty spo\u0142eczno\u015bci Carla Tabory.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageArthurAccoladeGlyph",
+            "name": "Glif Odznaczenia Artura",
+            "description": "Glif symbolizuj\u0105cy wyczyn si\u0142y autorstwa artysty spo\u0142eczno\u015bci Carla Tabory.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAshAction",
             "name": "Glif Ash w akcji",
             "description": "Glif dla Twojego profilu.",
@@ -6165,6 +6195,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBaruukDoanStyle",
             "name": "Glif Sylwetki Baruuka Doan",
             "description": "Glif przedstawiaj\u0105cy Warframe Baruuk Doan.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBigBytesPizzaGlyph",
+            "name": "Glif Pizzy Big Bytes",
+            "description": "Glif dla Twojego profilu.",
             "codexSecret": true
         },
         {
@@ -6277,9 +6313,21 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumGrimoire",
+            "name": "Glif Spo\u0142eczno\u015bci Grymuar Tennobaum",
+            "description": "Glif przedstawiaj\u0105cy Albrechta i \u015bwi\u0105teczny Grymuar, stworzony przez Cyanfacade.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumKubrow",
             "name": "Glif Spo\u0142eczno\u015bci Kubrow Tennobaum",
             "description": "Glif przedstawiaj\u0105cy Kubrowa \u0142api\u0105cego p\u0142atek \u015bniegu na nosie, zaprojektowany przez Nelosart.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumRelic",
+            "name": "Glif Spo\u0142eczno\u015bci Relikt Tennobaum",
+            "description": "Glif przedstawiaj\u0105cy \u015bwi\u0105teczny relikt, stworzony przez Cyanfacade.",
             "codexSecret": true
         },
         {
@@ -6463,6 +6511,12 @@
             "description": "Wygl\u0105da na to, \u017ce dostosowujesz sw\u00f3j profil! Dodaj odrobin\u0119 retro stylu z 1999 roku do swojego konta K.O.L. dzi\u0119ki Drippy'emu.",
             "codexSecret": true,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageEleanorAccoladeGlyph",
+            "name": "Glif Odznaczenia Eleanor",
+            "description": "Glif symbolizuj\u0105cy wyczyn si\u0142y autorstwa artysty spo\u0142eczno\u015bci Carla Tabory.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageEmberAction",
@@ -7170,6 +7224,12 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLettieAccoladeGlyph",
+            "name": "Glif Odznaczenia Lettie",
+            "description": "Glif symbolizuj\u0105cy wyczyn si\u0142y autorstwa artysty spo\u0142eczno\u015bci Carla Tabory.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLokiAction",
             "name": "Glif Loki w akcji",
             "description": "Glif dla Twojego profilu.",
@@ -7324,8 +7384,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMovember",
-            "name": "Glif Movember 2023",
-            "description": "Glif Movember 2023 stworzony przez RetroAlchemist.",
+            "name": "Glif Movember",
+            "description": "Glif Movember stworzony przez RetroAlchemist.",
             "codexSecret": true
         },
         {
@@ -7389,6 +7449,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePartyCDGlyph",
+            "name": "Glif Imprezowej p\u0142yty CD",
+            "description": "Glif dla Twojego profilu.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePrideCommunity",
             "name": "Glif Dumy I",
             "description": "Glif na cze\u015b\u0107 Dumy. Zaprojektowany przez Debbysheen.",
@@ -7406,6 +7472,12 @@
             "description": "Glif dla Twojego profilu.",
             "codexSecret": true,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageQuincyAccoladeGlyph",
+            "name": "Glif Odznaczenia Quincy'ego",
+            "description": "Glif symbolizuj\u0105cy wyczyn si\u0142y autorstwa artysty spo\u0142eczno\u015bci Carla Tabory.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageRevenantAction",
@@ -7891,6 +7963,12 @@
             "description": "Glif upami\u0119tniaj\u0105cy 10-lecie Warframe, stworzony przez Searyn.",
             "codexSecret": false,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/CommunityTennobaum1999Mug",
+            "name": "Glif Spo\u0142eczno\u015bci Kubka Tennobaum 1999",
+            "description": "Glif przedstawiaj\u0105cy kubek gor\u0105cej czekolady z piankami z 1999, stworzony przez Cyanfacade.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/DeimosRevolverGlyph",

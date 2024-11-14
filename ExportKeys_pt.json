@@ -179,7 +179,7 @@
         {
             "uniqueName": "/Lotus/Types/Keys/NewWarQuest/NewWarQuestKeyChain",
             "name": "A Nova Guerra",
-            "description": "A armada Sentient emergiu da Pr\u00f3xima do V\u00e9u em n\u00fameros alarmantes.\r\n\r\n\u00c0 frente dela, Natah, anteriormente conhecida como a guia de confian\u00e7a \"L\u00f3tus\", agora parece ter sido escravizada por Ballas e seu irm\u00e3o, Erra.\r\n\r\nPor entre os mundos e espa\u00e7o, os Tennos e sua improv\u00e1vel alian\u00e7a lan\u00e7am um ataque final para tomar a Nave-m\u00e3e Sentient... onde Natah os aguarda.",
+            "description": "A armada Sentient emergiu da Pr\u00f3xima do V\u00e9u em n\u00fameros alarmantes.\r\n\r\n\u00c0 frente dela, Natah, anteriormente conhecida como a guia de confian\u00e7a \"L\u00f3tus\", agora parece ter sido escravizada por Ballas e seu irm\u00e3o, Erra.\r\n\r\nPor entre os mundos e espa\u00e7o, os Tennos e sua improv\u00e1vel alian\u00e7a lan\u00e7am um ataque final para tomar a Nave-m\u00e3e Sentient\u2026 onde Natah os aguarda.",
             "parentName": "",
             "codexSecret": true
         },
@@ -200,7 +200,7 @@
         {
             "uniqueName": "/Lotus/Types/Keys/ProteaQuest/ProteaQuestKeyChain",
             "name": "O Protocolo Deadlock",
-            "description": "Iniciou-se uma batalha pelo poder no interior da elite Corpus. Em busca do controle absoluto, Nef Anyo olha para o passado... para as pr\u00f3prias origens dos Corpus.",
+            "description": "Iniciou-se uma batalha pelo poder no interior da elite Corpus. Em busca do controle absoluto, Nef Anyo olha para o passado\u2026 para as pr\u00f3prias origens dos Corpus.",
             "parentName": "",
             "codexSecret": false
         },
@@ -263,7 +263,7 @@
         {
             "uniqueName": "/Lotus/Types/Keys/WraithQuest/WraithQuestKeyChain",
             "name": "Chamado da Tempestarii",
-            "description": "As Tempestades do Void est\u00e3o concentradas nos setores dos Corpus... Seria uma nave misteriosa a causadora disto?",
+            "description": "As Tempestades do Void est\u00e3o concentradas nos setores dos Corpus\u2026 Seria uma nave misteriosa a causadora disto?",
             "parentName": "",
             "codexSecret": false
         },
@@ -277,7 +277,7 @@
         {
             "uniqueName": "/Lotus/Types/Keys/ZarimanQuest/ZarimanQuestKeyChain",
             "name": "Anjos da Zariman",
-            "description": "Das profundezas al\u00e9m da compreens\u00e3o, uma Voz pronunciou-se, sabendo que seus ecos n\u00e3o seriam ignorados. N\u00e3o mais encoberta pelo manto perp\u00e9tuo do Void, a Zariman agora transita entre mundos. Uma can\u00e7\u00e3o tenebrosa ressoa pelo Sistema. \u00c9 chegado o momento de confrontar o passado...",
+            "description": "Das profundezas al\u00e9m da compreens\u00e3o, uma Voz pronunciou-se, sabendo que seus ecos n\u00e3o seriam ignorados. N\u00e3o mais encoberta pelo manto perp\u00e9tuo do Void, a Zariman agora transita entre mundos. Uma can\u00e7\u00e3o tenebrosa ressoa pelo Sistema. \u00c9 chegado o momento de confrontar o passado\u2026",
             "parentName": "",
             "codexSecret": false
         },

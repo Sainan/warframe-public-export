@@ -5370,6 +5370,18 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageXakuPrimeBright",
+            "name": "Glifo de Xaku Prime - Brillante",
+            "description": "Un glifo que representa a Xaku Prime sobre un fondo brillante.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageXakuPrimeDark",
+            "name": "Glifo de Xaku Prime - Oscuro",
+            "description": "Un glifo que representa a Xaku Prime sobre un fondo oscuro.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ScarletSpear/ImageScarletSpearGroundI",
             "name": "Glifo de Condrix de Lanza Escarlata I",
             "description": "Obtenido al haber participado en ataques terrestres contra la Condrix consciente durante la Operaci\u00f3n Lanza Escarlata.",
@@ -6096,6 +6108,24 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAmirAccoladeGlyph",
+            "name": "Glifo Reconocimiento de Amir",
+            "description": "Un glifo que representa una haza\u00f1a de fuerza, creado por el artista de la comunidad Carl Tabora.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAoiAccoladeGlyph",
+            "name": "Glifo Reconocimiento de Aoi",
+            "description": "Un glifo que representa una haza\u00f1a de fuerza, creado por el artista de la comunidad Carl Tabora.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageArthurAccoladeGlyph",
+            "name": "Glifo Reconocimiento de Arthur",
+            "description": "Un glifo que representa una haza\u00f1a de fuerza, creado por el artista de la comunidad Carl Tabora.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAshAction",
             "name": "Glifo de Ash en acci\u00f3n",
             "description": "Un glifo para tu perfil.",
@@ -6165,6 +6195,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBaruukDoanStyle",
             "name": "Glifo de Silueta de Baruuk Doan",
             "description": "Un glifo que representa a Baruuk Doan.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBigBytesPizzaGlyph",
+            "name": "Glifo Pizza Big Bytes",
+            "description": "Un glifo para tu perfil.",
             "codexSecret": true
         },
         {
@@ -6277,9 +6313,21 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumGrimoire",
+            "name": "Glifo Grimorio Tennobaum de la comunidad",
+            "description": "Un glifo que representa a Albrecht leyendo un Grimorio festivo, creado por Cyanfacade.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumKubrow",
             "name": "Glifo Tennobaum de kubrow de la comunidad",
             "description": "Un glifo que representa a un kubrow atrapando un copo de nieve con su nariz, dise\u00f1ado por Nelosart.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumRelic",
+            "name": "Glifo Reliquia Tennobaum de la comunidad",
+            "description": "Un glifo que representa una reliquia festiva, creado por Cyanfacade.",
             "codexSecret": true
         },
         {
@@ -6463,6 +6511,12 @@
             "description": "\u00a1Parece que est\u00e1s personalizando tu perfil! A\u00f1ade un toque retro de 1999 a tu cuenta con Drippy de K.O.L.",
             "codexSecret": true,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageEleanorAccoladeGlyph",
+            "name": "Glifo Reconocimiento de Eleanor",
+            "description": "Un glifo que representa una haza\u00f1a de fuerza, creado por el artista de la comunidad Carl Tabora.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageEmberAction",
@@ -7170,6 +7224,12 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLettieAccoladeGlyph",
+            "name": "Glifo Reconocimiento de Lettie",
+            "description": "Un glifo que representa una haza\u00f1a de fuerza, creado por el artista de la comunidad Carl Tabora.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLokiAction",
             "name": "Glifo de Loki en acci\u00f3n",
             "description": "Un glifo para tu perfil.",
@@ -7324,8 +7384,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMovember",
-            "name": "Glifo Movember 2023",
-            "description": "Glifo de Movember 2023, por RetroAlchemist.",
+            "name": "Glifo Movember",
+            "description": "Glifo de Movember, por RetroAlchemist.",
             "codexSecret": true
         },
         {
@@ -7389,6 +7449,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePartyCDGlyph",
+            "name": "Glifo CD de fiesta",
+            "description": "Un glifo para tu perfil.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePrideCommunity",
             "name": "Glifo del Orgullo I",
             "description": "Este glifo celebra el Orgullo. Dise\u00f1ado por Debbysheen.",
@@ -7406,6 +7472,12 @@
             "description": "Un glifo para tu perfil.",
             "codexSecret": true,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageQuincyAccoladeGlyph",
+            "name": "Glifo Reconocimiento de Quincy",
+            "description": "Un glifo que representa una haza\u00f1a de fuerza, creado por el artista de la comunidad Carl Tabora.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageRevenantAction",
@@ -7891,6 +7963,12 @@
             "description": "Un glifo que celebra los 10 a\u00f1os de Warframe, dise\u00f1ado por Searyn.",
             "codexSecret": false,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/CommunityTennobaum1999Mug",
+            "name": "Glifo Taza 1999 Tennobaum de la comunidad",
+            "description": "Un glifo que representa una taza de chocolate caliente con malvaviscos de 1999, creado por Cyanfacade.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/DeimosRevolverGlyph",
