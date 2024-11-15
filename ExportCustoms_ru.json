@@ -4077,14 +4077,14 @@
             "name": "\u0421\u043a\u0435\u043b\u0435\u0442\u0438\u0441\u0442\u044b\u0439",
             "codexSecret": false,
             "excludeFromCodex": true,
-            "description": "[PH] Description"
+            "description": "Xaku will constantly remain in skeletal form."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuBrokenNever",
             "name": "\u0422\u0435\u043b\u0435\u0441\u043d\u044b\u0439",
             "codexSecret": false,
             "excludeFromCodex": true,
-            "description": "[PH] Description"
+            "description": "Xaku will constantly remain in corporeal form."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuDeluxeHelmet",

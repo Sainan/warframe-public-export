@@ -4077,14 +4077,14 @@
             "name": "Forma Esquel\u00e9tica",
             "codexSecret": false,
             "excludeFromCodex": true,
-            "description": "[PH] Description"
+            "description": "Xaku will constantly remain in skeletal form."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuBrokenNever",
             "name": "Forma Corp\u00f3rea",
             "codexSecret": false,
             "excludeFromCodex": true,
-            "description": "[PH] Description"
+            "description": "Xaku will constantly remain in corporeal form."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuDeluxeHelmet",
