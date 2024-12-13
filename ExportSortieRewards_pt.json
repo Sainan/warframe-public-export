@@ -322,7 +322,7 @@
             {
                 "uniqueName": "/Lotus/Types/Challenges/Seasons/Daily/SeasonDailyKillEnemiesWhileOnKDrive",
                 "name": "Cavalaria Emocionante",
-                "description": "Mate |COUNT| inimigos enquanto estiver em um K-Drive, Kaithe, Veloc\u00edpede ou Merulina.",
+                "description": "Elimine |COUNT| inimigos enquanto estiver em um K-Drive, Kaithe, Veloc\u00edpede ou Atomimoto.",
                 "standing": 1000,
                 "required": 20
             },
@@ -623,7 +623,7 @@
             {
                 "uniqueName": "/Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklyPlainsBounties",
                 "name": "Ca\u00e7ador de Recompensas Terrestres",
-                "description": "Conclua |COUNT| Contratos de Recompensa diferentes nas Plan\u00edcies de Eidolon.",
+                "description": "Conclua |COUNT| Contratos diferentes nas Plan\u00edcies de Eidolon.",
                 "standing": 4500,
                 "required": 3
             },
@@ -672,7 +672,7 @@
             {
                 "uniqueName": "/Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklyVenusBounties",
                 "name": "Ca\u00e7ador de Recompensas Venusiano",
-                "description": "Conclua |COUNT| Contratos de Recompensa diferentes no Vallis das Orbes.",
+                "description": "Conclua |COUNT| Contratos diferentes no Vallis das Orbes.",
                 "standing": 4500,
                 "required": 3
             },
@@ -707,7 +707,7 @@
             {
                 "uniqueName": "/Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklyIsolationBounties",
                 "name": "Invasor de C\u00e2maras",
-                "description": "Conclua um Contrato de Recompensa da C\u00e2mara de Isolamento na Deriva de Cambion.",
+                "description": "Conclua um Contrato da C\u00e2mara de Isolamento na Deriva de Cambion.",
                 "standing": 4500,
                 "required": 1
             },
@@ -749,7 +749,7 @@
             {
                 "uniqueName": "/Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklyZarimanBountyHunter",
                 "name": "Ca\u00e7ador de Recompensas da Zariman",
-                "description": "Conclua |COUNT| Contratos de Recompensa diferentes na Zariman.",
+                "description": "Conclua |COUNT| Contratos diferentes na Zariman.",
                 "standing": 4500,
                 "required": 4
             },

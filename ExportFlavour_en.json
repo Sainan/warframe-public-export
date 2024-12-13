@@ -279,6 +279,20 @@
             "excludeFromCodex": true
         },
         {
+            "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseRetro",
+            "name": "",
+            "description": "A cursor style when using mouse.",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseThrowback",
+            "name": "",
+            "description": "A cursor style when using mouse.",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseYareli",
             "name": "",
             "description": "A cursor style when using mouse.",
@@ -1983,6 +1997,13 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/Emotes/Hardmode1999Emote",
+            "name": "The Steel Path: 1999",
+            "description": "Awarded for completing The Steel Path: 1999.",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/Emotes/HardmodeCeresEmote",
             "name": "The Steel Path: Ceres",
             "description": "Awarded for completing The Steel Path: Ceres.",
@@ -2175,6 +2196,42 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryAmirEmote",
+            "name": "Amir Gemini Emote",
+            "description": "Switch between Volt and Amir's Gemini Skin with the Amir Gemini Emote, even during missions.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryAoiEmote",
+            "name": "Aoi Gemini Emote",
+            "description": "Switch between Mag and Aoi's Gemini Skin with the Aoi Gemini Emote, even during missions.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryArthurEmote",
+            "name": "Arthur Gemini Emote",
+            "description": "Switch between Excalibur and Arthur's Gemini Skin with the Arthur Gemini Emote, even during missions.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryEleanorEmote",
+            "name": "Eleanor Gemini Emote",
+            "description": "Switch between Nyx and Eleanor's Gemini Skin with the Eleanor Gemini Emote, even during missions.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryLettieEmote",
+            "name": "Lettie Gemini Emote",
+            "description": "Switch between Trinity and Lettie's Gemini Skin with the Lettie Gemini Emote, even during missions.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryQuincyEmote",
+            "name": "Quincy Gemini Emote",
+            "description": "Switch between Cyte-09 and Quincy's Gemini Skin with the Quincy Gemini Emote, even during missions.",
+            "codexSecret": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/Emotes/LegionSaluteEmote",
             "name": "Wolf Salute",
             "description": "By this greeting, one packmate shall know another.",
@@ -2286,7 +2343,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/Emotes/ThousandDaysEmote",
             "name": "Thousand Days",
-            "description": "[PH] Awarded to Tenno who have shown unyielding dedication.",
+            "description": "Awarded to Tenno who have shown unyielding dedication.",
             "codexSecret": false
         },
         {
@@ -5214,6 +5271,66 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectA",
+            "name": "Pixel Perfect Jillian Glyph",
+            "description": "A glyph depicting a pixelated Jillian Killian.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectB",
+            "name": "Pixel Perfect Lillian Glyph",
+            "description": "A glyph depicting a pixelated Lillian Killian.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectC",
+            "name": "Pixel Perfect Anna Glyph",
+            "description": "A glyph depicting a pixelated Anna Ki.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectD",
+            "name": "Pixel Perfect Goon Glyph",
+            "description": "A glyph depicting a pixelated Goon from the G.O.B.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPortraitJillian",
+            "name": "Jillian Pixel Portrait Glyph",
+            "description": "A glyph depicting Jillian Killian's portrait.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPortraitLillian",
+            "name": "Lillian Pixel Portrait Glyph",
+            "description": "A glyph depicting Lillian Killian's portrait.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerA",
+            "name": "Caliber Chicks 2 Glyph",
+            "description": "A glyph depicting the Caliber Chicks 2 logo.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerB",
+            "name": "Jillian Killian Glyph",
+            "description": "A glyph depicting Jillian Killian.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerC",
+            "name": "Lillian Killian Glyph",
+            "description": "A glyph depicting Lillian Killian.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerD",
+            "name": "Anna Ki Glyph",
+            "description": "A glyph depicting Anna Ki.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageBaruukPrimeBright",
             "name": "Baruuk Prime Glyph - Bright",
             "description": "A glyph depicting Baruuk Prime on a bright background.",
@@ -5443,6 +5560,18 @@
             "description": "Earned through Railjack raids against the Sentient Murex during Operation Scarlet Spear.",
             "codexSecret": true,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphA",
+            "name": "Giving Snake Glyph",
+            "description": "A Glyph for your profile.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphB",
+            "name": "Yisi Glyph",
+            "description": "A Glyph for your profile.",
+            "codexSecret": false
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageChillingGlyphFour",
@@ -5692,6 +5821,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/Cyte09SupporterGlyph",
+            "name": "Cyte-09 Deadeye Glyph",
+            "description": "A Glyph for your profile.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageBaruukDeluxe",
             "name": "Baruuk Doan Glyph",
             "description": "A glyph depicting Baruuk Doan.",
@@ -5774,6 +5909,30 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageDagathDark",
             "name": "Dagath Glyph - Dark",
             "description": "A glyph depicting Dagath on a dark background.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusAltBright",
+            "name": "Cyte-09 Espricor Glyph - Bright",
+            "description": "A glyph depicting Cyte-09 Espricor on a bright background.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusAltDark",
+            "name": "Cyte-09 Espricor Glyph - Dark",
+            "description": "A glyph depicting Cyte-09 Espricor on a dark background.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusBright",
+            "name": "Cyte-09 Glyph - Bright",
+            "description": "A glyph depicting Cyte-09 on a bright background.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusDark",
+            "name": "Cyte-09 Glyph - Dark",
+            "description": "A glyph depicting Cyte-09 on a dark background.",
             "codexSecret": true
         },
         {
@@ -6307,6 +6466,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaum1999Mug",
+            "name": "Community Tennobaum 1999 Mug Glyph",
+            "description": "A Glyph depicting a mug of hot chocolate with 1999 marshmallows, created by Cyanfacade.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumFrost",
             "name": "Community Tennobaum Frost Glyph",
             "description": "A Glyph depicting Frost in a snowglobe, designed by Nelosart.",
@@ -6487,6 +6652,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDJRoMGlyph",
+            "name": "Community On-lyne DJ RoM Glyph",
+            "description": "A community glyph depicting On-lyne member DJ RoM in the style of community artist death_ma666ots.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDanteGlyph",
             "name": "Dante's Delight Glyph",
             "description": "A glyph depicting Dante engaged in one of his preferred pastimes.",
@@ -6504,6 +6675,12 @@
             "name": "Tiberon Obsidian Glyph",
             "description": "A Glyph for your profile.",
             "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDrillbitGlyph",
+            "name": "Community On-lyne Drillbit Glyph",
+            "description": "A community glyph depicting On-lyne member Drillbit in the style of community artist death_ma666ots.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDrippy",
@@ -6608,6 +6785,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGamingDogDaysYareli",
             "name": "Community Dog Days Yareli Glyph",
             "description": "A community glyph by CheruuAx depicting Yareli beating the heat.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGaussAccoladeGlyph",
+            "name": "Gauss Accolade Glyph",
+            "description": "A glyph representing a feat of strength by community artist Anavi_Ivy.",
             "codexSecret": true
         },
         {
@@ -7097,6 +7280,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageHarddriveGlyph",
+            "name": "Community On-lyne Harddrive Glyph",
+            "description": "A community glyph depicting On-lyne member Harddrive in the style of community artist death_ma666ots.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageHarrowAction",
             "name": "Harrow in Action Glyph",
             "description": "A Glyph for your profile.",
@@ -7119,6 +7308,42 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInarosScarabs",
             "name": "Scarab Varna Glyph",
             "description": "A Glyph for your profile.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedDJRoMGlyph",
+            "name": "Community On-lyne Infested DJ RoM Glyph",
+            "description": "A community glyph depicting Infested On-lyne member DJ RoM in the style of community artist death_ma666ots.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedDrillbitGlyph",
+            "name": "Community On-lyne Infested Drillbit Glyph",
+            "description": "A community glyph depicting Infested On-lyne member Drillbit in the style of community artist death_ma666ots.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedHarddriveGlyph",
+            "name": "Community On-lyne Infested Harddrive Glyph",
+            "description": "A community glyph depicting Infested On-lyne member Harddrive in the style of community artist death_ma666ots.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedLogoGlyph",
+            "name": "Community Infested On-lyne Logo Glyph",
+            "description": "A community glyph depicting Infested On-lyne Logo in the style of community artist death_ma666ots.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedPacketGlyph",
+            "name": "Community On-lyne Infested Packet Glyph",
+            "description": "A community glyph depicting Infested On-lyne member Packet in the style of community artist death_ma666ots.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedZekeGlyph",
+            "name": "Community On-lyne Infested Zeke Glyph",
+            "description": "A community glyph depicting Infested On-lyne member Zeke in the style of community artist death_ma666ots.",
             "codexSecret": true
         },
         {
@@ -7182,6 +7407,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageJadeAccoladeGlyph",
+            "name": "Jade Accolade Glyph",
+            "description": "A glyph representing a feat of strength by community artist Anavi_Ivy.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageJadeInActionGlyph",
             "name": "Jade In Action Glyph",
             "description": "A Glyph for your profile.",
@@ -7227,6 +7458,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLettieAccoladeGlyph",
             "name": "Lettie Accolade Glyph",
             "description": "A glyph representing a feat of strength by community artist Carl Tabora.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLogoGlyph",
+            "name": "Community Radiant On-lyne Logo Glyph",
+            "description": "A community glyph depicting the radiant On-lyne Logo in the style of community artist death_ma666ots.",
             "codexSecret": true
         },
         {
@@ -7308,6 +7545,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMesaEnamel",
             "name": "Mesa Fixated Glyph",
             "description": "A Glyph for your profile.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMirageAccoladeGlyph",
+            "name": "Mirage Accolade Glyph",
+            "description": "A glyph representing a feat of strength by community artist Anavi_Ivy.",
             "codexSecret": true
         },
         {
@@ -7449,9 +7692,51 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePacketGlyph",
+            "name": "Community On-lyne Packet Glyph",
+            "description": "A community glyph depicting On-lyne member Packet in the style of community artist death_ma666ots.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePartyCDGlyph",
             "name": "Party CD Glyph",
             "description": "A Glyph for your profile.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelAmir",
+            "name": "Amir Pixel Glyph",
+            "description": "Celebrate 1999's distinctive screen style with this glyph portraying Amir, the Volt protoframe!",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelAoi",
+            "name": "Aoi Pixel Glyph",
+            "description": "Celebrate 1999's distinctive screen style with this glyph portraying Aoi, the Mag protoframe!",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelArthur",
+            "name": "Arthur Pixel Glyph",
+            "description": "Celebrate 1999's distinctive screen style with this glyph portraying Arthur, the Excalibur protoframe!",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelEleanor",
+            "name": "Eleanor Pixel Glyph",
+            "description": "Celebrate 1999's distinctive screen style with this glyph portraying Eleanor, the Nyx protoframe!",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelLettie",
+            "name": "Lettie Pixel Glyph",
+            "description": "Celebrate 1999's distinctive screen style with this glyph portraying Lettie, the Trinity protoframe!",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelQuincy",
+            "name": "Quincy Pixel Glyph",
+            "description": "Celebrate 1999's distinctive screen style with this glyph portraying Quincy, the Cyte-09 protoframe!",
             "codexSecret": true
         },
         {
@@ -7464,6 +7749,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePrideGlyph",
             "name": "Pride Glyph III",
             "description": "This Glyph celebrates Pride. Designed by NimkeArts.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageProteaAccoladeGlyph",
+            "name": "Protea Accolade Glyph",
+            "description": "A glyph representing a feat of strength by community artist Anavi_Ivy.",
             "codexSecret": true
         },
         {
@@ -7504,6 +7795,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSevagothAccoladeGlyph",
+            "name": "Sevagoth Accolade Glyph",
+            "description": "A glyph representing a feat of strength by community artist Anavi_Ivy.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSevagothAction",
             "name": "Sevagoth In Action Glyph",
             "description": "A Glyph for your profile.",
@@ -7514,8 +7811,7 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageStalkerAction",
             "name": "Stalker In Action Glyph",
             "description": "A Glyph for your profile.",
-            "codexSecret": true,
-            "excludeFromCodex": true
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageStarDaysCervulitePat",
@@ -7546,6 +7842,30 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennoVIP",
             "name": "Tenno VIP East Glyph",
             "description": "A glyph for VIP Tenno.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumAoi",
+            "name": "Community Tennobaum Aoi Glyph",
+            "description": "A Glyph depicting Jade making a snow angel, created by alcyonsa.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumCozyStalker",
+            "name": "Community Tennobaum Cozy Stalker Glyph",
+            "description": "A Glyph depicting Stalker wearing a cozy sweater, created by alcyonsa.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumJade",
+            "name": "Community Tennobaum Jade Glyph",
+            "description": "A Glyph depicting Jade making a snow angel, created by alcyonsa.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumManintheCookie",
+            "name": "Community Tennobaum Man in the Cookie Glyph",
+            "description": "A Glyph depicting a Gingerbread MITW cookie, created by alcyonsa.",
             "codexSecret": true
         },
         {
@@ -7709,6 +8029,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageValkyrAction",
             "name": "Valkyr in Action Glyph",
             "description": "A Glyph for your profile.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageVaubanAccoladeGlyph",
+            "name": "Vauban Accolade Glyph",
+            "description": "A glyph representing a feat of strength by community artist Anavi_Ivy.",
             "codexSecret": true
         },
         {
@@ -7932,6 +8258,12 @@
             "excludeFromCodex": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageZekeGlyph",
+            "name": "Community On-lyne Zeke Glyph",
+            "description": "A community glyph depicting On-lyne member Zeke in the style of community artist death_ma666ots.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/CNY2023RabbitGlyph",
             "name": "Guimao Glyph",
             "description": "A Glyph for your profile.",
@@ -7963,12 +8295,6 @@
             "description": "A Glyph celebrating 10 years of Warframe, designed by Searyn.",
             "codexSecret": false,
             "excludeFromCodex": true
-        },
-        {
-            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/CommunityTennobaum1999Mug",
-            "name": "Community Tennobaum 1999 Mug Glyph",
-            "description": "A Glyph depicting a mug of hot chocolate with 1999 marshmallows, created by Cyanfacade.",
-            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/DeimosRevolverGlyph",
@@ -28667,6 +28993,20 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/UnlockFrumentariusAgile",
+            "name": "Cyte-09 Agile Animation Set",
+            "description": "This item lets you use Cyte-09's agile animation set with any Warframe of your choosing.",
+            "codexSecret": true,
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/UnlockFrumentariusNoble",
+            "name": "Cyte-09 Noble Animation Set",
+            "description": "This item lets you use Cyte-09's noble animation set with any Warframe of your choosing.",
+            "codexSecret": true,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Garuda/UnlockGarudaAgile",
             "name": "Garuda Agile Animation Set",
             "description": "This item lets you use Garuda's agile animation set with any Warframe of your choosing.",
@@ -28931,6 +29271,12 @@
             "name": "Parallax Albodix Skin",
             "description": "The Parallax would have been adorned with the Albodix skin when its passengers left the Zariman to study cold or dark regions of Tau.",
             "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Liset/1999TankHoodOrnament",
+            "name": "H-09 Apex Turret Sumdali",
+            "description": "The smoldering turret of an H-09 Apex Scaldra tank shall adorn your Landing Craft.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Liset/ConquestHoodOrnament",

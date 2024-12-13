@@ -279,6 +279,20 @@
             "excludeFromCodex": true
         },
         {
+            "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseRetro",
+            "name": "",
+            "description": "Ein Cursor-Stil f\u00fcr die Maus.",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseThrowback",
+            "name": "",
+            "description": "Ein Cursor-Stil f\u00fcr die Maus.",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseYareli",
             "name": "",
             "description": "Ein Cursor-Stil f\u00fcr die Maus.",
@@ -1983,6 +1997,13 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/Emotes/Hardmode1999Emote",
+            "name": "Der St\u00e4hlerne Pfad: 1999",
+            "description": "Verliehen f\u00fcr das Beenden des St\u00e4hlernen Pfads in 1999.",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/Emotes/HardmodeCeresEmote",
             "name": "Der St\u00e4hlerne Pfad: Ceres",
             "description": "Verliehen f\u00fcr das Beenden des St\u00e4hlernen Pfads auf Ceres.",
@@ -2175,6 +2196,42 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryAmirEmote",
+            "name": "Emote: Amir Gemini",
+            "description": "Wechsle mit dem Emote: Amir Gemini zwischen Volt und Amirs Gemini-Skin, auch w\u00e4hrend Missionen.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryAoiEmote",
+            "name": "Emote: Aoi Gemini",
+            "description": "Wechsle mit dem Emote: Aoi Gemini zwischen Mag und Aois Gemini-Skin, auch w\u00e4hrend Missionen.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryArthurEmote",
+            "name": "Emote: Arthur Gemini",
+            "description": "Wechsle mit dem Emote: Arthur Gemini zwischen Excalibur und Arthurs Gemini-Skin, auch w\u00e4hrend Missionen.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryEleanorEmote",
+            "name": "Emote: Eleanor Gemini",
+            "description": "Wechsle mit dem Emote: Eleanor Gemini zwischen Nyx und Eleanors Gemini-Skin, auch w\u00e4hrend Missionen.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryLettieEmote",
+            "name": "Emote: Lettie Gemini",
+            "description": "Wechsle mit dem Emote: Lettie Gemini zwischen Trinity und Letties Gemini-Skin, auch w\u00e4hrend Missionen.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryQuincyEmote",
+            "name": "Emote: Quincy Gemini",
+            "description": "Wechsle mit dem Emote: Quincy Gemini zwischen Cyte-09 und Quincys Gemini-Skin, auch w\u00e4hrend Missionen.",
+            "codexSecret": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/Emotes/LegionSaluteEmote",
             "name": "Wolfsgruss",
             "description": "Mit diesem Gru\u00df erkennt ein Rudelmitglied das andere.",
@@ -2286,7 +2343,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/Emotes/ThousandDaysEmote",
             "name": "Tausend Tage",
-            "description": "[PH] Awarded to Tenno who have shown unyielding dedication.",
+            "description": "Wird an Tenno verliehen, die unerm\u00fcdliche Hingabe gezeigt haben.",
             "codexSecret": false
         },
         {
@@ -2931,7 +2988,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageCommunityDiscord",
-            "name": "Glyphe: Warframe Community Discord",
+            "name": "Glyphe: Warframe Discord Community",
             "description": "Eine Glyphe f\u00fcr dein Profil.",
             "codexSecret": true
         },
@@ -3260,7 +3317,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageFRCommunityDiscord",
-            "name": "Glyphe: FR Community Discord",
+            "name": "Glyphe: FR Discord Community",
             "description": "Eine Glyphe f\u00fcr dein Profil.",
             "codexSecret": true
         },
@@ -5214,6 +5271,66 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectA",
+            "name": "Glyphe: Pixel Perfect Jillian",
+            "description": "Eine Glyphe, die Jillian Killian im Pixelstil darstellt.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectB",
+            "name": "Glyphe: Pixel Perfect Lillian",
+            "description": "Eine Glyphe, die Lillian Killian im Pixelstil darstellt.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectC",
+            "name": "Glyphe: Pixel Perfect Anna",
+            "description": "Eine Glyphe, die Anna Ki im Pixelstil darstellt.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectD",
+            "name": "Glyphe: Pixel Perfect Goon",
+            "description": "Eine Glyphe, die Goon von den G.O.B. im Pixelstil darstellt.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPortraitJillian",
+            "name": "Glyphe: Jillian Pixel-Portr\u00e4t",
+            "description": "Eine Glyphe, die Jillian Killians Portr\u00e4t darstellt.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPortraitLillian",
+            "name": "Glyphe: Lillian Pixel-Portr\u00e4t",
+            "description": "Eine Glyphe, die Lillian Killians Portr\u00e4t darstellt.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerA",
+            "name": "Glyphe: Caliber Chicks 2",
+            "description": "Eine Glyphe, die das Logo der Caliber Chicks 2 darstellt.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerB",
+            "name": "Glyphe: Jillian Killian",
+            "description": "Eine Glyphe, die Jillian Killian darstellt.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerC",
+            "name": "Glyphe: Lillian Killian",
+            "description": "Eine Glyphe, die Lillian Killian darstellt.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerD",
+            "name": "Glyphe: Anna Ki",
+            "description": "Eine Glyphe, die Anna Ki darstellt.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageBaruukPrimeBright",
             "name": "Glyphe: Baruuk Prime (Hell)",
             "description": "Eine Glyphe, die Baruuk Prime vor einem hellen Hintergrund darstellt.",
@@ -5445,6 +5562,18 @@
             "excludeFromCodex": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphA",
+            "name": "Glyphe: Gro\u00dfz\u00fcgige Schlange",
+            "description": "Eine Glyphe f\u00fcr dein Profil.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphB",
+            "name": "Glyphe: Yisi",
+            "description": "Eine Glyphe f\u00fcr dein Profil.",
+            "codexSecret": false
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageChillingGlyphFour",
             "name": "Glyphe: Mumientanz",
             "description": "Eine gespenstische Glyphe f\u00fcr dein Profil.",
@@ -5476,25 +5605,25 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageDogDays2024GrendelGlyph",
-            "name": "Glyphe: Grendel Hitzefrei Community",
+            "name": "Glyphe: Grendel Hitzefrei (Community)",
             "description": "Eine Community-Glyphe, erstellt von CheruuAx, die Grendel bei einem Festmahl darstellt.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageDogDays2024LavosGlyph",
-            "name": "Glyphe: Lavos Hitzefrei Community",
+            "name": "Glyphe: Lavos Hitzefrei (Community)",
             "description": "Eine Community-Glyphe, erstellt von CheruuAx, die Lavos mit einem erfrischenden Getr\u00e4nk darstellt.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageDogDays2024VorunaGlyph",
-            "name": "Glyphe: Voruna Hitzefrei Community",
+            "name": "Glyphe: Voruna Hitzefrei (Community)",
             "description": "Eine Community-Glyphe, erstellt von CheruuAx, die Voruna und ihr Rudel darstellt.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageDogDays2024YareliGlyph",
-            "name": "Glyphe: Yareli Hitzefrei Community",
+            "name": "Glyphe: Yareli Hitzefrei (Community)",
             "description": "Eine Community-Glyphe, erstellt von CheruuAx, die Yareli darstellt, wie sie der Hitze trotzt.",
             "codexSecret": true
         },
@@ -5692,6 +5821,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/Cyte09SupporterGlyph",
+            "name": "Glyphe: Cyte-09 Meistersch\u00fctze",
+            "description": "Eine Glyphe f\u00fcr dein Profil.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageBaruukDeluxe",
             "name": "Glyphe: Baruuk Doan",
             "description": "Eine Glyphe, die Baruuk Doan darstellt.",
@@ -5774,6 +5909,30 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageDagathDark",
             "name": "Glyphe: Dagath (Dunkel)",
             "description": "Eine Glyphe, die Dagath vor einem dunklen Hintergrund darstellt.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusAltBright",
+            "name": "Glyphe: Cyte-09 Espricor (Hell)",
+            "description": "Eine Glyphe, die Cyte-09 Espricor vor einem hellen Hintergrund darstellt.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusAltDark",
+            "name": "Glyphe: Cyte-09 Espricor (Dunkel)",
+            "description": "Eine Glyphe, die Cyte-09 Espricor vor einem dunklen Hintergrund darstellt.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusBright",
+            "name": "Glyphe: Cyte-09 (Hell)",
+            "description": "Eine Glyphe, die Cyte-09 vor einem hellen Hintergrund darstellt.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusDark",
+            "name": "Glyphe: Cyte-09 (Dunkel)",
+            "description": "Eine Glyphe, die Cyte-09 vor einem dunklen Hintergrund darstellt.",
             "codexSecret": true
         },
         {
@@ -6103,7 +6262,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAlbrechtHatCommunity",
-            "name": "Glyphe: Albrechts Hut Community",
+            "name": "Glyphe: Albrechts Hut (Community)",
             "description": "Eine Glyphe, die den Hut von Albrecht Entrati darstellt, entworfen von SirEnarion.",
             "codexSecret": true
         },
@@ -6230,127 +6389,133 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityCaliban",
-            "name": "Glyphe: Caliban Community",
+            "name": "Glyphe: Caliban (Community)",
             "description": "Eine Community-Glyphe, die Caliban im Stil des Community-K\u00fcnstlers LeoDoodling darstellt.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityCavaleroGraffiti",
-            "name": "Glyphe: Cavalero Graffiti Community",
+            "name": "Glyphe: Cavalero Graffiti (Community)",
             "description": "Eine Glyphe, die Cavalero im Stil eines Graffitis darstellt, entworfen von DarikaArt.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityChroma",
-            "name": "Glyphe: Chroma Community",
+            "name": "Glyphe: Chroma (Community)",
             "description": "Eine Community-Glyphe, die Chroma im Stil des Community-K\u00fcnstlers StudioCyen darstellt.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityClemComic",
-            "name": "Glyphe: Clem Comic Community",
+            "name": "Glyphe: Clem Comic (Community)",
             "description": "Eine Glyphe, die Clem im Stil eines Graffitis darstellt, entworfen von DasterCreations.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityDagath",
-            "name": "Glyphe: Dagath Community",
+            "name": "Glyphe: Dagath (Community)",
             "description": "Eine Community-Glyphe, die Dagath im Stil des Community-K\u00fcnstlers Zarionis darstellt.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityEquinox",
-            "name": "Glyphe: Equinox Community",
+            "name": "Glyphe: Equinox (Community)",
             "description": "Eine Community-Glyphe, die Equinox im Stil des Community-K\u00fcnstlers CalamityDeath darstellt.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityGaruda",
-            "name": "Glyphe: Garuda Community",
+            "name": "Glyphe: Garuda (Community)",
             "description": "Eine Community-Glyphe, die Garuda im Stil des Community-K\u00fcnstlers ibumuc darstellt.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityHarrow",
-            "name": "Glyphe: Harrow Community",
+            "name": "Glyphe: Harrow (Community)",
             "description": "Eine Community-Glyphe, die Harrow im Stil des Community-K\u00fcnstlers Endquar darstellt.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityKullervo",
-            "name": "Glyphe: Kullervo Community",
+            "name": "Glyphe: Kullervo (Community)",
             "description": "Eine Community-Glyphe, die Kullervo im Stil des Community-K\u00fcnstlers UpsideDownSmore darstellt.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityLittleDuckGraffiti",
-            "name": "Glyphe: Little Duck Graffiti Community",
+            "name": "Glyphe: Little Duck Graffiti (Community)",
             "description": "Eine Glyphe, die Little Duck im Stil eines Graffitis darstellt, entworfen von DarikaArt.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityMotherGraffiti",
-            "name": "Glyphe: Mutter Graffiti Community",
+            "name": "Glyphe: Mutter Graffiti (Community)",
             "description": "Eine Glyphe, die Mutter im Stil eines Graffitis darstellt, entworfen von DarikaArt.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityQorvex",
-            "name": "Glyphe: Qorvex Community",
+            "name": "Glyphe: Qorvex (Community)",
             "description": "Eine Community-Glyphe, die Qorvex im Stil des Community-K\u00fcnstlers Veroz darstellt.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityRevenant",
-            "name": "Glyphe: Revenant Community",
+            "name": "Glyphe: Revenant (Community)",
             "description": "Eine Community-Glyphe, die Revenant im Stil des Community-K\u00fcnstlers Kirdy darstellt.",
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaum1999Mug",
+            "name": "Glyphe: Tennobaum 1999 Tasse (Community)",
+            "description": "Eine Glyphe, die eine Tasse hei\u00dfe Schokolade mit 1999 Marshmallows darstellt, entworfen von Cyanfacade.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumFrost",
-            "name": "Glyphe: Tennobaum Frost Community",
+            "name": "Glyphe: Tennobaum Frost (Community)",
             "description": "Eine Glyphe, die Frost in einer Schneekugel zeigt, entworfen von Nelosart.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumGrimoire",
-            "name": "Glyphe: Tennobaum Grimoire Community",
+            "name": "Glyphe: Tennobaum Grimoire (Community)",
             "description": "Eine Glyphe, die Albrecht darstellt, wie er in einem festlichen Grimoire liest, entworfen von Cyanfacade.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumKubrow",
-            "name": "Glyphe: Tennobaum Kubrow Community",
+            "name": "Glyphe: Tennobaum Kubrow (Community)",
             "description": "Eine Glyphe, die einen Kubrow mit einer Schneeflocke auf der Nase darstellt, entworfen von Nelosart.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumRelic",
-            "name": "Glyphe: Tennobaum Relikt Community",
+            "name": "Glyphe: Tennobaum Relikt (Community)",
             "description": "Eine Glyphe, die ein festliches Relikt darstellt, entworfen von Cyanfacade.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumVauban",
-            "name": "Glyphe: Tennobaum Vauban Community",
+            "name": "Glyphe: Tennobaum Vauban (Community)",
             "description": "Eine Glyphe, die einen Schneeball werfenden Vauban darstellt, entworfen von Nelosart.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumVulpaphyla",
-            "name": "Glyphe: Tennobaum Vulpaphyla Community",
+            "name": "Glyphe: Tennobaum Vulpaphyla (Community)",
             "description": "Eine Glyphe, die einen gefrorenen Vulpaphyla darstellt, entworfen von Nelosart.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumZephyr",
-            "name": "Glyphe: Tennobaum Zephyr Community",
+            "name": "Glyphe: Tennobaum Zephyr (Community)",
             "description": "Eine Glyphe, die Zephyr in einem warmen Mantel darstellt, entworfen von Nelosart.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTitania",
-            "name": "Glyphe: Titania Community",
+            "name": "Glyphe: Titania (Community)",
             "description": "Eine Community-Glyphe, die Titania im Stil des Community-K\u00fcnstlers Ritens darstellt.",
             "codexSecret": true
         },
@@ -6487,6 +6652,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDJRoMGlyph",
+            "name": "Glyphe: On-lyne DJ RoM (Community)",
+            "description": "Eine Community-Glyphe, die das On-lyne Mitglied DJ RoM im Stil des Community-K\u00fcnstlers death_ma666ots darstellt.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDanteGlyph",
             "name": "Glyphe: Dantes Freude",
             "description": "Eine Glyphe, die Dante bei einer seiner Lieblingsbesch\u00e4ftigungen zeigt.",
@@ -6504,6 +6675,12 @@
             "name": "Glyphe: Tiberon Obsidian",
             "description": "Eine Glyphe f\u00fcr dein Profil.",
             "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDrillbitGlyph",
+            "name": "Glyphe: On-lyne Drillbit (Community)",
+            "description": "Eine Community-Glyphe, die das On-lyne Mitglied Drillbit im Stil des Community-K\u00fcnstlers death_ma666ots darstellt.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDrippy",
@@ -6588,26 +6765,32 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGamingDogDaysGrendel",
-            "name": "Glyphe: Grendel Hitzefrei Community",
+            "name": "Glyphe: Grendel Hitzefrei (Community)",
             "description": "Eine Community-Glyphe, erstellt von CheruuAx, die Grendel bei einem Festmahl darstellt.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGamingDogDaysLavos",
-            "name": "Glyphe: Lavos Hitzefrei Community",
+            "name": "Glyphe: Lavos Hitzefrei (Community)",
             "description": "Eine Community-Glyphe, erstellt von CheruuAx, die Lavos mit einem erfrischenden Getr\u00e4nk darstellt.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGamingDogDaysVoruna",
-            "name": "Glyphe: Voruna Hitzefrei Community",
+            "name": "Glyphe: Voruna Hitzefrei (Community)",
             "description": "Eine Community-Glyphe, erstellt von CheruuAx, die Voruna und ihr Rudel darstellt.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGamingDogDaysYareli",
-            "name": "Glyphe: Yareli Hitzefrei Community",
+            "name": "Glyphe: Yareli Hitzefrei (Community)",
             "description": "Eine Community-Glyphe, erstellt von CheruuAx, die Yareli darstellt, wie sie der Hitze trotzt.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGaussAccoladeGlyph",
+            "name": "Glyphe: Gauss Auszeichnung",
+            "description": "Eine Glyphe, die eine tapfere Leistung repr\u00e4sentiert, entworfen von Community-K\u00fcnstler Anavi_Ivy.",
             "codexSecret": true
         },
         {
@@ -7097,6 +7280,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageHarddriveGlyph",
+            "name": "Glyphe: On-lyne Harddrive (Community)",
+            "description": "Eine Community-Glyphe, die das On-lyne Mitglied Harddrive im Stil des Community-K\u00fcnstlers death_ma666ots darstellt.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageHarrowAction",
             "name": "Glyphe: Harrow in Aktion",
             "description": "Eine Glyphe f\u00fcr dein Profil.",
@@ -7119,6 +7308,42 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInarosScarabs",
             "name": "Glyphe: Varna Skarab\u00e4us",
             "description": "Eine Glyphe f\u00fcr dein Profil.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedDJRoMGlyph",
+            "name": "Glyphe: On-lyne Befallener DJ RoM (Community)",
+            "description": "Eine Community-Glyphe, die das Befallene On-lyne Mitglied DJ RoM im Stil des Community-K\u00fcnstlers death_ma666ots darstellt.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedDrillbitGlyph",
+            "name": "Glyphe: On-lyne Befallener Drillbit (Community)",
+            "description": "Eine Community-Glyphe, die das Befallene On-lyne Mitglied Drillbit im Stil des Community-K\u00fcnstlers death_ma666ots darstellt.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedHarddriveGlyph",
+            "name": "Glyphe: On-lyne Befallener Harddrive (Community)",
+            "description": "Eine Community-Glyphe, die das Befallene On-lyne Mitglied Harddrive im Stil des Community-K\u00fcnstlers death_ma666ots darstellt.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedLogoGlyph",
+            "name": "Glyphe: Befallenes On-lyne Logo (Community)",
+            "description": "Eine Community-Glyphe, die das Befallene On-lyne Logo im Stil des Community-K\u00fcnstlers death_ma666ots darstellt.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedPacketGlyph",
+            "name": "Glyphe: On-lyne Befallener Packet (Community)",
+            "description": "Eine Community-Glyphe, die das Befallene On-lyne Mitglied Packet im Stil des Community-K\u00fcnstlers death_ma666ots darstellt.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedZekeGlyph",
+            "name": "Glyphe: On-lyne Befallener Zeke (Community)",
+            "description": "Eine Community-Glyphe, die das Befallene On-lyne Mitglied Zeke im Stil des Community-K\u00fcnstlers death_ma666ots darstellt.",
             "codexSecret": true
         },
         {
@@ -7182,6 +7407,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageJadeAccoladeGlyph",
+            "name": "Glyphe: Jade Auszeichnung",
+            "description": "Eine Glyphe, die eine tapfere Leistung repr\u00e4sentiert, entworfen von Community-K\u00fcnstler Anavi_Ivy.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageJadeInActionGlyph",
             "name": "Glyphe: Jade in Aktion",
             "description": "Eine Glyphe f\u00fcr dein Profil.",
@@ -7227,6 +7458,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLettieAccoladeGlyph",
             "name": "Glyphe: Lettie Auszeichnung",
             "description": "Eine Glyphe, die eine tapfere Leistung repr\u00e4sentiert, entworfen von Community-K\u00fcnstler Carl Tabora.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLogoGlyph",
+            "name": "Glyphe: Strahlendes On-lyne Logo (Community)",
+            "description": "Eine Community-Glyphe, die das strahlende On-lyne Logo im Stil des Community-K\u00fcnstlers death_ma666ots darstellt.",
             "codexSecret": true
         },
         {
@@ -7300,7 +7537,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageManInTheWallCommunity",
-            "name": "Glyphe: Mann in der Wand Community",
+            "name": "Glyphe: Mann in der Wand (Community)",
             "description": "Eine Glyphe, die das L\u00e4cheln vom Mann in der Wand darstellt, entworfen von death_ma666ots.",
             "codexSecret": true
         },
@@ -7308,6 +7545,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMesaEnamel",
             "name": "Glyphe: Mesa Fixiert",
             "description": "Eine Glyphe f\u00fcr dein Profil.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMirageAccoladeGlyph",
+            "name": "Glyphe: Mirage Auszeichnung",
+            "description": "Eine Glyphe, die eine tapfere Leistung repr\u00e4sentiert, entworfen von Community-K\u00fcnstler Anavi_Ivy.",
             "codexSecret": true
         },
         {
@@ -7384,8 +7627,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMovember",
-            "name": "Glyphe: Movember",
-            "description": "Glyphe: Movember von RetroAlchemist.",
+            "name": "Glyphe: Movember ",
+            "description": "Glyphe: Movember erstellt von RetroAlchemist.",
             "codexSecret": true
         },
         {
@@ -7449,9 +7692,51 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePacketGlyph",
+            "name": "Glyphe: On-lyne Packet (Community)",
+            "description": "Eine Community-Glyphe, die das On-lyne Mitglied Packet im Stil des Community-K\u00fcnstlers death_ma666ots darstellt.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePartyCDGlyph",
             "name": "Glyphe: Party-CD",
             "description": "Eine Glyphe f\u00fcr dein Profil.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelAmir",
+            "name": "Glyphe: Amir Pixel",
+            "description": "Feiere den unverwechselbaren Bildschirmstil von 1999 mit dieser Glyphe, die Amir, den Volt-Protoframe, darstellt!",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelAoi",
+            "name": "Glyphe: Aoi Pixel",
+            "description": "Feiere den unverwechselbaren Bildschirmstil von 1999 mit dieser Glyphe, die Aoi, den Mag-Protoframe, darstellt!",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelArthur",
+            "name": "Glyphe: Arthur Pixel",
+            "description": "Feiere den unverwechselbaren Bildschirmstil von 1999 mit dieser Glyphe, die Arthur, den Excalibur-Protoframe, darstellt!",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelEleanor",
+            "name": "Glyphe: Eleanor Pixel",
+            "description": "Feiere den unverwechselbaren Bildschirmstil von 1999 mit dieser Glyphe, die Eleanor, den Nyx-Protoframe, darstellt!",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelLettie",
+            "name": "Glyphe: Lettie Pixel",
+            "description": "Feiere den unverwechselbaren Bildschirmstil von 1999 mit dieser Glyphe, die Lettie, den Trinity-Protoframe, darstellt!",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelQuincy",
+            "name": "Glyphe: Quincy Pixel",
+            "description": "Feiere den unverwechselbaren Bildschirmstil von 1999 mit dieser Glyphe, die Quincy, den Cyte-09-Protoframe, darstellt!",
             "codexSecret": true
         },
         {
@@ -7464,6 +7749,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePrideGlyph",
             "name": "Glyphe: Pride III",
             "description": "Diese Glyphe zelebriert Pride. Entworfen von NimkeArts.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageProteaAccoladeGlyph",
+            "name": "Glyphe: Protea Auszeichnung",
+            "description": "Eine Glyphe, die eine tapfere Leistung repr\u00e4sentiert, entworfen von Community-K\u00fcnstler Anavi_Ivy.",
             "codexSecret": true
         },
         {
@@ -7504,6 +7795,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSevagothAccoladeGlyph",
+            "name": "Glyphe: Sevagoth Auszeichnung",
+            "description": "Eine Glyphe, die eine tapfere Leistung repr\u00e4sentiert, entworfen von Community-K\u00fcnstler Anavi_Ivy.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSevagothAction",
             "name": "Glyphe: Sevagoth in Aktion",
             "description": "Eine Glyphe f\u00fcr dein Profil.",
@@ -7514,8 +7811,7 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageStalkerAction",
             "name": "Glyphe: Stalker in Aktion",
             "description": "Eine Glyphe f\u00fcr dein Profil.",
-            "codexSecret": true,
-            "excludeFromCodex": true
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageStarDaysCervulitePat",
@@ -7546,6 +7842,30 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennoVIP",
             "name": "Glyphe: Tenno VIP East",
             "description": "Eine Glyphe f\u00fcr VIP-Tenno.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumAoi",
+            "name": "Glyphe: Tennobaum Aoi (Community)",
+            "description": "Eine Glyphe, die Jade dabei zeigt, wie sie einen Schneeengel macht, entworfen von alcyonsa.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumCozyStalker",
+            "name": "Glyphe: Tennobaum Stalker (Community)",
+            "description": "Eine Glyphe, die Stalker mit einem bequemen Pulli zeigt, entworfen von alcyonsa.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumJade",
+            "name": "Glyphe: Tennobaum Jade (Community)",
+            "description": "Eine Glyphe, die Jade dabei zeigt, wie sie einen Schneeengel macht, entworfen von alcyonsa.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumManintheCookie",
+            "name": "Glyphe: Tennobaum Mann im Keks (Community)",
+            "description": "Eine Glyphe, die einen MIDW Lebkuchen-Keks zeigt, entworfen von alcyonsa.",
             "codexSecret": true
         },
         {
@@ -7709,6 +8029,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageValkyrAction",
             "name": "Glyphe: Valkyr in Aktion",
             "description": "Eine Glyphe f\u00fcr dein Profil.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageVaubanAccoladeGlyph",
+            "name": "Glyphe: Vauban Auszeichnung",
+            "description": "Eine Glyphe, die eine tapfere Leistung repr\u00e4sentiert, entworfen von Community-K\u00fcnstler Anavi_Ivy.",
             "codexSecret": true
         },
         {
@@ -7932,6 +8258,12 @@
             "excludeFromCodex": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageZekeGlyph",
+            "name": "Glyphe: On-lyne Zeke (Community)",
+            "description": "Eine Community-Glyphe, die das On-lyne Mitglied Zeke im Stil des Community-K\u00fcnstlers death_ma666ots darstellt.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/CNY2023RabbitGlyph",
             "name": "Glyphe: Guimao",
             "description": "Eine Glyphe f\u00fcr dein Profil.",
@@ -7959,16 +8291,10 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Community10YearOrdisGlyph",
-            "name": "Glyphe: Chatty Ordis Community",
+            "name": "Glyphe: Chatty Ordis (Community)",
             "description": "Eine Glyphe, die 10 Jahre Warframe feiert, erstellt von Searyn.",
             "codexSecret": false,
             "excludeFromCodex": true
-        },
-        {
-            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/CommunityTennobaum1999Mug",
-            "name": "Glyphe: Tennobaum 1999 Tasse Community",
-            "description": "Eine Glyphe, die eine Tasse hei\u00dfe Schokolade mit 1999 Marshmallows darstellt, entworfen von Cyanfacade.",
-            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/DeimosRevolverGlyph",
@@ -8168,7 +8494,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBombastineCommunity",
-            "name": "Glyphe: Bombastine Community",
+            "name": "Glyphe: Bombastine (Community)",
             "description": "Eine Designer-Glyphe, erstellt von Joriale.",
             "codexSecret": false
         },
@@ -8699,7 +9025,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageGaraPrimeCommunity",
-            "name": "Glyphe: Gara Prime Community",
+            "name": "Glyphe: Gara Prime (Community)",
             "description": "Eine Designer-Glyphe, erstellt von SpaceWaifu.",
             "codexSecret": true,
             "excludeFromCodex": true
@@ -10375,7 +10701,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageValaCommunity",
-            "name": "Glyphe: Vala Community",
+            "name": "Glyphe: Vala (Community)",
             "description": "Eine Designer-Glyphe, erstellt von FrostyNovaPrime.",
             "codexSecret": true,
             "excludeFromCodex": true
@@ -10617,7 +10943,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageYareliCommunity",
-            "name": "Glyphe: Yareli Community",
+            "name": "Glyphe: Yareli (Community)",
             "description": "Eine Designer-Glyphe, erstellt von Joriale.",
             "codexSecret": true,
             "excludeFromCodex": true
@@ -10692,7 +11018,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/KahlCommunityGlyph",
-            "name": "Glyphe: Kahl-175 Community",
+            "name": "Glyphe: Kahl-175 (Community)",
             "description": "Eine von der Community erstellte Fanart Glyphe von Kahl-175 f\u00fcr 'Schleierschnitter'. Kunst geschaffen von MissMagicka.",
             "codexSecret": true
         },
@@ -28667,6 +28993,20 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/UnlockFrumentariusAgile",
+            "name": "Cyte-09-Animationsset: Agil",
+            "description": "Dieser Gegenstand erlaubt es dir, Cyte-09s agiles Animationsset mit jedem anderen Warframe zu verwenden.",
+            "codexSecret": true,
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/UnlockFrumentariusNoble",
+            "name": "Cyte-09-Animationsset: Nobel",
+            "description": "Dieser Gegenstand erlaubt es dir, Cyte-09s nobles Animationsset mit jedem anderen Warframe zu verwenden.",
+            "codexSecret": true,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Garuda/UnlockGarudaAgile",
             "name": "Garuda-Animationsset: Agil",
             "description": "Dieser Gegenstand erlaubt es dir, Garudas agiles Animationsset mit jedem anderen Warframe zu verwenden.",
@@ -28931,6 +29271,12 @@
             "name": "Parallax-Skin: Albodix",
             "description": "Das Parallax w\u00e4re mit dem Albodix-Skin geschm\u00fcckt gewesen, wenn die Passagiere die Zariman verlie\u00dfen, um kalte oder dunkle Tau-Regionen zu studieren.",
             "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Liset/1999TankHoodOrnament",
+            "name": "H-09 Apex-Panzergesch\u00fctz Sumdali",
+            "description": "Das rauchende Gesch\u00fctz eines H-09 Apex-Panzers der Scaldra soll dein Landungsschiff verzieren.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Liset/ConquestHoodOrnament",

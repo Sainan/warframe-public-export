@@ -322,7 +322,7 @@
             {
                 "uniqueName": "/Lotus/Types/Challenges/Seasons/Daily/SeasonDailyKillEnemiesWhileOnKDrive",
                 "name": "Wilder Ritt",
-                "description": "T\u00f6te |COUNT| Gegner, w\u00e4hrend du ein K-Drive nutzt, auf deinem Kaithe, einem Velocipod oder Merulina reitest.",
+                "description": "T\u00f6te |COUNT| Gegner, w\u00e4hrend du ein K-Drive oder ein Atomkrad nutzt oder auf deinem Kaithe oder einem Velocipod reitest.",
                 "standing": 1000,
                 "required": 20
             },

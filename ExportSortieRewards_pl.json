@@ -322,7 +322,7 @@
             {
                 "uniqueName": "/Lotus/Types/Challenges/Seasons/Daily/SeasonDailyKillEnemiesWhileOnKDrive",
                 "name": "Dzika Je\u017ad\u017aczyni",
-                "description": "Zabij wrog\u00f3w podczas jazdy na K-Drive, Kaithe, Velocipodzie lub Merulinie: |COUNT|",
+                "description": "Zabij wrog\u00f3w podczas jazdy na K-Drive, Kaithe, Velocipodzie lub Atomicykl: |COUNT|.",
                 "standing": 1000,
                 "required": 20
             },
@@ -1675,7 +1675,7 @@
             },
             {
                 "uniqueName": "/Lotus/StoreItems/Upgrades/Mods/Randomized/RawMeleeRandomMod",
-                "name": "Mod Riven Broni Bia\u0142ej"
+                "name": "Mod Riven Broni bia\u0142ej"
             },
             {
                 "uniqueName": "/Lotus/Upgrades/Skins/Liset/StalkerHoodOrnament"

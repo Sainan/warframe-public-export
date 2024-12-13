@@ -322,7 +322,7 @@
             {
                 "uniqueName": "/Lotus/Types/Challenges/Seasons/Daily/SeasonDailyKillEnemiesWhileOnKDrive",
                 "name": "Thrill Rider",
-                "description": "Kill |COUNT| enemies while riding a K-Drive, Kaithe, Velocipod, or Merulina.",
+                "description": "Kill |COUNT| enemies while riding a K-Drive, Kaithe, Velocipod, or Atomicycle.",
                 "standing": 1000,
                 "required": 20
             },

@@ -506,8 +506,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Restoratives/Consumable/AncientHealerBall",
-            "name": "Uraltes Heiler-Phantom",
-            "description": "Setzt einen URALTEN HEILER EXIMUS ein, der f\u00fcr dich k\u00e4mpft.",
+            "name": "Uraltes Besch\u00fctzer-Phantom",
+            "description": "Setzt einen URALTEN BESCH\u00dcTZER EXIMUS ein, der f\u00fcr dich k\u00e4mpft.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/SummonNpcItem"
         },
@@ -1108,7 +1108,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/Restoratives/MotorcycleSummon",
-            "name": "Atomkrad herbeirufen",
+            "name": "Atomkrad-Ruf",
             "description": "Ruft ein Atomkrad zur Verwendung in 1999 und freien Missionen herbei.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/Restorative"

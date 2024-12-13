@@ -3011,6 +3011,102 @@
             "factionIndex": 3,
             "minEnemyLevel": 35,
             "maxEnemyLevel": 55
+        },
+        {
+            "uniqueName": "SolNode850",
+            "name": "\ub808\uac00\uc0ac\uc774\ud2b8 \uc218\ud655",
+            "systemIndex": 23,
+            "systemName": "\ud640\ubc14\ub2c8\uc544",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 40,
+            "factionIndex": 9,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode851",
+            "name": "\ud5ec\uc2a4\ud06c\ub7fd: \uc2a4\uce7c\ub4dc\ub77c",
+            "systemIndex": 23,
+            "systemName": "\ud640\ubc14\ub2c8\uc544",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 2,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode852",
+            "name": "\ud5ec\uc2a4\ud06c\ub7fd: \ud14c\ud06c\ubcd1",
+            "systemIndex": 23,
+            "systemName": "\ud640\ubc14\ub2c8\uc544",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 2,
+            "factionIndex": 9,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode853",
+            "name": "\uc12c\uba78: \uc2a4\uce7c\ub4dc\ub77c",
+            "systemIndex": 23,
+            "systemName": "\ud640\ubc14\ub2c8\uc544",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 1,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode854",
+            "name": "\uc12c\uba78: \ud14c\ud06c\ubcd1",
+            "systemIndex": 23,
+            "systemName": "\ud640\ubc14\ub2c8\uc544",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 1,
+            "factionIndex": 9,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode855",
+            "name": "\uacbd\ud569: \ubd84\ub300 VS \ubd84\ub300",
+            "systemIndex": 23,
+            "systemName": "\ud640\ubc14\ub2c8\uc544",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 42,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode857",
+            "name": "\uacbd\ud569: \ub2e8\ub3c5 \ubd84\ub300",
+            "systemIndex": 23,
+            "systemName": "\ud640\ubc14\ub2c8\uc544",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 42,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode856",
+            "name": "\uc554\uc0b4: H-09 \ud0f1\ud06c",
+            "systemIndex": 23,
+            "systemName": "\ud640\ubc14\ub2c8\uc544",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 0,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
         }
     ]
 }

@@ -18091,6 +18091,138 @@
             "secretIngredients": []
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09Blueprint",
+            "resultType": "/Lotus/Powersuits/Frumentarius/Frumentarius",
+            "buildPrice": 25000,
+            "buildTime": 259200,
+            "skipBuildTimePrice": 50,
+            "consumeOnUse": true,
+            "num": 1,
+            "codexSecret": false,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09HelmetComponent",
+                    "ItemCount": 1,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09ChassisComponent",
+                    "ItemCount": 1,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09SystemsComponent",
+                    "ItemCount": 1,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/OrokinCell",
+                    "ItemCount": 1,
+                    "ProductCategory": "MiscItems"
+                }
+            ],
+            "secretIngredients": []
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09ChassisBlueprint",
+            "resultType": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09ChassisComponent",
+            "buildPrice": 15000,
+            "buildTime": 43200,
+            "skipBuildTimePrice": 25,
+            "consumeOnUse": true,
+            "num": 1,
+            "codexSecret": false,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonB",
+                    "ItemCount": 200,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonB",
+                    "ItemCount": 6,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceRareA",
+                    "ItemCount": 8,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+                    "ItemCount": 1000,
+                    "ProductCategory": "MiscItems"
+                }
+            ],
+            "secretIngredients": []
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09HelmetBlueprint",
+            "resultType": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09HelmetComponent",
+            "buildPrice": 15000,
+            "buildTime": 43200,
+            "skipBuildTimePrice": 25,
+            "consumeOnUse": true,
+            "num": 1,
+            "codexSecret": false,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonA",
+                    "ItemCount": 60,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonA",
+                    "ItemCount": 40,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/NeuralSensor",
+                    "ItemCount": 2,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+                    "ItemCount": 1,
+                    "ProductCategory": "MiscItems"
+                }
+            ],
+            "secretIngredients": []
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09SystemsBlueprint",
+            "resultType": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09SystemsComponent",
+            "buildPrice": 15000,
+            "buildTime": 43200,
+            "skipBuildTimePrice": 25,
+            "consumeOnUse": true,
+            "num": 1,
+            "codexSecret": false,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonA",
+                    "ItemCount": 20,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Circuits",
+                    "ItemCount": 500,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonB",
+                    "ItemCount": 4,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceRareA",
+                    "ItemCount": 6,
+                    "ProductCategory": "MiscItems"
+                }
+            ],
+            "secretIngredients": []
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/DagathBlueprint",
             "resultType": "/Lotus/Powersuits/Dagath/Dagath",
             "buildPrice": 25000,
@@ -30244,44 +30376,6 @@
             "secretIngredients": []
         },
         {
-            "uniqueName": "/Lotus/Types/Recipes/WeaponSkins/BroncoSpectreBlueprint",
-            "resultType": "/Lotus/Upgrades/Skins/Weapons/DSPistols/BroncoSpectre",
-            "buildPrice": 20000,
-            "buildTime": 43200,
-            "skipBuildTimePrice": 35,
-            "consumeOnUse": true,
-            "num": 1,
-            "codexSecret": false,
-            "ingredients": [
-                {
-                    "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
-                    "ItemCount": 1,
-                    "ProductCategory": "MiscItems"
-                },
-                {
-                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
-                    "ItemCount": 600,
-                    "ProductCategory": "MiscItems"
-                },
-                {
-                    "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
-                    "ItemCount": 350,
-                    "ProductCategory": "MiscItems"
-                },
-                {
-                    "ItemType": "/Lotus/Types/Items/MiscItems/OldWorldSalvage",
-                    "ItemCount": 1000,
-                    "ProductCategory": "MiscItems"
-                },
-                {
-                    "ItemType": "/Lotus/Types/Items/MiscItems/Morphic",
-                    "ItemCount": 100,
-                    "ProductCategory": "MiscItems"
-                }
-            ],
-            "secretIngredients": []
-        },
-        {
             "uniqueName": "/Lotus/Types/Recipes/WeaponSkins/ForestCamoAkVastoBlueprint",
             "resultType": "/Lotus/Upgrades/Skins/GrineerForest/GrineerForestDualVastos",
             "buildPrice": 20000,
@@ -30375,49 +30469,6 @@
                 {
                     "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
                     "ItemCount": 2,
-                    "ProductCategory": "MiscItems"
-                }
-            ],
-            "secretIngredients": []
-        },
-        {
-            "uniqueName": "/Lotus/Types/Recipes/WeaponSkins/FurisVekeskMicroBlueprint",
-            "resultType": "/Lotus/Upgrades/Skins/Weapons/DSPistols/FurisVekesk",
-            "buildPrice": 20000,
-            "buildTime": 43200,
-            "skipBuildTimePrice": 35,
-            "consumeOnUse": true,
-            "num": 1,
-            "codexSecret": false,
-            "ingredients": [
-                {
-                    "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
-                    "ItemCount": 375,
-                    "ProductCategory": "MiscItems"
-                },
-                {
-                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
-                    "ItemCount": 150,
-                    "ProductCategory": "MiscItems"
-                },
-                {
-                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
-                    "ItemCount": 200,
-                    "ProductCategory": "MiscItems"
-                },
-                {
-                    "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
-                    "ItemCount": 2,
-                    "ProductCategory": "MiscItems"
-                },
-                {
-                    "ItemType": "/Lotus/Types/Items/MiscItems/OldWorldSalvage",
-                    "ItemCount": 1000,
-                    "ProductCategory": "MiscItems"
-                },
-                {
-                    "ItemType": "/Lotus/Types/Items/MiscItems/Morphic",
-                    "ItemCount": 100,
                     "ProductCategory": "MiscItems"
                 }
             ],
@@ -30520,87 +30571,6 @@
                 {
                     "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
                     "ItemCount": 1500,
-                    "ProductCategory": "MiscItems"
-                }
-            ],
-            "secretIngredients": []
-        },
-        {
-            "uniqueName": "/Lotus/Types/Recipes/WeaponSkins/LatoTeknaBlueprint",
-            "resultType": "/Lotus/Upgrades/Skins/Weapons/DSPistols/LatoTekna",
-            "buildPrice": 20000,
-            "buildTime": 43200,
-            "skipBuildTimePrice": 35,
-            "consumeOnUse": true,
-            "num": 1,
-            "codexSecret": false,
-            "ingredients": [
-                {
-                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
-                    "ItemCount": 500,
-                    "ProductCategory": "MiscItems"
-                },
-                {
-                    "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
-                    "ItemCount": 1,
-                    "ProductCategory": "MiscItems"
-                },
-                {
-                    "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
-                    "ItemCount": 350,
-                    "ProductCategory": "MiscItems"
-                },
-                {
-                    "ItemType": "/Lotus/Types/Items/MiscItems/OldWorldSalvage",
-                    "ItemCount": 1000,
-                    "ProductCategory": "MiscItems"
-                },
-                {
-                    "ItemType": "/Lotus/Types/Items/MiscItems/Morphic",
-                    "ItemCount": 100,
-                    "ProductCategory": "MiscItems"
-                }
-            ],
-            "secretIngredients": []
-        },
-        {
-            "uniqueName": "/Lotus/Types/Recipes/WeaponSkins/LexHammer1895Blueprint",
-            "resultType": "/Lotus/Upgrades/Skins/Weapons/DSPistols/LexHammer",
-            "buildPrice": 20000,
-            "buildTime": 43200,
-            "skipBuildTimePrice": 35,
-            "consumeOnUse": true,
-            "num": 1,
-            "codexSecret": false,
-            "ingredients": [
-                {
-                    "ItemType": "/Lotus/Types/Items/MiscItems/Neurode",
-                    "ItemCount": 1,
-                    "ProductCategory": "MiscItems"
-                },
-                {
-                    "ItemType": "/Lotus/Types/Items/MiscItems/AlloyPlate",
-                    "ItemCount": 200,
-                    "ProductCategory": "MiscItems"
-                },
-                {
-                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
-                    "ItemCount": 450,
-                    "ProductCategory": "MiscItems"
-                },
-                {
-                    "ItemType": "/Lotus/Types/Items/MiscItems/OldWorldSalvage",
-                    "ItemCount": 1000,
-                    "ProductCategory": "MiscItems"
-                },
-                {
-                    "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
-                    "ItemCount": 50,
-                    "ProductCategory": "MiscItems"
-                },
-                {
-                    "ItemType": "/Lotus/Types/Items/MiscItems/Morphic",
-                    "ItemCount": 100,
                     "ProductCategory": "MiscItems"
                 }
             ],
@@ -33275,6 +33245,108 @@
             "secretIngredients": []
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolBarrelBlueprint",
+            "resultType": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolBarrel",
+            "buildPrice": 20000,
+            "buildTime": 43200,
+            "skipBuildTimePrice": 25,
+            "consumeOnUse": true,
+            "num": 1,
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonB",
+                    "ItemCount": 40,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonA",
+                    "ItemCount": 16,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonB",
+                    "ItemCount": 20,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+                    "ItemCount": 1,
+                    "ProductCategory": "MiscItems"
+                }
+            ],
+            "secretIngredients": []
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolReceiverBlueprint",
+            "resultType": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolReceiver",
+            "buildPrice": 20000,
+            "buildTime": 43200,
+            "skipBuildTimePrice": 25,
+            "consumeOnUse": true,
+            "num": 1,
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonA",
+                    "ItemCount": 80,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonA",
+                    "ItemCount": 16,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceRareA",
+                    "ItemCount": 12,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Salvage",
+                    "ItemCount": 300,
+                    "ProductCategory": "MiscItems"
+                }
+            ],
+            "secretIngredients": []
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolStockBlueprint",
+            "resultType": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolStock",
+            "buildPrice": 20000,
+            "buildTime": 43200,
+            "skipBuildTimePrice": 25,
+            "consumeOnUse": true,
+            "num": 1,
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonA",
+                    "ItemCount": 80,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonA",
+                    "ItemCount": 40,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceRareA",
+                    "ItemCount": 6,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+                    "ItemCount": 200,
+                    "ProductCategory": "MiscItems"
+                }
+            ],
+            "secretIngredients": []
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NaginataBladeBlueprint",
             "resultType": "/Lotus/Types/Recipes/Weapons/WeaponParts/NaginataBlade",
             "buildPrice": 20000,
@@ -33500,6 +33572,108 @@
                 {
                     "ItemType": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemBCutItem",
                     "ItemCount": 2,
+                    "ProductCategory": "MiscItems"
+                }
+            ],
+            "secretIngredients": []
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleBarrelBlueprint",
+            "resultType": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleBarrel",
+            "buildPrice": 20000,
+            "buildTime": 43200,
+            "skipBuildTimePrice": 25,
+            "consumeOnUse": true,
+            "num": 1,
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonA",
+                    "ItemCount": 40,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceRareA",
+                    "ItemCount": 10,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/NeuralSensor",
+                    "ItemCount": 2,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+                    "ItemCount": 1,
+                    "ProductCategory": "MiscItems"
+                }
+            ],
+            "secretIngredients": []
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleReceiverBlueprint",
+            "resultType": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleReceiver",
+            "buildPrice": 20000,
+            "buildTime": 43200,
+            "skipBuildTimePrice": 25,
+            "consumeOnUse": true,
+            "num": 1,
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonA",
+                    "ItemCount": 60,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonB",
+                    "ItemCount": 60,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonB",
+                    "ItemCount": 15,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/Ferrite",
+                    "ItemCount": 500,
+                    "ProductCategory": "MiscItems"
+                }
+            ],
+            "secretIngredients": []
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleStockBlueprint",
+            "resultType": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleStock",
+            "buildPrice": 20000,
+            "buildTime": 43200,
+            "skipBuildTimePrice": 25,
+            "consumeOnUse": true,
+            "num": 1,
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonB",
+                    "ItemCount": 60,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonA",
+                    "ItemCount": 30,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceRareA",
+                    "ItemCount": 8,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Items/MiscItems/OrokinCell",
+                    "ItemCount": 1,
                     "ProductCategory": "MiscItems"
                 }
             ],
@@ -40381,6 +40555,35 @@
             "secretIngredients": []
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/LasSilencedPistolBlueprint",
+            "resultType": "/Lotus/Weapons/Lasria/LasSilencedPistol/LasSilencedPistolWeapon",
+            "buildPrice": 20000,
+            "buildTime": 43200,
+            "skipBuildTimePrice": 25,
+            "consumeOnUse": true,
+            "num": 1,
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolBarrel",
+                    "ItemCount": 1,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolReceiver",
+                    "ItemCount": 1,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolStock",
+                    "ItemCount": 1,
+                    "ProductCategory": "MiscItems"
+                }
+            ],
+            "secretIngredients": []
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/LatoBlueprint",
             "resultType": "/Lotus/Weapons/Tenno/Pistol/Pistol",
             "buildPrice": 15000,
@@ -43304,6 +43507,40 @@
             "secretIngredients": []
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/TC2024AK47Blueprint",
+            "resultType": "/Lotus/Weapons/Lasria/AK47/TC2024AK47Weapon",
+            "buildPrice": 25000,
+            "buildTime": 43200,
+            "skipBuildTimePrice": 25,
+            "consumeOnUse": true,
+            "num": 1,
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceRareA",
+                    "ItemCount": 5,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonA",
+                    "ItemCount": 25,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonA",
+                    "ItemCount": 60,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonB",
+                    "ItemCount": 60,
+                    "ProductCategory": "MiscItems"
+                }
+            ],
+            "secretIngredients": []
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/TaserStarBlueprint",
             "resultType": "/Lotus/Weapons/Tenno/ThrowingWeapons/StickyBomb/StickyBombs",
             "buildPrice": 20000,
@@ -44324,6 +44561,35 @@
                 },
                 {
                     "ItemType": "/Lotus/Types/Items/MiscItems/Forma",
+                    "ItemCount": 1,
+                    "ProductCategory": "MiscItems"
+                }
+            ],
+            "secretIngredients": []
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/TnBeltFedRifleBlueprint",
+            "resultType": "/Lotus/Weapons/Tenno/LongGuns/TnBeltFedRifle/TnBeltFedRifleWeapon",
+            "buildPrice": 30000,
+            "buildTime": 86400,
+            "skipBuildTimePrice": 25,
+            "consumeOnUse": true,
+            "num": 1,
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "ingredients": [
+                {
+                    "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleBarrel",
+                    "ItemCount": 1,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleReceiver",
+                    "ItemCount": 1,
+                    "ProductCategory": "MiscItems"
+                },
+                {
+                    "ItemType": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleStock",
                     "ItemCount": 1,
                     "ProductCategory": "MiscItems"
                 }

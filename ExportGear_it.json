@@ -506,8 +506,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Restoratives/Consumable/AncientHealerBall",
-            "name": "Spettro Ancient Healer",
-            "description": "Ti permette di dispiegare un ANCIENT HEALER EXIMUS che combatte al tuo fianco.",
+            "name": "Spettro Ancient Protector",
+            "description": "Ti permette di dispiegare un ANCIENT PROTECTOR EXIMUS che combatte al tuo fianco.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/SummonNpcItem"
         },
@@ -1109,7 +1109,7 @@
         {
             "uniqueName": "/Lotus/Types/Restoratives/MotorcycleSummon",
             "name": "Dispiegamento Atomicycle",
-            "description": "Richiama un Atomicycle da utilizzare nel 1999 e nelle missioni esplorazione.",
+            "description": "Richiama una Atomicycle da utilizzare nel 1999 e nelle missioni esplorazione.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/Restorative"
         },

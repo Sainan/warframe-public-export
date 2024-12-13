@@ -506,8 +506,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Restoratives/Consumable/AncientHealerBall",
-            "name": "Espectro de Sanador Antiguo",
-            "description": "Despliega una unidad de SANADOR ANTIGUO EXIMUS para que luche por ti.",
+            "name": "Espectro de Protector Antiguo",
+            "description": "Despliega una unidad de PROTECTOR ANTIGUO EXIMUS para que luche por ti.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/SummonNpcItem"
         },

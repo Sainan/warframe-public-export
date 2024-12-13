@@ -322,7 +322,7 @@
             {
                 "uniqueName": "/Lotus/Types/Challenges/Seasons/Daily/SeasonDailyKillEnemiesWhileOnKDrive",
                 "name": "Amateur de Sensations Fortes",
-                "description": "\u00c9liminer |COUNT| ennemis en utilisant un K-Drive, un Kaithe, un V\u00e9locipode ou M\u00e9ruline.",
+                "description": "\u00c9liminer |COUNT| ennemis en utilisant un K-Drive, un Kaithe, un V\u00e9locipode ou un Atomicycle.",
                 "standing": 1000,
                 "required": 20
             },

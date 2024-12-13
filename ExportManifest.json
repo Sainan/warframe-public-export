@@ -201,6 +201,14 @@
             "textureLocation": "/Lotus/Interface/Graphics/Cursors/CursorLineStyle9.png!00_LCE3N4LeTflDI-SAtIdW1Q"
         },
         {
+            "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseRetro",
+            "textureLocation": "/Lotus/Interface/Graphics/Cursors/CursorRetro.png!00_11BbeY68HcM7bsRiKuW+vg"
+        },
+        {
+            "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseThrowback",
+            "textureLocation": "/Lotus/Interface/Graphics/Cursors/CursorThrowback.png!00_tKMCutzU7NuwlNMHkRs9MQ"
+        },
+        {
             "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseYareli",
             "textureLocation": "/Lotus/Interface/Graphics/Cursors/CursorYareli.png!00_ZsACsiUfbq-8bVUiayKBkw"
         },
@@ -811,6 +819,14 @@
         {
             "uniqueName": "/Lotus/Powersuits/Frost/IcicleAugmentCard",
             "textureLocation": "/Lotus/Interface/Cards/Images/AbilityAugments/FrostFreezeAugment2.jpg!00_H9bzjd-BBBvxQ9In2sFdIA"
+        },
+        {
+            "uniqueName": "/Lotus/Powersuits/Frumentarius/ExaltedSniper",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/ExaltedWeapons/FrumentariusExaltedSniper.png!00_w-1Azd+7TCUR-zSjXtMzJQ"
+        },
+        {
+            "uniqueName": "/Lotus/Powersuits/Frumentarius/Frumentarius",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Warframes/Frumentarius.png!00_Lt-OWCJmlmOI45Nr0MJ3IA"
         },
         {
             "uniqueName": "/Lotus/Powersuits/Garuda/Garuda",
@@ -1615,6 +1631,22 @@
         {
             "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/FireBlastAbility",
             "textureLocation": "/Lotus/Interface/Icons/Abilities/EmberFireBlast.png!00_jq29QTqOl9Q9B+Ocpchz9A"
+        },
+        {
+            "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusAmmoAbility",
+            "textureLocation": "/Lotus/Interface/Icons/Abilities/FrumentariusResupply.png!00_CMV2p-LEbq6C5gnNzNV+Bw"
+        },
+        {
+            "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusCloakAbility",
+            "textureLocation": "/Lotus/Interface/Icons/Abilities/FrumentariusEvade.png!00_rTOxvtwtUSPxPiGMNMnEww"
+        },
+        {
+            "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusScanAbility",
+            "textureLocation": "/Lotus/Interface/Icons/Abilities/FrumentariusSeek.png!00_LXLSMARaMjuy3AqpvMbU5w"
+        },
+        {
+            "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusSniperAbility",
+            "textureLocation": "/Lotus/Interface/Icons/Abilities/FrumentariusNeutralize.png!00_v4uK3NOTQPyX-XUGwHxb4w"
         },
         {
             "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/GarudaBloodAbility",
@@ -15773,6 +15805,262 @@
             "textureLocation": "/Lotus/Interface/Icons/Store/CosmeticEnhancer.png!00_ghFaZihq5UumXx1+7uaGnQ"
         },
         {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/AVReceiver",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/AVReceiver.png!00_WHF4q776KJHy7KtDXbt6FQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/AirHockeyTable",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/AirHockey.png!00_vJbrZzv0Jqr8CiO6xQXpbA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Bicycle",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Bicycle.png!00_B3kaCMqe9uzBf6cbsEWd6A"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Binder",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Binder.png!00_PY0xCj-2sA0MuVmSzw5WCA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Calculator",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Calculator.png!00_uKn1K2eZwN7aVhaa2RTdsQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/CardboardBox",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/CardboardBox.png!00_KEDJRcBPA49Hczm2TdEllw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/CellPhone",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/CellPhone.png!00_gRRFS1rMjVXflKHirdD7tQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/CoffeeCup",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/CoffeeCup.png!00_8ZJDA8lLnn33T8YPhYJ2Fg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/CoffeeMachine",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/CoffeeMachine.png!00_vQmESaOJOTHSxp10Xbz-tA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/CompactDisc",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/CompactDiscC.png!00_O2G-wUhacLXBGaSpr5S1eQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/DigitalPhone",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/DigitalPhone.png!00_lmY3kvCBC2tVE88iiGfqQw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/EntratiPoster",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/EntratiPoster.png!00_qRu2lqP6o-YVdigwQ8K0BA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/FireExtinguisher",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/FireExtinguisher.png!00_ZjYBLJFzUIq6baGNMaiCNg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/FloodLight",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/FloodLight.png!00_dnhp6PJrQ-UxhAGgejQZpQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/HardwareGPU",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/HardwareGPU.png!00_lzO+fU+Q24zwHTao5WrbFg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Headphones",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/HeadPhones.png!00_Cz5vBgEYStA-e9ld1st86Q"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Highlighters",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Highlighters.png!00_Zaqf-X1cBGquH5Geyb5ZqA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/JerryCanLarge",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/JerryCanLarge.png!00_Ss83Mh8OSjEOoxjaEYkSyQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/JerryCanSmall",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/JerryCanSmall.png!00_yF3RzSR7l8LhGBralB6IdA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/KeyChain",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/KeyChain.png!00_sjX6Oy1BWlCttXxeMvML7w"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/LunchBox",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/LunchBox.png!00_Y3zut3uw9Is9XyzdxcM3qA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/MedKit",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/MedKit.png!00_sVqYQEmN6cGmQ1CFOK4s1g"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Microphone",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Microphone.png!00_tmkQ0uElvoeBrerC28kyEw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Microwave",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Microwave.png!00_K9OH7561hLlIMI0tBKlgfg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/MousePad",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Mousepad.png!00_M12arZw4aHWOXJuUjDWlmw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Mug",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Mug.png!00_7biaav4SvOXdKVaRF9cevw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Notepad",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Notepad.png!00_yHkxnjZP3Uf2HoUp6Zx6JQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/OfficePhone",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/OfficePhone.png!00_GYWnUocNfVHMzqtxb6OhEA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedBoomBox",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PackagedBoomBox.png!00_ScohvpalaE6HYLwoHchTXA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedGameConsole",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PackagedGameConsole.png!00_BbXkm3fzHjhCeXTVj0dq8w"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedMonitor",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PackagedMonitor.png!00_JU6f2pU1d87IT7sg0evBSQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedPortableTV",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PackagedPortableTV.png!00_D4pw5csY6GW2Tt5uxIv-Qw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedSpeaker",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PackagedSpeaker.png!00_tH7ErQkB2l82aEbfK5V8Jg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedStereoAmp",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PackagedStereoAmp.png!00_u+Qt+zLI6IKBnRTFBplLkw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedVideoCamera",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PackagedVideoCamera.png!00_A6gaW3XrlJPtcjMdLtjUIA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PartyHat",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PartyHat.png!00_sg8wjUBk9hrsyNE02wcIAQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Pen",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Pen.png!00_f2uxuTYYmIiy727M1871vw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Pencil",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Pencil.png!00_Xvl0OBsKGBebqRbhE7SLiQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Pillow",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Pillow.png!00_cpCGP6R1n3LACj3pdxh14w"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PizzaBox",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PizzaBox.png!00_3bmTloaNhtrNjtUZisz4sw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Planter",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Planter.png!00_t3cco29gZ4KPy3ELQhjj8g"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PropaneGas",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/PropaneGas.png!00_FL5oxWI3aUiA+mhLgDoHKA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Scooter",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Scooter.png!00_DWPHC3Q5nbb8q1Nr8my6jw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Sign",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Sign.png!00_4M7HHauqrLvzCieXL7+65Q"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/StickyNotes",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/StickyNotes.png!00_xaes+VjJ2HpjywJJDhrI4g"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Television",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/TelevisionA.png!00_P3S+v8VN5OfjioyOrcQkkg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Toaster",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/Toaster.png!00_jMv+DzH0KAXazbaDXv6eUA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/ToasterOven",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/ToasterOven.png!00_NTaMSaeXHjzRwDjkhOY4Jw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/VideoCassette",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/Gifts/VideoCasseteA.png!00_VyRCb65miGudm1kVBALmiw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Quest/LoanerWeaponsItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MiscItems/LoanerWeapons.png!00_POVRackAj7Iswg6Fik2osQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonA",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/1999ResourceCommonA.png!00_j3K1pW5BTkF7w4SeTlpM3A"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonB",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/1999ResourceCommonB.png!00_yynhdViNSGyDkBkvxX6Qfg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceRareA",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/1999ResourceRareA.png!00_XVWWt38ojIO021quGnWJHw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonA",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/1999ResourceUncommonA.png!00_JI3PeO7YfgV8i068Nno4Og"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonB",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/1999ResourceUncommonB.png!00_WL3YiO8bn4vMFd8NmOL+IQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagAmir",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/HexDogTagAmir.png!00_fT7Zvjeo6DDm7Rb242NC5g"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagAoi",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/HexDogTagAoi.png!00_1RAqi817BUP4bidx1n1tOQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagArthur",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/HexDogTagArthur.png!00_Kh6HwE-xhP7Rz3wCM6+qyQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagEleanor",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/HexDogTagEleanor.png!00_hlTnDujGy3pwtgGvw5EMZA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagLettie",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/HexDogTagLettie.png!00_LrytcBGRgjX8RpfH5DD2TQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagQuincy",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/HexDogTagQuincy.png!00_78hdgm9b5ZF3SR2EdWAIug"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagRare",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/HexDogTagRare.png!00_8O84-8RHMmK5lG5Pj6PS3A"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagUncommon",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/1999Wf/HexDogTagUncommon.png!00_jNQM3xUHScmobqzeOIZTWA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericComponent.png!00_2raNWKFSGfAXDSvamhl7Ag"
+        },
+        {
             "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriDragonDropItem",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/Duviri/DuviriWyrmsoul.png!00_LjlO4mna3R-eu0-buunFaw"
         },
@@ -16293,6 +16581,14 @@
             "textureLocation": "/Lotus/Interface/Icons/Store/Photobooth/PhotoboothCephalon.png!00_GvkjGdu6kgHoyYKrX1bXMA"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/DangerRoom/DangerRoomTile1999MallRotunda",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Simulacrum/DangerRoomTile1999MallRotunda.png!00_4iGpuVEFWIBCSDUuZW4lxw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/DangerRoom/DangerRoomTile1999StreetCourtyard",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Simulacrum/DangerRoomTile1999StreetCourtyard.png!00_638a69nb3-ZAOaB+TDMN7g"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/DangerRoom/DangerRoomTileArena",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Simulacrum/SimulacrumArena.png!00_v5Kwf5DSF4nfID-qRoEkJA"
         },
@@ -16673,6 +16969,10 @@
             "textureLocation": "/Lotus/Interface/Icons/Categories/IconEmotes_256.png!00_i5fSYm3w66pla3da6qIGww"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/Emotes/Hardmode1999Emote",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Emotes/EmoteLasria.png!00_t5b1-JEOYFnvlXf1zZ6pLA"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/Emotes/HardmodeCeresEmote",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Emotes/EmoteCeres.png!00_ThNT+S+p2MttvJE93PQirg"
         },
@@ -16799,6 +17099,30 @@
         {
             "uniqueName": "/Lotus/Types/Items/Emotes/LeftHeartEmote",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Emotes/HeartEmoteLeft.png!00_IuVDy1xLFI1i2qWeLL6GJg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryAmirEmote",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Emotes/Gemini/GeminiVoltEmote.png!00_auGFKh16w2NFBOLu0zbzPw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryAoiEmote",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Emotes/Gemini/GeminiMagEmote.png!00_oB7p3OX2qIqLABTAK8UmBA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryArthurEmote",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Emotes/Gemini/GeminiExcaliburEmote.png!00_H0dPOdKujYnPYAHi6+TvlA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryEleanorEmote",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Emotes/Gemini/GeminiNyxEmote.png!00_v09L5Fnu3dgj04SVU-wyvQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryLettieEmote",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Emotes/Gemini/GeminiTrinityEmote.png!00_l05IC3CeynsSpQ10hhJvCw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryQuincyEmote",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Emotes/Gemini/GeminiCyteEmote.png!00_-mGE1jIrOkrf8sifVnKsqQ"
         },
         {
             "uniqueName": "/Lotus/Types/Items/Emotes/LegionSaluteEmote",
@@ -19317,6 +19641,42 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Captura/VeilbreakerVallis.png!00_jGIB4uCmkKJQ518af9cCeQ"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConAlleyValguma",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaConAlleyValguma.png!00_EZbadzUZ+zbR9c7bRlwKOw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConMallGrano",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaConMallGrano.png!00_2BDb59FYt0bGCQ5Xk+8krg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConMallStargla",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaConMallStargla.png!00_5RyMZGFb+rl-rW4rY54C4w"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetJekabpils",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaConStreetJekabpils.png!00_Z123nv4S7mZQChhvYED2hw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetMatisa",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaConJunctionMatisa.png!00_UejY4Rugl4pbPdr4l133ug"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetOgres",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaConStreetOgres.png!00_9PmKbER1pBdn+IQArqYfWQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetStrencu",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaConStreetStrencu.png!00_f5kOMgSi2LJUuGbIOsXcaA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaIntMallArcade",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaIntMallArcade.png!00_YzRo2inL1Cutq0s37e3bJw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaTailorShop",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Captura/1999/VaniaTailorShop.png!00_i02HKslLvJ0cWlzXdAFxgg"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/PhotoBooth/Zariman/PhotoboothTileZarAmphitheatre",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Captura/Zariman/ZarAmphitheatre.png!00_REz2+A2x1rzQ17mmB6mARA"
         },
@@ -19617,8 +19977,24 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Bobbleheads/BobbleheadAladV.png!00_tY6xsTAy7cUegQbeDPB4BA"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Albrecht2in1Display",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Displays/Albrecht2in1Display.png!00_zq3Pf6tCvMx4Ysh-b52Q5w"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/AlbrechtPortrait",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Posters/AlbrechtPortrait.png!00_ZCNxlNtyQTu3y1-M1ayiqQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/AmazingEternals/TAExArmyManWinterTennoBaumToyDeco",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/TAExArmyManWinterTennoBaumToyDeco.png!00_IJfF68yIuwJWnZOmdbC98A"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/AmazingEternals/TAExPlushAstronautRayTennoBaumToyDeco",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/TAExPlushAstronautRayTennoBaumToyDeco.png!00_xjwip7NL8p1vqDgWV9IubQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/AmazingEternals/TAExRocketShipTennoBaumToyDeco",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/TAExRocketShipTennoBaumToyDeco.png!00_3dg098GKVUOULW7EpHhQAw"
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/AmbulasBobbleHead",
@@ -19853,6 +20229,22 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Bobbleheads/BobbleheadCaliban.png!00_ASyWab0ioY7wMgtyQv8tcQ"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/CaliberChicksAnnaKiBobbleHead",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Bobbleheads/CaliberChicksAnnaKiBobbleHead.png!00_rhBrWMVBbixsaYaYpf+Pzw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/CaliberChicksJillianBobbleHead",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Bobbleheads/CaliberChicksJillianBobbleHead.png!00_kGFo2zouOhUx5BpN4zelLA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/CaliberChicksLillianBobbleHead",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Bobbleheads/CaliberChicksLillianBobbleHead.png!00_Mlu2TxF-Z+w2K8AxPZa2nQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/CaliberChicksPoster",
+            "textureLocation": "/Lotus/Objects/CaliberChicks/CaliberChicksPoster.png!00_QZ918r2BogNwUXMsCNyyCA"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/CephalonSudaSyndicateOrnament",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/OrnamentCephalonSuda.png!00_WXGOotFksSIPtDqJjW1jbg"
         },
@@ -20051,6 +20443,10 @@
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/CorpusShip/LisetPropHandShrine",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/CrpHandShrine.png!00_q0XYTl6qFk9DLRX5U9HBwA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Cyte09ExaltedSniperShipDeco",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/ExaltedSniperShipDeco.png!00_x7bucMOymI1V2N6gU+YO5A"
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/DarvoBobbleHead",
@@ -21021,6 +21417,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Drones/LisetPropCleaningDroneBeachcomber.png!00_Uz4HF1tGxOmQt++BZh6xFw"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneCaliberChicks",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Drones/LisetPropCleaningDroneCaliberChicks.png!00_FUSfu5TxoMLHIsO8kJKKCQ"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneColorFive",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Drones/LisetPropCleaningDroneColorFive.png!00_z4SRX4Mzfp42I8iIpJ2XWA"
         },
@@ -21777,6 +22177,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/OrnamentPerrinSequence.png!00_OJ5wjtzhjGshOVhRYPaNOg"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophy1999Bronze",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/PlanetTrophy/1999TrophyBronze.png!00_wmJWJfMrGuIEWjCnvBBq7A"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyCeresBronze",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/PlanetTrophy/CeresTrophyBronze.png!00_JOtXr5JBbWWlXEuDzkmEpQ"
         },
@@ -21977,6 +22381,14 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/Plushy2022QTCC.png!00_5gbEX+jymE4XTOXmbZ-WQg"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyAmir",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyAmir.png!00_qRjut-2RWKemLI2W6-qgbg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyAoi",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyAoi.png!00_2dQnx23JaK6ysdkq2aiNSw"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyArthur",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyArthur.png!00_oHKvz3E11BAz9Gw7gfe8HQ"
         },
@@ -22015,6 +22427,10 @@
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyDesertSkate",
             "textureLocation": "/Lotus/Interface/Icons/Store/Plushies/Theme/PlushyDesertSkate.png!00_N05CZcLdq3FFa8ZOOLWRQQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyEleanor",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyEleanor.png!00_aFGWcJ2X7MeuHRigzDZSnw"
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyHorrasqueCommon",
@@ -22069,6 +22485,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyLNY2024Chroma.png!00_IptxumAtaROXeLqg5KnIsQ"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLettie",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyLettie.png!00_s25t81rdWvjGyI-2ZuC0Iw"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLotus",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyLotus.png!00_8L+5h+YjCiS6HNnUePTWYQ"
         },
@@ -22107,6 +22527,10 @@
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyPobbersUncommonDirty",
             "textureLocation": "/Lotus/Interface/Icons/Store/Plushies/Theme/PlushyPobberUncommonDirty.png!00_+n-edAeZ1aB4-FkN4lvHZQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyQuincy",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyQuincy.png!00_jA4guU8p6gMT6tQFsHLG3g"
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyRucksackKubrow",
@@ -22395,6 +22819,10 @@
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardCitrine",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Tarot/TarotCardCitrine.png!00_cB9vTbgnIdDEL-NFNazfgg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardCyte",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Tarot/TarotCardCyte.png!00_0mZxVike8wIf4IIiNwNIIg"
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardDagath",
@@ -24153,6 +24581,66 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/AbyssOfDagathLoginSongItemStoreIcon.png!00_O66qboFKbLmRl60fkyctUQ"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CC16BitGirlsSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/CaliberChicksSongItemStoreIcon.png!00_qgzd9gDUCKW6ECtSEtezmg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCAnnaKiGOBSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/CaliberChicksSongItemStoreIcon.png!00_qgzd9gDUCKW6ECtSEtezmg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCAnnaKiPunkSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/CaliberChicksSongItemStoreIcon.png!00_qgzd9gDUCKW6ECtSEtezmg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCBizMarqueBopSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/CaliberChicksSongItemStoreIcon.png!00_qgzd9gDUCKW6ECtSEtezmg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCIWannaBeYourGOBSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/CaliberChicksSongItemStoreIcon.png!00_qgzd9gDUCKW6ECtSEtezmg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCKickOutTheGunsSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/CaliberChicksSongItemStoreIcon.png!00_qgzd9gDUCKW6ECtSEtezmg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCLundoraCallingSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/CaliberChicksSongItemStoreIcon.png!00_qgzd9gDUCKW6ECtSEtezmg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCPsychoKillianSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/CaliberChicksSongItemStoreIcon.png!00_qgzd9gDUCKW6ECtSEtezmg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CorpusLichLoginSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png!00_CcGtKVZ0Mfun6t78dsz++g"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CorpusRailjackLoginSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png!00_CcGtKVZ0Mfun6t78dsz++g"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/DanteUnboundLoginSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png!00_CcGtKVZ0Mfun6t78dsz++g"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/DeadlockLoginSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png!00_CcGtKVZ0Mfun6t78dsz++g"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/DeimosLoginSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png!00_CcGtKVZ0Mfun6t78dsz++g"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/DuviriKullervoLoginSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png!00_CcGtKVZ0Mfun6t78dsz++g"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/DuviriLoginSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png!00_CcGtKVZ0Mfun6t78dsz++g"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/SongItems/EmpyreanSongItem",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/EmpyreanLoginSongItemStoreIcon.png!00_irpJXC2CzzQuIxBoGyhgQQ"
         },
@@ -24177,8 +24665,16 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/HydroidPrimeSongItemStoreIcon.png!00_O7qu4+KUwi497B72G6Aotg"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/SongItems/JadeShadowsLoginSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png!00_CcGtKVZ0Mfun6t78dsz++g"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/SongItems/KhoraPrimeSongItem",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/KhoraPrimeSongItemStoreIcon.png!00_tNj5bYf9CK9ZJs9hW6V3fw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/KuvaLichLoginSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png!00_CcGtKVZ0Mfun6t78dsz++g"
         },
         {
             "uniqueName": "/Lotus/Types/Items/SongItems/LotusEatersSongItem",
@@ -24201,6 +24697,50 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/OctaviaPrimeSongItemStoreIcon.png!00_bczP5DfL8zuET40JKqA7JQ"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneArsenalSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/HollvaniaSongItemStoreIcon.png!00_X74ftuuNbs4lWTh5tJeSOg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneCoreContainmentSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/HollvaniaSongItemStoreIcon.png!00_X74ftuuNbs4lWTh5tJeSOg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneCutThroughSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/HollvaniaSongItemStoreIcon.png!00_X74ftuuNbs4lWTh5tJeSOg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneInfectionSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/HollvaniaSongItemStoreIcon.png!00_X74ftuuNbs4lWTh5tJeSOg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneNumbSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/HollvaniaSongItemStoreIcon.png!00_X74ftuuNbs4lWTh5tJeSOg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlynePartyOfYourLifetimeSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/OnlyneSongItemStoreIcon.png!00_L81hZIWpyUM5S-yIHifCYA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlynePickASideSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/HollvaniaSongItemStoreIcon.png!00_X74ftuuNbs4lWTh5tJeSOg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneRottenLivesSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/HollvaniaSongItemStoreIcon.png!00_X74ftuuNbs4lWTh5tJeSOg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneShutItDownSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/HollvaniaSongItemStoreIcon.png!00_X74ftuuNbs4lWTh5tJeSOg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneTheCallSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/HollvaniaSongItemStoreIcon.png!00_X74ftuuNbs4lWTh5tJeSOg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneTheGreatDespairSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/OnlyneSongItemStoreIcon.png!00_L81hZIWpyUM5S-yIHifCYA"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/SongItems/ProteaPrimeSongItem",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/ProteaPrimeSongItemStoreIcon.png!00_DudDZ3ZQks4UbYKP8uk3Pw"
         },
@@ -24213,12 +24753,40 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/SevagothDeluxeSongItemStoreIcon.png!00_pv4rKNCg2FOiA3+96-4-pg"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/SongItems/TheNewWarLoginSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png!00_CcGtKVZ0Mfun6t78dsz++g"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/TheSacrificeLoginSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png!00_CcGtKVZ0Mfun6t78dsz++g"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/SongItems/VaubanPrimeSongItem",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/VaubanPrimeSongItemStoreIcon.png!00_x9GL2mxNCXEJt7aGRLqwUw"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/SongItems/VeilbreakerLoginSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png!00_CcGtKVZ0Mfun6t78dsz++g"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/VenusOrbVallisLoginSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png!00_CcGtKVZ0Mfun6t78dsz++g"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/VoidEclipseLoginSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png!00_CcGtKVZ0Mfun6t78dsz++g"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/WhispersInTheWallLoginSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/WhispersInTheWallSongItemStoreItem.png!00_9ndcv7KF-pd9QlmGBVFrSw"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/SongItems/WispPrimeSongItem",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/WispPrimeSongItemStoreIcon.png!00_bKRcqn0qwmt1zSQIacSTtQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/ZarimanLoginSongItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/AngelsOfTheZarimanSongItemStoreIcon.png!00_2yEXnl6l5NAoYFsOPQK1rg"
         },
         {
             "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/ArbitersDogTag",
@@ -24403,6 +24971,14 @@
         {
             "uniqueName": "/Lotus/Types/Keys/1999PrologueQuest/1999PrologueQuestKeyChain",
             "textureLocation": "/Lotus/Interface/Quests/1999PrologueQuestKeyChain.png!00_f1VXDWLlzEdDw6IDWGSfZA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Keys/1999Quest/1999QuestGoodEndKeyChain",
+            "textureLocation": "/Lotus/Interface/Quests/1999QuestKeyChain.png!00_vTT8ey0bRq1DduG2S1Yhug"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Keys/1999Quest/1999QuestKeyChain",
+            "textureLocation": "/Lotus/Interface/Quests/1999QuestKeyChain.png!00_vTT8ey0bRq1DduG2S1Yhug"
         },
         {
             "uniqueName": "/Lotus/Types/Keys/ApostasyQuest/ApostasyKeyChain",
@@ -27045,6 +27621,34 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericWarframeSystem.png!00_QuRg0dHQT0X-PhYmbQp3EQ"
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09Blueprint",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Warframes/Frumentarius.png!00_Lt-OWCJmlmOI45Nr0MJ3IA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09ChassisBlueprint",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericWarframeChassis.png!00_WJTftdYpwrY7pCPPTuRK6g"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09ChassisComponent",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericWarframeChassis.png!00_WJTftdYpwrY7pCPPTuRK6g"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09HelmetBlueprint",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericWarframeHelmet.png!00_O4vbbBxptlitT7pbdnVwPg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09HelmetComponent",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericWarframeHelmet.png!00_O4vbbBxptlitT7pbdnVwPg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09SystemsBlueprint",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericWarframeSystem.png!00_QuRg0dHQT0X-PhYmbQp3EQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09SystemsComponent",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericWarframeSystem.png!00_QuRg0dHQT0X-PhYmbQp3EQ"
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/DagathBlueprint",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Warframes/Dagath.png!00_ahMYHdAn-d7zDKPliKq6AQ"
         },
@@ -29565,10 +30169,6 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Ephemera/VoidAngelEphemeraB.png!00_L0mUJknn7uqb6VZAmfK4hw"
         },
         {
-            "uniqueName": "/Lotus/Types/Recipes/WeaponSkins/BroncoSpectreBlueprint",
-            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Skins/BroncoSpectre.png!00_I1HsNxq7y6mt13sPHgwvIw"
-        },
-        {
             "uniqueName": "/Lotus/Types/Recipes/WeaponSkins/ForestCamoAkVastoBlueprint",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Skins/AkvastoForestCamoSkin.png!00_+J6b0Ut2KX1vgT9iQIzWhw"
         },
@@ -29581,10 +30181,6 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/SomaForestCamo.png!00_go0ZH-SdRjASq50UqKEv6w"
         },
         {
-            "uniqueName": "/Lotus/Types/Recipes/WeaponSkins/FurisVekeskMicroBlueprint",
-            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Skins/FurisVekesk.png!00_Ay-ZPiyRa6AIt2tsPaR6cg"
-        },
-        {
             "uniqueName": "/Lotus/Types/Recipes/WeaponSkins/HoverboardStickerPromoBBlueprint",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Hoverboard/Scrawl/HoverboardStickerPromoB.png!00_8d7BW4En8gJtv0ORdKGDLA"
         },
@@ -29595,14 +30191,6 @@
         {
             "uniqueName": "/Lotus/Types/Recipes/WeaponSkins/HoverboardStickerPromoDBlueprint",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Hoverboard/Scrawl/HoverboardStickerPromoD.png!00_01a070Vzf0AuR64vB62cJw"
-        },
-        {
-            "uniqueName": "/Lotus/Types/Recipes/WeaponSkins/LatoTeknaBlueprint",
-            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Skins/LatoTekna.png!00_KHZ5RXBiKfGRyKokvXX4jA"
-        },
-        {
-            "uniqueName": "/Lotus/Types/Recipes/WeaponSkins/LexHammer1895Blueprint",
-            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Skins/LexHammer.png!00_2VnA8h0SZwhZnmUF8X-5vA"
         },
         {
             "uniqueName": "/Lotus/Types/Recipes/WeaponSkins/ShockCamoDetronBlueprint",
@@ -30577,6 +31165,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/HeavyWeapons/LarkspurPrime.png!00_OQc6EnzyQZps-9Vwc9fQmg"
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/LasSilencedPistolBlueprint",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Weapons/LasSilencedPistolWeapon.png!00_v8mTM2LkGicL506iNU9mHg"
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/LatoBlueprint",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Weapons/Lato.png!00_Klh0iT5bMhtA5785r1FM6w"
         },
@@ -31137,6 +31729,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Weapons/SybarisPrime.png!00_5rib9Btx59977RgJgjsc9Q"
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/TC2024AK47Blueprint",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Weapons/AK47Weapon.png!00_rpkFqvMq-McaM9M8BYXwcg"
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/TaserStarBlueprint",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Weapons/Castanas.png!00_PjVUlwdj3oU6C3Guqzo75w"
         },
@@ -31263,6 +31859,10 @@
         {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/TnBardRifleBlueprint",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Weapons/Tenora.png!00_K4Z8gLz-hv-jMPsuK5RQQA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/TnBeltFedRifleBlueprint",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Weapons/TnBeltFedRifle.png!00_pV+rLJOou4yrNlIzRGs7Eg"
         },
         {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/TnBrokenWarfanBlueprint",
@@ -32309,6 +32909,30 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericGunPrimeStock.png!00_rc4aSHku5y-yrYIbgBb9rw"
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolBarrel",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericGunBarrel.png!00_IZuAV7KNYs3P0y8oIvQ6HA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolBarrelBlueprint",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericGunBarrel.png!00_IZuAV7KNYs3P0y8oIvQ6HA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolReceiver",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericGunReceiver.png!00_3JWFTimvQGcWCbcomAUOzA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolReceiverBlueprint",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericGunReceiver.png!00_3JWFTimvQGcWCbcomAUOzA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolStock",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericGunStock.png!00_oXuRtuyadYGF181gAbwKFA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolStockBlueprint",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericGunStock.png!00_oXuRtuyadYGF181gAbwKFA"
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LatoVandalBarrel",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericGunBarrel.png!00_IZuAV7KNYs3P0y8oIvQ6HA"
         },
@@ -33014,6 +33638,30 @@
         },
         {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnAlchemistShotgunStock",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericGunStock.png!00_oXuRtuyadYGF181gAbwKFA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleBarrel",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericGunBarrel.png!00_IZuAV7KNYs3P0y8oIvQ6HA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleBarrelBlueprint",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericGunBarrel.png!00_IZuAV7KNYs3P0y8oIvQ6HA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleReceiver",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericGunReceiver.png!00_3JWFTimvQGcWCbcomAUOzA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleReceiverBlueprint",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericGunReceiver.png!00_3JWFTimvQGcWCbcomAUOzA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleStock",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericGunStock.png!00_oXuRtuyadYGF181gAbwKFA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleStockBlueprint",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Resources/CraftingComponents/GenericGunStock.png!00_oXuRtuyadYGF181gAbwKFA"
         },
         {
@@ -34481,6 +35129,10 @@
             "textureLocation": "/Lotus/Interface/Icons/Player/CommunityRevenantGlyph.png!00_dd44P+5sukWH6Xli7Tr+JQ"
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaum1999Mug",
+            "textureLocation": "/Lotus/Interface/Icons/Player/CommunityTennobaum1999MugGlyph.png!00_DTiCRgqNI0cDbUM7nyq2Ew"
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumFrost",
             "textureLocation": "/Lotus/Interface/Icons/Player/CommunityTennobaumFrostGlyph.png!00_469fpBbsqzekhm4w1xH4gw"
         },
@@ -34601,6 +35253,10 @@
             "textureLocation": "/Lotus/Interface/Icons/Player/ContentCreators/Xenogelion.png!00_E9-lMlv5rAhZ3oKkeTi60w"
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDJRoMGlyph",
+            "textureLocation": "/Lotus/Interface/Icons/Player/DjromHumanGlyph.png!00_+nyL3hTA1P9q84W9Pi+MnQ"
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDanteGlyph",
             "textureLocation": "/Lotus/Interface/Icons/Player/DanteGlyph.png!00_bWgrY3O49Z3RYaqGpuawpg"
         },
@@ -34611,6 +35267,10 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDrakeRifle",
             "textureLocation": "/Lotus/Interface/Icons/Player/DrakeRifleGlyph.png!00_Os+b4Tn4hbzI8+06lLygYg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDrillbitGlyph",
+            "textureLocation": "/Lotus/Interface/Icons/Player/DrillbitHumanGlyph.png!00_rvU+cE6ZA-UZqQ04QzOgsQ"
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDrippy",
@@ -34679,6 +35339,10 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGamingDogDaysYareli",
             "textureLocation": "/Lotus/Interface/Icons/Player/DogDays2024Yareli.png!00_Ky7UAwGPaH2oAprJ+wO0Yg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGaussAccoladeGlyph",
+            "textureLocation": "/Lotus/Interface/Icons/Player/GaussAccoladeGlyph.png!00_0NCA9NHknIMiRGXEm2K0yQ"
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphCarolingOctavia",
@@ -35001,6 +35665,10 @@
             "textureLocation": "/Lotus/Interface/Icons/Player/Halloween20PurpleNecraloid.png!00_Ony9wgewAgdBKimfoRBZqg"
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageHarddriveGlyph",
+            "textureLocation": "/Lotus/Interface/Icons/Player/HarddriveHumanGlyph.png!00_zb7zV1jN8UXAS8+9JMajJw"
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageHarrowAction",
             "textureLocation": "/Lotus/Interface/Icons/Player/VEDHarrow.png!00_COUHA5uR2MUnEC+HERJEXQ"
         },
@@ -35015,6 +35683,30 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInarosScarabs",
             "textureLocation": "/Lotus/Interface/Icons/Player/Scarab512x512.png!00_8dbKloLxxEifOTLvcSh30w"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedDJRoMGlyph",
+            "textureLocation": "/Lotus/Interface/Icons/Player/DjromInfestedGlyph.png!00_y+lN023LZ0xQPwzLM8bZJw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedDrillbitGlyph",
+            "textureLocation": "/Lotus/Interface/Icons/Player/DrillbitInfestedGlyph.png!00_ejDJIheKBxDSGsaKN+wBgA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedHarddriveGlyph",
+            "textureLocation": "/Lotus/Interface/Icons/Player/HarddriveInfestedGlyph.png!00_3BDZRQeettyL1kRVdGReVg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedLogoGlyph",
+            "textureLocation": "/Lotus/Interface/Icons/Player/LogoInfestedGlyph.png!00_tfUCPk+o1xz2YL9WD+mEkg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedPacketGlyph",
+            "textureLocation": "/Lotus/Interface/Icons/Player/PacketInfestedGlyph.png!00_7FNNU-EKE932ipPbcKvFAg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedZekeGlyph",
+            "textureLocation": "/Lotus/Interface/Icons/Player/ZekeInfestedGlyph.png!00_YEcC6D2nXOXHpuH5G1R3wg"
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInktober",
@@ -35057,6 +35749,10 @@
             "textureLocation": "/Lotus/Interface/Icons/Player/VEDIvara.png!00_D07EU3hMVstXOTHrKDFlKw"
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageJadeAccoladeGlyph",
+            "textureLocation": "/Lotus/Interface/Icons/Player/JadeAccoladeGlyph.png!00_KYPmCTNICSlPWboAtdeclA"
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageJadeInActionGlyph",
             "textureLocation": "/Lotus/Interface/Icons/Player/VEDAngel.png!00_DQ6uApIvImsPayRr5ZZieA"
         },
@@ -35087,6 +35783,10 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLettieAccoladeGlyph",
             "textureLocation": "/Lotus/Interface/Icons/Player/LettieAccoladeGlyph.png!00_abpuSInTJQ6su5R5TDZMWQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLogoGlyph",
+            "textureLocation": "/Lotus/Interface/Icons/Player/LogoHumanGlyph.png!00_Cle0jXknl-iTBdNwe5s0Gg"
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLokiAction",
@@ -35139,6 +35839,10 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMesaEnamel",
             "textureLocation": "/Lotus/Interface/Icons/Player/GlyphMesa.png!00_ChXD3GfEDnkmvPWqSKjO8Q"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMirageAccoladeGlyph",
+            "textureLocation": "/Lotus/Interface/Icons/Player/MirageAccoladeGlyph.png!00_7Q1jSJLCq5UMJX8BD4YK3A"
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageModPackBlast",
@@ -35233,8 +35937,36 @@
             "textureLocation": "/Lotus/Interface/Icons/Player/GlyphOroKitty.png!00_hRpNRT0j8cbEyFice7qUzQ"
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePacketGlyph",
+            "textureLocation": "/Lotus/Interface/Icons/Player/PacketHumanGlyph.png!00_eHdR7mZJeT--cdcV-sCWig"
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePartyCDGlyph",
             "textureLocation": "/Lotus/Interface/Icons/Player/PartyCDGlyph.png!00_dQhRl7LTd+I8dcezkevTuw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelAmir",
+            "textureLocation": "/Lotus/Interface/Icons/Player/AmirPixelGlyph.png!00_YM14yufwLCiU8eYzLAHIfw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelAoi",
+            "textureLocation": "/Lotus/Interface/Icons/Player/AoiPixelGlyph.png!00_ntr541WmUPdk+u15tTOEsA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelArthur",
+            "textureLocation": "/Lotus/Interface/Icons/Player/ArthurPixelGlyph.png!00_mSqMUmRKwYuq8rp5HdXJvg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelEleanor",
+            "textureLocation": "/Lotus/Interface/Icons/Player/EleanorPixelGlyph.png!00_eLusw4MWAAtEk3tebWtIug"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelLettie",
+            "textureLocation": "/Lotus/Interface/Icons/Player/LettiePixelGlyph.png!00_-Cligx9E+eh9tZSBKI0cdw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelQuincy",
+            "textureLocation": "/Lotus/Interface/Icons/Player/QuincyPixelGlyph.png!00_TpuB7XAs9XqUIVj2x9tnEQ"
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePrideCommunity",
@@ -35243,6 +35975,10 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePrideGlyph",
             "textureLocation": "/Lotus/Interface/Icons/Player/PrideGlyph2024.png!00_8spn7LLvdIQkkxsLBft+qg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageProteaAccoladeGlyph",
+            "textureLocation": "/Lotus/Interface/Icons/Player/ProteaAccoladeGlyph.png!00_bkfMo1PfAV+c6hXxCdt4ng"
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageProteaAction",
@@ -35267,6 +36003,10 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSarynAction",
             "textureLocation": "/Lotus/Interface/Icons/Player/VEDSarynFinal.png!00_pySNyShDI-BA4it7-gmAhA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSevagothAccoladeGlyph",
+            "textureLocation": "/Lotus/Interface/Icons/Player/SevagothAccoladeGlyph.png!00_E40KBtitBbjZQbJgZmMVJA"
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSevagothAction",
@@ -35295,6 +36035,22 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennoVIP",
             "textureLocation": "/Lotus/Interface/Icons/Player/TennoVIP2024.png!00_eBFBC2sRPUxwhzyXIGYIsA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumAoi",
+            "textureLocation": "/Lotus/Interface/Icons/Player/CommunityTennobaumAoi.png!00_yl84edZdQUcYpnkErUBNxg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumCozyStalker",
+            "textureLocation": "/Lotus/Interface/Icons/Player/CommunityTennobaumCozyStalker.png!00_gakgSBqXcphZjuVD1pEd2g"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumJade",
+            "textureLocation": "/Lotus/Interface/Icons/Player/CommunityTennobaumJade.png!00_uyYHRt-cnM+x60qfFoBtoA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumManintheCookie",
+            "textureLocation": "/Lotus/Interface/Icons/Player/CommunityTennobaumManintheCookie.png!00_NzOMJqCovyJ6Y0vcVCSHpw"
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTeshinVed",
@@ -35403,6 +36159,10 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageValkyrAction",
             "textureLocation": "/Lotus/Interface/Icons/Player/VEDValkyrFinal.png!00_EjGL+tDhH6OKD7fD61KOPQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageVaubanAccoladeGlyph",
+            "textureLocation": "/Lotus/Interface/Icons/Player/VaubanAccoladeGlyph.png!00_MDdnWhzi2m0Iqrco23fdUQ"
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageVaubanAction",
@@ -35549,6 +36309,10 @@
             "textureLocation": "/Lotus/Interface/Icons/Player/ZairmanGlyph.png!00_hE0QNFEjVxED9fniQGduvg"
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageZekeGlyph",
+            "textureLocation": "/Lotus/Interface/Icons/Player/ZekeHumanGlyph.png!00_Yg5yH-BK5EGg0RggS0FV2Q"
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/CNY2023RabbitGlyph",
             "textureLocation": "/Lotus/Interface/Icons/Player/YearOfTheRabbit.png!00_QSGZAaYGsO1xGE7eUAZ7Lw"
         },
@@ -35567,10 +36331,6 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Community10YearOrdisGlyph",
             "textureLocation": "/Lotus/Interface/Icons/Player/Community10YearOrdis.png!00_7eOcS+wSWj5O2YW-P7tPmg"
-        },
-        {
-            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/CommunityTennobaum1999Mug",
-            "textureLocation": "/Lotus/Interface/Icons/Player/CommunityTennobaum1999MugGlyph.png!00_DTiCRgqNI0cDbUM7nyq2Ew"
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Conservation/AvatarImageEidolonCritter",
@@ -35946,7 +36706,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageD4NK3R",
-            "textureLocation": "/Lotus/Interface/Icons/Player/ContentCreators/D4NK3R.png!00_+CJdF7c0KRui1nBAsgNM6g"
+            "textureLocation": "/Lotus/Interface/Icons/Player/ContentCreators/ElDanker.png!00_vlwoBxZvsYDu87i6Flj5kg"
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageDJTechlive",
@@ -39169,6 +39929,46 @@
             "textureLocation": "/Lotus/Interface/Icons/Player/TowsunGlyphA.png!00_qrhueuynViBw5INAvt0D3g"
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectA",
+            "textureLocation": "/Lotus/Interface/Icons/Player/MinigameGlyphPixelPerfectA.png!00_G4fmX+rnCISQnSUK0aK0rA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectB",
+            "textureLocation": "/Lotus/Interface/Icons/Player/MinigameGlyphPixelPerfectB.png!00_qJKq3G8mx8HIo6UqRDny3w"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectC",
+            "textureLocation": "/Lotus/Interface/Icons/Player/MinigameGlyphPixelPerfectC.png!00_t0PrOmoZJfO-6UunNl16RA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectD",
+            "textureLocation": "/Lotus/Interface/Icons/Player/MinigameGlyphPixelPerfectD.png!00_p91ApjvU0u9C9ZPq0udzBw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPortraitJillian",
+            "textureLocation": "/Lotus/Interface/Icons/Player/MinigameGlyphPixelPortraitJillian.png!00_FNwGk8TNeusfnX8iJRRyXw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPortraitLillian",
+            "textureLocation": "/Lotus/Interface/Icons/Player/MinigameGlyphPixelPortraitLillian.png!00_yaQCtOshdZzv6G6upQczIg"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerA",
+            "textureLocation": "/Lotus/Interface/Icons/Player/MinigameGlyphStickerA.png!00_svKtfIHiIVc9byToCogHmw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerB",
+            "textureLocation": "/Lotus/Interface/Icons/Player/MinigameGlyphStickerB.png!00_Y3ByMy39dlpeHCOYeIEcSw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerC",
+            "textureLocation": "/Lotus/Interface/Icons/Player/MinigameGlyphStickerC.png!00_tXh9T2hVjWwJyhtESJdJog"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerD",
+            "textureLocation": "/Lotus/Interface/Icons/Player/MinigameGlyphStickerD.png!00_akqjXfoyfxa7ty9RF-dG7g"
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/NarmerEyeGlyph",
             "textureLocation": "/Lotus/Interface/Icons/Player/NarmerEyeGlyph.png!00_0ATMJKN+SuUDNkRguKD-5w"
         },
@@ -39359,6 +40159,14 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ScarletSpear/ImageScarletSpearSpaceIII",
             "textureLocation": "/Lotus/Interface/Quests/ScarletSpear/ScarletSpearMedallionsSpace3.png!00_VsrQryH+89YxBNdr3feaRA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphA",
+            "textureLocation": "/Lotus/Interface/Icons/Player/YearOfTheSnakeGlyph.png!00_CTvAO0T5CCng6MEv8KLCJw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphB",
+            "textureLocation": "/Lotus/Interface/Icons/Player/YearOfTheSnakeGlyphB.png!00_mOzoKg-xzc12GQ3GPPQvEw"
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageChillingGlyphFour",
@@ -39649,6 +40457,10 @@
             "textureLocation": "/Lotus/Interface/Icons/Player/CitrineInActionGlyph.png!00_5DDjdS4upTI9uFGFp1-qSQ"
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/Cyte09SupporterGlyph",
+            "textureLocation": "/Lotus/Interface/Icons/Player/Cyte09Glyph.png!00_qjt2Ji2T1DNHNvRVMHeBog"
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageBaruukDeluxe",
             "textureLocation": "/Lotus/Interface/Icons/Player/BaruukDeluxeAvatar.png!00_bePUkOyPiiSRw54LcaxDSg"
         },
@@ -39703,6 +40515,22 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageDagathDark",
             "textureLocation": "/Lotus/Interface/Icons/Player/DagathAvatarDark.png!00_jHL9eTaav7c9TNYFfjL1Rw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusAltBright",
+            "textureLocation": "/Lotus/Interface/Icons/Player/FrumentariusAltAvatarBright.png!00_cIxF9Z3VLVC64BGeoYT6AA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusAltDark",
+            "textureLocation": "/Lotus/Interface/Icons/Player/FrumentariusAltAvatarDark.png!00_FGrzcnqSYgO-U1MYOzmbQA"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusBright",
+            "textureLocation": "/Lotus/Interface/Icons/Player/FrumentariusAvatarBright.png!00_Pv0sZDJku1BQkqzHY1CvLw"
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusDark",
+            "textureLocation": "/Lotus/Interface/Icons/Player/FrumentariusAvatarDark.png!00_bDb65O0feVUL+MmoXeuUuA"
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageGaussDeluxe",
@@ -40334,11 +41162,11 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/LastChanceItemA",
-            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/MegaPrimeVault/LastChance.png!00_-C-ZSbWmKhlzZcueSJLQFA"
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/MegaPrimeVault/Varzia.png!00_5F7sPHjfb8IXYpVsbOdf-A"
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/LastChanceItemB",
-            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/MegaPrimeVault/LastChance.png!00_-C-ZSbWmKhlzZcueSJLQFA"
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/MarketBundles/MegaPrimeVault/Varzia.png!00_5F7sPHjfb8IXYpVsbOdf-A"
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/LastChanceItemC",
@@ -40833,6 +41661,10 @@
             "textureLocation": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionPuncture.png!00_IhtuMZ7ZsivBP+r2NWtLcw"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/RadialViralAttackOnOverguardGain",
+            "textureLocation": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDN.png!00_60v+gjJRJyOtelgHsvP3VA"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/RadiationProcResist",
             "textureLocation": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionRadiation.png!00_EmQfYPNrOznaawARH+Vsqw"
         },
@@ -40853,8 +41685,20 @@
             "textureLocation": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDD.png!00_biCCWQ3CW8P-93EXhfwerQ"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthForMaxHealth",
+            "textureLocation": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDI.png!00_yd7VHJvRwxEGdeslHUDVTw"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthOnCast",
             "textureLocation": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionCR.png!00_4Kge6dfIUXft5e-JJsCGqA"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthOnSummonAttack",
+            "textureLocation": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDP.png!00_HGREMoMGzfTTZqK1Mo3fHA"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthOnSummonAttackSub",
+            "textureLocation": "/Lotus/Interface/Icons/Store/CosmeticEnhancer.png!00_ghFaZihq5UumXx1+7uaGnQ"
         },
         {
             "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AmmoEfficiencyOnPistolHeadshot",
@@ -40891,6 +41735,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CritChannelingDamage",
             "textureLocation": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/MeleeArcaneB.png!00_AkOTSwQwHTC5npOQk6wgOg"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CritDamageForPunctureStatus",
+            "textureLocation": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDM.png!00_W6KnK2OVzmX54w78Tv0nVA"
         },
         {
             "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/DuplicateStatusOnKnock",
@@ -41065,6 +41913,10 @@
             "textureLocation": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionCI.png!00_sNS0ir2BBnw8GRS6mHo0hw"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryCritOnHit",
+            "textureLocation": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDL.png!00_B2Oek7joCNZv97DCqhF09w"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryDamageOnHeatProc",
             "textureLocation": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionBY.png!00_TuV0tinjdoP80hUN6DquzA"
         },
@@ -41095,6 +41947,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ShotgunMultishotAndReloadSpeedOnCloseKill",
             "textureLocation": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionCO.png!00_ld3sZ9ZUPUr5u5DJ+jJzdg"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusAndAmmoEfficiencyOnWeakpointHit",
+            "textureLocation": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDK.png!00_pxFHR1YEKqu9gQEUsKH88A"
         },
         {
             "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusChannelingDamage",
@@ -41235,6 +42091,14 @@
         {
             "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Peculiars/InflationMod",
             "textureLocation": "/Lotus/Interface/Cards/Images/Perculiars/InflationMod.jpg!00_l3aSAle9xx6dBaTQWKxwtA"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityStatusProcsGiveAbilityStrengthAndEfficiency",
+            "textureLocation": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDO.png!00_3D+2S6TtmKQyP8-qCqoGuQ"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityStrengthAndCritDamageWhenInvisible",
+            "textureLocation": "/Lotus/Interface/Icons/CosmeticEnhancers/Arcanes/Projections/ArcaneProjectionDQ.png!00_+rYZgryTvNHdBdWTQ7KHZg"
         },
         {
             "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/BulletToBattery",
@@ -41845,6 +42709,10 @@
             "textureLocation": "/Lotus/Interface/Cards/Images/ArchwingMods/ArchwingMelee/ArchwingEventFireStatusMeleeMod.jpg!00_dQ0MDA7JsLaHjGLZx9zT+A"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingEventMagneticCritDamageMeleeMod",
+            "textureLocation": "/Lotus/Interface/Cards/Images/ArchwingMods/ArchwingMelee/ArchwingEventMagneticCritDamageMeleeMod.jpg!00_0aiibKfaQSPQqS2iNML2rA"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingEventRadiationCritChanceMeleeMod",
             "textureLocation": "/Lotus/Interface/Cards/Images/DoubleMods/ArchwingEventRadiationCritChanceMeleeMod.jpg!00_Pr6RltBIulzQWBA4gzfJAA"
         },
@@ -41927,6 +42795,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingEventFireStatusRifleMod",
             "textureLocation": "/Lotus/Interface/Cards/Images/ArchwingMods/ArchwingRifle/ArchwingEventFireStatusRifleMod.jpg!00_iWzkC3uQFHx9UI9hVOTT7g"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingEventMagneticFireRateRifleMod",
+            "textureLocation": "/Lotus/Interface/Cards/Images/ArchwingMods/ArchwingRifle/ArchwingEventMagneticFireRateRifleMod.jpg!00_q6iVdIBk6t8ZyVQHWShxbg"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingEventRadiationFireIterationRifleMod",
@@ -42101,6 +42973,10 @@
             "textureLocation": "/Lotus/Interface/Cards/Images/MissionBuffs/EnemyInfestationSpeedReductionBuff.jpg!00_V+nxK9w7IYlGJXkRuJMaUw"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerCompanionSummonDamageAuraMod",
+            "textureLocation": "/Lotus/Interface/Cards/Images/Auras/PlayerCompanionSummonDamageAuraMod.jpg!00_W-towRtFNC2aSPxSaxULyw"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerEnemyRadarAuraMod",
             "textureLocation": "/Lotus/Interface/Cards/Images/MissionBuffs/PlayerEnemyRadarBuff.jpg!00_WXRmSdSTo3zqmQixhC0SUQ"
         },
@@ -42175,6 +43051,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerSprintAuraMod",
             "textureLocation": "/Lotus/Interface/Cards/Images/MissionBuffs/PlayerSprintBuff.jpg!00_OCSfMSk+vae9RLoSABUNPg"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerWeakpointCriticalChanceAuraMod",
+            "textureLocation": "/Lotus/Interface/Cards/Images/Auras/PlayerWeakpointCriticalChanceAuraMod.jpg!00_LMBmLAHjDy0HX890tW7B0w"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Mods/Aura/RobotPoorAimAuraMod",
@@ -42751,6 +43631,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/Mods/Melee/DualStat/IceEventMeleeMod",
             "textureLocation": "/Lotus/Interface/Cards/Images/Melee/IceEventMeleeMod.jpg!00_+VrNStqaedgrBp0Ck2Y8ow"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Mods/Melee/DualStat/MagneticAttackSpeedMeleeMod",
+            "textureLocation": "/Lotus/Interface/Cards/Images/Melee/MagneticAttackSpeedMeleeMod.jpg!00_2HgnRs01hFXh+JZfWRRxMw"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Mods/Melee/DualStat/PoisonEventMeleeMod",
@@ -43385,6 +44269,10 @@
             "textureLocation": "/Lotus/Interface/Cards/Images/Pistol/CorruptedMaxClipForReloadMod.jpg!00_M+S3RrpSDLLWAhJsO1qdqw"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Mods/Pistol/DualStat/CriticalDamagePunchThroughMod",
+            "textureLocation": "/Lotus/Interface/Cards/Images/Pistol/CriticalDamagePunchThroughMod.jpg!00_Rx5Fvzc2qvzqzDaiBrGIFw"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Mods/Pistol/DualStat/ElectEventPistolMod",
             "textureLocation": "/Lotus/Interface/Cards/Images/Pistol/ElectEventPistolMod.jpg!00_GNqA3Ec4TiF2me3w9Pg2nQ"
         },
@@ -43403,6 +44291,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/Mods/Pistol/DualStat/IceStormMod",
             "textureLocation": "/Lotus/Interface/Cards/Images/DoubleMods/PistolIceStormMod.jpg!00_2VRwHNHrUJ5Zwj+qaUCRhQ"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Mods/Pistol/DualStat/MagneticCritDamagePistolMod",
+            "textureLocation": "/Lotus/Interface/Cards/Images/Pistol/MagneticCritDamagePistolMod.jpg!00_Ft014lO94tfd5ZxOe5AY7g"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Mods/Pistol/DualStat/PoisonEventPistolMod",
@@ -43743,6 +44635,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponToxinDamageMod",
             "textureLocation": "/Lotus/Interface/Cards/Images/Pistol/PoisonDamagePistolMod.jpg!00_KtAvSH4d-yB-tysjrso5gw"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponWeakpointCriticalChanceMod",
+            "textureLocation": "/Lotus/Interface/Cards/Images/Pistol/WeaponWeakpointCriticalChanceMod.jpg!00_VLKbsGCWl31vstqrtpxsuQ"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Melee/AbilityDamageBlockMod",
@@ -44785,6 +45681,10 @@
             "textureLocation": "/Lotus/Interface/Cards/Images/Rifle/IceEventRifleMod.jpg!00_yRg6FveNef0bOIRGaj4NPQ"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Mods/Rifle/DualStat/MagneticClipRifleMod",
+            "textureLocation": "/Lotus/Interface/Cards/Images/Rifle/MagneticClipRifleMod.jpg!00_0tJnFSeJx4n8Exe-yIyVIg"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Mods/Rifle/DualStat/PoisonEventRifleMod",
             "textureLocation": "/Lotus/Interface/Cards/Images/Rifle/PoisonEventRifleMod.jpg!00_AZOGRvy+gU5i9viK2R9sUw"
         },
@@ -45145,6 +46045,10 @@
             "textureLocation": "/Lotus/Interface/Cards/Images/Rifle/RifleCritDamageMod.jpg!00_zAbjNEEOfnMw2xyqKfdPQA"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponDamageAmountInvisibleMod",
+            "textureLocation": "/Lotus/Interface/Cards/Images/Rifle/WeaponDamageAmountInvisibleMod.jpg!00_SPFVjdyGi6Ny+iQT7RdOeA"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponDamageAmountMod",
             "textureLocation": "/Lotus/Interface/Cards/Images/Rifle/RifleDamageAmountMod.jpg!00_LB-rq5f9lY6XmLf0UNvZUg"
         },
@@ -45273,6 +46177,10 @@
             "textureLocation": "/Lotus/Interface/Cards/Images/Rifle/PoisonDamageRifleMod.jpg!00_c7twqwTIWsWWBEybwhYljg"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponWeakpointCriticalChanceMod",
+            "textureLocation": "/Lotus/Interface/Cards/Images/Rifle/WeaponWeakpointCriticalChanceMod.jpg!00_sKkNx8QS5fztCSYjcq0hCg"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponZoomFovMod",
             "textureLocation": "/Lotus/Interface/Cards/Images/Rifle/RifleZoomMod.jpg!00_rzhvf0iQrLe0zMHb0FuLEg"
         },
@@ -45345,8 +46253,16 @@
             "textureLocation": "/Lotus/Interface/Cards/Images/Kubrow/KubrowDualIce.jpg!00_lJuJ-D1Syjt6nPZqX3rmFA"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/DualStat/KubrowMagneticEventMeleeMod",
+            "textureLocation": "/Lotus/Interface/Cards/Images/Kubrow/KubrowMagneticEventMeleeMod.jpg!00_6TfeF+37p9v9B3IWuF63mg"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/DualStat/KubrowPoisonEventMeleeMod",
             "textureLocation": "/Lotus/Interface/Cards/Images/Kubrow/KubrowDualPoison.jpg!00_drE1A3gyVsz-3toxNdpPdA"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/DualStat/KubrowRadiationEventMeleeMod",
+            "textureLocation": "/Lotus/Interface/Cards/Images/Kubrow/KubrowRadiationEventMeleeMod.jpg!00_UrtTDuGSirjmj4RFsKT8UA"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/Expert/KubrowPackLeaderExpertMod",
@@ -45925,6 +46841,10 @@
             "textureLocation": "/Lotus/Interface/Cards/Images/Shotgun/IceEventShotgunMod.jpg!00_nbyhQb4hDlcBbiV6UIMSFQ"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/DualStat/MagneticFireRateShotgunMod",
+            "textureLocation": "/Lotus/Interface/Cards/Images/Shotgun/MagneticFireRateShotgunMod.jpg!00_r5xlda3j4Hbl85kncERo7g"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/DualStat/PoisonEventShotgunMod",
             "textureLocation": "/Lotus/Interface/Cards/Images/Shotgun/PoisonEventShotgunMod.jpg!00_gkOeYR8ZzoHPoMh0y7t+Gw"
         },
@@ -46135,6 +47055,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponImpactDamageMod",
             "textureLocation": "/Lotus/Interface/Cards/Images/Shotgun/ImpactDamageShotgunMod.jpg!00_THDldRGKc2kP31uRjL74Rw"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponMagneticOnImpactShotgunMod",
+            "textureLocation": "/Lotus/Interface/Cards/Images/Shotgun/WeaponMagneticOnImpactShotgunMod.jpg!00_OEP9uMmdo-NFQhm6xjuuWg"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponProcTimeMod",
@@ -47349,6 +48273,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/BillowingLArmour.png!00_3e4MjSnURIyBQDq+Rfwdaw"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/CaliberChicksArmour/CaliberChicksArmourA",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/CaliberChicksArmourA.png!00_GmLNFIkzLzPIQbK2dRGhLg"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Armor/CephArmor/CephArmorA",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/CephArmorA.png!00_qcTOF+MjCadlxny6aDwTuw"
         },
@@ -47435,6 +48363,18 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Armor/CrpHighArmor/CrpHighArmorL",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/CrpHighArmorL.png!00_6GKAAXLFCJoLdkygNfn9WQ"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/CrpHighArmor/WinterSolsticeArcaArmourA",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/WinterSolsticeArcaArmourA.png!00_hrT9rsDctsaaq2p2A4Tvbw"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/CrpHighArmor/WinterSolsticeArcaArmourC",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/WinterSolsticeArcaArmourC.png!00_Nz9FyL3d46TAyEEFSqpIeA"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/CrpHighArmor/WinterSolsticeArcaArmourL",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/WinterSolsticeArcaArmourL.png!00_NpQP4Qpkm8g0t+np-yNNMw"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Armor/CrpIndexTwo/CrpIndexTwoAArmor",
@@ -48934,7 +49874,7 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Bard/BardTwitchSkin",
-            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/OctaviaTwitchSkin.png!00_koLNLQN9RPxpslaSzD4Hyw"
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/OctaviaTwitchSkin.png!00_x5G8BMWQclFMC8EpQ1E3wQ"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Bard/OctaviaDeluxeHelmet",
@@ -49285,6 +50225,14 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Primes/XakuPrime.png!00_eVKJD9fuAql+all9vH83Vw"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/CaliberChicks/CaliberChicksBratonSkin",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/CaliberChicksBratonSkin.png!00_Sh3KRQG3E9cik96QXZnFaA"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/CaliberChicks/CaliberChicksIgnisSkin",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/CaliberChicksIgnisSkin.png!00_jlPqk74zMWdzAPbXal9E0Q"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Camo/AkimboViperCamo",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Skins/TwinVipersDesertCamo.png!00_69dfXxNhxNLlfFzLA2BXVA"
         },
@@ -49485,6 +50433,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/AnimationSets/JadeNoble.png!00_4LB-dhNi01lyGy7yRG6GtQ"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/1999CommunityARGBadgeItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Emblems/1999CommunityARGEmblem.png!00_dqA8xKRreRhKIJeY40R-gg"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Clan/AggressionEventCorpusBadgeItem",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Emblems/CorpusAggressionEventHolo.png!00_520aMoI1OU8U5DKPn379uA"
         },
@@ -49537,6 +50489,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Emblems/Cny2023RabbitEmblem.png!00_Gk78UhosthvQuj9qVlAZbg"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/CNY2025SnakeEmblem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Emblems/Cny2025SnakeEmblem.png!00_DpRJBzyYrDX0KV9+xl-YlQ"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Clan/CY17173MediaBadge",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Emblems/CY17173Badge.png!00_XI6+66k6XF8V29G7G6tRtw"
         },
@@ -49555,6 +50511,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Clan/CYPlayBadgeItem",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Emblems/CYPlayBadge.png!00_XmJIz9WaBMLLbuEyKwzZeQ"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/CaliberChicksCorgiEmblemItem",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Emblems/CaliberChicksCorgi.png!00_Vi3tgNmVxKhKSjtG02rT-g"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Clan/ClanEmblemItem",
@@ -51213,6 +52173,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Helmets/SWROneExcaliburHelmet.png!00_0Dv1vjsMpR7lEYF51RX62w"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburLasriaSkin",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/HumanSkins/WF1999ExcaliburSkin.png!00_02lNwg3BlWZxhih7AnOXRA"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburNobleAnims",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/AnimationSets/ExcaliburNoble.png!00_-i9ySEFfLpf4ZmEWGfKqXQ"
         },
@@ -51695,6 +52659,50 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Frost/UnlockFrostNoble",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/AnimationSets/FrostNoble.png!00_LiiM2iyMAoe25gCFbtplgA"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusAgileAnims",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/AnimationSets/FrumentariusAgile.png!00_oB5i8EkgRpdAzB7TopU1Og"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusAltCloakA",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Invisibility/InvisOverrideFrumentariusA.png!00_LLJiz16bUrRdCyv1qdAfFA"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusAltCloakB",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Invisibility/InvisOverrideFrumentariusB.png!00_ITJoIyTunpjEydwNYIUSxA"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusAltHelmet",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Helmets/FrumentariusAltHelmet.png!00_qAWWlzi3LOjH9EZoYb7yGA"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusHelmet",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Helmets/FrumentariusHelmet.png!00_2jInS3KB45FOBA7fjIdiXQ"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusNobleAnims",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/AnimationSets/FrumentariusNoble.png!00_ae8UCUtf+DorN93HwC94pw"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusSkin",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Warframes/Frumentarius.png!00_Lt-OWCJmlmOI45Nr0MJ3IA"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/UnlockFrumentariusAgile",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/AnimationSets/FrumentariusAgile.png!00_oB5i8EkgRpdAzB7TopU1Og"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/UnlockFrumentariusNoble",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/AnimationSets/FrumentariusNoble.png!00_ae8UCUtf+DorN93HwC94pw"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/WF1999FrumentariusAuxHat",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Misc/WF1999FrumentariusHat.png!00_6cXFONVulXxFGeWny9C8aw"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/WF1999FrumentariusSkin",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/HumanSkins/WF1999FrumentariusSkin.png!00_yQkB1O-WeekPwevhCaEICg"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Garuda/GarudaAgileAnims",
@@ -53181,6 +54189,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/AnimationSets/NyxNoble.png!00_RYF-qvGzM886APuBN8GzIg"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Jade/WF1999NyxSkin",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/HumanSkins/WF1999NyxSkin.png!00_ccmxJjCFNCcAkJUGR8W4Nw"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/KDrive/KDriveVelocipodRareSkin",
             "textureLocation": "/Lotus/Interface/Icons/Npcs/Neutral/Deimos/InfestedKDriveHighlands.png!00_iqstPFTSRlKpO5BIg-A9Bw"
         },
@@ -53619,6 +54631,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Leverian/NezhaLeverian/NezhaLeverianPolearm",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/MeleeWeapons/Skins/NezhaLeverianSpearSkin.png!00_hF4UmIjrC2ONpaBAEZWI9g"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Liset/1999TankHoodOrnament",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/PlayerShip/Railjack/HoodOrnament/1999TankHoodOrnament.png!00_w9axIks817597Qh6HDY8yw"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Liset/ConquestHoodOrnament",
@@ -54069,6 +55085,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/LotusSkins/XakuDeluxeLotusSkin.png!00_U1NpZt8x0LLLvmlNFwwZGA"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/CNY2025ScytheSkin",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/MeleeWeapons/Skins/Halloween2024HateSkin.png!00_6Z9LuMp2ns1EolBaKcqo4A"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/LNY2024DragonSigil",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Sigils/Cny2024DragonSigil.png!00_+Ap95ifK-rbbnXLY4mV9Cg"
         },
@@ -54287,6 +55307,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Mag/UnlockMagNoble",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/AnimationSets/MagNoble.png!00_Bgd9cDWXKrQyxpzcvnz3fQ"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Mag/WF1999MagSkin",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/HumanSkins/WF1999MagSkin.png!00_FMYMAtAIP1vNO2OSBLH5oA"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Magician/LimboDeluxeHelmet",
@@ -54685,6 +55709,50 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Primes/WukongPrime.png!00_gxkXZnvTVarRxSMW0KpDNA"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleColourShiftSkin",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleColourShiftSkin.png!00_I4zkcg9etLksKQI7B9XNpw"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleDefaultSkin",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleDefaultSkin.png!00_s0OE7aXjNbNW77dtVUxzdg"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleFlamesSkin",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleFlamesSkin.png!00_C5CKDBqL8dFKG0ypu9lnSg"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleGraffitiSkin",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleGraffitiSkin.png!00_Wet4gbE4NPXffeB+VT-oig"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleLightsSkin",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleLightsSkin.png!00_j-0Rroh4mwB4ztW8fFSSSQ"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleMedicSkin",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleMedicSkin.png!00_9ZFkCLITAy1S83w5u-3kiw"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleMonsterSkin",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleMonsterSkin.png!00_YtBQuo8vNQvdyNDTOYPSPg"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleNakedBikeSkin",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleNakedSkin.png!00_HoVvTz2XBJmP7TYAzKth5w"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleRacingSkin",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleRacingSkin.png!00_DAD-Mi31UXkxBjQSereJIQ"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleRustSkin",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleRustSkin.png!00_CgW5XHCJNWNWnLbuEJG44A"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleTennoSkin",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/MotorcycleSkins/MotorcycleTennoSkin.png!00_00atuWyYcxwQJfsf1wPJ5Q"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Mustache/Stache",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Mustaches/MustacheGentleman.png!00_IZIhdi8Rs8kc0NyXacrR1A"
         },
@@ -54895,10 +55963,6 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Necro/SWRThreeLazarusHelmet",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Helmets/SWRThreeLazarusHelmet.png!00_SQ+agDpsZzFodfuyBd9CqQ"
-        },
-        {
-            "uniqueName": "/Lotus/Upgrades/Skins/Necro/SWVisceraNekrosAuxillaryScarf",
-            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Armour/WarframeSpecific/NekrosVisceraAuxillaryArmor.png!00_YxHrGQZ3RfqZCapogQpAVA"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Necro/UnlockNecroAgile",
@@ -55289,6 +56353,14 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/BaroVisor.png!00_dV8OIzzuZ9HOOp43Mv+wow"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/CaliberChicksJillianBandana",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Face/CaliberChicksJillianBandana.png!00_cd3MlRgr1obd+qO+13xytw"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/CaliberChicksLillianEyepatch",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/CaliberChicksLillianEyepatch.png!00_jma00JXC3lGshsIIq-6-0w"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/CircletA",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Circlet/CircletA.png!00_U-+TdVL6MsRIvVZInHt2Vg"
         },
@@ -55357,6 +56429,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Earpieces/NoraEarpiece.png!00_FWunswbUJWwlJDnZ8c9aSw"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/OperatorDrifterGothFaceAccessory",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Face/GothFaceAccessory.png!00_JnElO0N-K1Re-RxtAMdNBA"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/OperatorNefAnyoMask",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Face/NefAnyoMask.png!00_lV4oe5X9DYeYzCFRF0VeJw"
         },
@@ -55385,6 +56461,30 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Face/RevenantDeluxeMask.png!00_GWWyZnp5biU-pnbUoWkS9A"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SW1999F19CondrocEarsAcc",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Earpieces/SWF19CondrocEar.png!00_aU6Z0itROJWOdQ8rtI9Dyg"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SW1999Y2kAccBEar",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Earpieces/1999Y2KEarB.png!00_MaeFl5M9MFdMRSaVIy7K8g"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SW1999Y2kAccCEar",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Earpieces/1999Y2KEarC.png!00_5snq9vswAvGm5cD5IILCnw"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SW1999Y2kEyeAAcc",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/1999Y2KEyeA.png!00_fiqepVbdLW-yFc2q55rw8w"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SW1999Y2kEyeBAcc",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/1999Y2KEyeB.png!00_J0joh5r2oJylXYRve3zDSQ"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SW1999Y2kEyeCAcc",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/1999Y2KEyeC.png!00_aKjYvuOo6Iq2Duq8AmV1Hw"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWAuresCrownFacialAcc",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Circlet/SWAuresCirclet.png!00_jUBOM8kZaG8rQ8AN06wmVQ"
         },
@@ -55397,12 +56497,32 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/SWBlazeOculusEyepiece.png!00_wjhm8JMLzzfi4LzCvXvtQQ"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWButterflyEyeAcc",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/SWButterflyEye.png!00_qWhmtqZDWcmCEK-ljZMYIQ"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWCaeruleaVisorEyeAcc",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Tennogen/Operator/Eyepiece/SWCaeruleaVisor.png!00_126bRU7CSXSgbByYCDAJiA"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWChoroidEyeAcc",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/SWChoroidEye.png!00_ZsXoD3J2Gvkt1FGkZcn1VQ"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWCorailDiademFacialAcc",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Face/SWCorailDiadem.png!00_+k3dlCI1sDKfP0YafA1Dbw"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWFrameFriendEarAcc",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Earpieces/SWFrameFriendEar.png!00_X-fP42Llc36squU6V9JrOQ"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWFrameFriendEarLAcc",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Earpieces/SWFrameFriendEar.png!00_X-fP42Llc36squU6V9JrOQ"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWFrameFriendEarRAcc",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Earpieces/SWFrameFriendEar.png!00_X-fP42Llc36squU6V9JrOQ"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWGarasuEarAcc",
@@ -55435,6 +56555,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWLumisEyeAcc",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Eyepieces/SWLumisEyepiece.png!00_DHuYk8irLr9Cqh62VKooLw"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWMillenniumVisorFacialAcc",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Face/SWMilleniumVisor.png!00_AtwyCUWe7UvqQsbCk6riiA"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWOptimaEyeAcc",
@@ -55729,6 +56853,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/BodySuitAdultArabic.png!00_giEnHxHyOiyKJmX+bhrgeg"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultAthletic",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitAdultAthletic.png!00_goKmjQ7GTs7dmPVwiTUCDQ"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultC",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitAdultC.png!00_RUBhIUnIJBkX9ZblmuHFlw"
         },
@@ -55773,6 +56901,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/BodySuitAdultG.png!00_kz6h3NUbq+8PtLGxJcjiQQ"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultGrunge",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitAdultGrunge.png!00_tYhdHqlSHITFIce21a3snA"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultJ",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/BodySuitAdultJ.png!00_fZPhI+w0gPiuPwhTlNZxZA"
         },
@@ -55791,6 +56923,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultNovaEngineer",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/NovaEngineerBody.png!00_Tj5Ka2wx2r7hCbmCJ5ewUw"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultOperatorDrifterGoth",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitAdultGoth.png!00_ZCGpSkGyQOEkL7rPeoKIFA"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultOutfit1A",
@@ -55825,6 +56961,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/BodySuitArabic.png!00_vqoh15etB56kd9Z5QWMPkw"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAthletic",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitAthletic.png!00_X2Ink9l+H5PgrRXlYGZz1w"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitB",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitB.png!00_Jlb4-xOWqQqL0BIBJqaX6A"
         },
@@ -55849,6 +56989,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/DexBody.png!00_tmU098waglLdk1Uq7oZQIw"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitGrunge",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitGrunge.png!00_KuoV9uPK-bTlIL8e5E9ilA"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitInfestedA",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/InfestedBodysuitA.png!00_eRSwAXCs9s7vvTBv2EKaEA"
         },
@@ -55871,6 +57015,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitO",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitO.png!00_rJUbfYEtdOk-y8rUY0P+Wg"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitOperatorDrifterGoth",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Body/SuitGoth.png!00_rSkoYW+hnqhVoYZy+CqEJQ"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitOutfit1A",
@@ -55967,6 +57115,14 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairC",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairC.png!00_gO+mARyjjngS9zb2U5M+fA"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairCaliberChicksJillian",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairJillian.png!00_vS1p8i9V3MRh7Dl06Qf0YQ"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairCaliberChicksLillian",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hair/HairLillian.png!00_n7y1NKmmmlwS46afpLvahQ"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairD",
@@ -56369,6 +57525,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodAdultG.png!00_4WY4YSigU4TeZaQK0OsJOA"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultGrunge",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodAdultGrunge.png!00_gpwCSZlcaZDAgidRJiTqeA"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultJ",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodAdultJ.png!00_tWZziM56QzT3UzW1Qu-uEA"
         },
@@ -56383,6 +57543,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultNovaEngineer",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodNovaEngineer.png!00_B1NMiB9HXwqiIdeOdlAPXQ"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultOperatorDrifterGoth",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodAdultGoth.png!00_6CMN2ge-kf9XvLvk5PwEyg"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultOutfit1A",
@@ -56453,6 +57617,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodDuviri.png!00_WtGYzFGVGmmj-E+Hh5oC4Q"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodGrunge",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodGrunge.png!00_fS5lnumUjRCRKVFKxkCrfw"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodInfestedA",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/InfestedHoodA.png!00_9guincxNmphMC1p87iEKUg"
         },
@@ -56479,6 +57647,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodO",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodO.png!00_7eBCX-LcZ44WE4MapVV4SA"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodOperatorDrifterGoth",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Hoods/HoodGoth.png!00_M4kE4IDUxMgAqbmKxq-8dQ"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodOutfit1A",
@@ -56545,6 +57717,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAdultArabic.png!00_gl+yqXvsIX9i27Mp3uytxQ"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultAthletic",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAdultAthletic.png!00_6HIFSGsnCZ-7wiEfh8cY5w"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultC",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAdultC.png!00_VOZduuIM6nbeb+dpOLsx+g"
         },
@@ -56589,6 +57765,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAdultG.png!00_yi4eCDyLNVTVlNMaFn-C1w"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultGrunge",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAdultGrunge.png!00_CJArTSVL4Aeeljwcs2duBw"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultJ",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAdultJ.png!00_RMThIaFM96mijHWC+QkTTQ"
         },
@@ -56607,6 +57787,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultNovaEngineer",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/NovaEngineerLeggings.png!00_BqSN6atFDUC3mZXj-8sK1w"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultOperatorDrifterGoth",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAdultGoth.png!00_3FwCczyXZk2ITrwKDVZdvQ"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultOutfit1A",
@@ -56641,6 +57825,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/ArabicLegs.png!00_dvz-rje-N4POHhaMV04U9w"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAthletic",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsAthletic.png!00_ah+WkkaMaaE33Ey3oOzdLg"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsB",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsB.png!00_19kHahstvyhx-FQ07ZMK7g"
         },
@@ -56665,6 +57853,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/DexLegs.png!00_wGEANHD-fg9W5sXF+hX3Ug"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsGrunge",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsGrunge.png!00_jocuxcEpmWVVWON+dQN5AQ"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsInfestedA",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/InfestedLeggings.png!00_6OHMWlIbXt4ZIwDH61zq6A"
         },
@@ -56687,6 +57879,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsO",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/SuitOLegs.png!00_2z-+ohWd-ZWMR3XHXmOmxA"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsOperatorDrifterGoth",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Leggings/LeggingsGoth.png!00_7iDGOevAEe+A5JkZFzoL+A"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsOutfit1A",
@@ -56733,6 +57929,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtAdultArabic.png!00_ISuK6J8SsVTwwzzwFHd11A"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultAthletic",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtAdultAthletic.png!00_do5-zjjpQamelWNXt8acjQ"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultC",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtAdultC.png!00_hvow7V0BU6sbFankSrObDA"
         },
@@ -56757,6 +57957,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtAdultG.png!00_hRRcheS88FrJBmaYpM5KLA"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultGrunge",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtAdultGrunge.png!00_cOBKhk9w74IiVW6oD8Wv-Q"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultJ",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtAdultJ.png!00_kwNzELL1wVPq7tG9+eKggw"
         },
@@ -56775,6 +57979,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtArabic",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/ArabicHip.png!00_rtutdIGFsit4Q6aX-MlhfQ"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAthletic",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtAthletic.png!00_rLlkG7mwqIHsFfyTXWYcPg"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtB",
@@ -56803,6 +58011,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtG",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/MageArmourHip.png!00_lgWd8exvnp1CsLj3f1EzVQ"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtGrunge",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Hips/SkirtGrunge.png!00_MNWQN9xIoD8ze5xSCyrlkA"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtJ",
@@ -56839,6 +58051,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultArabic",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesAdultArabic.png!00_uAB7SpytL+FtJGUY8IFQvQ"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultAthletic",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesAdultAthletic.png!00_obAHUQNJp8OkeWJMy9x4OA"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultC",
@@ -56885,6 +58101,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesAdultG.png!00_xmi1z-S9oGWVqXItJA2Q4Q"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultGrunge",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesAdultGrunge.png!00_eB384aiaH8D9uT86KpwkTw"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultJ",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesAdultJ.png!00_Jjdr1j-5GXzIjPMoDWuU6A"
         },
@@ -56903,6 +58123,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultNovaEngineer",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/NovaEngineerArms.png!00_6uRp2qUijj5GjvRjcENkJw"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultOperatorDrifterGoth",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesAdultGoth.png!00_mijczctx8Sq6tAIZAseo1A"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultOutfit1A",
@@ -56937,6 +58161,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesArabic.png!00_Hl-Kt-q4MsF9DMiz7RP6LA"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAthletic",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesAthletic.png!00_P01Ph4SDNs79sepPP1UKOQ"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesB",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesB.png!00_pQsf4QsUymKrMJMjftN8-A"
         },
@@ -56961,6 +58189,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesDex.png!00_MbnCQa1kXu+yF6O79L-4lA"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesGrunge",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesGrunge.png!00_vWe8HkK1c-3E7l2SM1iVgQ"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesInfestedA",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/InfestedSleevesA.png!00_vcu55cYVZDrK-sXwFWF-BA"
         },
@@ -56983,6 +58215,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesO",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SuitOSleeves.png!00_kEsdoKBHeku7wSxgPQYoAw"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesOperatorDrifterGoth",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/ArmourSets/Arms/SleevesGoth.png!00_7B9-km5pgr4fJu5tBp1YRQ"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesOutfit1A",
@@ -57111,6 +58347,22 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooLoveRose",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Tattoo/TattooLoveRose.png!00_8ZC96tPUtRTE4MqsOHZyuw"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooTennoB",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Tattoo/TattooTennoB.png!00_7JmHAFeUrquZOnHhTlM+Zg"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooTennoC",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Tattoo/TattooTennoC.png!00_X2KO3chAN8yXRxykEgXO8w"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooTennoD",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Tattoo/TattooTennoD.png!00_psqGQUpZQ8rH+9ckqV+ZeQ"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooTennoF",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Operator/Cosmetics/Tattoo/TattooTennoF.png!00_c0flLTeeEfXrkybiPQA89A"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooTennoG",
@@ -57793,6 +59045,18 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Skins/SolsticeAtomos.png!00_3JD0w+zXdUpvHpCW8YzMkw"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumBoltor",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/TennobaumBoltor.png!00_DVnlFVVxsQOPDZnSHGCf+w"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumBrokenWar",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/MeleeWeapons/Skins/TennobaumBrokenWar.png!00_wFRs+i85aFXX56ELKgoBcQ"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumCantare",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Skins/TennobaumCantare.png!00_uU1vHf2Ntuc2MpOgDb3a6w"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumCycronSkin",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Skins/SolsticeCycron.png!00_ce1oc37hZE3YsQFCRQpT8Q"
         },
@@ -57807,6 +59071,14 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumGramSkin",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/MeleeWeapons/Skins/SolsticeGram.png!00_77xi2jPiF2QJB-a3JWZoDA"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumOcucor",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Skins/TennobaumOcucor.png!00_Vukg+JyqXvYBh6YGsw4FxQ"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumParis",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/TennobaumParis.png!00_fAef8DkDyZ5vvqpEj9Kj6g"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Promo/Twitch/AkjagaraIridosSkin",
@@ -58459,10 +59731,6 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoPrimeHelmet",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Helmets/RhinoPrimeHelmet.png!00_xOF1Wne+dTHpdp2E6SExqA"
-        },
-        {
-            "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoPrimeSkin",
-            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Primes/RhinoPrime.png!00_uex4imjfULgsR3CD-pl6LQ"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoRubedoSkin",
@@ -60541,6 +61809,10 @@
             "textureLocation": "/Lotus/Interface/Icons/Sigils/CorpusLichSigil.png!00_Cm2Iz4wc5zYRgDgz3f4QhA"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Cyte09Sigil",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Sigils/Cyte09Sigil.png!00_gsSNsWlfTsbqBW8Y-KsRDQ"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DanteSigil",
             "textureLocation": "/Lotus/Interface/Icons/Sigils/DanteSigil.png!00_vHiZ8US44x+iBhCVsvSoWQ"
         },
@@ -60650,15 +61922,15 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FounderSigilGrandMaster",
-            "textureLocation": "/Lotus/Interface/Icons/Player/GrandMasterBadge.png!00_pMUHh+fVTVQIntq5zLB3Sw"
+            "textureLocation": "/Lotus/Interface/Icons/Player/GrandMasterBadge.png!00_rwQ6S+gOg+0zSIhG6PbowQ"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FounderSigilHunter",
-            "textureLocation": "/Lotus/Interface/Icons/Player/HunterBadge.png!00_lNEv5cmcmF5575+k+K4XnA"
+            "textureLocation": "/Lotus/Interface/Icons/Player/HunterBadge.png!00_RvuDfPUmynRku5og3TR2ig"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FounderSigilMaster",
-            "textureLocation": "/Lotus/Interface/Icons/Player/MasterBadge.png!00_qNvNLvvuxjN+-0lUT9tn6g"
+            "textureLocation": "/Lotus/Interface/Icons/Player/MasterBadge.png!00_jrtWygfRy6bBa2oMOUz6LQ"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Sigils/GeodeSigil",
@@ -60959,6 +62231,26 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/EntratiRankTwo",
             "textureLocation": "/Lotus/Interface/Icons/Syndicates/FactionSigilEntratiLevel2.png!00_mP41CHKjjd4NzaN48fAJYg"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankFive",
+            "textureLocation": "/Lotus/Interface/Icons/Syndicates/FactionHexLevel5.png!00_yH5mpdvj6EFmkLqX2dqBQw"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankFour",
+            "textureLocation": "/Lotus/Interface/Icons/Syndicates/FactionHexLevel4.png!00_FwJ+dFqVuqpLymp8KlJ0kw"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankOne",
+            "textureLocation": "/Lotus/Interface/Icons/Syndicates/FactionHexLevel1.png!00_XHYXFFjXkYFYEYNmZ7S3tw"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankThree",
+            "textureLocation": "/Lotus/Interface/Icons/Syndicates/FactionHexLevel3.png!00_en637O-Pr0YI50TyBgJQdA"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankTwo",
+            "textureLocation": "/Lotus/Interface/Icons/Syndicates/FactionHexLevel2.png!00_2TfjoxwL3w0iZErh+hLoaw"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HoldfastsRankFive",
@@ -61527,6 +62819,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WeGameNewYearRabbitSigil",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Sigils/Cny2023RabbitSigil.png!00_KjUm2KriqKPcGqLFmEMQ4w"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WeGameNewYearSnakeSigil",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Sigils/Cny2025SnakeSigil.png!00_5u1J5Vrv9Hf63xtJOOa-Sw"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WeGameNewYearTigerSigil",
@@ -62605,6 +63901,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/AnimationSets/TrinityNoble.png!00_Yx2YFpUJmlH1Ctj1fo4IXg"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Trinity/WF1999TrinitySkin",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/HumanSkins/WF1999TrinitySkin.png!00_3sFMNR6Va7iToNdn6+lN6Q"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Umbra/UmbraAltHelmet",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Helmets/ExcaliburUmbraAltHelmet.png!00_4ORReiSF-iVnKtsk072vyQ"
         },
@@ -62879,6 +64179,14 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Volt/VoltTwitchSkin",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/VoltTwitch.png!00_yRmRKWHdxxbEzrkUypDHbg"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Volt/WF1999VoltAuxHat",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Misc/WF1999VoltHat.png!00_9NmgNpvoYG31MvI80fRtvA"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Volt/WF1999VoltSkin",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/HumanSkins/WF1999VoltSkin.png!00_ETnXSbxzoUClALde9Qm+Jw"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Weapons/DSPistols/BroncoSpectre",
@@ -63942,7 +65250,7 @@
         },
         {
             "uniqueName": "/Lotus/Weapons/Corpus/Melee/KickAndPunch/PrismaObex",
-            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/MeleeWeapons/Weapons/Obex.png!00_yX6CjneptXbBUxRfBsEXlA"
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/MeleeWeapons/Weapons/PrismaObex.png!00_FtjObXPRzUO2bb0F8Qyf1Q"
         },
         {
             "uniqueName": "/Lotus/Weapons/Corpus/Melee/Polearm/CorpusPolearm01/CorpusPolearmWeapon",
@@ -65105,6 +66413,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Weapons/AK47Weapon.png!00_rpkFqvMq-McaM9M8BYXwcg"
         },
         {
+            "uniqueName": "/Lotus/Weapons/Lasria/LasSilencedPistol/LasSilencedPistolWeapon",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/SecondaryWeapons/Weapons/LasSilencedPistolWeapon.png!00_v8mTM2LkGicL506iNU9mHg"
+        },
+        {
             "uniqueName": "/Lotus/Weapons/MK1Series/MK1Bo",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/MeleeWeapons/Weapons/Bo.png!00_R2JauEQP8wX+a+wNTUyDuA"
         },
@@ -66243,6 +67555,10 @@
         {
             "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TnBardRifle/TnBardRifle",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Weapons/Tenora.png!00_K4Z8gLz-hv-jMPsuK5RQQA"
+        },
+        {
+            "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TnBeltFedRifle/TnBeltFedRifleWeapon",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Weapons/TnBeltFedRifle.png!00_pV+rLJOou4yrNlIzRGs7Eg"
         },
         {
             "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TnGlassShotgun/TnGlassShotgunGun",

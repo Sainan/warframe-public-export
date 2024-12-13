@@ -322,7 +322,7 @@
             {
                 "uniqueName": "/Lotus/Types/Challenges/Seasons/Daily/SeasonDailyKillEnemiesWhileOnKDrive",
                 "name": "Jinete emocionante",
-                "description": "Mata |COUNT| enemigos mientras montas una K-Drive, kaithe, veloc\u00edpodo o Merulina.",
+                "description": "Mata |COUNT| enemigos mientras montas una K-Drive, kaithe, veloc\u00edpodo o Atomicycle.",
                 "standing": 1000,
                 "required": 20
             },

@@ -506,8 +506,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Restoratives/Consumable/AncientHealerBall",
-            "name": "Ancient Healer Specter",
-            "description": "Deploys an ANCIENT HEALER EXIMUS unit to fight for you.",
+            "name": "Ancient Protector Specter",
+            "description": "Deploys an ANCIENT PROTECTOR EXIMUS unit to fight for you.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/SummonNpcItem"
         },

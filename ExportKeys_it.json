@@ -8,6 +8,21 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Keys/1999Quest/1999QuestGoodEndKeyChain",
+            "name": "L'Epilogo degli Hex",
+            "description": "Un'occasione per riscrivere la storia ed evitare il disastro.",
+            "parentName": "",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Keys/1999Quest/1999QuestKeyChain",
+            "name": "L'Hex",
+            "description": "La disperata caccia ad Albrecht Entrati ha condotto il Drifter nella citt\u00e0 di H\u00f6llvania il 31 dicembre 1999. Nonostante il lockdown degli Scaldra a causa della minaccia Techrot, i cittadini fanno del loro meglio per festeggiare. Ma tutto questo \u00e8 gi\u00e0 successo prima... e si \u00e8 concluso in maniera catastrofica.",
+            "parentName": "",
+            "codexSecret": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Keys/ApostasyQuest/ApostasyKeyChain",
             "name": "Prologo dell'Apostasia",
             "description": "Ispeziona il tuo alloggio personale dopo aver completato la quest Catene di Harrow.",

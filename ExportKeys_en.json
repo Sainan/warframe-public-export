@@ -8,6 +8,21 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Keys/1999Quest/1999QuestGoodEndKeyChain",
+            "name": "The Hex Finale",
+            "description": "A chance to rewrite history and avert disaster.",
+            "parentName": "",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Keys/1999Quest/1999QuestKeyChain",
+            "name": "The Hex",
+            "description": "The desperate hunt for Albrecht Entrati has led the Drifter to the city of H\u00f6llvania on December 31st, 1999. Despite the Scaldra lockdown in the face of the Techrot menace, the citizens do their best to celebrate. But this has all happened before... and ended in disaster.",
+            "parentName": "",
+            "codexSecret": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Keys/ApostasyQuest/ApostasyKeyChain",
             "name": "Apostasy Prologue",
             "description": "Inspect your personal quarters upon finishing the Chains of Harrow quest.",

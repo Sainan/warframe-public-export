@@ -1100,6 +1100,12 @@
             "description": "Hem sabah hem de sava\u015f sisini sevenler i\u00e7in favori bir z\u0131rh seti. Cumulus Syandana i\u00e7in m\u00fckemmel bir tamamlay\u0131c\u0131."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/CaliberChicksArmour/CaliberChicksArmourA",
+            "name": "Killian Omuz Korumas\u0131",
+            "codexSecret": false,
+            "description": "Omuzlar\u0131n\u0131 Killian onayl\u0131 donan\u0131mlarla koru."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Armor/CephArmor/CephArmorA",
             "name": "Suda Kol Mahmuzlar\u0131",
             "codexSecret": false,
@@ -1240,6 +1246,27 @@
             "codexSecret": false,
             "excludeFromCodex": true,
             "description": "Yeni ke\u015ffedilmi\u015f bile\u015fenler, Arca Z\u0131rh\u0131'n\u0131n temelini olu\u015fturan \u015feylerdir."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/CrpHighArmor/WinterSolsticeArcaArmourA",
+            "name": "Arca Solstice Omuz Korumalar\u0131",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Festival s\u00fcslemeriyle donat\u0131lm\u0131\u015f Arca Z\u0131rh\u0131."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/CrpHighArmor/WinterSolsticeArcaArmourC",
+            "name": "Arca Solstice G\u00f6\u011f\u00fcs Korumas\u0131",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Festival s\u00fcslemeriyle donat\u0131lm\u0131\u015f Arca Z\u0131rh\u0131."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/CrpHighArmor/WinterSolsticeArcaArmourL",
+            "name": "Arca Solstice Diz Korumalar\u0131",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Festival s\u00fcslemeriyle donat\u0131lm\u0131\u015f Arca Z\u0131rh\u0131."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Armor/CrpIndexTwo/CrpIndexTwoAArmor",
@@ -4077,14 +4104,14 @@
             "name": "\u0130skelet",
             "codexSecret": false,
             "excludeFromCodex": true,
-            "description": "Xaku will constantly remain in skeletal form."
+            "description": "Xaku s\u00fcrekli iskelet formunda kal\u0131r."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuBrokenNever",
             "name": "B\u00fct\u00fcn",
             "codexSecret": false,
             "excludeFromCodex": true,
-            "description": "Xaku will constantly remain in corporeal form."
+            "description": "Xaku s\u00fcrekli b\u00fct\u00fcn formunda kal\u0131r."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/XakuDeluxeHelmet",
@@ -4110,6 +4137,18 @@
             "codexSecret": false,
             "excludeFromCodex": true,
             "description": "Xaku Prime Warframe i\u00e7in standart skin."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/CaliberChicks/CaliberChicksBratonSkin",
+            "name": "Adaletin T\u00fcfe\u011fi Skin",
+            "codexSecret": false,
+            "description": "Bu T\u00fcfek skin ile Caliber Chicks gibi adaleti da\u011f\u0131t."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/CaliberChicks/CaliberChicksIgnisSkin",
+            "name": "\u00d6zg\u00fcrl\u00fc\u011f\u00fcn Alev Makinesi Skin",
+            "codexSecret": false,
+            "description": "Bu Alev Makinas\u0131 skin ile Caliber Chicks gibi \u00f6zg\u00fcrl\u00fc\u011f\u00fc da\u011f\u0131t."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Camo/AkimboViperCamo",
@@ -4495,6 +4534,13 @@
             "description": "Scarlet Spear Operasyonunda Sentient Murex'ine kar\u015f\u0131 yap\u0131lan Railjack ak\u0131nlar\u0131nda kazan\u0131l\u0131r."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/1999CommunityARGBadgeItem",
+            "name": "Ya\u015fam Tarz\u0131 Tak\u0131m\u0131 Amblemi",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Ger\u00e7ek hakikati arayanlara yak\u0131\u015fan bir onur ni\u015fan\u0131. Ba\u015fka bir zamandan, ba\u015fka bir d\u00fcnyadan..."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Clan/AggressionEventCorpusBadgeItem",
             "name": "Gradivus: Fedakarl\u0131k Amblemi",
             "codexSecret": false,
@@ -4578,6 +4624,13 @@
             "description": "Yeni Ay Y\u0131l\u0131'n\u0131 tatl\u0131 tav\u015fan\u0131n \u015fefkatli kalbiyle kutla."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/CNY2025SnakeEmblem",
+            "name": "Yeni Ay Y\u0131l\u0131 Y\u0131lan Amblemi",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Yeni Ay Y\u0131l\u0131'n\u0131 y\u0131lan\u0131n bilgeli\u011fi ile kutla."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Clan/CY17173MediaBadge",
             "name": "17173 BADGE",
             "codexSecret": false,
@@ -4611,6 +4664,12 @@
             "codexSecret": false,
             "excludeFromCodex": true,
             "description": "Symbolizes the camaraderie between Tenno."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/CaliberChicksCorgiEmblemItem",
+            "name": "Ba\u015fkan King Corgi Amblemi",
+            "codexSecret": false,
+            "description": "Ba\u015fkan King Corgi, Anna Ki ve G.O.B'u engellemeye y\u00f6nelik bitmeyen \u00f6zverinizi takdir ediyor."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Clan/ClanEmblemItem",
@@ -7016,6 +7075,12 @@
             "description": "polygonmonster taraf\u0131ndan dizayn edilen Excalibur Vespula Skin'e uyumlu bir mi\u011ffer."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburLasriaSkin",
+            "name": "Arthur Gemini Skin",
+            "codexSecret": false,
+            "description": "Hex'in huysuz lideri Arthur Nightingale, Excalibur Warframe'e insani bir y\u00fcz kazand\u0131r\u0131yor.\r\n\r\nG\u00f6revler s\u0131ras\u0131nda, Arthur Gemini G\u00f6vde Hareketi ile Excalibur ve Arthur'un tamamen seslendirilmi\u015f, \u00f6zelle\u015ftirilebilir Gemini Skin'i aras\u0131nda ge\u00e7i\u015f yap."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburNobleAnims",
             "name": "Excalibur Noble Animasyon Seti",
             "codexSecret": false,
@@ -7698,6 +7763,66 @@
             "name": "Frost Summit Mi\u011ffer",
             "codexSecret": false,
             "description": "artarrwen taraf\u0131ndan dizayn edilen Frost Warframe mi\u011fferi."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusAgileAnims",
+            "name": "Cyte-09 Agile Animasyon Seti",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Cyte-09 i\u00e7in Agile Animasyon Seti."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusAltCloakA",
+            "name": "Yar\u0131 Saydam G\u00f6r\u00fcnmezlik",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Bu se\u00e7enek, Warframe'in g\u00f6r\u00fcnmezlik efektine yar\u0131 \u015feffaf bir g\u00f6r\u00fcn\u00fcm sa\u011flar. G\u00f6r\u00fcn\u00fcm \u015fekli d\u00fc\u015fman\u0131n alg\u0131s\u0131n\u0131 etkilemez."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusAltCloakB",
+            "name": "Par\u0131lt\u0131l\u0131 G\u00f6r\u00fcnmezlik",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Bu se\u00e7enek, Warframe'in g\u00f6r\u00fcnmezlik efektine \u015feffaf olmayan parlak bir g\u00f6r\u00fcn\u00fcm sa\u011flar. G\u00f6r\u00fcn\u00fcm \u015fekli d\u00fc\u015fman\u0131n alg\u0131s\u0131n\u0131 etkilemez."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusAltHelmet",
+            "name": "Cyte-09 Espricor Mi\u011ffer",
+            "codexSecret": false,
+            "description": "Cyte-09 i\u00e7in alternatif mi\u011ffer."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusHelmet",
+            "name": "Cyte-09 Mi\u011ffer",
+            "codexSecret": false,
+            "description": "Cyte-09 Warframe i\u00e7in standart mi\u011ffer."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusNobleAnims",
+            "name": "Cyte-09 Noble Animasyon Seti",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Cyte-09 i\u00e7inNoble Animasyon Seti."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusSkin",
+            "name": "Cyte-09 Skin",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Cyte-09 Warframe i\u00e7in standart skin."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/WF1999FrumentariusAuxHat",
+            "name": "Quincy'nin Beresi",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Quincy'nin en sevdi\u011fi \u015fapka."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/WF1999FrumentariusSkin",
+            "name": "Quincy Gemini Skin",
+            "codexSecret": false,
+            "description": "Quincy Isaacs, Hex'in k\u00fcstah, kendine g\u00fcvenen keskin ni\u015fanc\u0131s\u0131, Cyte-09 Warframe'e insani bir y\u00fcz kazand\u0131r\u0131yor.\r\n\r\nG\u00f6revler s\u0131ras\u0131nda, Quincy Gemini G\u00f6vde Hareketi ile Cyte-09 ve Quincy'nin tamamen seslendirilmi\u015f, \u00f6zelle\u015ftirilebilir Gemini Skin'i aras\u0131nda ge\u00e7i\u015f yap."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Garuda/GarudaAgileAnims",
@@ -9911,6 +10036,12 @@
             "description": "Nyx Warframe'i i\u00e7in Master Noob taraf\u0131ndan tasarlanm\u0131\u015f \u00f6zel bir skin."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Jade/WF1999NyxSkin",
+            "name": "Eleanor Gemini Skin",
+            "codexSecret": false,
+            "description": "Hex'in gizemli psi\u015fik uzman\u0131 Eleanor Nightingale, Nyx Warframe'e insani bir y\u00fcz kazand\u0131r\u0131yor.\r\n\r\nG\u00f6revler s\u0131ras\u0131nda, Eleanor Gemini G\u00f6vde Hareketi ile Nyx and Eleanor'un tamamen seslendirilmi\u015f, \u00f6zelle\u015ftirilebilir Gemini Skin'i aras\u0131nda ge\u00e7i\u015f yap."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/KDrive/KDriveVelocipodRareSkin",
             "name": "Beyaz Velocipod K-Drive Skin",
             "codexSecret": false,
@@ -10815,6 +10946,12 @@
             "description": "Yenileme yoluyla bilgeli\u011fi hat\u0131rla."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/CNY2025ScytheSkin",
+            "name": "Hespar Lunaeus Skin",
+            "codexSecret": false,
+            "description": "Bu Hespar skin'i ile isabetli ve refah dolu sald\u0131r\u0131lar senin taraf\u0131nda olur."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/LNY2024DragonSigil",
             "name": "Yeni Ay Y\u0131l\u0131 Y\u00fckseli\u015f M\u00fchr\u00fc",
             "codexSecret": false,
@@ -11139,6 +11276,12 @@
             "name": "Mag Toroidal Mi\u011ffer",
             "codexSecret": false,
             "description": "prosetisen taraf\u0131ndan dizayn edilmi\u015f Mag Warframe mi\u011fferi."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Mag/WF1999MagSkin",
+            "name": "Aoi Gemini Skin",
+            "codexSecret": false,
+            "description": "Hex'in koruyucu ikinci komutan\u0131 Aoi Morohoshi, Mag Warframe'e insani bir y\u00fcz kazand\u0131r\u0131yor.\r\n\r\nG\u00f6revler s\u0131ras\u0131nda, Mag Gemini G\u00f6vde Hareketi ile Mag ve Aoi'nin tamamen seslendirilmi\u015f, \u00f6zelle\u015ftirilebilir Aoi Gemini Skin'i aras\u0131nda ge\u00e7i\u015f yap."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Magician/LimboDeluxeHelmet",
@@ -11737,6 +11880,73 @@
             "description": "Wukong Prime Warframe'inin standart skin."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleColourShiftSkin",
+            "name": "Dikrom Kaplama",
+            "codexSecret": false,
+            "description": "Atomisiklet i\u00e7in renk de\u011fi\u015ftiren bir tasar\u0131m."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleDefaultSkin",
+            "name": "Standart Kaplama",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Atomisikletin fabrika taraf\u0131ndan olu\u015fturulan tasar\u0131m\u0131."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleFlamesSkin",
+            "name": "Korrosive Kore Kaplama",
+            "codexSecret": false,
+            "description": "Ye\u015fil alevler bu Atomisiklet tasar\u0131m\u0131 \u00fczerinde dans ediyor."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleGraffitiSkin",
+            "name": "T\u00fcm \u015eehir Kaplama",
+            "codexSecret": false,
+            "description": "Grafitiden ilham alan bu tasar\u0131mla sokaklar\u0131 temsil et."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleLightsSkin",
+            "name": "Neon Geceleri Kaplama",
+            "codexSecret": false,
+            "description": "Bu \u015f\u0131k Atomisiklet tasar\u0131m\u0131n\u0131 neon \u015feritler ayd\u0131nlat\u0131yor."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleMedicSkin",
+            "name": "T\u0131bbi Ara\u00e7 Kaplama",
+            "codexSecret": false,
+            "description": "T\u0131bbi ara\u00e7tan ilham alan bu Atomisiklet tasar\u0131m\u0131yla olay yerine ula\u015fan ilk sen ol."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleMonsterSkin",
+            "name": "Barakuda Kaplama",
+            "codexSecret": false,
+            "description": "Atomisikletini bu doymak bilmez tasar\u0131mla \u00f6zelle\u015ftir."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleNakedBikeSkin",
+            "name": "Kafe Yar\u0131\u015fc\u0131s\u0131 Kaplama",
+            "codexSecret": false,
+            "description": "Sadele\u015ftirilmi\u015f ve g\u00fc\u00e7lendirilmi\u015f bu ara\u00e7 sokak yar\u0131\u015f\u0131na haz\u0131r. "
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleRacingSkin",
+            "name": "Biti\u015f \u00c7izgisi Kaplama",
+            "codexSecret": false,
+            "description": "Atomisiklet i\u00e7in yar\u0131\u015flardan esinlenilmi\u015f bir tasar\u0131m."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleRustSkin",
+            "name": "Pasl\u0131 Kemer Kaplama",
+            "codexSecret": false,
+            "description": "\u00c7izikler bu kaba ve haz\u0131r Atomisiklet tasar\u0131m\u0131 i\u00e7in hi\u00e7bir \u015fey ifade etmiyor."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleTennoSkin",
+            "name": "Monostar Kaplama",
+            "codexSecret": false,
+            "description": "Zaman\u0131n d\u0131\u015f\u0131nda bir Atomisiklet."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Mustache/Stache",
             "name": "Gentleman",
             "codexSecret": true,
@@ -12062,13 +12272,6 @@
             "name": "Nekros Lazarus Mi\u011ffer",
             "codexSecret": false,
             "description": "[k a z] taraf\u0131ndan olu\u015fturulan Nekros Warframe mi\u011fferi."
-        },
-        {
-            "uniqueName": "/Lotus/Upgrades/Skins/Necro/SWVisceraNekrosAuxillaryScarf",
-            "name": "Viscera Ba\u011flar\u0131",
-            "codexSecret": false,
-            "excludeFromCodex": true,
-            "description": "[PH] Binds for Nekros, designed by ???."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/NewPlayerXP/NewPlayerXPBoSkin",
@@ -12619,6 +12822,18 @@
             "description": "Bu hassas g\u00f6zl\u00fckle etraf\u0131n\u0131z\u0131 hi\u00e7 olmad\u0131\u011f\u0131 kadar berrak g\u00f6r\u00fcn."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/CaliberChicksJillianBandana",
+            "name": "Jillian'\u0131n Bandanas\u0131",
+            "codexSecret": false,
+            "description": "Jillian'\u0131n \u00f6zel bandanas\u0131."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/CaliberChicksLillianEyepatch",
+            "name": "Lillian'\u0131n G\u00f6z Band\u0131",
+            "codexSecret": false,
+            "description": "Lillian'a \u00f6zel G\u00f6z Band\u0131."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/CircletA",
             "name": "Sofren Diadem",
             "codexSecret": false,
@@ -12722,6 +12937,12 @@
             "description": "Operat\u00f6r\u00fcn\u00fcz i\u00e7in \u00f6zel bir aksesuar"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/OperatorDrifterGothFaceAccessory",
+            "name": "Goth Piercingleri",
+            "codexSecret": false,
+            "description": "Bu sivri kulak piercing'leriyle bireyselli\u011fini ifade et."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/OperatorNefAnyoMask",
             "name": "Vox Solaris Maskesi",
             "codexSecret": false,
@@ -12764,6 +12985,42 @@
             "description": "Revenant'\u0131n g\u00f6zdesi onun kemikli sivri u\u00e7lar\u0131n\u0131 y\u00fcz dekorasyonu olarak kullanabilir."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SW1999F19CondrocEarsAcc",
+            "name": "F19 Condroc Kulakl\u0131klar\u0131",
+            "codexSecret": false,
+            "description": "Master Noob taraf\u0131ndan tasarlanan \u00f6zel bir \u00e7ift kulakl\u0131k."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SW1999Y2kAccBEar",
+            "name": "Pernicus K\u00fcpeleri",
+            "codexSecret": false,
+            "description": "Operat\u00f6r\u00fcn veya Gezgin'in i\u00e7in \u00f6zel bir aksesuar."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SW1999Y2kAccCEar",
+            "name": "Lasar K\u00fcpeler",
+            "codexSecret": false,
+            "description": "Operat\u00f6r\u00fcn veya Gezgin'in i\u00e7in \u00f6zel bir aksesuar."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SW1999Y2kEyeAAcc",
+            "name": "Solvarc G\u00fcne\u015f G\u00f6zl\u00fc\u011f\u00fc",
+            "codexSecret": false,
+            "description": "Operat\u00f6r\u00fcn veya Gezgin'in i\u00e7in \u00f6zel bir aksesuar."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SW1999Y2kEyeBAcc",
+            "name": "Kanopia G\u00fcne\u015f G\u00f6zl\u00fc\u011f\u00fc",
+            "codexSecret": false,
+            "description": "Operat\u00f6r\u00fcn veya Gezgin'in i\u00e7in \u00f6zel bir aksesuar."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SW1999Y2kEyeCAcc",
+            "name": "Haxis G\u00fcne\u015f G\u00f6zl\u00fc\u011f\u00fc",
+            "codexSecret": false,
+            "description": "Operat\u00f6r\u00fcn veya Gezgin'in i\u00e7in \u00f6zel bir aksesuar."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWAuresCrownFacialAcc",
             "name": "Aures Diadem",
             "codexSecret": false,
@@ -12782,16 +13039,48 @@
             "description": "Blazingcobalt taraf\u0131ndan tasarlanm\u0131\u015f \u00f6zel bir oculus."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWButterflyEyeAcc",
+            "name": "Kelebek Kanatlar\u0131 Oculus",
+            "codexSecret": false,
+            "description": "Mz-3 taraf\u0131ndan tasarlanm\u0131\u015f \u00f6zel bir oculus."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWCaeruleaVisorEyeAcc",
             "name": "Caerulea Oculus",
             "codexSecret": false,
             "description": "Awk'Q-Luz taraf\u0131ndan tasarlanm\u0131\u015f \u00f6zel bir oculus."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWChoroidEyeAcc",
+            "name": "Choroid Oculus",
+            "codexSecret": false,
+            "description": "Erneix ve Theriondrek taraf\u0131ndan tasarlanan tasarlanan bir oculus."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWCorailDiademFacialAcc",
             "name": "Corail Diadem",
             "codexSecret": false,
             "description": "lukinu_u ve HariPear taraf\u0131ndan dizayn edilen e\u015fsiz bir diadem."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWFrameFriendEarAcc",
+            "name": "Frame Arkada\u015f Kulakl\u0131\u011f\u0131",
+            "codexSecret": false,
+            "description": "Ventralhound taraf\u0131ndan dizayn edilen, \u00f6zel bir kulakl\u0131k."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWFrameFriendEarLAcc",
+            "name": "Frame Arkada\u015f Kulakl\u0131\u011f\u0131 (Sol)",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Ventralhound taraf\u0131ndan dizayn edilen, \u00f6zel bir kulakl\u0131k."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWFrameFriendEarRAcc",
+            "name": "Frame Arkada\u015f Kulakl\u0131\u011f\u0131 (Sa\u011f)",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Ventralhound taraf\u0131ndan dizayn edilen, \u00f6zel bir kulakl\u0131k."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWGarasuEarAcc",
@@ -12840,6 +13129,12 @@
             "name": "Lum\u0131s Oculus",
             "codexSecret": false,
             "description": "lxe ve lukinu_u taraf\u0131ndan dizayn edilen e\u015fsiz bir oculus."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWMillenniumVisorFacialAcc",
+            "name": "Milenyum Viz\u00f6r Diadem",
+            "codexSecret": false,
+            "description": "Travelling Merchant ve Theriondrek taraf\u0131ndan tasarlanan e\u015fsiz bir diadem."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWOptimaEyeAcc",
@@ -13297,6 +13592,12 @@
             "description": "Kendini sava\u015fa haz\u0131rla. Gezgin ve Operat\u00f6r i\u00e7in uyarland\u0131."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultAthletic",
+            "name": "Athletic Ti\u015f\u00f6rt\u00fc (Gezgin)",
+            "codexSecret": false,
+            "description": "Spor giyimden ilham alan bu \u00f6zel Gezgin giyim ve aksesuar serisiyle oyununu oyna."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultC",
             "name": "Gezgin Yele\u011fi",
             "codexSecret": false,
@@ -13363,6 +13664,12 @@
             "description": "Ge\u00e7mi\u015fin kahinlerinden esinlenmi\u015f; hem beden, hem ak\u0131l harab\u0131na kar\u015f\u0131 tasarlanm\u0131\u015ft\u0131r. Gezgin i\u00e7in uyarland\u0131."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultGrunge",
+            "name": "Grunge Ceketi (Gezgin)",
+            "codexSecret": false,
+            "description": "Grunge sahnesinden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultJ",
             "name": "Haztech G\u00f6\u011f\u00fcs Z\u0131rh\u0131 (Gezgin)",
             "codexSecret": false,
@@ -13391,6 +13698,12 @@
             "name": "Masker'in Theodolite M\u00fcrettebat Kost\u00fcm\u00fc (Gezgin)",
             "codexSecret": false,
             "description": "Tarih\u00e7i Drusus Leverian, yolcu gemisi Masker's Theodolite'in rehin edilmi\u015f m\u00fcrettebat\u0131n\u0131n Nova taraf\u0131ndan kurtar\u0131ld\u0131klar\u0131nda bu m\u00fcrettebat kost\u00fcm\u00fcn\u00fc giydiklerini hat\u0131rl\u0131yor."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultOperatorDrifterGoth",
+            "name": "Goth Ceketi (Gezgin)",
+            "codexSecret": false,
+            "description": "Gotik esintiler ta\u015f\u0131yan bu giysilerle g\u00f6lgelerden izle veya \u00f6l\u00fclerle dans et."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultOutfit1A",
@@ -13442,6 +13755,12 @@
             "description": "Kendini sava\u015fa haz\u0131rla. Gezgin ve Operat\u00f6r i\u00e7in uyarland\u0131."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAthletic",
+            "name": "Athletic Ti\u015f\u00f6rt\u00fc (Operat\u00f6r)",
+            "codexSecret": false,
+            "description": "Spor giyimden ilham alan bu \u00f6zel Gezgin giyim ve aksesuar serisiyle oyununu oyna."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitB",
             "name": "Koppra Kost\u00fcm",
             "codexSecret": false,
@@ -13481,6 +13800,12 @@
             "description": "\u0130lk Tenno'nun derin uykusundan uyanmas\u0131n\u0131n onuncu y\u0131ld\u00f6n\u00fcm\u00fcne \u00f6zel Lotus'un arma\u011fan\u0131. Gezgin ve Operat\u00f6r i\u00e7in uyarland\u0131."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitGrunge",
+            "name": "Grunge Ceketi (Operat\u00f6r)",
+            "codexSecret": false,
+            "description": "Grunge sahnesinden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitInfestedA",
             "name": "Temsilci Kost\u00fcm\u00fc",
             "codexSecret": false,
@@ -13515,6 +13840,12 @@
             "name": "Kubrodon Ventkid G\u00f6\u011f\u00fcs Z\u0131rh\u0131",
             "codexSecret": false,
             "description": "Kurnaz ve uyan\u0131k Kubradon Ventkids'lerin lideri Boon'un K-Drive donan\u0131m\u0131na g\u00f6re modellenmi\u015f bir Operat\u00f6r Z\u0131rh\u0131."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitOperatorDrifterGoth",
+            "name": "Goth Ceketi (Operat\u00f6r)",
+            "codexSecret": false,
+            "description": "Gotik esintiler ta\u015f\u0131yan bu giysilerle g\u00f6lgelerden izle veya \u00f6l\u00fclerle dans et."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitOutfit1A",
@@ -13675,6 +14006,18 @@
             "codexSecret": false,
             "excludeFromCodex": true,
             "description": "Operat\u00f6r\u00fcn\u00fcz i\u00e7in \u00f6zel bir sa\u00e7 stili"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairCaliberChicksJillian",
+            "name": "Jillian'\u0131n Kilitleri",
+            "codexSecret": false,
+            "description": "Jillian'a \u00f6zel sa\u00e7 stili."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairCaliberChicksLillian",
+            "name": "Lillian'\u0131n Kilitleri",
+            "codexSecret": false,
+            "description": "Lillian'\u0131n \u00f6zel sa\u00e7 stili."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairD",
@@ -14342,6 +14685,12 @@
             "description": "Ge\u00e7mi\u015fin kahinlerinden esinlenmi\u015f; hem beden, hem ak\u0131l harab\u0131na kar\u015f\u0131 tasarlanm\u0131\u015ft\u0131r. Gezgin i\u00e7in uyarland\u0131."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultGrunge",
+            "name": "Grunge Ba\u015fl\u0131k (Gezgin)",
+            "codexSecret": false,
+            "description": "Grunge sahnesinden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultJ",
             "name": "Haztech Maskesi (Gezgin)",
             "codexSecret": false,
@@ -14364,6 +14713,12 @@
             "name": "Masker'in Theodolite M\u00fcrettebat Kost\u00fcm Ba\u015fl\u0131\u011f\u0131 (Gezgin)",
             "codexSecret": false,
             "description": "Tarih\u00e7i Drusus Leverian, yolcu gemisi Masker's Theodolite'in rehin edilmi\u015f m\u00fcrettebat\u0131n\u0131n Nova taraf\u0131ndan kurtar\u0131ld\u0131klar\u0131nda bu m\u00fcrettebat kost\u00fcm\u00fcn\u00fc giydiklerini hat\u0131rl\u0131yor."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultOperatorDrifterGoth",
+            "name": "Goth Ba\u015fl\u0131k (Gezgin)",
+            "codexSecret": false,
+            "description": "Gotik esintiler ta\u015f\u0131yan bu giysilerle g\u00f6lgelerden izle veya \u00f6l\u00fclerle dans et."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultOutfit1A",
@@ -14472,6 +14827,12 @@
             "description": "Bu y\u00fcz\u00fc daha \u00f6nce de g\u00f6rd\u00fcn. Bu y\u00fcz\u00fc daha \u00f6nce hi\u00e7 g\u00f6rmedin."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodGrunge",
+            "name": "Grunge Ba\u015fl\u0131k (Operat\u00f6r)",
+            "codexSecret": false,
+            "description": "Grunge sahnesinden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodInfestedA",
             "name": "Temsilci Ba\u015fl\u0131\u011f\u0131",
             "codexSecret": false,
@@ -14512,6 +14873,12 @@
             "name": "Kubrodon Ventkid Maskesi",
             "codexSecret": false,
             "description": "Kurnaz ve uyan\u0131k Kubradon Ventkids'lerin lideri Boon'un K-Drive donan\u0131m\u0131na g\u00f6re modellenmi\u015f bir Operat\u00f6r Z\u0131rh\u0131."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodOperatorDrifterGoth",
+            "name": "Goth Ba\u015fl\u0131k (Operat\u00f6r)",
+            "codexSecret": false,
+            "description": "Gotik esintiler ta\u015f\u0131yan bu giysilerle g\u00f6lgelerden izle veya \u00f6l\u00fclerle dans et."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodOutfit1A",
@@ -14614,6 +14981,12 @@
             "description": "Kendini sava\u015fa haz\u0131rla. Gezgin ve Operat\u00f6r i\u00e7in uyarland\u0131."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultAthletic",
+            "name": "Athletic Pantolonu (Gezgin)",
+            "codexSecret": false,
+            "description": "Spor giyimden ilham alan bu \u00f6zel Gezgin giyim ve aksesuar serisiyle oyununu oyna."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultC",
             "name": "Gezgin Pantolonu",
             "codexSecret": false,
@@ -14680,6 +15053,12 @@
             "description": "Ge\u00e7mi\u015fin kahinlerinden esinlenmi\u015f; hem beden, hem ak\u0131l harab\u0131na kar\u015f\u0131 tasarlanm\u0131\u015ft\u0131r. Gezgin i\u00e7in uyarland\u0131."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultGrunge",
+            "name": "Grunge Pantolonu (Gezgin)",
+            "codexSecret": false,
+            "description": "Grunge sahnesinden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultJ",
             "name": "Haztech Bacak Z\u0131rh\u0131 (Gezgin)",
             "codexSecret": false,
@@ -14708,6 +15087,12 @@
             "name": "Masker'in Theodolite M\u00fcrettebat Kost\u00fcm\u00fc Pantolonu (Gezgin)",
             "codexSecret": false,
             "description": "Tarih\u00e7i Drusus Leverian, yolcu gemisi Masker's Theodolite'in rehin edilmi\u015f m\u00fcrettebat\u0131n\u0131n Nova taraf\u0131ndan kurtar\u0131ld\u0131klar\u0131nda bu m\u00fcrettebat kost\u00fcm\u00fcn\u00fc giydiklerini hat\u0131rl\u0131yor."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultOperatorDrifterGoth",
+            "name": "Goth Pantolonu (Gezgin)",
+            "codexSecret": false,
+            "description": "Gotik esintiler ta\u015f\u0131yan bu giysilerle g\u00f6lgelerden izle veya \u00f6l\u00fclerle dans et."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultOutfit1A",
@@ -14759,6 +15144,12 @@
             "description": "Kendini sava\u015fa haz\u0131rla. Gezgin ve Operat\u00f6r i\u00e7in uyarland\u0131."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAthletic",
+            "name": "Athletic Pantolonu (Operat\u00f6r)",
+            "codexSecret": false,
+            "description": "Spor giyimden ilham alan bu \u00f6zel Gezgin giyim ve aksesuar serisiyle oyununu oyna."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsB",
             "name": "Koppra Bacaklar",
             "codexSecret": false,
@@ -14798,6 +15189,12 @@
             "description": "\u0130lk Tenno'nun derin uykusundan uyanmas\u0131n\u0131n onuncu y\u0131ld\u00f6n\u00fcm\u00fcne \u00f6zel Lotus'un arma\u011fan\u0131. Gezgin ve Operat\u00f6r i\u00e7in uyarland\u0131."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsGrunge",
+            "name": "Grunge Pantolonu (Operat\u00f6r)",
+            "codexSecret": false,
+            "description": "Grunge sahnesinden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsInfestedA",
             "name": "Temsilci Bacak Z\u0131rh\u0131",
             "codexSecret": false,
@@ -14832,6 +15229,12 @@
             "name": "Kubrodon Ventkid Bacak Z\u0131rh\u0131",
             "codexSecret": false,
             "description": "Kurnaz ve uyan\u0131k Kubradon Ventkids'lerin lideri Boon'un K-Drive donan\u0131m\u0131na g\u00f6re modellenmi\u015f bir Operat\u00f6r Z\u0131rh\u0131."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsOperatorDrifterGoth",
+            "name": "Goth Pantolonu (Operat\u00f6r)",
+            "codexSecret": false,
+            "description": "Gotik esintiler ta\u015f\u0131yan bu giysilerle g\u00f6lgelerden izle veya \u00f6l\u00fclerle dans et."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsOutfit1A",
@@ -14894,6 +15297,12 @@
             "description": "Kendini sava\u015fa haz\u0131rla. Gezgin ve Operat\u00f6r i\u00e7in uyarland\u0131."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultAthletic",
+            "name": "Atletik Disk Oynat\u0131c\u0131s\u0131 ve Havlusu (Gezgin)",
+            "codexSecret": false,
+            "description": "Spor giyimden ilham alan bu \u00f6zel Gezgin giyim ve aksesuar serisiyle oyununu oyna."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultC",
             "name": "Gezgin Te\u00e7hizat\u0131",
             "codexSecret": false,
@@ -14930,6 +15339,12 @@
             "description": "Ge\u00e7mi\u015fin kahinlerinden esinlenmi\u015f; hem beden, hem ak\u0131l harab\u0131na kar\u015f\u0131 tasarlanm\u0131\u015ft\u0131r. Gezgin i\u00e7in uyarland\u0131."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultGrunge",
+            "name": "Grunge Ete\u011fi (Gezgin)",
+            "codexSecret": false,
+            "description": "Grunge sahnesinden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultJ",
             "name": "Haztech K\u0131yafeti (Gezgin)",
             "codexSecret": false,
@@ -14959,6 +15374,12 @@
             "name": "Operat\u00f6r Feldune Ku\u015fa\u011f\u0131",
             "codexSecret": false,
             "description": "Kendini sava\u015fa haz\u0131rla. Gezgin ve Operat\u00f6r i\u00e7in uyarland\u0131."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAthletic",
+            "name": "Atletik Disk Oynat\u0131c\u0131s\u0131 ve Havlusu (Operat\u00f6r)",
+            "codexSecret": false,
+            "description": "Spor giyimden ilham alan bu \u00f6zel Gezgin giyim ve aksesuar serisiyle oyununu oyna."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtB",
@@ -15001,6 +15422,12 @@
             "name": "Zauba K\u0131yafeti (Operat\u00f6r)",
             "codexSecret": false,
             "description": "Ge\u00e7mi\u015fin kahinlerinden esinlenmi\u015f; hem beden, hem ak\u0131l harab\u0131na kar\u015f\u0131 tasarlanm\u0131\u015ft\u0131r. Operat\u00f6r i\u00e7in uyarland\u0131."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtGrunge",
+            "name": "Grunge Ete\u011fi (Operat\u00f6r)",
+            "codexSecret": false,
+            "description": "Grunge sahnesinden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtJ",
@@ -15056,6 +15483,12 @@
             "name": "Gezgin Feldune Kolluklar\u0131",
             "codexSecret": false,
             "description": "Kendini sava\u015fa haz\u0131rla. Gezgin ve Operat\u00f6r i\u00e7in uyarland\u0131."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultAthletic",
+            "name": "Athletic Kolluklar\u0131 (Gezgin)",
+            "codexSecret": false,
+            "description": "Spor giyimden ilham alan bu \u00f6zel Gezgin giyim ve aksesuar serisiyle oyununu oyna."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultC",
@@ -15124,6 +15557,12 @@
             "description": "Ge\u00e7mi\u015fin kahinlerinden esinlenmi\u015f; hem beden, hem ak\u0131l harab\u0131na kar\u015f\u0131 tasarlanm\u0131\u015ft\u0131r. Gezgin i\u00e7in uyarland\u0131."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultGrunge",
+            "name": "Grunge Kolluklar\u0131 (Gezgin)",
+            "codexSecret": false,
+            "description": "Grunge sahnesinden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultJ",
             "name": "Haztech Omuzluklar\u0131 (Gezgin)",
             "codexSecret": false,
@@ -15152,6 +15591,12 @@
             "name": "Masker'in Theodolite M\u00fcrettebat Kost\u00fcm\u00fc Kolluklar\u0131 (Gezgin)",
             "codexSecret": false,
             "description": "Tarih\u00e7i Drusus Leverian, yolcu gemisi Masker's Theodolite'in rehin edilmi\u015f m\u00fcrettebat\u0131n\u0131n Nova taraf\u0131ndan kurtar\u0131ld\u0131klar\u0131nda bu m\u00fcrettebat kost\u00fcm\u00fcn\u00fc giydiklerini hat\u0131rl\u0131yor."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultOperatorDrifterGoth",
+            "name": "Goth Kolluklar\u0131 (Gezgin)",
+            "codexSecret": false,
+            "description": "Gotik esintiler ta\u015f\u0131yan bu giysilerle g\u00f6lgelerden izle veya \u00f6l\u00fclerle dans et."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultOutfit1A",
@@ -15203,6 +15648,12 @@
             "description": "Kendini sava\u015fa haz\u0131rla. Gezgin ve Operat\u00f6r i\u00e7in uyarland\u0131."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAthletic",
+            "name": "Athletic Kolluklar\u0131 (Operat\u00f6r)",
+            "codexSecret": false,
+            "description": "Spor giyimden ilham alan bu \u00f6zel Gezgin giyim ve aksesuar serisiyle oyununu oyna."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesB",
             "name": "Koppra Kollar",
             "codexSecret": false,
@@ -15242,6 +15693,12 @@
             "description": "\u0130lk Tenno'nun derin uykusundan uyanmas\u0131n\u0131n onuncu y\u0131ld\u00f6n\u00fcm\u00fcne \u00f6zel Lotus'un arma\u011fan\u0131. Gezgin ve Operat\u00f6r i\u00e7in uyarland\u0131."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesGrunge",
+            "name": "Grunge Kolluklar\u0131 (Operat\u00f6r)",
+            "codexSecret": false,
+            "description": "Grunge sahnesinden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesInfestedA",
             "name": "Temsilci Kollar\u0131",
             "codexSecret": false,
@@ -15276,6 +15733,12 @@
             "name": "Kubrodon Ventkid Omuzluklar\u0131",
             "codexSecret": false,
             "description": "Kurnaz ve uyan\u0131k Kubradon Ventkids'lerin lideri Boon'un K-Drive donan\u0131m\u0131na g\u00f6re modellenmi\u015f bir Operat\u00f6r Z\u0131rh\u0131."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesOperatorDrifterGoth",
+            "name": "Goth Kolluklar\u0131 (Operat\u00f6r)",
+            "codexSecret": false,
+            "description": "Gotik esintiler ta\u015f\u0131yan bu giysilerle g\u00f6lgelerden izle veya \u00f6l\u00fclerle dans et."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesOutfit1A",
@@ -15468,6 +15931,30 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooLoveRose",
             "name": "Sevgi Boyas\u0131",
+            "codexSecret": false,
+            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooTennoB",
+            "name": "Ligumi Boyas\u0131",
+            "codexSecret": false,
+            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooTennoC",
+            "name": "Yoshijo Boyas\u0131",
+            "codexSecret": false,
+            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooTennoD",
+            "name": "Miyeti Boyas\u0131",
+            "codexSecret": false,
+            "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooTennoF",
+            "name": "Fumiro Boyas\u0131",
             "codexSecret": false,
             "description": "V\u00fccut sanat\u0131, size huzur veren veya ruhunuza e\u015flik eden duygular\u0131 iletebilir."
         },
@@ -16469,6 +16956,24 @@
             "description": "Atomos i\u00e7in festival temal\u0131 bir skin."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumBoltor",
+            "name": "Boltor Solstice Skin",
+            "codexSecret": false,
+            "description": "Boltor i\u00e7in festival skin."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumBrokenWar",
+            "name": "Broken War Solstice Skin",
+            "codexSecret": false,
+            "description": "Broken War i\u00e7in festival skin."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumCantare",
+            "name": "Cantare Solstice Skin",
+            "codexSecret": false,
+            "description": "Cantare i\u00e7in festival skin."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumCycronSkin",
             "name": "Cycron Solstice Skin",
             "codexSecret": false,
@@ -16491,6 +16996,18 @@
             "name": "Gram Solstice Skin",
             "codexSecret": false,
             "description": "Gram i\u00e7in festival temal\u0131 bir skin."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumOcucor",
+            "name": "Ocucor Solstice Skin",
+            "codexSecret": false,
+            "description": "Ocucor i\u00e7in festival skin."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumParis",
+            "name": "Paris Solstice Skin",
+            "codexSecret": false,
+            "description": "Paris i\u00e7in festival skin."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Promo/Twitch/AkjagaraIridosSkin",
@@ -17513,13 +18030,6 @@
             "name": "Rhino Prime Mi\u011ffer",
             "codexSecret": false,
             "description": "Rhino Prime Warframe i\u00e7in standart bir mi\u011ffer."
-        },
-        {
-            "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoPrimeSkin",
-            "name": "Rhino Prime Skin",
-            "codexSecret": false,
-            "excludeFromCodex": true,
-            "description": "Rhino Prime Warframe i\u00e7in standart skin."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoRubedoSkin",
@@ -20508,6 +21018,36 @@
             "description": "Entrati prestijini sembolize eden bir m\u00fch\u00fcr."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankFive",
+            "name": "Pizza Partisi M\u00fchr\u00fc",
+            "codexSecret": false,
+            "description": "Hex'de kazan\u0131lan prestiji sembolize eden bir m\u00fch\u00fcr."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankFour",
+            "name": "S\u0131cak ve Taze M\u00fchr\u00fc",
+            "codexSecret": false,
+            "description": "Hex'de kazan\u0131lan prestiji sembolize eden bir m\u00fch\u00fcr."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankOne",
+            "name": "Geriye Kalanlar M\u00fchr\u00fc",
+            "codexSecret": false,
+            "description": "Hex'de kazan\u0131lan prestiji sembolize eden bir m\u00fch\u00fcr."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankThree",
+            "name": "2'si 1 Arada M\u00fchr\u00fc",
+            "codexSecret": false,
+            "description": "Hex'de kazan\u0131lan prestiji sembolize eden bir m\u00fch\u00fcr."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankTwo",
+            "name": "Taze Dilim M\u00fchr\u00fc",
+            "codexSecret": false,
+            "description": "Hex'de kazan\u0131lan prestiji sembolize eden bir m\u00fch\u00fcr."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HoldfastsRankFive",
             "name": "Holdfasts Melek M\u00fchr\u00fc",
             "codexSecret": false,
@@ -20920,6 +21460,12 @@
             "description": "Parvos'un K\u0131z Karde\u015f'leri i\u00e7in bir sayg\u0131 i\u015fareti."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Cyte09Sigil",
+            "name": "Cyte-09 Hedef M\u00fchr\u00fc",
+            "codexSecret": false,
+            "description": "Cyte-09'u onurland\u0131ran bu M\u00fch\u00fcr ile hedefine kilitlen."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DanteSigil",
             "name": "Dante'nin Noctua M\u00fchr\u00fc",
             "codexSecret": false,
@@ -21290,7 +21836,6 @@
             "uniqueName": "/Lotus/Upgrades/Skins/Sigils/NWStalkerSigil",
             "name": "Stalker Smoke Screen M\u00fchr\u00fc",
             "codexSecret": false,
-            "excludeFromCodex": true,
             "description": "Kimi avl\u0131yorsun, G\u00f6lge?"
         },
         {
@@ -22164,6 +22709,13 @@
             "description": "Yeni Ay Y\u0131l\u0131'n\u0131 tatl\u0131 tav\u015fan\u0131n \u015fefkatli kalbiyle kutla."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WeGameNewYearSnakeSigil",
+            "name": "Yeni Ay Y\u0131l\u0131 Y\u0131lan M\u00fchr\u00fc",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Gelecek y\u0131l zarif y\u0131lan\u0131n sezgisiyle d\u00f6n\u00fc\u015f\u00fcm ge\u00e7ir."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WeGameNewYearTigerSigil",
             "name": "Yeni Ay Y\u0131l\u0131 Prowl M\u00fchr\u00fc",
             "codexSecret": false,
@@ -22728,21 +23280,21 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/Rapier/SWArashiRapierSkin",
-            "name": "Rapier Arashi Skin",
+            "name": "Me\u00e7 Arashi Skin",
             "codexSecret": false,
-            "description": "Lubox taraf\u0131ndan tasarlanm\u0131\u015f \u00f6zel bir Rapier skin."
+            "description": "Lubox taraf\u0131ndan tasarlanm\u0131\u015f \u00f6zel bir Me\u00e7 skin."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/Rapier/SWFeritaRapierSkin",
-            "name": "Rapier Ferita Skin",
+            "name": "Me\u00e7 Ferita Skin",
             "codexSecret": false,
             "description": "Hitsu San ve Reil taraf\u0131ndan dizayn edilen e\u015fsiz bir me\u00e7 skin."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/Rapier/SWNiDuhlRapierSkin",
-            "name": "Rapier Ni'duhl Skin",
+            "name": "Me\u00e7 Ni'duhl Skin",
             "codexSecret": false,
-            "description": "Faven taraf\u0131ndan dizayn edilen \u00f6zel bir rapier skin"
+            "description": "Faven taraf\u0131ndan dizayn edilen \u00f6zel bir Me\u00e7 skin"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/Staff/SWEklypsaStaffSkin",
@@ -23756,6 +24308,12 @@
             "description": "Trinity Warframe i\u00e7in standart skin."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Trinity/WF1999TrinitySkin",
+            "name": "Lettie Gemini Skin",
+            "codexSecret": false,
+            "description": "Hex'in uzun s\u00fcredir ac\u0131 \u00e7eken doktoru Lettie Garcia, Trinity Warframe'e insani bir y\u00fcz kazand\u0131r\u0131yor.\r\n\r\nG\u00f6revler s\u0131ras\u0131nda, Lettie Gemini G\u00f6vde Hareketi ile Trinity ve Lettie'nin tamamen seslendirilmi\u015f, \u00f6zelle\u015ftirilebilir Gemini Skin'i aras\u0131nda ge\u00e7i\u015f yap."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Umbra/UmbraAltHelmet",
             "name": "Excalibur Umbra Sunder Mi\u011ffer",
             "codexSecret": false,
@@ -24166,6 +24724,19 @@
             "codexSecret": false,
             "excludeFromCodex": true,
             "description": "Bu e\u015fsiz Volt Skin'inindeki kal\u0131n geometrik desenlerle dikkatleri \u00fczerine \u00e7ek."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Volt/WF1999VoltAuxHat",
+            "name": "Amir'in G\u00fcne\u015f G\u00f6zl\u00fckleri",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Amir'in \u00f6zel g\u00fcne\u015f g\u00f6zl\u00fc\u011f\u00fc."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Volt/WF1999VoltSkin",
+            "name": "Amir Gemini Skin",
+            "codexSecret": false,
+            "description": "Hex'in ilgin\u00e7, ne\u015feli teknisyeni Amir Beckett, Volt Warframe'e insani bir y\u00fcz kazand\u0131r\u0131yor.\r\n\r\nG\u00f6revler s\u0131ras\u0131nda, Amir Gemini G\u00f6vde Hareketi ile Volt ve Amir'in tamamen seslendirilmi\u015f, \u00f6zelle\u015ftirilebilir Gemini Skin'i aras\u0131nda ge\u00e7i\u015f yap."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Weapons/DSPistols/BroncoSpectre",

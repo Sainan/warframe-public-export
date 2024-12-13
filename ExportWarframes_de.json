@@ -584,12 +584,12 @@
             "codexSecret": false,
             "masteryReq": 0,
             "sprintSpeed": 1.1,
-            "passiveDescription": "Belebt gefallene Verb\u00fcndete um |SPEED| % schneller und aus |RANGE| % gr\u00f6\u00dferer Entfernung wieder.",
+            "passiveDescription": "Verb\u00fcndete innerhalb der <AFFINITY_SHARE>Erfahrungsreichweite erhalten |BUFF| % von Trinitys max. Energie als Gesundheit.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/WellOfLifeAbility",
                     "abilityName": "Quell des Lebens",
-                    "description": "Erzeuge einen Quell des Lebens auf einem Feind. Verb\u00fcndete in der N\u00e4he des Ziels regenerieren langsam ihre Gesundheit und sind immun gegen Statuseffekte. Schaden durch Statuseffekte, der f\u00fcr Verb\u00fcndete in der N\u00e4he bestimmt ist, wird vom Feind absorbiert. Verb\u00fcndete erhalten zus\u00e4tzliche Gesundheit, wenn sie den Feind angreifen."
+                    "description": "Erzeuge einen Quell des Lebens auf einem Feind, der Statuseffekt-Schaden absorbiert, der f\u00fcr Verb\u00fcndete in der N\u00e4he gedacht ist. Verb\u00fcndete erhalten zus\u00e4tzliche Gesundheit, wenn sie das Ziel angreifen. Sterben Verb\u00fcndete, dann sterben Feinde im Quell stattdessen."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/EnergyVampireAbility",
@@ -604,7 +604,7 @@
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BlessingAbility",
                     "abilityName": "Segen",
-                    "description": "Gesundheit und Schilde von nahen Verb\u00fcndeten werden wiederhergestellt, w\u00e4hrend ihr erlittener Schaden durch Gegner reduziert wird."
+                    "description": "Stellt Gesundheit und Schilde von Verb\u00fcndeten innerhalb der <AFFINITY_SHARE>Erfahrungs-Reichweite wieder her, w\u00e4hrend ihr erlittener Schaden durch Gegner reduziert wird."
                 }
             ],
             "productCategory": "Suits"
@@ -622,12 +622,12 @@
             "codexSecret": false,
             "masteryReq": 0,
             "sprintSpeed": 1,
-            "passiveDescription": "Belebt gefallene Verb\u00fcndete um |SPEED| % schneller und aus |RANGE| % gr\u00f6\u00dferer Entfernung wieder.",
+            "passiveDescription": "Verb\u00fcndete innerhalb der <AFFINITY_SHARE>Erfahrungsreichweite erhalten |BUFF| % von Trinitys max. Energie als Gesundheit.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/WellOfLifeAbility",
                     "abilityName": "Quell des Lebens",
-                    "description": "Erzeuge einen Quell des Lebens auf einem Feind. Verb\u00fcndete in der N\u00e4he des Ziels regenerieren langsam ihre Gesundheit und sind immun gegen Statuseffekte. Schaden durch Statuseffekte, der f\u00fcr Verb\u00fcndete in der N\u00e4he bestimmt ist, wird vom Feind absorbiert. Verb\u00fcndete erhalten zus\u00e4tzliche Gesundheit, wenn sie den Feind angreifen."
+                    "description": "Erzeuge einen Quell des Lebens auf einem Feind, der Statuseffekt-Schaden absorbiert, der f\u00fcr Verb\u00fcndete in der N\u00e4he gedacht ist. Verb\u00fcndete erhalten zus\u00e4tzliche Gesundheit, wenn sie das Ziel angreifen. Sterben Verb\u00fcndete, dann sterben Feinde im Quell stattdessen."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/EnergyVampireAbility",
@@ -642,7 +642,7 @@
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BlessingAbility",
                     "abilityName": "Segen",
-                    "description": "Gesundheit und Schilde von nahen Verb\u00fcndeten werden wiederhergestellt, w\u00e4hrend ihr erlittener Schaden durch Gegner reduziert wird."
+                    "description": "Stellt Gesundheit und Schilde von Verb\u00fcndeten innerhalb der <AFFINITY_SHARE>Erfahrungs-Reichweite wieder her, w\u00e4hrend ihr erlittener Schaden durch Gegner reduziert wird."
                 }
             ],
             "productCategory": "Suits"
@@ -822,7 +822,7 @@
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/SentientStompAbility",
                     "abilityName": "Sentient Zorn",
-                    "description": "Schlagt auf den Boden und sendet eine radiale Welle der Zerst\u00f6rung aus. Feinde, die von der ersten Druckwelle nicht get\u00f6tet wurden, werden hilflos in die Luft gehoben und erleiden f\u00fcr kurze Zeit erh\u00f6hten Schaden."
+                    "description": "Schlage auf den Boden und sende eine radiale Welle der Zerst\u00f6rung aus. Feinde, die von der ersten Druckwelle nicht get\u00f6tet wurden, werden hilflos in die Luft gehoben und erleiden f\u00fcr kurze Zeit erh\u00f6hten Schaden."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/SentientSummonAbility",
@@ -2437,27 +2437,27 @@
             "codexSecret": false,
             "masteryReq": 0,
             "sprintSpeed": 1.125,
-            "passiveDescription": "Gegner sind |PERCENT| % weniger genau, wenn sie auf Nyx Prime zielen.",
+            "passiveDescription": "Nyx erh\u00e4lt +|CRITICAL| % Krit. Chance f\u00fcr ihre Prim\u00e4r- und Sekund\u00e4rwaffen, pro verwirrtem Feind innerhalb ihrer <AFFINITY_SHARE>Erfahrungsreichweite. Bis max. +|MAX| %",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/MindControlAbility",
                     "abilityName": "Gedanken-Kontrolle",
-                    "description": "Nyx dringt in die Psyche eines Ziels ein, verwirrt Feinde und l\u00e4sst sie auf Seiten der Tenno k\u00e4mpfen. Ziele, auf die Nyx daraufhin schie\u00dft, erhalten einen Schadensmultiplikator."
+                    "description": "Nyx \u00fcbernimmt die Kontrolle \u00fcber den Geist eines Ziels und zwingt es, f\u00fcr die Tenno zu k\u00e4mpfen. Kontrollierte Feinde haben einen erh\u00f6hten <DT_RADIATION_COLOR>Strahlung-Statuseffekt. Wenn Nyx auf sie schie\u00dft, erhalten sie auch einen erh\u00f6hten Schadensmultiplikator."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/DaggerAbility",
                     "abilityName": "Psychische Bolzen",
-                    "description": "Nyx feuert Geschosse aus psychischer Energie auf den Gegner und nutzt Telekinese, um ihre Flugbahn zu steuern und sie auf Gegner zu lenken. Treffer verringern die Verteidigung der Gegner."
+                    "description": "Nyx entfesselt eine Salve psychischer Bolzen, die Feinde in der N\u00e4he mit telekinetischer Pr\u00e4zision verfolgen und treffen. Wenn Feinde get\u00f6tet werden, werden zus\u00e4tzliche Bolzen auf neue Feinde gelenkt. Das Schlagen von Feinden schw\u00e4cht ihre Verteidigung und \u00fcbertr\u00e4gt einen Teil auf Nyx."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ChaosAbility",
                     "abilityName": "Chaos",
-                    "description": "Mit einem m\u00e4chtigen psychischen Puls verursacht Nyx massives Chaos auf dem Schlachtfeld und l\u00e4sst Gegner sich gegenseitig angreifen."
+                    "description": "Nyx setzt einen verheerenden psychischen Impuls frei, der Feinde in einem gro\u00dfen Umkreis verwirrt und sie dazu zwingt, sich gegenseitig anzugreifen. Verwirrte Feinde greifen zuf\u00e4llige Fraktionen an."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/SelfBulletAttractorAbility",
                     "abilityName": "Absorbieren",
-                    "description": "Nyx absorbiert alle eingehenden Sch\u00e4den und kanalisiert die gesammelte Energie in eine explosive radiale Entladung. Der Waffenschaden von Nyx wird basierend auf dem eingehenden absorbierten Schaden verbessert, wenn die F\u00e4higkeit endet."
+                    "description": "Nyx zieht den Schaden, den sie erh\u00e4lt und den verwirrte Feinde einander zuf\u00fcgen, auf sich und verwandelt ihn in eine verheerende radiale Explosion. Direkt nach der Explosion ist sie kurzzeitig unverwundbar und erh\u00e4lt einen Waffenschaden-Boost, proportional zum absorbierten Schaden."
                 }
             ],
             "productCategory": "Suits"
@@ -2475,27 +2475,27 @@
             "codexSecret": false,
             "masteryReq": 0,
             "sprintSpeed": 1.1,
-            "passiveDescription": "Gegner sind |PERCENT| % weniger genau, wenn sie auf Nyx zielen.",
+            "passiveDescription": "Nyx erh\u00e4lt +|CRITICAL| % Krit. Chance f\u00fcr ihre Prim\u00e4r- und Sekund\u00e4rwaffen, pro verwirrtem Feind innerhalb ihrer <AFFINITY_SHARE>Erfahrungsreichweite. Bis max. +|MAX| %",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/MindControlAbility",
                     "abilityName": "Gedanken-Kontrolle",
-                    "description": "Nyx dringt in die Psyche eines Ziels ein, verwirrt Feinde und l\u00e4sst sie auf Seiten der Tenno k\u00e4mpfen. Ziele, auf die Nyx daraufhin schie\u00dft, erhalten einen Schadensmultiplikator."
+                    "description": "Nyx \u00fcbernimmt die Kontrolle \u00fcber den Geist eines Ziels und zwingt es, f\u00fcr die Tenno zu k\u00e4mpfen. Kontrollierte Feinde haben einen erh\u00f6hten <DT_RADIATION_COLOR>Strahlung-Statuseffekt. Wenn Nyx auf sie schie\u00dft, erhalten sie auch einen erh\u00f6hten Schadensmultiplikator."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/DaggerAbility",
                     "abilityName": "Psychische Bolzen",
-                    "description": "Nyx feuert Geschosse aus psychischer Energie auf den Gegner und nutzt Telekinese, um ihre Flugbahn zu steuern und sie auf Gegner zu lenken. Treffer verringern die Verteidigung der Gegner."
+                    "description": "Nyx entfesselt eine Salve psychischer Bolzen, die Feinde in der N\u00e4he mit telekinetischer Pr\u00e4zision verfolgen und treffen. Wenn Feinde get\u00f6tet werden, werden zus\u00e4tzliche Bolzen auf neue Feinde gelenkt. Das Schlagen von Feinden schw\u00e4cht ihre Verteidigung und \u00fcbertr\u00e4gt einen Teil auf Nyx."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ChaosAbility",
                     "abilityName": "Chaos",
-                    "description": "Mit einem m\u00e4chtigen psychischen Puls verursacht Nyx massives Chaos auf dem Schlachtfeld und l\u00e4sst Gegner sich gegenseitig angreifen."
+                    "description": "Nyx setzt einen verheerenden psychischen Impuls frei, der Feinde in einem gro\u00dfen Umkreis verwirrt und sie dazu zwingt, sich gegenseitig anzugreifen. Verwirrte Feinde greifen zuf\u00e4llige Fraktionen an."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/SelfBulletAttractorAbility",
                     "abilityName": "Absorbieren",
-                    "description": "Nyx absorbiert alle eingehenden Sch\u00e4den und kanalisiert die gesammelte Energie in eine explosive radiale Entladung. Der Waffenschaden von Nyx wird basierend auf dem eingehenden absorbierten Schaden verbessert, wenn die F\u00e4higkeit endet."
+                    "description": "Nyx zieht den Schaden, den sie erh\u00e4lt und den verwirrte Feinde einander zuf\u00fcgen, auf sich und verwandelt ihn in eine verheerende radiale Explosion. Direkt nach der Explosion ist sie kurzzeitig unverwundbar und erh\u00e4lt einen Waffenschaden-Boost, proportional zum absorbierten Schaden."
                 }
             ],
             "productCategory": "Suits"
@@ -2795,7 +2795,7 @@
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/GyreSphereAbility",
                     "abilityName": "Spulen-Horizont",
-                    "description": "Wirft eine kreisende Sph\u00e4re nach vorne, die nach ein paar Sekunden implodiert oder manuell ausgel\u00f6st werden kann."
+                    "description": "Wirf eine kreisende Sph\u00e4re nach vorne, die nach ein paar Sekunden implodiert oder manuell ausgel\u00f6st werden kann."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/GyreEnergizedAbility",
@@ -3002,6 +3002,47 @@
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/GarudaUnstoppableAbility",
                     "abilityName": "Suchende Klauen",
                     "description": "Aufladen, um den anvisierten Bereich zu vergr\u00f6\u00dfern. Loslassen, um Garudas Klauen in den markierten Bereich rasen zu lassen. \u00dcberlebende Gegner sind anf\u00e4llig f\u00fcr <DT_SLASH_COLOR>Schnittstatus."
+                }
+            ],
+            "productCategory": "Suits"
+        },
+        {
+            "uniqueName": "/Lotus/Powersuits/Frumentarius/Frumentarius",
+            "name": "Cyte-09",
+            "parentName": "/Lotus/Powersuits/Frumentarius/FrumentariusBaseSuit",
+            "description": "Bewege dich wie ein Schatten, schlage mit Macht zu. Die Orokin haben einen Warframe entwickelt, der Schaden und Tarnung vereint, um sensible Probleme zu beseitigen, aber er verschwand im Chaos ihres Untergangs. Alles, was \u00fcbrig bleibt, ist ein Serienname: Cyte-09.",
+            "health": 225,
+            "shield": 135,
+            "armor": 150,
+            "stamina": 3,
+            "power": 180,
+            "codexSecret": false,
+            "masteryReq": 0,
+            "sprintSpeed": 1.1,
+            "passiveDescription": "Schwachpunkt-Kills erh\u00f6hen Cyte-09s Krit. Chance auf Schwachpunkte um |INCREASE| % auf bis zu |CAP| % f\u00fcr die Dauer der laufenden Mission.",
+            "exalted": [
+                "/Lotus/Powersuits/Frumentarius/ExaltedSniper"
+            ],
+            "abilities": [
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusScanAbility",
+                    "abilityName": "Scannen",
+                    "description": "Platziert eine Antenne, die einen Scan nach vorne ausf\u00fchrt. Erkannte Feinde erhalten erh\u00f6hten Schaden an Schwachstellen und werden durch W\u00e4nde sichtbar. Waffen erhalten Durchdringung."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusAmmoAbility",
+                    "abilityName": "Nachschub",
+                    "description": "Wirf zwei elementare Munitionspakete, die sofort die aktive Waffe auff\u00fcllen, w\u00e4hrend sie der Waffe eine zus\u00e4tzliche Instanz des gew\u00e4hlten Elementarschadens und Statuseffekts hinzuf\u00fcgen. Nachladen entfernt den Effekt. Scharfsch\u00fctzengewehre erhalten zus\u00e4tzlichen Schaden."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusCloakAbility",
+                    "abilityName": "Ausweichen",
+                    "description": "Springe r\u00fcckw\u00e4rts und werde f\u00fcr eine kurze Dauer unsichtbar. Das T\u00f6ten von Feinden \u00fcber ihre Schwachstellen verl\u00e4ngert die Dauer und heilt Cyte-09."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusSniperAbility",
+                    "abilityName": "Neutralisieren",
+                    "description": "Rufe den Neutralisator herbei, das Erhabene Scharfsch\u00fctzengewehr von Cyte-09. Alt. Feuer feuert eine <DT_FREEZE_COLOR>K\u00e4ltegranate ab, die Feinde vollst\u00e4ndig einfriert."
                 }
             ],
             "productCategory": "Suits"

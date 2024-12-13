@@ -322,7 +322,7 @@
             {
                 "uniqueName": "/Lotus/Types/Challenges/Seasons/Daily/SeasonDailyKillEnemiesWhileOnKDrive",
                 "name": "Amante del Brivido",
-                "description": "Uccidi |COUNT| nemici mentre guidi un K-Drive, Kaithe, Velocipodo o Merulina.",
+                "description": "Uccidi |COUNT| nemici mentre guidi un K-Drive, Kaithe, Velocipodo o Atomicycle.",
                 "standing": 1000,
                 "required": 20
             },

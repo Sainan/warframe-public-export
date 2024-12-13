@@ -3011,6 +3011,102 @@
             "factionIndex": 3,
             "minEnemyLevel": 35,
             "maxEnemyLevel": 55
+        },
+        {
+            "uniqueName": "SolNode850",
+            "name": "Raccolta del Legacyte",
+            "systemIndex": 23,
+            "systemName": "H\u00f6llvania",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 40,
+            "factionIndex": 9,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode851",
+            "name": "Desporatizzazione: Scaldra",
+            "systemIndex": 23,
+            "systemName": "H\u00f6llvania",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 2,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode852",
+            "name": "Desporatizzazione: Techrot",
+            "systemIndex": 23,
+            "systemName": "H\u00f6llvania",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 2,
+            "factionIndex": 9,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode853",
+            "name": "Sterminio: Scaldra",
+            "systemIndex": 23,
+            "systemName": "H\u00f6llvania",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 1,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode854",
+            "name": "Sterminio: Techrot",
+            "systemIndex": 23,
+            "systemName": "H\u00f6llvania",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 1,
+            "factionIndex": 9,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode855",
+            "name": "Confronto: Squadra VS Squadra",
+            "systemIndex": 23,
+            "systemName": "H\u00f6llvania",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 42,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode857",
+            "name": "Confronto: Squadra Singola",
+            "systemIndex": 23,
+            "systemName": "H\u00f6llvania",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 42,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode856",
+            "name": "Assassinio: Carro Armato H-09",
+            "systemIndex": 23,
+            "systemName": "H\u00f6llvania",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 0,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
         }
     ]
 }

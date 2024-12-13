@@ -8,6 +8,21 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Keys/1999Quest/1999QuestGoodEndKeyChain",
+            "name": "\u516d\u715e\u7d42\u7ae0",
+            "description": "\u4e00\u500b\u6a5f\u6703\u3002\u6539\u5beb\u6b77\u53f2\uff0c\u907f\u514d\u707d\u96e3\u3002",
+            "parentName": "",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Keys/1999Quest/1999QuestKeyChain",
+            "name": "\u516d\u715e",
+            "description": "\u6f02\u6cca\u8005\u92cc\u800c\u8d70\u96aa\u5c0d\u963f\u723e\u5e03\u96f7\u5e0c\u7279\uff0e\u6e90\u62d3\u6c0f\u5c55\u958b\u8ffd\u6355\uff0c\u9019\u5e36\u4ed6\u4f86\u5230 1999 \u5e74 12 \u6708 31 \u65e5\u7684\u970d\u723e\u74e6\u5c3c\u4e9e\u5e02\u3002\u5118\u7ba1\u6e05\u527f\u968a\u9762\u5c0d\u79d1\u8150\u8086\u8650\u800c\u5c01\u9396\u4e86\u6574\u5ea7\u57ce\u5e02\uff0c\u5176\u516c\u6c11\u9084\u662f\u60f3\u76e1\u8fa6\u6cd5\u4f86\u6b61\u6176\u5230\u4f86\u7684\u65b0\u5e74\u3002\u4f46\u9019\u4e00\u5207\u4ee5\u524d\u5c31\u767c\u751f\u904e\u2026\u2026\u800c\u4e14\u9084\u4ee5\u707d\u96e3\u544a\u7d42\u3002",
+            "parentName": "",
+            "codexSecret": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Keys/ApostasyQuest/ApostasyKeyChain",
             "name": "\u8b8a\u7bc0\u5e8f\u8a00",
             "description": "\u5b8c\u6210\u300aHarrow \u7684\u67b7\u9396\u300b\u7cfb\u5217\u4efb\u52d9\u5f8c\u524d\u53bb\u6aa2\u67e5\u4f60\u7684\u500b\u4eba\u623f\u9593\u3002",

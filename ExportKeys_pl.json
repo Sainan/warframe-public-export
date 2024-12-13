@@ -8,6 +8,21 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Keys/1999Quest/1999QuestGoodEndKeyChain",
+            "name": "Fina\u0142 Hex",
+            "description": "Szansa na zmian\u0119 historii i zapobiegni\u0119cie katastrofie.",
+            "parentName": "",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Keys/1999Quest/1999QuestKeyChain",
+            "name": "Hex",
+            "description": "Desperackie polowanie na Albrechta Entratiego doprowadzi\u0142o W\u0142\u00f3cz\u0119g\u0119 do miasta H\u00f6llvania w dniu 31 grudnia 1999 roku. Pomimo blokady Scaldry w obliczu zagro\u017cenia ze strony Techrotu, mieszka\u0144cy staraj\u0105 si\u0119 \u015bwi\u0119towa\u0107. Ale to wszystko ju\u017c si\u0119 kiedy\u015b wydarzy\u0142o... i zako\u0144czy\u0142o si\u0119 katastrof\u0105.",
+            "parentName": "",
+            "codexSecret": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Keys/ApostasyQuest/ApostasyKeyChain",
             "name": "Apostazja Prolog",
             "description": "Zbadaj swoje Pomieszczenie Mieszkalne po zako\u0144czeniu zadania Okowy Harrowa.",

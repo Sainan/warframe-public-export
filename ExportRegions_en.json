@@ -3011,6 +3011,102 @@
             "factionIndex": 3,
             "minEnemyLevel": 35,
             "maxEnemyLevel": 55
+        },
+        {
+            "uniqueName": "SolNode850",
+            "name": "Legacyte Harvest",
+            "systemIndex": 23,
+            "systemName": "H\u00f6llvania",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 40,
+            "factionIndex": 9,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode851",
+            "name": "Hell-Scrub: Scaldra",
+            "systemIndex": 23,
+            "systemName": "H\u00f6llvania",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 2,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode852",
+            "name": "Hell-Scrub: Techrot",
+            "systemIndex": 23,
+            "systemName": "H\u00f6llvania",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 2,
+            "factionIndex": 9,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode853",
+            "name": "Exterminate: Scaldra",
+            "systemIndex": 23,
+            "systemName": "H\u00f6llvania",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 1,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode854",
+            "name": "Exterminate: Techrot",
+            "systemIndex": 23,
+            "systemName": "H\u00f6llvania",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 1,
+            "factionIndex": 9,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode855",
+            "name": "Faceoff: Squad VS Squad",
+            "systemIndex": 23,
+            "systemName": "H\u00f6llvania",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 42,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode857",
+            "name": "Faceoff: Single Squad",
+            "systemIndex": 23,
+            "systemName": "H\u00f6llvania",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 42,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode856",
+            "name": "Assassinate: H-09 Tank",
+            "systemIndex": 23,
+            "systemName": "H\u00f6llvania",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 0,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
         }
     ]
 }

@@ -3011,6 +3011,102 @@
             "factionIndex": 3,
             "minEnemyLevel": 35,
             "maxEnemyLevel": 55
+        },
+        {
+            "uniqueName": "SolNode850",
+            "name": "\u041b\u0435\u0433\u0430\u0446\u0438\u0442\u043d\u0430\u044f \u0436\u0430\u0442\u0432\u0430",
+            "systemIndex": 23,
+            "systemName": "\u0425\u0451\u043b\u044c\u0432\u0430\u043d\u0438\u044f",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 40,
+            "factionIndex": 9,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode851",
+            "name": "\u0427\u0438\u0441\u0442\u0438\u043b\u0438\u0449\u0435: \u0421\u043a\u0430\u043b\u044c\u0434\u0440\u0430",
+            "systemIndex": 23,
+            "systemName": "\u0425\u0451\u043b\u044c\u0432\u0430\u043d\u0438\u044f",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 2,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode852",
+            "name": "\u0427\u0438\u0441\u0442\u0438\u043b\u0438\u0449\u0435: \u0422\u0435\u0445\u0440\u043e\u0442",
+            "systemIndex": 23,
+            "systemName": "\u0425\u0451\u043b\u044c\u0432\u0430\u043d\u0438\u044f",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 2,
+            "factionIndex": 9,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode853",
+            "name": "\u0417\u0430\u0447\u0438\u0441\u0442\u043a\u0430: \u0421\u043a\u0430\u043b\u044c\u0434\u0440\u0430",
+            "systemIndex": 23,
+            "systemName": "\u0425\u0451\u043b\u044c\u0432\u0430\u043d\u0438\u044f",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 1,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode854",
+            "name": "\u0417\u0430\u0447\u0438\u0441\u0442\u043a\u0430: \u0422\u0435\u0445\u0440\u043e\u0442",
+            "systemIndex": 23,
+            "systemName": "\u0425\u0451\u043b\u044c\u0432\u0430\u043d\u0438\u044f",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 1,
+            "factionIndex": 9,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode855",
+            "name": "\u041a\u043e\u043d\u0444\u0440\u043e\u043d\u0442\u0430\u0446\u0438\u044f: \u041e\u0442\u0440\u044f\u0434 \u043f\u0440\u043e\u0442\u0438\u0432 \u043e\u0442\u0440\u044f\u0434\u0430",
+            "systemIndex": 23,
+            "systemName": "\u0425\u0451\u043b\u044c\u0432\u0430\u043d\u0438\u044f",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 42,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode857",
+            "name": "\u041a\u043e\u043d\u0444\u0440\u043e\u043d\u0442\u0430\u0446\u0438\u044f: \u0421\u043e\u043b\u043e-\u043e\u0442\u0440\u044f\u0434",
+            "systemIndex": 23,
+            "systemName": "\u0425\u0451\u043b\u044c\u0432\u0430\u043d\u0438\u044f",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 42,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode856",
+            "name": "\u0423\u0431\u0438\u0439\u0441\u0442\u0432\u043e: \u0422\u0430\u043d\u043a \u041d-09",
+            "systemIndex": 23,
+            "systemName": "\u0425\u0451\u043b\u044c\u0432\u0430\u043d\u0438\u044f",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 0,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
         }
     ]
 }

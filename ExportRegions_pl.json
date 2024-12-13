@@ -3011,6 +3011,102 @@
             "factionIndex": 3,
             "minEnemyLevel": 35,
             "maxEnemyLevel": 55
+        },
+        {
+            "uniqueName": "SolNode850",
+            "name": "\u017bniwa Legacytu",
+            "systemIndex": 23,
+            "systemName": "H\u00f6llvania",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 40,
+            "factionIndex": 9,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode851",
+            "name": "Czy\u015bciec: Scaldra",
+            "systemIndex": 23,
+            "systemName": "H\u00f6llvania",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 2,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode852",
+            "name": "Czy\u015bciec: Techrot",
+            "systemIndex": 23,
+            "systemName": "H\u00f6llvania",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 2,
+            "factionIndex": 9,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode853",
+            "name": "Eksterminacja: Scaldra",
+            "systemIndex": 23,
+            "systemName": "H\u00f6llvania",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 1,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode854",
+            "name": "Eksterminacja: Techrot",
+            "systemIndex": 23,
+            "systemName": "H\u00f6llvania",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 1,
+            "factionIndex": 9,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode855",
+            "name": "Konfrontacja: Dru\u017cyna vs Dru\u017cyna",
+            "systemIndex": 23,
+            "systemName": "H\u00f6llvania",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 42,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode857",
+            "name": "Konfrontacja: Pojedyncza dru\u017cyna",
+            "systemIndex": 23,
+            "systemName": "H\u00f6llvania",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 42,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
+        },
+        {
+            "uniqueName": "SolNode856",
+            "name": "Zab\u00f3jstwo: Czo\u0142g H-09",
+            "systemIndex": 23,
+            "systemName": "H\u00f6llvania",
+            "nodeType": 0,
+            "masteryReq": 0,
+            "missionIndex": 0,
+            "factionIndex": 8,
+            "minEnemyLevel": 65,
+            "maxEnemyLevel": 70
         }
     ]
 }

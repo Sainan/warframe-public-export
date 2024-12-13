@@ -506,8 +506,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Restoratives/Consumable/AncientHealerBall",
-            "name": "Widmo Uzdrawiaj\u0105cego Staro\u017cytnego",
-            "description": "Tworzy Uzdrawiaj\u0105cego Staro\u017cytnego Eximusa, kt\u00f3ry walczy po Twojej stronie.",
+            "name": "Widmo Staro\u017cytnego Obro\u0144cy",
+            "description": "Tworzy Staro\u017cytnego Obro\u0144c\u0119 Eximusa, kt\u00f3ry walczy po Twojej stronie.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/SummonNpcItem"
         },
@@ -1108,7 +1108,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/Restoratives/MotorcycleSummon",
-            "name": "Przywo\u0142anie Atomicyklu",
+            "name": "Przywo\u0142anie Atomicykla",
             "description": "Przywo\u0142uje Atomicykl do u\u017cytku w 1999 roku i podczas misji w trybie swobodnej eksploracji.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/Restorative"

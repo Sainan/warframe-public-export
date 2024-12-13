@@ -506,8 +506,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Restoratives/Consumable/AncientHealerBall",
-            "name": "\uc5d0\uc778\uc158\ud2b8 \ud790\ub7ec \uc2a4\ud399\ud130",
-            "description": "\ub2f9\uc2e0\uc744 \uc704\ud574 \uc2f8\uc6cc\uc904 \uc5d0\uc778\uc158\ud2b8 \ud790\ub7ec \uc5d1\uc2dc\ubb34\uc2a4\ub97c \ubc30\uce58\ud569\ub2c8\ub2e4.",
+            "name": "\uc5d0\uc778\uc158\ud2b8 \ud504\ub85c\ud14d\ud130 \uc2a4\ud399\ud130",
+            "description": "\ub2f9\uc2e0\uc744 \uc704\ud574 \uc2f8\uc6cc\uc904 \uc5d0\uc778\uc158\ud2b8 \ud504\ub85c\ud14d\ud130 \uc5d1\uc2dc\ubb34\uc2a4\ub97c \ubc30\uce58\ud569\ub2c8\ub2e4.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/SummonNpcItem"
         },

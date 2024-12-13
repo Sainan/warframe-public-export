@@ -279,6 +279,20 @@
             "excludeFromCodex": true
         },
         {
+            "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseRetro",
+            "name": "",
+            "description": "Styl kursora podczas u\u017cywania myszy.",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseThrowback",
+            "name": "",
+            "description": "Styl kursora podczas u\u017cywania myszy.",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseYareli",
             "name": "",
             "description": "Styl kursora podczas u\u017cywania myszy.",
@@ -1983,6 +1997,13 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/Emotes/Hardmode1999Emote",
+            "name": "\u015acie\u017cka Stali: 1999",
+            "description": "Przyznawany za uko\u0144czenie \u015acie\u017cki Stali: 1999.",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/Emotes/HardmodeCeresEmote",
             "name": "\u015acie\u017cka Stali: Ceres",
             "description": "Przyznawany za uko\u0144czenie \u015acie\u017cki Stali: Ceres.",
@@ -2175,6 +2196,42 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryAmirEmote",
+            "name": "Gest Gemini Amira",
+            "description": "Prze\u0142\u0105czaj si\u0119 mi\u0119dzy Sk\u00f3rk\u0105 Volta i Sk\u00f3rk\u0105 Gemini Amira za pomoc\u0105 Gestu Gemini Amira, nawet w trakcie misji.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryAoiEmote",
+            "name": "Gest Gemini Aoi",
+            "description": "Prze\u0142\u0105czaj si\u0119 mi\u0119dzy Sk\u00f3rk\u0105 Mag i Sk\u00f3rk\u0105 Gemini Aoi za pomoc\u0105 Gestu Gemini Aoi, nawet w trakcie misji.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryArthurEmote",
+            "name": "Gest Gemini Artura",
+            "description": "Prze\u0142\u0105czaj si\u0119 mi\u0119dzy Sk\u00f3rk\u0105 Excalibura i Sk\u00f3rk\u0105 Gemini Artura za pomoc\u0105 Gestu Gemini Artura, nawet w trakcie misji.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryEleanorEmote",
+            "name": "Gest Gemini Eleanor",
+            "description": "Prze\u0142\u0105czaj si\u0119 mi\u0119dzy Sk\u00f3rk\u0105 Nyx i Sk\u00f3rk\u0105 Gemini Eleanor za pomoc\u0105 Gestu Gemini Eleanor, nawet w trakcie misji.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryLettieEmote",
+            "name": "Gest Gemini Lettie",
+            "description": "Prze\u0142\u0105czaj si\u0119 mi\u0119dzy Sk\u00f3rk\u0105 Trinity i Sk\u00f3rk\u0105 Gemini Lettie za pomoc\u0105 Gestu Gemini Lettie, nawet w trakcie misji.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryQuincyEmote",
+            "name": "Gest Gemini Quincy'ego",
+            "description": "Prze\u0142\u0105czaj si\u0119 mi\u0119dzy Sk\u00f3rk\u0105 Cyte-09 i Sk\u00f3rk\u0105 Gemini Quincy'ego za pomoc\u0105 Gestu Gemini Quincy'ego, nawet w trakcie misji.",
+            "codexSecret": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/Emotes/LegionSaluteEmote",
             "name": "Wilcze Pozdrowienie",
             "description": "Poprzez to powitanie, cz\u0142onkowie watahy mog\u0105 si\u0119 \u0142atwo rozpozna\u0107.",
@@ -2286,7 +2343,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/Emotes/ThousandDaysEmote",
             "name": "Tysi\u0105c Dni",
-            "description": "[PH] Awarded to Tenno who have shown unyielding dedication.",
+            "description": "Przyznawana Tenno, kt\u00f3rzy wykazali si\u0119 nieugi\u0119tym oddaniem.",
             "codexSecret": false
         },
         {
@@ -2662,7 +2719,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageBRCommunityDiscord",
-            "name": "Glif Brazylijskiej Spo\u0142eczno\u015bci Na Discord",
+            "name": "Glif Brazylijskiej Spo\u0142eczno\u015bci na Discord",
             "description": "Glif dla Twojego profilu.",
             "codexSecret": true
         },
@@ -2931,7 +2988,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageCommunityDiscord",
-            "name": "Glif Spo\u0142eczno\u015bci Warframe na Discord",
+            "name": "Glif Spo\u0142eczno\u015bci: Warframe na Discord",
             "description": "Glif dla Twojego profilu.",
             "codexSecret": true
         },
@@ -3710,7 +3767,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageKoreanCommunityDiscord",
-            "name": "Glif Korea\u0144skiej Spo\u0142eczno\u015bci Na Discord",
+            "name": "Glif Korea\u0144skiej Spo\u0142eczno\u015bci na Discord",
             "description": "Glif dla Twojego profilu.",
             "codexSecret": false
         },
@@ -5214,6 +5271,66 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectA",
+            "name": "Glif Pikselowa Perfekcja Jillian",
+            "description": "Glif przedstawiaj\u0105cy spikselowan\u0105 Jillian Killian.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectB",
+            "name": "Glif Pikselowa Perfekcja Lillian",
+            "description": "Glif przedstawiaj\u0105cy spikselowan\u0105 Lillian Killian.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectC",
+            "name": "Glif Pikselowa Perfekcja Anny",
+            "description": "Glif przedstawiaj\u0105cy spikselowan\u0105 Ann\u0119 Ki.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectD",
+            "name": "Glif Pikselowa Perfekcja Zbir\u00f3w",
+            "description": "Glif przedstawiaj\u0105cy rozpikselowanego zbira z G.O.B.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPortraitJillian",
+            "name": "Glif Pikselowy Portret Jillian",
+            "description": "Glif przedstawiaj\u0105cy portret Jillian Killian.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPortraitLillian",
+            "name": "Glif Pikselowy Portret Lillian",
+            "description": "Glif przedstawiaj\u0105cy portret Lillian Killian.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerA",
+            "name": "Glif Caliber Chicks 2",
+            "description": "Glif przedstawiaj\u0105cy logo Caliber Chicks 2.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerB",
+            "name": "Glif Jillian Killian",
+            "description": "Glif przedstawiaj\u0105cy Jillian Killian.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerC",
+            "name": "Glif Lillian Killian",
+            "description": "Glif przedstawiaj\u0105cy Lillian Killian.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerD",
+            "name": "Glif Anny Ki",
+            "description": "Glif przedstawiaj\u0105cy Ann\u0119 Ki.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageBaruukPrimeBright",
             "name": "Glif Baruuk Prime \u2014 Jasny",
             "description": "Glif przedstawiaj\u0105cy Warframe'a Baruuk Prime na jasnym tle.",
@@ -5445,6 +5562,18 @@
             "excludeFromCodex": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphA",
+            "name": "Glif Szczodrego W\u0119\u017ca",
+            "description": "Glif dla Twojego profilu.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphB",
+            "name": "Glif Yisi",
+            "description": "Glif dla Twojego profilu.",
+            "codexSecret": false
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageChillingGlyphFour",
             "name": "Glif Wi\u0119cej dla Mumii",
             "description": "Przera\u017caj\u0105cy Glif dla Twojego profilu.",
@@ -5476,25 +5605,25 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageDogDays2024GrendelGlyph",
-            "name": "Glif Spo\u0142eczno\u015bci Kaniku\u0142y \u2014 Grendel",
+            "name": "Glif Spo\u0142eczno\u015bci: Kaniku\u0142y \u2014 Grendel",
             "description": "Glif Spo\u0142eczno\u015bci autorstwa CheruuAx przedstawiaj\u0105cy ucztuj\u0105cego Grendela.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageDogDays2024LavosGlyph",
-            "name": "Glif Spo\u0142eczno\u015bci Kaniku\u0142y \u2014 Lavos",
+            "name": "Glif Spo\u0142eczno\u015bci: Kaniku\u0142y \u2014 Lavos",
             "description": "Glif Spo\u0142eczno\u015bci autorstwa CheruuAx przedstawiaj\u0105cy Lavosa z orze\u017awiaj\u0105cym napojem.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageDogDays2024VorunaGlyph",
-            "name": "Glif Spo\u0142eczno\u015bci Kaniku\u0142y \u2014 Voruna",
+            "name": "Glif Spo\u0142eczno\u015bci: Voruna",
             "description": "Glif Spo\u0142eczno\u015bci autorstwa CheruuAx przedstawiaj\u0105cy Vorun\u0119 i jej watah\u0119.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageDogDays2024YareliGlyph",
-            "name": "Glif Spo\u0142eczno\u015bci Kaniku\u0142y \u2014 Yareli",
+            "name": "Glif Spo\u0142eczno\u015bci: Kaniku\u0142y \u2014 Yareli",
             "description": "Glif Spo\u0142eczno\u015bci autorstwa CheruuAx przedstawiaj\u0105cy Yareli walcz\u0105c\u0105 ze skwarem.",
             "codexSecret": true
         },
@@ -5692,6 +5821,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/Cyte09SupporterGlyph",
+            "name": "Glif Cyte-09 Deadeye",
+            "description": "Glif dla Twojego profilu.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageBaruukDeluxe",
             "name": "Glif Baruuk Doan",
             "description": "Glif przedstawiaj\u0105cy Warframe Baruuk Doan.",
@@ -5774,6 +5909,30 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageDagathDark",
             "name": "Glif Dagath \u2014 Ciemny",
             "description": "Glif przedstawiaj\u0105cy Warframe Dagath na ciemnym tle.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusAltBright",
+            "name": "Glif Cyte-09 Espricor \u2014 Jasny",
+            "description": "Glif przedstawiaj\u0105cy Warframe'a Cyte-09 Espricor na jasnym tle.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusAltDark",
+            "name": "Glif Cyte-09 Espricor \u2014 Ciemny",
+            "description": "Glif przedstawiaj\u0105cy Warframe'a Cyte-09 Espricor na ciemnym tle.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusBright",
+            "name": "Glif Cyte-09 \u2014 Jasny",
+            "description": "Glif przedstawiaj\u0105cy Warframe'a Cyte-09 na jasnym tle.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusDark",
+            "name": "Glif Cyte-09 \u2014 Ciemny",
+            "description": "Glif przedstawiaj\u0105cy Warframe'a Cyte-09 na ciemnym tle.",
             "codexSecret": true
         },
         {
@@ -6103,7 +6262,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAlbrechtHatCommunity",
-            "name": "Glif Spo\u0142eczno\u015bci Czapki Albrechta",
+            "name": "Glif Spo\u0142eczno\u015bci: Czapki Albrechta",
             "description": "Glif przedstawiaj\u0105cy Czapk\u0119 Albrechta Entratiego, zaprojektowany przez SirEnariona.",
             "codexSecret": true
         },
@@ -6199,7 +6358,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBigBytesPizzaGlyph",
-            "name": "Glif Pizzy Big Bytes",
+            "name": "Glif Big Bytes Pizza",
             "description": "Glif dla Twojego profilu.",
             "codexSecret": true
         },
@@ -6230,127 +6389,133 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityCaliban",
-            "name": "Glif Spo\u0142eczno\u015bci Caliban",
+            "name": "Glif Spo\u0142eczno\u015bci: Caliban",
             "description": "Glif przedstawiaj\u0105cy Calibana, wykonany w stylu artysty spo\u0142eczno\u015bci LeoDoodling.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityCavaleroGraffiti",
-            "name": "Glif Spo\u0142eczno\u015bci Graffiti Cavalero",
+            "name": "Glif Spo\u0142eczno\u015bci: Graffiti Cavalero",
             "description": "Glif przedstawiaj\u0105cy Cavalero w stylu graffiti, stworzony przez DarikaArt.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityChroma",
-            "name": "Glif Spo\u0142eczno\u015bci Chroma",
+            "name": "Glif Spo\u0142eczno\u015bci: Chroma",
             "description": "Glif spo\u0142eczno\u015bciowy przedstawiaj\u0105cy Chroma w stylu artysty StudioCyen.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityClemComic",
-            "name": "Glif Spo\u0142eczno\u015bci Komiksowy Clem",
+            "name": "Glif Spo\u0142eczno\u015bci: Komiksowy Clem",
             "description": "Glif przedstawiaj\u0105cy Clema w stylu graffiti, stworzony przez DasterCreations.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityDagath",
-            "name": "Glify Spo\u0142eczno\u015bci Dagath",
+            "name": "Glify Spo\u0142eczno\u015bci: Dagath",
             "description": "Glif przedstawiaj\u0105cy Dagath, wykonany w stylu artysty spo\u0142eczno\u015bci Zarionis.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityEquinox",
-            "name": "Glif Spo\u0142eczno\u015bci Equinox",
+            "name": "Glif Spo\u0142eczno\u015bci: Equinox",
             "description": "Glif przedstawiaj\u0105cy Equinox, wykonany w stylu artysty spo\u0142eczno\u015bci CalamityDeath.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityGaruda",
-            "name": "Glif Spo\u0142eczno\u015bci Garuda",
+            "name": "Glif Spo\u0142eczno\u015bci: Garuda",
             "description": "Glif przedstawiaj\u0105cy Garud\u0119, wykonany w stylu artysty spo\u0142eczno\u015bci ibumuc.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityHarrow",
-            "name": "Glif Spo\u0142eczno\u015bci Harrow",
+            "name": "Glif Spo\u0142eczno\u015bci: Harrow",
             "description": "Glif przedstawiaj\u0105cy Harrowa, wykonany w stylu artysty spo\u0142eczno\u015bci Zarionis.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityKullervo",
-            "name": "Glif Spo\u0142eczno\u015bci Kullervo",
+            "name": "Glif Spo\u0142eczno\u015bci: Kullervo",
             "description": "Glif przedstawiaj\u0105cy Kullervo, wykonany w stylu artysty spo\u0142eczno\u015bci UpsideDownSmore.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityLittleDuckGraffiti",
-            "name": "Glif Spo\u0142eczno\u015bci Graffiti Kaczuszki",
+            "name": "Glif Spo\u0142eczno\u015bci: Graffiti Kaczuszki",
             "description": "Glif przedstawiaj\u0105cy Kaczuszk\u0119 w stylu graffiti, stworzony przez DarikaArt.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityMotherGraffiti",
-            "name": "Glif Spo\u0142eczno\u015bci Graffiti Matki",
+            "name": "Glif Spo\u0142eczno\u015bci: Graffiti Matki",
             "description": "Glif przedstawiaj\u0105cy Matk\u0119 w stylu graffiti, stworzony przez DarikaArt.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityQorvex",
-            "name": "Glif Spo\u0142eczno\u015bci Qorvex",
+            "name": "Glif Spo\u0142eczno\u015bci: Qorvex",
             "description": "Glif przedstawiaj\u0105cy Qorvexa, wykonany w stylu artysty spo\u0142eczno\u015bci Veroz.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityRevenant",
-            "name": "Glif Spo\u0142eczno\u015bci Revenant",
+            "name": "Glif Spo\u0142eczno\u015bci: Revenant",
             "description": "Glif przedstawiaj\u0105cy Revenanta, wykonany w stylu artysty spo\u0142eczno\u015bci Kirdy.",
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaum1999Mug",
+            "name": "Glif Spo\u0142eczno\u015bci: Kubek Tennobaum 1999",
+            "description": "Glif przedstawiaj\u0105cy kubek gor\u0105cej czekolady z piankami z 1999, stworzony przez Cyanfacade.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumFrost",
-            "name": "Glif Spo\u0142eczno\u015bci Frost Tennobaum",
+            "name": "Glif Spo\u0142eczno\u015bci: Frost Tennobaum",
             "description": "Glif przedstawiaj\u0105cy Frosta w kuli \u015bnie\u017cnej, zaprojektowany przez Nelosart.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumGrimoire",
-            "name": "Glif Spo\u0142eczno\u015bci Grymuar Tennobaum",
+            "name": "Glif Spo\u0142eczno\u015bci: Grymuar Tennobaum",
             "description": "Glif przedstawiaj\u0105cy Albrechta i \u015bwi\u0105teczny Grymuar, stworzony przez Cyanfacade.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumKubrow",
-            "name": "Glif Spo\u0142eczno\u015bci Kubrow Tennobaum",
+            "name": "Glif Spo\u0142eczno\u015bci: Kubrow Tennobaum",
             "description": "Glif przedstawiaj\u0105cy Kubrowa \u0142api\u0105cego p\u0142atek \u015bniegu na nosie, zaprojektowany przez Nelosart.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumRelic",
-            "name": "Glif Spo\u0142eczno\u015bci Relikt Tennobaum",
+            "name": "Glif Spo\u0142eczno\u015bci: Relikt Tennobaum",
             "description": "Glif przedstawiaj\u0105cy \u015bwi\u0105teczny relikt, stworzony przez Cyanfacade.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumVauban",
-            "name": "Glif Spo\u0142eczno\u015bci Vauban Tennobaum",
+            "name": "Glif Spo\u0142eczno\u015bci: Vauban Tennobaum",
             "description": "Glif przedstawiaj\u0105cy Vaubana rzucaj\u0105cego \u015bnie\u017ck\u0105, zaprojektowany przez Nelosart.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumVulpaphyla",
-            "name": "Glif Spo\u0142eczno\u015bci Lisafila Tennobaum",
+            "name": "Glif Spo\u0142eczno\u015bci: Lisafila Tennobaum",
             "description": "Glif przedstawiaj\u0105cy zamro\u017con\u0105 Lisafil\u0119, zaprojektowany przez Nelosart.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumZephyr",
-            "name": "Glif Spo\u0142eczno\u015bci Zephyr Tennobaum",
+            "name": "Glif Spo\u0142eczno\u015bci: Zephyr Tennobaum",
             "description": "Glif przedstawiaj\u0105cy Zephyr w ciep\u0142ym p\u0142aszczu, zaprojektowany przez Nelosart.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTitania",
-            "name": "Glif Spo\u0142eczno\u015bci Titania",
+            "name": "Glif Spo\u0142eczno\u015bci: Titania",
             "description": "Glif przedstawiaj\u0105cy Titani\u0119, wykonany w stylu artysty spo\u0142eczno\u015bci Ritens.",
             "codexSecret": true
         },
@@ -6487,6 +6652,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDJRoMGlyph",
+            "name": "Glif Spo\u0142eczno\u015bci: DJ RoM z On-lyne",
+            "description": "Glif przedstawiaj\u0105cy cz\u0142onka On-lyne, DJ RoMa, w stylu artysty spo\u0142eczno\u015bci death_ma666ots.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDanteGlyph",
             "name": "Glif Rozkoszy Dantego",
             "description": "Glif przedstawiaj\u0105cy Dantego oddaj\u0105cego si\u0119 jednej z jego ulubionych rozrywek.",
@@ -6504,6 +6675,12 @@
             "name": "Glif Tiberon Obsydianowy",
             "description": "Glif dla Twojego profilu.",
             "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDrillbitGlyph",
+            "name": "Glif Spo\u0142eczno\u015bci: Drillbit z On-lyne",
+            "description": "Glif przedstawiaj\u0105cy cz\u0142onka On-lyne, Drillbita, w stylu artysty spo\u0142eczno\u015bci death_ma666ots.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDrippy",
@@ -6588,26 +6765,32 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGamingDogDaysGrendel",
-            "name": "Glif Spo\u0142eczno\u015bci Kaniku\u0142y \u2014 Grendel",
+            "name": "Glif Spo\u0142eczno\u015bci: Kaniku\u0142y \u2014 Grendel",
             "description": "Glif Spo\u0142eczno\u015bci autorstwa CheruuAx przedstawiaj\u0105cy ucztuj\u0105cego Grendela.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGamingDogDaysLavos",
-            "name": "Glif Spo\u0142eczno\u015bci Kaniku\u0142y \u2014 Lavos",
+            "name": "Glif Spo\u0142eczno\u015bci: Kaniku\u0142y \u2014 Lavos",
             "description": "Glif Spo\u0142eczno\u015bci autorstwa CheruuAx przedstawiaj\u0105cy Lavosa z orze\u017awiaj\u0105cym napojem.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGamingDogDaysVoruna",
-            "name": "Glif Spo\u0142eczno\u015bci Kaniku\u0142y \u2014 Voruna",
+            "name": "Glif Spo\u0142eczno\u015bci: Voruna",
             "description": "Glif Spo\u0142eczno\u015bci autorstwa CheruuAx przedstawiaj\u0105cy Vorun\u0119 i jej watah\u0119.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGamingDogDaysYareli",
-            "name": "Glif Spo\u0142eczno\u015bci Kaniku\u0142y \u2014 Yareli",
+            "name": "Glif Spo\u0142eczno\u015bci: Kaniku\u0142y \u2014 Yareli",
             "description": "Glif Spo\u0142eczno\u015bci autorstwa CheruuAx przedstawiaj\u0105cy Yareli walcz\u0105c\u0105 ze skwarem.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGaussAccoladeGlyph",
+            "name": "Glif Odznaczenia Gaussa",
+            "description": "Glif symbolizuj\u0105cy wyczyn si\u0142y autorstwa artysty spo\u0142eczno\u015bci Anavi_Ivy.",
             "codexSecret": true
         },
         {
@@ -7097,6 +7280,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageHarddriveGlyph",
+            "name": "Glif Spo\u0142eczno\u015bci: Harddrive z On-lyne",
+            "description": "Glif przedstawiaj\u0105cy cz\u0142onka On-lyne, Harddrive'a, w stylu artysty spo\u0142eczno\u015bci death_ma666ots.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageHarrowAction",
             "name": "Glif Harrow w akcji",
             "description": "Glif dla Twojego profilu.",
@@ -7119,6 +7308,42 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInarosScarabs",
             "name": "Glif Skarabeusz Varna",
             "description": "Glif dla Twojego profilu.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedDJRoMGlyph",
+            "name": "Glif Spo\u0142eczno\u015bci: DJ RoM Plagi z On-lyne",
+            "description": "Glif przedstawiaj\u0105cy cz\u0142onka On-lyne Plagi, DJ RoMa, w stylu artysty spo\u0142eczno\u015bci death_ma666ots.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedDrillbitGlyph",
+            "name": "Glif Spo\u0142eczno\u015bci: Drillbit Plagi z On-lyne",
+            "description": "Glif przedstawiaj\u0105cy cz\u0142onka On-lyne Plagi, Drillbita, w stylu artysty spo\u0142eczno\u015bci death_ma666ots.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedHarddriveGlyph",
+            "name": "Glif Spo\u0142eczno\u015bci: Harddrive Plagi z On-lyne",
+            "description": "Glif przedstawiaj\u0105cy cz\u0142onka On-lyne Plagi, Harddrive'a, w stylu artysty spo\u0142eczno\u015bci death_ma666ots.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedLogoGlyph",
+            "name": "Glif Spo\u0142eczno\u015bci: Logo On-lyne Plagi",
+            "description": "Glif przedstawiaj\u0105cy logo On-lyne Plagi w stylu artysty spo\u0142eczno\u015bciowego death_ma666ots.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedPacketGlyph",
+            "name": "Glif Spo\u0142eczno\u015bci: Packet Plagi z On-lyne",
+            "description": "Glif przedstawiaj\u0105cy cz\u0142onka On-lyne Plagi, Packeta, w stylu artysty spo\u0142eczno\u015bci death_ma666ots.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedZekeGlyph",
+            "name": "Glif Spo\u0142eczno\u015bci: Zeke Plagi z On-lyne",
+            "description": "Glif przedstawiaj\u0105cy cz\u0142onka On-lyne Plagi, Zeke'a, w stylu artysty spo\u0142eczno\u015bci death_ma666ots.",
             "codexSecret": true
         },
         {
@@ -7182,6 +7407,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageJadeAccoladeGlyph",
+            "name": "Glif Odznaczenia Jade",
+            "description": "Glif symbolizuj\u0105cy wyczyn si\u0142y autorstwa artysty spo\u0142eczno\u015bci Anavi_Ivy.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageJadeInActionGlyph",
             "name": "Glif Jade w akcji",
             "description": "Glif dla Twojego profilu.",
@@ -7227,6 +7458,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLettieAccoladeGlyph",
             "name": "Glif Odznaczenia Lettie",
             "description": "Glif symbolizuj\u0105cy wyczyn si\u0142y autorstwa artysty spo\u0142eczno\u015bci Carla Tabory.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLogoGlyph",
+            "name": "Glif Spo\u0142eczno\u015bci: Promienne Logo On-lyne",
+            "description": "Glif przedstawiaj\u0105cy promienne logo On-lyne w stylu artysty spo\u0142eczno\u015bciowego death_ma666ots.",
             "codexSecret": true
         },
         {
@@ -7300,7 +7537,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageManInTheWallCommunity",
-            "name": "Glif Spo\u0142eczno\u015bci Pana ze \u015aciany",
+            "name": "Glif Spo\u0142eczno\u015bci: Pana ze \u015aciany",
             "description": "Glif, przedstawiaj\u0105cy u\u015bmiech Pana ze \u015aciany, zaprojektowany przez death_ma666ots.",
             "codexSecret": true
         },
@@ -7308,6 +7545,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMesaEnamel",
             "name": "Glif Obsesyjnej Mesa",
             "description": "Glif dla Twojego profilu.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMirageAccoladeGlyph",
+            "name": "Glif Odznaczenia Mirage",
+            "description": "Glif symbolizuj\u0105cy wyczyn si\u0142y autorstwa artysty spo\u0142eczno\u015bci Anavi_Ivy.",
             "codexSecret": true
         },
         {
@@ -7449,9 +7692,51 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePacketGlyph",
+            "name": "Glif Spo\u0142eczno\u015bci: Packet z On-lyne",
+            "description": "Glif przedstawiaj\u0105cy cz\u0142onka On-lyne, Packeta, w stylu artysty spo\u0142eczno\u015bci death_ma666ots.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePartyCDGlyph",
             "name": "Glif Imprezowej p\u0142yty CD",
             "description": "Glif dla Twojego profilu.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelAmir",
+            "name": "Glif Pikselowy Amir",
+            "description": "Uczcij charakterystyczny styl z 1999 tym Glifem przedstawiaj\u0105cym Amira, protoframe'a Volta!",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelAoi",
+            "name": "Glif Pikselowa Aoi",
+            "description": "Uczcij charakterystyczny styl z 1999 tym Glifem przedstawiaj\u0105cym Aoi, protoframe Mag!",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelArthur",
+            "name": "Glif Pikselowy Artur",
+            "description": "Uczcij charakterystyczny styl z 1999 tym Glifem przedstawiaj\u0105cym Artura, protoframe'a Excalibura!",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelEleanor",
+            "name": "Glif Pikselowa Eleanor",
+            "description": "Uczcij charakterystyczny styl z 1999 tym Glifem przedstawiaj\u0105cym Eleanor, protoframe Nyx!",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelLettie",
+            "name": "Glif Pikselowa Lettie",
+            "description": "Uczcij charakterystyczny styl z 1999 tym Glifem przedstawiaj\u0105cym Lettie, protoframe Trinity!",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelQuincy",
+            "name": "Glif Pikselowy Quincy",
+            "description": "Uczcij charakterystyczny styl z 1999 tym Glifem przedstawiaj\u0105cym Quincy'ego, protoframe'a Cyte-09!",
             "codexSecret": true
         },
         {
@@ -7464,6 +7749,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePrideGlyph",
             "name": "Glif Dumy III",
             "description": "Glif na cze\u015b\u0107 Dumy. Zaprojektowany przez NimkeArts.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageProteaAccoladeGlyph",
+            "name": "Glif Odznaczenia Protei",
+            "description": "Glif symbolizuj\u0105cy wyczyn si\u0142y autorstwa artysty spo\u0142eczno\u015bci Anavi_Ivy.",
             "codexSecret": true
         },
         {
@@ -7504,6 +7795,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSevagothAccoladeGlyph",
+            "name": "Glif Odznaczenia Sevagotha",
+            "description": "Glif symbolizuj\u0105cy wyczyn si\u0142y autorstwa artysty spo\u0142eczno\u015bci Anavi_Ivy.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSevagothAction",
             "name": "Glif Sevagoth w akcji",
             "description": "Glif dla Twojego profilu.",
@@ -7514,8 +7811,7 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageStalkerAction",
             "name": "Glif Stalker w akcji",
             "description": "Glif dla Twojego profilu.",
-            "codexSecret": true,
-            "excludeFromCodex": true
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageStarDaysCervulitePat",
@@ -7546,6 +7842,30 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennoVIP",
             "name": "Glif Tenno VIP East",
             "description": "Glif dla bardzo wa\u017cnego Tenno.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumAoi",
+            "name": "Glif Spo\u0142eczno\u015bci: Aoi Tennobaum",
+            "description": "Glif przedstawiaj\u0105cy Jade robi\u0105c\u0105 anio\u0142a na \u015bniegu, stworzony przez alcyonsa.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumCozyStalker",
+            "name": "Glif Spo\u0142eczno\u015bci: Przytulny Stalker Tennobaum",
+            "description": "Glif przedstawiaj\u0105cy Stalkera w przytulnym swetrze, stworzony przez alcyonsa.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumJade",
+            "name": "Glif Spo\u0142eczno\u015bci: Jade Tennobaum",
+            "description": "Glif przedstawiaj\u0105cy Jade robi\u0105c\u0105 anio\u0142a na \u015bniegu, stworzony przez alcyonsa.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumManintheCookie",
+            "name": "Glif Spo\u0142eczno\u015bci: M\u0119\u017cczyzna w ciasteczku Tennobaum",
+            "description": "Glif przedstawiaj\u0105cy piernikowe ciasteczko Mw\u015a, stworzony przez alcyonsa.",
             "codexSecret": true
         },
         {
@@ -7709,6 +8029,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageValkyrAction",
             "name": "Glif Valkyr w akcji",
             "description": "Glif dla Twojego profilu.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageVaubanAccoladeGlyph",
+            "name": "Glif Odznaczenia Vaubana",
+            "description": "Glif symbolizuj\u0105cy wyczyn si\u0142y autorstwa artysty spo\u0142eczno\u015bci Anavi_Ivy.",
             "codexSecret": true
         },
         {
@@ -7932,6 +8258,12 @@
             "excludeFromCodex": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageZekeGlyph",
+            "name": "Glif Spo\u0142eczno\u015bci: Zeke z On-lyne",
+            "description": "Glif przedstawiaj\u0105cy cz\u0142onka On-lyne, Zeke'a, w stylu artysty spo\u0142eczno\u015bci death_ma666ots.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/CNY2023RabbitGlyph",
             "name": "Glif Guimao",
             "description": "Glif dla Twojego profilu.",
@@ -7952,23 +8284,17 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Community10YearAnniversaryGlyph",
-            "name": "Glif Spo\u0142eczno\u015bci 10-tej Rocznicy",
+            "name": "Glif Spo\u0142eczno\u015bci: 10. Rocznica",
             "description": "Glif upami\u0119tniaj\u0105cy 10-lecie Warframe, stworzony przez kedemel.",
             "codexSecret": false,
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Community10YearOrdisGlyph",
-            "name": "Glif Spo\u0142eczno\u015bci Gadatliwy Ordis",
+            "name": "Glif Spo\u0142eczno\u015bci: Gadatliwy Ordis",
             "description": "Glif upami\u0119tniaj\u0105cy 10-lecie Warframe, stworzony przez Searyn.",
             "codexSecret": false,
             "excludeFromCodex": true
-        },
-        {
-            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/CommunityTennobaum1999Mug",
-            "name": "Glif Spo\u0142eczno\u015bci Kubka Tennobaum 1999",
-            "description": "Glif przedstawiaj\u0105cy kubek gor\u0105cej czekolady z piankami z 1999, stworzony przez Cyanfacade.",
-            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/DeimosRevolverGlyph",
@@ -8168,7 +8494,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageBombastineCommunity",
-            "name": "Glif Spo\u0142eczno\u015bci Bombastine",
+            "name": "Glif Spo\u0142eczno\u015bci: Bombastine",
             "description": "Designerski glif zaprojektowany przez Joriale.",
             "codexSecret": false
         },
@@ -8699,7 +9025,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageGaraPrimeCommunity",
-            "name": "Glif Spo\u0142eczno\u015bci Gara Prime",
+            "name": "Glif Spo\u0142eczno\u015bci: Gara Prime",
             "description": "Designerski glif zaprojektowany przez SpaceWaifu.",
             "codexSecret": true,
             "excludeFromCodex": true
@@ -10375,7 +10701,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageValaCommunity",
-            "name": "Glif Spo\u0142eczno\u015bci Vala",
+            "name": "Glif Spo\u0142eczno\u015bci: Vala",
             "description": "Designerski glif zaprojektowany przez FrostyNovaPrime.",
             "codexSecret": true,
             "excludeFromCodex": true
@@ -10617,7 +10943,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageYareliCommunity",
-            "name": "Glif Spo\u0142eczno\u015bci Yareli",
+            "name": "Glif Spo\u0142eczno\u015bci: Yareli",
             "description": "Designerski glif zaprojektowany przez Joriale.",
             "codexSecret": true,
             "excludeFromCodex": true
@@ -10692,7 +11018,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/KahlCommunityGlyph",
-            "name": "Glif Spo\u0142eczno\u015bci Kahl-175",
+            "name": "Glif Spo\u0142eczno\u015bci: Kahl-175",
             "description": "Wykonany przez spo\u0142eczno\u015b\u0107 fanart Glif przedstawiaj\u0105cy Kahla-175 w Veilbreaker. Praca stworzona przez MissMagicka.",
             "codexSecret": true
         },
@@ -28667,6 +28993,20 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/UnlockFrumentariusAgile",
+            "name": "Animacje Cyte-09: Zwinne",
+            "description": "Ten przedmiot pozwala Ci u\u017cywa\u0107 zestawu zwinnych animacji Cyte-09 w ka\u017cdym innym Warframe'ie.",
+            "codexSecret": true,
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/UnlockFrumentariusNoble",
+            "name": "Animacje Cyte-09: Dumne",
+            "description": "Ten przedmiot pozwala Ci u\u017cywa\u0107 zestawu dumnych animacji Cyte-09 w ka\u017cdym innym Warframe'ie.",
+            "codexSecret": true,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Garuda/UnlockGarudaAgile",
             "name": "Animacje Garuda: Zwinne",
             "description": "Ten przedmiot pozwala Ci u\u017cywa\u0107 zestawu zwinnych animacji Garudy w ka\u017cdym innym Warframe'ie.",
@@ -28931,6 +29271,12 @@
             "name": "Parallax: Sk\u00f3rka Albodix",
             "description": "Statki Parallax by\u0142y ozdobione wzorami Albodix, kiedy jego pasa\u017cerowie opu\u015bcili Zarimana, by pozna\u0107 ciemne i zimne regiony Tau.",
             "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Liset/1999TankHoodOrnament",
+            "name": "Sumdali Dzia\u0142ka Apex H-09",
+            "description": "Tl\u0105ce si\u0119 dzia\u0142ko czo\u0142gu Apex H-09 Scaldry ozdobi Tw\u00f3j Statek desantowy.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Liset/ConquestHoodOrnament",

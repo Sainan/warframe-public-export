@@ -279,6 +279,20 @@
             "excludeFromCodex": true
         },
         {
+            "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseRetro",
+            "name": "",
+            "description": "Un style de curseur lors de l'utilisation de la souris.",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseThrowback",
+            "name": "",
+            "description": "Un style de curseur lors de l'utilisation de la souris.",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseYareli",
             "name": "",
             "description": "Un style de curseur lors de l'utilisation de la souris.",
@@ -1983,6 +1997,13 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/Emotes/Hardmode1999Emote",
+            "name": "La Route de l'Acier: 1999",
+            "description": "D\u00e9cern\u00e9 pour avoir termin\u00e9 la Route de l'Acier: 1999.",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/Emotes/HardmodeCeresEmote",
             "name": "La Route de l'Acier: C\u00e9r\u00e8s",
             "description": "D\u00e9cern\u00e9 pour avoir termin\u00e9 la Route de l'Acier: C\u00e9r\u00e8s.",
@@ -2175,6 +2196,42 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryAmirEmote",
+            "name": "Geste Amir G\u00e9meaux",
+            "description": "Basculez entre Volt et l'Aspect Amir de la S\u00e9rie G\u00e9meaux avec le Geste Amir G\u00e9meaux, m\u00eame pendant les missions.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryAoiEmote",
+            "name": "Geste Aoi G\u00e9meaux",
+            "description": "Basculez entre Mag et l'Aspect Aoi de la S\u00e9rie G\u00e9meaux avec le Geste Aoi G\u00e9meaux, m\u00eame pendant les missions.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryArthurEmote",
+            "name": "Geste Arthur G\u00e9meaux",
+            "description": "Basculez entre Excalibur et l'Aspect Arthur de la S\u00e9rie G\u00e9meaux avec le Geste Arthur G\u00e9meaux, m\u00eame pendant les missions.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryEleanorEmote",
+            "name": "Geste Eleanor G\u00e9meaux",
+            "description": "Basculez entre Nyx et l'Aspect Eleanor de la S\u00e9rie G\u00e9meaux avec le Geste Eleanor G\u00e9meaux, m\u00eame pendant les missions.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryLettieEmote",
+            "name": "Geste Lettie G\u00e9meaux",
+            "description": "Basculez entre Trinity et l'Aspect Lettie de la S\u00e9rie G\u00e9meaux avec le Geste Lettie G\u00e9meaux, m\u00eame pendant les missions.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryQuincyEmote",
+            "name": "Geste Quincy G\u00e9meaux",
+            "description": "Basculez entre Cyte-09 et l'Aspect Quincy de la S\u00e9rie G\u00e9meaux avec le Geste Quincy G\u00e9meaux, m\u00eame pendant les missions.",
+            "codexSecret": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/Emotes/LegionSaluteEmote",
             "name": "Salut du Loup",
             "description": "Avec ce geste, les membres de la meute se reconna\u00eetront.",
@@ -2286,7 +2343,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/Emotes/ThousandDaysEmote",
             "name": "Mille Jours",
-            "description": "[PH] Awarded to Tenno who have shown unyielding dedication.",
+            "description": "D\u00e9cern\u00e9 aux Tennos qui ont fait preuve d'un d\u00e9vouement sans faille.",
             "codexSecret": false
         },
         {
@@ -5214,6 +5271,66 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectA",
+            "name": "Glyphe Jillian Pixel Parfait",
+            "description": "Un Glyphe repr\u00e9sentant Jillian Killian pix\u00e9lis\u00e9.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectB",
+            "name": "Glyphe Lillian Pixel Parfait",
+            "description": "Un Glyphe repr\u00e9sentant Lillian Killian pix\u00e9lis\u00e9.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectC",
+            "name": "Glyphe Anna Pixel Parfait",
+            "description": "Un Glyphe repr\u00e9sentant Anna Ki pix\u00e9lis\u00e9e.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectD",
+            "name": "Glyphe Sbire Pixel Parfait",
+            "description": "Un Glyphe repr\u00e9sentant un sbire du G.O.B. pix\u00e9lis\u00e9.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPortraitJillian",
+            "name": "Portrait de Jillian",
+            "description": "Un Glyphe repr\u00e9sentant le portrait de Jillian Killian.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPortraitLillian",
+            "name": "Portrait de Lillian",
+            "description": "Un Glyphe repr\u00e9sentant le portrait de Lillian Killian.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerA",
+            "name": "Glyphe de Caliber Chicks 2",
+            "description": "Un Glyphe repr\u00e9sentant le logo de Caliber Chicks 2.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerB",
+            "name": "Glyphe Jillian Killian",
+            "description": "Un Glyphe repr\u00e9sentant Jillian Killian.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerC",
+            "name": "Glyphe Lillian Killian",
+            "description": "Un Glyphe repr\u00e9sentant Lillian Killian.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerD",
+            "name": "Glyphe Anna Ki",
+            "description": "Un Glyphe repr\u00e9sentant Anna Ki.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageBaruukPrimeBright",
             "name": "Glyphe Baruuk Prime - Lumineux",
             "description": "Un Glyphe repr\u00e9sentant Baruuk Prime sur un fond lumineux.",
@@ -5443,6 +5560,18 @@
             "description": "Obtenu en participant aux raids Railjack contre le Murex Sentient lors de l'Op\u00e9ration: Incursion \u00c9carlate.",
             "codexSecret": true,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphA",
+            "name": "Glyphe Serpent G\u00e9n\u00e9reux",
+            "description": "Un Glyphe pour votre profil.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphB",
+            "name": "Glyphe Yisi",
+            "description": "Un Glyphe pour votre profil.",
+            "codexSecret": false
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageChillingGlyphFour",
@@ -5692,6 +5821,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/Cyte09SupporterGlyph",
+            "name": "Glyphe Cyte-09 Deadeye",
+            "description": "Un Glyphe pour votre profil.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageBaruukDeluxe",
             "name": "Glyphe Baruuk Doan",
             "description": "Un Glyphe repr\u00e9sentant Baruuk Doan.",
@@ -5774,6 +5909,30 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageDagathDark",
             "name": "Glyphe Dagath - Sombre",
             "description": "Un Glyphe repr\u00e9sentant Dagath sur un fond sombre.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusAltBright",
+            "name": "Glyphe Cyte-09 Espricor - Lumineux",
+            "description": "Un Glyphe repr\u00e9sentant Cyte-09 Espricor sur un fond lumineux.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusAltDark",
+            "name": "Glyphe Cyte-09 Espricor - Sombre",
+            "description": "Un Glyphe repr\u00e9sentant Cyte-09 Espricor sur un fond sombre.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusBright",
+            "name": "Glyphe Cyte-09 - Lumineux",
+            "description": "Un Glyphe repr\u00e9sentant Cyte-09 sur un fond lumineux.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusDark",
+            "name": "Glyphe Cyte-09 - Sombre",
+            "description": "Un Glyphe repr\u00e9sentant Cyte-09 sur un fond sombre.",
             "codexSecret": true
         },
         {
@@ -6307,6 +6466,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaum1999Mug",
+            "name": "Glyphe Communautaire Mug 1999 Tennobaum",
+            "description": "Un Glyphe repr\u00e9sentant une tasse de chocolat chaud avec des guimauves de 1999, cr\u00e9\u00e9 par Cyanfacade.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumFrost",
             "name": "Glyphe Communautaire Frost Tennobaum",
             "description": "Un Glyphe repr\u00e9sentant Frost dans une boule \u00e0 neige, con\u00e7u par Nelosart.",
@@ -6487,6 +6652,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDJRoMGlyph",
+            "name": "Glyphe Communautaire On-lyne DJ RoM",
+            "description": "Un Glyphe Communautaire repr\u00e9sentant le membre d'On-lyne DJ RoM dans le style de l'artiste communautaire death_ma666ots.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDanteGlyph",
             "name": "Glyphe du repos de Dante",
             "description": "Un glyphe repr\u00e9sentant Dante absorb\u00e9 dans l'un de ses passe-temps pr\u00e9f\u00e9r\u00e9s.",
@@ -6504,6 +6675,12 @@
             "name": "Glyphe Tiberon Obsidienne",
             "description": "Un Glyphe pour votre profil.",
             "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDrillbitGlyph",
+            "name": "Glyphe Communautaire On-lyne Drillbit",
+            "description": "Un Glyphe Communautaire repr\u00e9sentant le membre d'On-lyne Drillbit dans le style de l'artiste communautaire death_ma666ots.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDrippy",
@@ -6608,6 +6785,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGamingDogDaysYareli",
             "name": "Glyphe communautaire Yareli Bataille d'Eau",
             "description": "Un Glyphe communautaire de CheruuAx repr\u00e9sentant Yareli supportant la chaleur.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGaussAccoladeGlyph",
+            "name": "Glyphe Insigne de Gauss",
+            "description": "Un Glyphe repr\u00e9sentant un tour de force par l'artiste communautaire Anavi_Ivy.",
             "codexSecret": true
         },
         {
@@ -7097,6 +7280,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageHarddriveGlyph",
+            "name": "Glyphe Communautaire On-lyne Harddrive",
+            "description": "Un Glyphe Communautaire repr\u00e9sentant le membre d'On-lyne Harddrive dans le style de l'artiste communautaire death_ma666ots.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageHarrowAction",
             "name": "Glyphe Harrow en Action",
             "description": "Un Glyphe pour votre profil.",
@@ -7119,6 +7308,42 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInarosScarabs",
             "name": "Glyphe Varna Scarab\u00e9e",
             "description": "Un Glyphe pour votre profil.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedDJRoMGlyph",
+            "name": "Glyphe Communautaire On-lyne DJ RoM Infest\u00e9",
+            "description": "Un Glyphe Communautaire repr\u00e9sentant le membre d'On-lyne DJ RoM Infest\u00e9 dans le style de l'artiste communautaire death_ma666ots.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedDrillbitGlyph",
+            "name": "Glyphe Communautaire On-lyne Drillbit Infest\u00e9",
+            "description": "Un Glyphe Communautaire repr\u00e9sentant le membre d'On-lyne Drillbit Infest\u00e9 dans le style de l'artiste communautaire death_ma666ots.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedHarddriveGlyph",
+            "name": "Glyphe Communautaire On-lyne Harddrive Infest\u00e9",
+            "description": "Un Glyphe Communautaire repr\u00e9sentant le membre d'On-lyne Harddrive Infest\u00e9 dans le style de l'artiste communautaire death_ma666ots.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedLogoGlyph",
+            "name": "Glyphe Communautaire On-lyne Infest\u00e9",
+            "description": "Un Glyphe Communautaire repr\u00e9sentant le logo Infest\u00e9 d'On-lyne dans le style de l'artiste communautaire death_ma666ots.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedPacketGlyph",
+            "name": "Glyphe Communautaire On-lyne Packet Infest\u00e9",
+            "description": "Un Glyphe Communautaire repr\u00e9sentant le membre d'On-lyne Packet Infest\u00e9 dans le style de l'artiste communautaire death_ma666ots.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedZekeGlyph",
+            "name": "Glyphe Communautaire On-lyne Zeke Infest\u00e9",
+            "description": "Un Glyphe Communautaire repr\u00e9sentant le membre d'On-lyne Zele Infest\u00e9 dans le style de l'artiste communautaire death_ma666ots.",
             "codexSecret": true
         },
         {
@@ -7182,6 +7407,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageJadeAccoladeGlyph",
+            "name": "Glyphe Insigne de Jade",
+            "description": "Un Glyphe repr\u00e9sentant un tour de force par l'artiste communautaire Anavi_Ivy.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageJadeInActionGlyph",
             "name": "Glyphe Jade en action",
             "description": "Un Glyphe pour votre profil.",
@@ -7227,6 +7458,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLettieAccoladeGlyph",
             "name": "Glyphe Insigne de Lettie",
             "description": "Un Glyphe repr\u00e9sentant un tour de force par l'artiste communautaire Carl Tabora.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLogoGlyph",
+            "name": "Glyphe Communautaire On-lyne Radieux",
+            "description": "Un Glyphe Communautaire repr\u00e9sentant le logo radieux d'On-lyne dans le style de l'artiste communautaire death_ma666ots.",
             "codexSecret": true
         },
         {
@@ -7308,6 +7545,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMesaEnamel",
             "name": "Glyphe Mesa Tourment\u00e9e",
             "description": "Un Glyphe pour votre profil.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMirageAccoladeGlyph",
+            "name": "Glyphe Insigne de Mirage",
+            "description": "Un Glyphe repr\u00e9sentant un tour de force par l'artiste communautaire Anavi_Ivy.",
             "codexSecret": true
         },
         {
@@ -7449,9 +7692,51 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePacketGlyph",
+            "name": "Glyphe Communautaire On-lyne Packet",
+            "description": "Un Glyphe Communautaire repr\u00e9sentant le membre d'On-lyne Packet dans le style de l'artiste communautaire death_ma666ots.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePartyCDGlyph",
             "name": "Glyphe CD de F\u00eate",
             "description": "Un Glyphe pour votre profil.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelAmir",
+            "name": "Glyphe Pixel Amir",
+            "description": "C\u00e9l\u00e9brez le style distinctif de 1999 avec ce Glyphe repr\u00e9sentant Amir, la Protoframe de Volt !",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelAoi",
+            "name": "Glyphe Pixel Aoi",
+            "description": "C\u00e9l\u00e9brez le style distinctif de 1999 avec ce Glyphe repr\u00e9sentant Aoi, la Protoframe de Mag!",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelArthur",
+            "name": "Glyphe Pixel Arthur",
+            "description": "C\u00e9l\u00e9brez le style distinctif de 1999 avec ce Glyphe repr\u00e9sentant Arthur, la Protoframe d'Excalibur!",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelEleanor",
+            "name": "Glyphe Pixel Eleanor",
+            "description": "C\u00e9l\u00e9brez le style distinctif de 1999 avec ce Glyphe repr\u00e9sentant Eleanor, la Protoframe de Nyx!",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelLettie",
+            "name": "Glyphe Pixel Lettie",
+            "description": "C\u00e9l\u00e9brez le style distinctif de 1999 avec ce Glyphe repr\u00e9sentant Lettie, la Protoframe de Trinity!",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelQuincy",
+            "name": "Glyphe Pixel Quincy",
+            "description": "C\u00e9l\u00e9brez le style distinctif de 1999 avec ce Glyphe repr\u00e9sentant Quincy, la Protoframe de Cyte-09 !",
             "codexSecret": true
         },
         {
@@ -7464,6 +7749,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePrideGlyph",
             "name": "Glyphe de la Fiert\u00e9 III",
             "description": "Ce Glyphe c\u00e9l\u00e8bre la Fiert\u00e9. Cr\u00e9\u00e9 par NimkeArts.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageProteaAccoladeGlyph",
+            "name": "Glyphe Insigne de Protea",
+            "description": "Un Glyphe repr\u00e9sentant un tour de force par l'artiste communautaire Anavi_Ivy.",
             "codexSecret": true
         },
         {
@@ -7504,6 +7795,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSevagothAccoladeGlyph",
+            "name": "Glyphe Insigne de Sevagoth",
+            "description": "Un Glyphe repr\u00e9sentant un tour de force par l'artiste communautaire Anavi_Ivy.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSevagothAction",
             "name": "Glyphe Sevagoth en Action",
             "description": "Un Glyphe pour votre profil.",
@@ -7514,8 +7811,7 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageStalkerAction",
             "name": "Glyphe Stalker en Action",
             "description": "Un Glyphe pour votre profil.",
-            "codexSecret": true,
-            "excludeFromCodex": true
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageStarDaysCervulitePat",
@@ -7546,6 +7842,30 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennoVIP",
             "name": "Glyphe Tenno VIP East",
             "description": "Un Glyphe pour les Tennos VIP.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumAoi",
+            "name": "Glyphe Communautaire Aoi Tennobaum",
+            "description": "Un Glyphe repr\u00e9sentant Aoi faisant un ange dans la neige, cr\u00e9\u00e9 par alcyonsa.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumCozyStalker",
+            "name": "Glyphe Communautaire Pull du Stalker Tennobaum",
+            "description": "Un Glyphe repr\u00e9sentant le Stalker portant un pull confortable, cr\u00e9\u00e9 par alcyonsa.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumJade",
+            "name": "Glyphe Communautaire Jade Tennobaum",
+            "description": "Un Glyphe repr\u00e9sentant Jade faisant un ange dans la neige, cr\u00e9\u00e9 par alcyonsa.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumManintheCookie",
+            "name": "Glyphe Communautaire l'Homme dans le Biscuit Tennobaum",
+            "description": "Un Glyphe repr\u00e9sentant la version biscuit en pain d'\u00e9pice de l'Homme dans le Mur, cr\u00e9\u00e9 par alcyonsa.",
             "codexSecret": true
         },
         {
@@ -7709,6 +8029,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageValkyrAction",
             "name": "Glyphe Valkyr en Action",
             "description": "Un Glyphe pour votre profil.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageVaubanAccoladeGlyph",
+            "name": "Glyphe Insigne de Vauban",
+            "description": "Un Glyphe repr\u00e9sentant un tour de force par l'artiste communautaire Anavi_Ivy.",
             "codexSecret": true
         },
         {
@@ -7932,6 +8258,12 @@
             "excludeFromCodex": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageZekeGlyph",
+            "name": "Glyphe Communautaire On-lyne Zeke",
+            "description": "Un Glyphe Communautaire repr\u00e9sentant le membre d'On-lyne Zeke dans le style de l'artiste communautaire death_ma666ots.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/CNY2023RabbitGlyph",
             "name": "Glyphe Guimao",
             "description": "Un Glyphe pour votre profil.",
@@ -7963,12 +8295,6 @@
             "description": "Un Glyphe c\u00e9l\u00e9brant les 10 ans de Warframe, cr\u00e9\u00e9 par Searyn.",
             "codexSecret": false,
             "excludeFromCodex": true
-        },
-        {
-            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/CommunityTennobaum1999Mug",
-            "name": "Glyphe Communautaire Mug 1999 Tennobaum",
-            "description": "Un Glyphe repr\u00e9sentant une tasse de chocolat chaud avec des guimauves de 1999, cr\u00e9\u00e9 par Cyanfacade.",
-            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/DeimosRevolverGlyph",
@@ -28667,6 +28993,20 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/UnlockFrumentariusAgile",
+            "name": "Animation Cyte-09 Agile",
+            "description": "Cet article vous laisse utiliser les Animations Agiles de Cyte-09 avec n'importe quelle autre Warframe.",
+            "codexSecret": true,
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/UnlockFrumentariusNoble",
+            "name": "Animation Cyte-09 Noble",
+            "description": "Cet article vous laisse utiliser les Animations Nobles de Cyte-09 avec n'importe quelle autre Warframe.",
+            "codexSecret": true,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Garuda/UnlockGarudaAgile",
             "name": "Animation Garuda Agile",
             "description": "Cet article vous laisse utiliser les Animations Agiles de Garuda avec n'importe quelle autre Warframe.",
@@ -28931,6 +29271,12 @@
             "name": "Aspect Parallax Albodix",
             "description": "Le Parallax aurait \u00e9t\u00e9 par\u00e9 de l'Aspect Albodix lorsque les passagers ont quitt\u00e9 le Zariman pour \u00e9tudier les r\u00e9gions froides et sombres de Tau.",
             "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Liset/1999TankHoodOrnament",
+            "name": "Sumdali Tourelle H-09 Apex",
+            "description": "La tourelle d'un char H-09 Apex de la Scaldra ornera votre Vaisseau de D\u00e9barquement.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Liset/ConquestHoodOrnament",

@@ -161,6 +161,505 @@
             "parentName": "/Lotus/Types/Game/SpectreArmyItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/AVReceiver",
+            "name": "Receptor A/V Kinemantik<RETRO_TM>",
+            "description": "\u00a1ACTUALIZADO con DOS entradas de video y TRES entradas de audio!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/AirHockeyTable",
+            "name": "Mesa de hockey Kinemantik<RETRO_TM>",
+            "description": "\u00a1Disfruta de lo mejor del hockey de mesa con esta mesa de hockey Kinemantik<RETRO_TM>!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Bicycle",
+            "name": "Bicicleta KineBasik<RETRO_TM>",
+            "description": "\u00a1Para todas tus necesidades de ciclismo KineBasik<RETRO_TM> !",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Binder",
+            "name": "Carpeta File-a-Style<RETRO_TM>",
+            "description": "\u00a1Las carpetas File-a-Style<RETRO_TM> vienen en un paquete de CINCO para obtener M\u00c1S valor!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Calculator",
+            "name": "Calculadora de lujo File-a-Style<RETRO_TM>",
+            "description": "La calculadora de lujo File-a-Style<RETRO_TM> ahora puede almacenar hasta DOS funciones previas en su memoria, \u00a1lo que te permitir\u00e1 ahorrar tiempo valioso!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/CardboardBox",
+            "name": "Caja de cart\u00f3n KineBasik<RETRO_TM>",
+            "description": "\u00a1Para todas tus necesidades de cajas de cart\u00f3n KineBasic<RETRO_TM>!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/CellPhone",
+            "name": "Celular Kinemantik<RETRO_TM>",
+            "description": "\u00a1Los tel\u00e9fonos celulares Kinemantik<RETRO_TM> tienen garant\u00eda* de ser indestructibles de por vida!\r\n\r\n(*Al comprar cualquier producto Kinemantik, incluidas las suscripciones a Kinemantik On Line, el comprador renuncia a todos los derechos de presentar reclamos, recursos legales o da\u00f1os contra Kinemantik, sus afiliados o sucesores, en la m\u00e1xima medida permitida por la ley)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/CoffeeCup",
+            "name": "Tazas de caf\u00e9 File-A-Style<RETRO_TM>",
+            "description": "\u00a1Con un paquete de 200, tu oficina te agradecer\u00e1 estos vasos de papel aislantes, biodegradables y de primera calidad!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/CoffeeMachine",
+            "name": "Cafetera KineKitchen<RETRO_TM>",
+            "description": "La l\u00ednea de cafeteras KineKitchen<RETRO_TM> tiene la nueva funci\u00f3n 'una tacita r\u00e1pida' (pendiente de patente) que te permite llenar tu taza mientras la m\u00e1quina est\u00e1 preparando el caf\u00e9.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/CompactDisc",
+            "name": "On-lyne: The Boys R Back",
+            "description": "\u00a1El \u00e1lbum recopilatorio 'The Boys R Back' presenta algunos de los grandes \u00e9xitos de On-lyne, as\u00ed como remixes de baile para que la fiesta comience de verdad!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/DigitalPhone",
+            "name": "Tel\u00e9fono digital Kinemantik<RETRO_TM>",
+            "description": "\u00a1Se garantiza que los tel\u00e9fonos digitales Kinemantik<RETRO_TM> tendr\u00e1n servicio en todas partes!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/EntratiPoster",
+            "name": "P\u00f3ster de impresi\u00f3n instant\u00e1nea File-A-Style<RETRO_TM>",
+            "description": "\u00a1File-A-Style<RETRO_TM> satisface tus necesidades de impresi\u00f3n, por muy exigentes que sean!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/FireExtinguisher",
+            "name": "Extintor KineBasik<RETRO_TM>",
+            "description": "\u00a1Para todas tus necesidades de extinci\u00f3n de incendios, elige KineBasik<RETRO_TM>!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/FloodLight",
+            "name": "Luz de fiesta KineMagik!<RETRO_TM>",
+            "description": "\u00a1Esta luz de fiesta KineMagik!<RETRO_TM> tambi\u00e9n sirve de linterna cuando es necesario!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/HardwareGPU",
+            "name": "GPU 256 Kinemantik<RETRO_TM>",
+            "description": "\u00a1\u00a1NUEVO LANZAMIENTO!! \u00a1Esta unidad de procesamiento de gr\u00e1ficos, PRIMERA EN EL MUNDO, revolucionar\u00e1 los juegos tal como los conoces! Con una interfaz de memoria integrada de 128 bits y salidas VHS y compuesta, \u00a1la GPU 256 Kinemantik<RETRO_TM> NUNCA quedar\u00e1 obsoleta!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Headphones",
+            "name": "Auriculares inal\u00e1mbricos KineMagik!<RETRO_TM>",
+            "description": "\u00a1Imagina la libertad que tendr\u00e1s con estos auriculares inal\u00e1mbricos KineMagik!<RETRO_TM>! \u00a1Incluye un transmisor de 2 canales que funciona hasta 100 m*!\r\n\r\n(*Dentro de la l\u00ednea de visi\u00f3n directa. Bater\u00edas no incluidas).",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Highlighters",
+            "name": "Marcadores File-a-Style<RETRO_TM>",
+            "description": "Los marcadores File-a-Style<RETRO_TM> vienen en una variedad de colores. Paquete de 50.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/JerryCanLarge",
+            "name": "Lata de combustible KineBasik<RETRO_TM> (Grande)",
+            "description": "\u00a1Para todas sus necesidades de latas de combustible grandes de KineBasik<RETRO_TM>!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/JerryCanSmall",
+            "name": "Lata de combustible KineBasik<RETRO_TM> (Peque\u00f1a)",
+            "description": "\u00a1Para todas sus necesidades de latas de combustible peque\u00f1as de KineBasik<RETRO_TM>!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/KeyChain",
+            "name": "Llaveros de metal surtidos KineBasik<RETRO_TM>",
+            "description": "\u00a1Esta variada colecci\u00f3n de llaveros de metal KineBasik<RETRO_TM> viene en una caja de 100 y seguramente satisfar\u00e1 sus necesidades!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/LunchBox",
+            "name": "Fiambrera met\u00e1lica KineBasik<RETRO_TM>",
+            "description": "\u00a1Para todas tus necesidades de fiambreras KineBasik<RETRO_TM>!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/MedKit",
+            "name": "Kit m\u00e9dico KineBasik<RETRO_TM>",
+            "description": "\u00a1Para todas tus necesidades m\u00e9dicas de emergencia de KineBasik<RETRO_TM>!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Microphone",
+            "name": "Altavoces Kinemantik<RETRO_TM>",
+            "description": "Los altavoces Kinemantik<RETRO_TM> son compatibles con todos los sistemas principales. Gracias a su control de volumen en l\u00ednea ajustable, sin duda podr\u00e1 convocar incluso a las tropas m\u00e1s obstinadas.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Microwave",
+            "name": "Microondas KineKitchen<RETRO_TM>",
+            "description": "El microondas KineKitchen<RETRO_TM> viene con nuevas configuraciones con patente en tr\u00e1mite, como SmartDefrost e Insta-Pop. \u00a1Prepara palomitas de ma\u00edz en diez segundos o menos sin granos quemados, garantizado!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/MousePad",
+            "name": "Alfombrilla para rat\u00f3n File-a-Style<RETRO_TM>",
+            "description": "\u00a1Con este juego de 50 alfombrillas de rat\u00f3n negras, tus compa\u00f1eros de trabajo te agradecer\u00e1n que no tengas que preocuparte por los colores brillantes!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Mug",
+            "name": "Taza de caf\u00e9 KineBasik<RETRO_TM>",
+            "description": "\u00a1Para todas tus necesidades de caf\u00e9 de KineBasik<RETRO_TM>! Juego de dos.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Notepad",
+            "name": "Bloc de notas File-a-Style<RETRO_TM>",
+            "description": "Los blocs de notas File-a-Style<RETRO_TM> vienen en paquetes de 10 y son rayados.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/OfficePhone",
+            "name": "Tel\u00e9fono de oficina File-a-Style<RETRO_TM>",
+            "description": "El tel\u00e9fono de oficina File-a-Style<RETRO_TM> viene con nueve l\u00edneas de espera para los d\u00edas ocupados, configuraciones de marcaci\u00f3n saliente y nuevas funciones de correo de voz digital con DOS configuraciones de voz opcionales.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedBoomBox",
+            "name": "Est\u00e9reo port\u00e1til KineMagik!<RETRO_TM>",
+            "description": "\u00a1El est\u00e9reo port\u00e1til KineMagik!<RETRO_TM> es ideal para cuando quieres asegurarte de que todo el vecindario escuche tus canciones!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedGameConsole",
+            "name": "Sistema de juego K.A.H.<RETRO_TM>",
+            "description": "El sistema de juego Kinemantik At Home (K.A.H.)<RETRO_TM> es una nueva y revolucionaria forma de llevar la sala de juegos a tu sala de estar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedMonitor",
+            "name": "Monitor de juego K.A.H.<RETRO_TM>",
+            "description": "El monitor de juego Kinemantik At Home (K.A.H.)<RETRO_TM> es la mejor manera de ejecutar tu sistema K.A.H. en casa con una definici\u00f3n perfecta de 64 bits. \r\n\r\n(Nota: El sistema de juegos K.A.H. s\u00f3lo es compatible con el monitor de juegos K.A.H. y no funcionar\u00e1 con ning\u00fan otro televisor o monitor).",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedPortableTV",
+            "name": "TV port\u00e1til KineMagik!<RETRO_TM>",
+            "description": "\u00a1Lleva tus programas a todas partes con este TV port\u00e1til KineMagik!<RETRO_TM>, con sintonizador incluido! ",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedSpeaker",
+            "name": "Altavoz Kinemantik<RETRO_TM>",
+            "description": "Este altavoz Kinemantik<RETRO_TM> \u00fanico funciona a 500 W. Requiere un receptor A/V Kinemantik<RETRO_TM> u otro amplificador para funcionar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedStereoAmp",
+            "name": "Sistema de altavoces Kinemantik<RETRO_TM>",
+            "description": "Este sistema de altavoces Kinemantik<RETRO_TM> con amplificador es la soluci\u00f3n todo en uno para cualquiera que quiera escuchar su m\u00fasica favorita a todo volumen. Compatible con todos los auriculares KineMagik!<RETRO_TM>.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedVideoCamera",
+            "name": "C\u00e1mara de video digital Kinemantik<RETRO_TM>",
+            "description": "\u00a1Lleva el espect\u00e1culo a todas partes con esta incre\u00edble c\u00e1mara de video DIGITAL Kinemantik<RETRO_TM>! \u00a1Bienvenido al futuro con el mundo de la grabaci\u00f3n de video digital! Con un monitor LCD de silicio policristalino adjunto, \u00a1ser\u00e1s el centro de atenci\u00f3n en el vecindario!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PartyHat",
+            "name": "Gorros de fiesta de papel KineBasik<RETRO_TM>",
+            "description": "\u00a1Para todas tus necesidades de fiesta de KineBasik<RETRO_TM>!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Pen",
+            "name": "Bol\u00edgrafos File-a-Style<RETRO_TM>",
+            "description": "Los bol\u00edgrafos File-a-Style<RETRO_TM> vienen en paquetes de 50, en surtidos aleatorios de tinta azul y negra. \u00a1En la variedad est\u00e1 la sal de la vida!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Pencil",
+            "name": "L\u00e1pices File-a-Style<RETRO_TM>",
+            "description": "Los l\u00e1pices File-a-Style<RETRO_TM> vienen en paquetes de 100. Sacapuntas no incluidos.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Pillow",
+            "name": "Almohadas KineBasik<RETRO_TM>",
+            "description": "\u00a1Para todas tus necesidades de almohadas KineBasik<RETRO_TM>!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PizzaBox",
+            "name": "Cajas de pizza KineBasik<RETRO_TM>",
+            "description": "\u00a1Para todas tus necesidades de cajas de pizza KineBasik<RETRO_TM>! (Nota: Pizzas no incluidas).",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Planter",
+            "name": "Maceta colgante KineBasik<RETRO_TM>",
+            "description": "\u00a1Para todas tus necesidades de plantas colgantes KineBasik<RETRO_TM>! Lleva un poco de naturaleza al interior.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PropaneGas",
+            "name": "Tanque de propano Gorila Verde<RETRO_TM>",
+            "description": "El propano Gorila Verde<RETRO_TM> es m\u00e1s que solo propano. Es propano en un tanque. ",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Scooter",
+            "name": "Scooticle<RETRO_TM>",
+            "description": "Puede que la Scooticle<RetroTM> de ZeViLa parezca insignificante en comparaci\u00f3n con su hermana mayor, la Atomicycle, pero los ingenieros detr\u00e1s de esta poderosa y popular motocicleta no escatimaron gastos cuando dise\u00f1aron su hermana m\u00e1s peque\u00f1a y apta para la ciudad. ",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Sign",
+            "name": "Se\u00f1ales de tr\u00e1fico variadas KineBasik<RETRO_TM>",
+            "description": "\u00a1Para todas tus necesidades variadas de se\u00f1ales de tr\u00e1fico KineBasik<Retro_TM>!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/StickyNotes",
+            "name": "Notas adhesivas File-a-Style<RETRO_TM>",
+            "description": "Las notas adhesivas File-a-Style<RETRO_TM> vienen en paquetes de 100 y en colores surtidos.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Television",
+            "name": "TV 840HD Kinemantik<RETRO_TM>",
+            "description": "La TV 840HD Kinemantik<RETRO_TM> es el televisor de tubo de rayos cat\u00f3dicos de gama alta que muestra todos tus programas favoritos en su hermosa relaci\u00f3n de aspecto 4:3.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Toaster",
+            "name": "Tostadora KineKitchen<RETRO_TM>",
+            "description": "La tostadora KineKitchen<RETRO_TM> viene con cuatro juegos de bobinas el\u00e9ctricas y diez configuraciones de calor para un perfecto desayuno crujiente.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/ToasterOven",
+            "name": "Horno tostador KineKitchen<RETRO_TM>",
+            "description": "El horno tostador KineKitchen<RETRO_TM> es perfecto para cocinas peque\u00f1as o para cocinar mientras viajas, donde no se dispone de una cocina completa. \u00a1Es incre\u00edble lo que se puede hacer con sus configuraciones de asado y convecci\u00f3n!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/VideoCassette",
+            "name": "Serie \"C\u00edrculo de camaradas\" en VHS",
+            "description": "La serie completa de 'C\u00edrculo de camaradas', aclamada por la cr\u00edtica, en formato VHS. Caja con 6 cintas.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Quest/LoanerWeaponsItem",
+            "name": "Armas prestadas",
+            "description": "",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonA",
+            "name": "Muestra de Efervon",
+            "description": "Una muestra de la sustancia corrosiva que la Scaldra usa para purgar el Techrot. Manipular con cuidado.\r\n\r\nUbicaci\u00f3n: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonB",
+            "name": "Fragmento de lona de H\u00f6llvania",
+            "description": "Un material resistente al Efervon usado para fabricar uniformes Scaldra.\r\n\r\nUbicaci\u00f3n: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceRareA",
+            "name": "Placa base Techrot",
+            "description": "Esta placa base probablemente sirvi\u00f3 como centro neur\u00e1lgico, facilitando la red de comunicaci\u00f3n del Techrot.\r\n\r\nUbicaci\u00f3n: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonA",
+            "name": "Quitina Techrot",
+            "description": "Este caparaz\u00f3n retorcido apenas se parece al dispositivo que era antes de que el Techrot lo cambiara.\r\n\r\nUbicaci\u00f3n: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonB",
+            "name": "Arco-Repetidor experimental",
+            "description": "El ingenio de H\u00f6llvania no tiene l\u00edmites, y esta maravilla sin regulaci\u00f3n es prueba de ello. Un dispositivo de vanguardia rebosante de innovaci\u00f3n desenfrenada.\r\n\r\nUbicaci\u00f3n: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagAmir",
+            "name": "C\u00f3mic La Condesa",
+            "description": "La Condesa no es solo un icono, \u00a1es una hero\u00edna! Los n\u00fameros de estos c\u00f3mics cl\u00e1sicos de culto son buscados por todo entusiasta que conoce el valor de una protagonista fuerte y elegante. Intercambia este tesoro del Hex con Lettie para ganar reputaci\u00f3n con el Hex.\r\n\r\nUbicaci\u00f3n: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagAoi",
+            "name": "CD de On-lyne",
+            "description": "\u00a1El regalo definitivo para los fans de On-lyne! Muestra tu amor y apoyo con este art\u00edculo imprescindible para la colecci\u00f3n de cualquier amante de la m\u00fasica. Intercambia este tesoro del Hex con Lettie para obtener reputaci\u00f3n con el Hex.\r\n\r\nUbicaci\u00f3n: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagArthur",
+            "name": "Un six para disfrutar",
+            "description": "Una caja de confort l\u00edquido, perfecta para cualquiera que se merezca un momento de relajaci\u00f3n. Ideal para alguien que lleva el peso del mundo sobre sus hombros. Intercambia este tesoro del Hex con Lettie para ganar reputaci\u00f3n con el Hex.\r\n\r\nUbicaci\u00f3n: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagEleanor",
+            "name": "Cristal de humor",
+            "description": "Elegantes, modernos y relajantes, los cristales de humor son el regalo perfecto para cualquier persona que necesite un poco de calma. Intercambia este tesoro del Hex con Lettie para ganar reputaci\u00f3n con el Hex.\r\n\r\nUbicaci\u00f3n: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagLettie",
+            "name": "Cereal Cheddar Crowns",
+            "description": "\u00a1Un regalo nost\u00e1lgico para el ni\u00f1o de los 90 por excelencia! \u00bfRecuerdas esos comerciales con el alegre cuarteto de ratones? Intercambia este tesoro del Hex con Lettie para ganar reputaci\u00f3n con el Hex.\r\n\r\nUbicaci\u00f3n: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagQuincy",
+            "name": "Pel\u00edcula de 35 mm",
+            "description": "Para el documentalista que ve el mundo a trav\u00e9s de una lente \u00fanica, una pel\u00edcula adicional siempre es una ganancia. Intercambia este tesoro del Hex con Lettie para ganar reputaci\u00f3n con el Hex.\r\n\r\nUbicaci\u00f3n: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagRare",
+            "name": "Pizza Big Bytes",
+            "description": "\u00bfA qui\u00e9n no le gusta la pizza? Intercambia este tesoro Hex con Lettie para ganar reputaci\u00f3n con el Hex.\r\n\r\nUbicaci\u00f3n: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagUncommon",
+            "name": "Combo de hamburguesa al arg\u00f3n",
+            "description": "\u00a1Hamburguesas tan ricas que siempre desaparecen!\r\n\r\nUbicaci\u00f3n: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag",
+            "name": "",
+            "description": "",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/SyndicateDogTags/AutoSharedDogTag"
+        },
+        {
             "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/DuviriFishAItem",
             "name": "Inaak",
             "description": "Algunos teorizan que Duviri est\u00e1 sobre el caparaz\u00f3n de un inaak gigante. Naturalmente, algunos se preguntan sobre qu\u00e9 est\u00e1 el inaak en cuesti\u00f3n. La respuesta es, claramente, sobre m\u00e1s inaaks hasta llegar al final.",
@@ -1076,6 +1575,22 @@
             "description": "",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/DangerRoomTileItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/DangerRoom/DangerRoomTile1999MallRotunda",
+            "name": "Simulacro de la rotonda del centro comercial",
+            "description": "Simula una batalla en un centro comercial invadido por el Techrot bajo H\u00f6llvania. Este simulacro permite establecer la dificultad del enemigo 25 niveles por encima del est\u00e1ndar m\u00e1ximo.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/DangerRoom/DangerRoomTile",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/DangerRoom/DangerRoomTile1999StreetCourtyard",
+            "name": "Simulacro del patio de H\u00f6llvania",
+            "description": "Simula una batalla en los callejones de H\u00f6llvania. Este simulacro permite establecer la dificultad del enemigo 25 niveles por encima del est\u00e1ndar m\u00e1ximo.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/DangerRoom/DangerRoomTile",
             "excludeFromCodex": true
         },
         {
@@ -3779,7 +4294,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/MiscItems/FormaOmega",
             "name": "TEST FORMA",
-            "description": "/Lotus/Language/Consumables/FormaOmegaDesc",
+            "description": "Este componente alteraformas es fundamental para la construcci\u00f3n orokin. Te permite cambiar la polaridad de una ranura de mod en un warframe, compa\u00f1ero o arma, y despu\u00e9s restablece su afinidad a estado sin rango. Solamente se puede utilizar en warframes, compa\u00f1eros y armas de nivel m\u00e1ximo.",
             "codexSecret": true,
             "parentName": "/Lotus/Types/Items/MiscItems/Forma",
             "excludeFromCodex": true
@@ -5307,6 +5822,69 @@
             "excludeFromCodex": true
         },
         {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConAlleyValguma",
+            "name": "Terraza de H\u00f6llvania en verano",
+            "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a trav\u00e9s de la pesta\u00f1a de apariencia de warframe en el arsenal.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConMallGrano",
+            "name": "Tienda de electr\u00f3nica Tech Titan",
+            "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a trav\u00e9s de la pesta\u00f1a de apariencia de warframe en el arsenal.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConMallStargla",
+            "name": "Metro del centro comercial de H\u00f6llvania",
+            "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a trav\u00e9s de la pesta\u00f1a de apariencia de warframe en el arsenal.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetJekabpils",
+            "name": "Intersecci\u00f3n de H\u00f6llvania en invierno",
+            "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a trav\u00e9s de la pesta\u00f1a de apariencia de warframe en el arsenal.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetMatisa",
+            "name": "Viviendas de H\u00f6llvania en verano",
+            "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a trav\u00e9s de la pesta\u00f1a de apariencia de warframe en el arsenal.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetOgres",
+            "name": "Barrio hist\u00f3rico de H\u00f6llvania en primavera",
+            "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a trav\u00e9s de la pesta\u00f1a de apariencia de warframe en el arsenal.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetStrencu",
+            "name": "Casco antiguo de H\u00f6llvania en oto\u00f1o",
+            "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a trav\u00e9s de la pesta\u00f1a de apariencia de warframe en el arsenal.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaIntMallArcade",
+            "name": "Arcade Orbit",
+            "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a trav\u00e9s de la pesta\u00f1a de apariencia de warframe en el arsenal.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaTailorShop",
+            "name": "Cuarto secreto del centro comercial",
+            "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a trav\u00e9s de la pesta\u00f1a de apariencia de warframe en el arsenal.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/PhotoBooth/Zariman/PhotoboothTileZarAmphitheatre",
             "name": "Escena del Anfiteatro Zariman",
             "description": "Desbloquea esta escena para usar en el modo de estudio, se accede a trav\u00e9s de la pesta\u00f1a de apariencia de warframe en el arsenal.",
@@ -5790,6 +6368,30 @@
             "description": "Este fieldron destruido podr\u00eda promover la investigaci\u00f3n en campos de contenci\u00f3n sobrecalentados.\r\n\r\nUbicaciones: Venus, Marte, J\u00fapiter, Europa, Neptuno, y Pluto.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Research/SampleBase"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/AmazingEternals/TAExArmyManWinterTennoBaumToyDeco",
+            "name": "Juguete de Comando Centuri\u00f3n",
+            "description": "Decora el orbitador con esta figura de un antiguo guerrero, hecha del m\u00e1s fino polietileno verde. Circa 1999.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/AmazingEternals/TAExPlushAstronautRayTennoBaumToyDeco",
+            "name": "Juguete de Astronauta",
+            "description": "\u00a1Tu propio astronauta de juguete, listo para las aventuras espaciales!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/AmazingEternals/TAExRocketShipTennoBaumToyDeco",
+            "name": "Juguete de Cohete Lua",
+            "description": "Conmemora los aterrizajes en Lua con este divertido y resistente cohete. Pilas no incluidas.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/CorpusShip/LisetPropGreedCoinBlack",
@@ -6996,6 +7598,14 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ChildDrawingBase"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophy1999Bronze",
+            "name": "El Camino de Acero - 1999",
+            "description": "Un s\u00edmbolo por haber recorrido El Camino de Acero en 1999",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyCeresBronze",
             "name": "El Camino de Acero - Ceres",
             "description": "Un s\u00edmbolo por haber recorrido El Camino de Acero en Ceres",
@@ -7346,6 +7956,20 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyAmir",
+            "name": "Floof de Amir",
+            "description": "\u00a1Ahora puedes darle a Amir esos abrazos que tanto ama!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyAoi",
+            "name": "Floof de Aoi",
+            "description": "Este peluche ha sido aprobado personalmente por Aoi. Se puede abrazar sin temor a que se aplaste.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyArthur",
             "name": "Floof de Arthur",
             "description": "\u201cMis estudios del per\u00edodo de 1999 han revelado una reliquia de valor incalculable conocida como Amiguito de peluche. Debemos recrear las maravillas del pasado\u201d. - Loid",
@@ -7412,6 +8036,13 @@
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyDesertSkate",
             "name": "Floof de Raya del desierto",
             "description": "\u00a1Evita las arenas movedizas con este compa\u00f1erito apachurrable!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyEleanor",
+            "name": "Floof de Eleanor",
+            "description": "Esta adorable r\u00e9plica de Eleanor no se meter\u00e1 en tu cabeza ni te mostrar\u00e1 los dientes.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
@@ -7507,6 +8138,13 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLettie",
+            "name": "Floof de Lettie",
+            "description": "Esta adorable versi\u00f3n de la agotada m\u00e9dica del Hex parece mucho m\u00e1s dispuesta a aceptar abrazos que su hom\u00f3loga de la vida real.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLotus",
             "name": "Floof de Lotus",
             "description": "Se puso mucho amor en cada puntada de este Floof.",
@@ -7573,6 +8211,13 @@
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyPobbersUncommonDirty",
             "name": "Floof de Pobber de Gral",
             "description": "Un Floof de Pobber muy querido, que alguna vez perteneci\u00f3 al grineer conocido como Gral.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyQuincy",
+            "name": "Floof de Quincy",
+            "description": "Una adorable r\u00e9plica del francotirador del Hex. Abr\u00e1zalo tanto como quieras, no arruinar\u00e1s su estilo.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
@@ -9246,8 +9891,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/1999BoybandPoster",
-            "name": "Warframe: 1999 On-lyne Poster",
-            "description": "Celebrate the release of Warframe: 1999 with this poster of the On-lyne boys and their Technocyte Coda counterparts.",
+            "name": "P\u00f3ster de On-lyne de \u00abWarframe: 1999\u00bb",
+            "description": "Celebra el lanzamiento de \u00abWarframe: 1999\u00bb con este p\u00f3ster de los chicos de On-lyne y sus hom\u00f3logos Tecnocitos Coda.",
             "codexSecret": true,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
@@ -9260,8 +9905,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/1999OnlyneWallPoster",
-            "name": "On-lyne Poster Collage",
-            "description": "Show your love for Zeke, Drillbit, DJ Rom, Hardrive and Packet with this lovingly arranged collection of On-lyne fold-out posters. Who is your favorite?",
+            "name": "P\u00f3ster de On-lyne",
+            "description": "Muestra tu amor por Zeke, Drillbit, DJ Rom, Hardrive y Packet con esta colecci\u00f3n de p\u00f3steres desplegables de On-lyne cuidadosamente organizados. \u00bfQui\u00e9n es tu favorito?",
             "codexSecret": true,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
@@ -9329,6 +9974,13 @@
             "description": "Una peque\u00f1a y tambaleante estatua de Alad V.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Albrecht2in1Display",
+            "name": "Exhibidor de Fusi\u00f3n Entrati de la comunidad",
+            "description": "Un exhibidor \u00fanico que muestra las dos caras de Albrecht Entrati. Creado por la artista de la comunidad, Shiro_kosh_a.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ChildDrawingBase"
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/AlbrechtPortrait",
@@ -9750,6 +10402,34 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/CaliberChicksAnnaKiBobbleHead",
+            "name": "Estatua Tambaleante - Anna Ki",
+            "description": "Una peque\u00f1a y tambaleante estatua de Anna Ki.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/CaliberChicksJillianBobbleHead",
+            "name": "Estatua Tambaleante - Jillian Killian",
+            "description": "Una peque\u00f1a y tambaleante estatua de Jillian Killian.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/CaliberChicksLillianBobbleHead",
+            "name": "Estatua Tambaleante - Lillian Killian",
+            "description": "Una peque\u00f1a y tambaleante estatua de Lillian Killian.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/CaliberChicksPoster",
+            "name": "P\u00f3ster Caliber Chicks 2",
+            "description": "Estas hermanas nunca fallan. \u00a1Jillian y Lillian Killian est\u00e1n de vuelta para patear traseros! ",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/CephalonSudaSyndicateOrnament",
             "name": "Escultura de dato",
             "description": "Un peque\u00f1o icono de c\u00e9falon Suda para colocar en tu orbitador.",
@@ -10083,6 +10763,13 @@
             "uniqueName": "/Lotus/Types/Items/ShipDecos/CorpusGreedReliefK",
             "name": "Somos corpus",
             "description": "Somos deseo. La nuestra es la mano dorada que codicia. Somos. corpus.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Cyte09ExaltedSniperShipDeco",
+            "name": "Artefacto perdido en el tiempo",
+            "description": "Mucho antes de la era orokin, hubo un tirador que se convertir\u00eda en leyenda. Esta decoraci\u00f3n rinde homenaje al protoframe de Cyte-09, Quincy.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
@@ -10922,7 +11609,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/KubrowToyC",
-            "name": "Juguete de Mascota Tecnolog\u00eda grineer",
+            "name": "Juguete de Mascota Tecnolog\u00eda Grineer",
             "description": "El juguete favorito de tu mascota.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
@@ -11072,6 +11759,13 @@
             "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneBeachcomber",
             "name": "Dron Domestik Beachcomber",
             "description": "Agrega un poco de brillo a tu Orbitador con esta deslumbrante unidad de saneamiento.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneCaliberChicks",
+            "name": "Dron Domestik Caliber",
+            "description": "\u00a1Igual que el dron que les proporciona potenciadores a las Killian!\r\n\r\nAdvertencia: s\u00f3lo con fines de entretenimiento. La funcionalidad real se limita a la limpieza. Esta unidad no proporcionar\u00e1 potenciadores.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
@@ -12410,6 +13104,13 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardCyte",
+            "name": "Prex de Cyte-09",
+            "description": "El beso de la extinci\u00f3n",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardDagath",
             "name": "Prex de Dagath",
             "description": "El espejo que acusa",
@@ -13638,7 +14339,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/ModsTransmuteFeatureItem",
             "name": "Segmento de transmutaci\u00f3n de mods",
-            "description": "/Lotus/Language/ShipFeatureItems/ModsTransmuteFeatureItemDesc",
+            "description": "",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipFeatureItems/ShipFeatureItem",
             "showInInventory": false
@@ -14019,6 +14720,133 @@
             "showInInventory": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CC16BitGirlsSongItem",
+            "name": "16-Bit Girls with Machine Guns",
+            "description": "Banda sonora original de Caliber Chicks 2 para disfrutar en el somacordio de tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCAnnaKiGOBSongItem",
+            "name": "Anna Ki in the G.O.B.",
+            "description": "Banda sonora original de Caliber Chicks 2 para disfrutar en el somacordio de tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCAnnaKiPunkSongItem",
+            "name": "Anna Ki is a Punk Rocker",
+            "description": "Banda sonora original de Caliber Chicks 2 para disfrutar en el somacordio de tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCBizMarqueBopSongItem",
+            "name": "Biz-Marque Bop",
+            "description": "Banda sonora original de Caliber Chicks 2 para disfrutar en el somacordio de tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCIWannaBeYourGOBSongItem",
+            "name": "I Wanna Be Your G.O.B.",
+            "description": "Banda sonora original de Caliber Chicks 2 para disfrutar en el somacordio de tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCKickOutTheGunsSongItem",
+            "name": "Kick Out the Guns",
+            "description": "Banda sonora original de Caliber Chicks 2 para disfrutar en el somacordio de tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCLundoraCallingSongItem",
+            "name": "Lundora Calling",
+            "description": "Banda sonora original de Caliber Chicks 2 para disfrutar en el somacordio de tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCPsychoKillianSongItem",
+            "name": "Psycho Killian",
+            "description": "Banda sonora original de Caliber Chicks 2 para disfrutar en el somacordio de tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CorpusLichLoginSongItem",
+            "name": "M\u00fasica de las Hermanas de Parvos",
+            "description": "Tema musical de las Hermanas de Parvos para disfrutar en el somacordio de tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CorpusRailjackLoginSongItem",
+            "name": "M\u00fasica del Railjack Redise\u00f1ado",
+            "description": "Tema musical del Railjack Redise\u00f1ado para disfrutar en el somacordio de tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/DanteUnboundLoginSongItem",
+            "name": "M\u00fasica de Dante Liberado",
+            "description": "Tema musical de Dante Liberado para disfrutar en el somacordio de tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/DeadlockLoginSongItem",
+            "name": "M\u00fasica de El Protocolo Punto Muerto",
+            "description": "Tema musical de El Protocolo Punto Muerto para disfrutar en el somacordio de tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/DeimosLoginSongItem",
+            "name": "M\u00fasica de Coraz\u00f3n de Deimos",
+            "description": "Tema musical de Coraz\u00f3n de Deimos para disfrutar en el somacordio de tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/DuviriKullervoLoginSongItem",
+            "name": "M\u00fasica de Los Siete Cr\u00edmenes de Kullervo",
+            "description": "Tema musical de Los Siete Cr\u00edmenes de Kullervo para disfrutar en el somacordio de tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/DuviriLoginSongItem",
+            "name": "M\u00fasica de La Paradoja de Duviri",
+            "description": "Tema musical de La Paradoja de Duviri para disfrutar en el somacordio de tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/SongItems/EmpyreanSongItem",
             "name": "M\u00fasica de inicio de sesi\u00f3n de Emp\u00edreo",
             "description": "M\u00fasica de inicio de sesi\u00f3n de Emp\u00edreo para disfrutar desde el Somacordio en tu orbitador.",
@@ -14068,11 +14896,29 @@
             "showInInventory": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/SongItems/JadeShadowsLoginSongItem",
+            "name": "M\u00fasica de Sombras de Jade",
+            "description": "Tema musical de Sombras de Jade para disfrutar en el somacordio de tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/SongItems/KhoraPrimeSongItem",
             "name": "Tema de Khora Prime",
             "description": "El tema musical distintivo de Khora Prime para disfrutar desde el Somacordio en tu Orbitador.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/KuvaLichLoginSongItem",
+            "name": "M\u00fasica de La Sangre Ancestral",
+            "description": "Tema musical de La Sangre Ancestral para disfrutar en el somacordio de tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
             "showInInventory": false
         },
         {
@@ -14117,6 +14963,94 @@
             "showInInventory": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneArsenalSongItem",
+            "name": "Arsenal",
+            "description": "\u00a1Hay m\u00e1s de una banda ah\u00ed afuera! Revive los acontecimientos de 1999 con estos temas de las calles hostiles de H\u00f6llvania.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneCoreContainmentSongItem",
+            "name": "Core Containment",
+            "description": "\u00a1Hay m\u00e1s de una banda ah\u00ed afuera! Revive los acontecimientos de 1999 con estos temas de las calles hostiles de H\u00f6llvania.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneCutThroughSongItem",
+            "name": "Cut Through",
+            "description": "\u00a1Hay m\u00e1s de una banda ah\u00ed afuera! Revive los acontecimientos de 1999 con estos temas de las calles hostiles de H\u00f6llvania.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneInfectionSongItem",
+            "name": "Infection",
+            "description": "\u00a1Hay m\u00e1s de una banda ah\u00ed afuera! Revive los acontecimientos de 1999 con estos temas de las calles hostiles de H\u00f6llvania.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneNumbSongItem",
+            "name": "Numb",
+            "description": "\u00a1Hay m\u00e1s de una banda ah\u00ed afuera! Revive los acontecimientos de 1999 con estos temas de las calles hostiles de H\u00f6llvania.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlynePartyOfYourLifetimeSongItem",
+            "name": "Party of your Lifetime",
+            "description": "Canciones de \u00e9xito del \u00e1lbum de On-lyne 'Party of your Lifetime'",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlynePickASideSongItem",
+            "name": "Pick a Side",
+            "description": "\u00a1Hay m\u00e1s de una banda ah\u00ed afuera! Revive los acontecimientos de 1999 con estos temas de las calles hostiles de H\u00f6llvania.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneRottenLivesSongItem",
+            "name": "Rotten Lives",
+            "description": "\u00a1Hay m\u00e1s de una banda ah\u00ed afuera! Revive los acontecimientos de 1999 con estos temas de las calles hostiles de H\u00f6llvania.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneShutItDownSongItem",
+            "name": "Shut It Down",
+            "description": "\u00a1Hay m\u00e1s de una banda ah\u00ed afuera! Revive los acontecimientos de 1999 con estos temas de las calles hostiles de H\u00f6llvania.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneTheCallSongItem",
+            "name": "The Call",
+            "description": "\u00a1Hay m\u00e1s de una banda ah\u00ed afuera! Revive los acontecimientos de 1999 con estos temas de las calles hostiles de H\u00f6llvania.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneTheGreatDespairSongItem",
+            "name": "The Great Despair",
+            "description": "Canciones de \u00e9xito del \u00e1lbum de On-lyne 'Party of your Lifetime'",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/SongItems/ProteaPrimeSongItem",
             "name": "Tema de Protea Prime",
             "description": "El tema musical distintivo de Protea Prime para disfrutar desde el Somacordio en tu orbitador.",
@@ -14141,6 +15075,24 @@
             "showInInventory": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/SongItems/TheNewWarLoginSongItem",
+            "name": "M\u00fasica de La Nueva Guerra",
+            "description": "Tema musical de La Nueva Guerra para disfrutar en el somacordio de tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/TheSacrificeLoginSongItem",
+            "name": "M\u00fasica de El Sacrificio",
+            "description": "Tema musical de El Sacrificio para disfrutar en el somacordio de tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/SongItems/VaubanPrimeSongItem",
             "name": "Tema de Vauban Prime",
             "description": "El tema musical distintivo de Vauban Prime para disfrutar desde el Somacordio en tu Orbitador.",
@@ -14149,11 +15101,56 @@
             "showInInventory": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/SongItems/VeilbreakerLoginSongItem",
+            "name": "M\u00fasica de Rompevelos",
+            "description": "Tema musical de Rompevelos para disfrutar en el somacordio de tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/VenusOrbVallisLoginSongItem",
+            "name": "M\u00fasica de Fortuna",
+            "description": "Tema musical de Fortuna para disfrutar en el somacordio de tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/VoidEclipseLoginSongItem",
+            "name": "M\u00fasica de La Presa de Lua",
+            "description": "Tema musical de La Presa de Lua para disfrutar en el somacordio de tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/WhispersInTheWallLoginSongItem",
+            "name": "M\u00fasica de Susurros en las Paredes",
+            "description": "Tema musical de Susurros en las Paredes para disfrutar en el somacordio de tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/SongItems/WispPrimeSongItem",
             "name": "Tema de Wisp Prime",
             "description": "El tema musical distintivo de Wisp Prime para disfrutar desde el Somacordio en tu Orbitador.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/ZarimanLoginSongItem",
+            "name": "M\u00fasica de \u00c1ngeles de Zariman",
+            "description": "Tema musical de \u00c1ngeles de Zariman para disfrutar en el somacordio de tu orbitador.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
             "showInInventory": false
         },
         {
@@ -15061,6 +16058,27 @@
             "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ConcreteFrameSystemsComponent",
             "name": "Sistemas de Qorvex",
             "description": "Componente de los sistemas del warframe Qorvex.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09ChassisComponent",
+            "name": "Chasis de Cyte-09",
+            "description": "Componente del chasis del warframe Cyte-09.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09HelmetComponent",
+            "name": "Neur\u00f3pticas de Cyte-09",
+            "description": "Componente de las neur\u00f3pticas del warframe Cyte-09.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09SystemsComponent",
+            "name": "Sistemas de Cyte-09",
+            "description": "Componente de los sistemas del warframe Cyte-09.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem"
         },
@@ -18472,6 +19490,30 @@
             "primeSellingPrice": 45
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolBarrel",
+            "name": "Ca\u00f1\u00f3n de Vesper 77",
+            "description": "Un componente de fabricaci\u00f3n de arma.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolReceiver",
+            "name": "Receptor de Vesper 77",
+            "description": "Un componente de fabricaci\u00f3n de arma.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolStock",
+            "name": "Empu\u00f1adura de Vesper 77",
+            "description": "Un componente de fabricaci\u00f3n de arma.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LatoVandalBarrel",
             "name": "Ca\u00f1\u00f3n de Lato V\u00e1ndalo",
             "description": "Un componente de fabricaci\u00f3n de arma.",
@@ -19790,6 +20832,30 @@
             "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleBarrel",
+            "name": "Ca\u00f1\u00f3n de Reconifex",
+            "description": "Un componente de fabricaci\u00f3n de arma.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleReceiver",
+            "name": "Receptor de Reconifex",
+            "description": "Un componente de fabricaci\u00f3n de arma.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleStock",
+            "name": "Culata de Reconifex",
+            "description": "Un componente de fabricaci\u00f3n de arma.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnConcreteArchgunBarrel",
             "name": "Ca\u00f1\u00f3n de Mandonel",
             "description": "Un componente de fabricaci\u00f3n de arma de archwing.",
@@ -20136,16 +21202,16 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/LastChanceItemA",
-            "name": "\u00daLTIMA OPORTUNIDAD - Parte 1",
-            "description": "\u00a1Mag, Nova, Limbo, Trinity, Hydroid, Mesa, Volt y Loki!",
+            "name": "Ofrendas de Varzia - \u00daltima oportunidad",
+            "description": "Ve a Varzia para intercambiar Aya y Aya Real por equipamiento exclusivo.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/LastChanceItemB",
-            "name": "\u00daLTIMA OPORTUNIDAD - Parte 2",
-            "description": "\u00a1Ash, Vauban, Nekros, Oberon, Saryn, Valkyr, Ember y Frost!",
+            "name": "Ofrendas de Varzia - Parte 2",
+            "description": "Ve a Varzia para intercambiar Aya y Aya Real por equipamiento exclusivo.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/LastChanceItemA",
             "excludeFromCodex": true

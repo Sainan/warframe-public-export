@@ -584,12 +584,12 @@
             "codexSecret": false,
             "masteryReq": 0,
             "sprintSpeed": 1.1,
-            "passiveDescription": "D\u00fc\u015fen dostlar\u0131n\u0131 %|RANGE| daha uzaktan ve %|SPEED| daha h\u0131zl\u0131 diriltir.",
+            "passiveDescription": "<AFFINITY_SHARE>XP Menzilindeki m\u00fcttefikler, Trinity'nin Maksimum Enerjisinin %|BUFF| kadar\u0131n\u0131 Sa\u011fl\u0131k olarak kazan\u0131r.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/WellOfLifeAbility",
                     "abilityName": "Well of Life",
-                    "description": "Bir d\u00fc\u015fman\u0131n \u00fczerinde ya\u015fam kuyusu yarat\u0131r. Hedefe yak\u0131n m\u00fcttefiklerin sa\u011fl\u0131\u011f\u0131 yenilenir ve Stat\u00fc Etkilerine kar\u015f\u0131 ba\u011f\u0131\u015f\u0131kl\u0131k kazan\u0131r. Yak\u0131n menzildeki m\u00fcttefiklere y\u00f6neltilen Stat\u00fc Etkileri d\u00fc\u015fmanlara y\u00f6nlendirilir. M\u00fcttefikler d\u00fc\u015fmana sald\u0131rd\u0131klar\u0131nda ek sa\u011fl\u0131k kazan\u0131rlar."
+                    "description": "Bir d\u00fc\u015fman \u00fczerinde, yak\u0131ndaki m\u00fcttefiklere y\u00f6nelik Stat\u00fc Etkisi hasar\u0131n\u0131 emecek bir ya\u015fam kuyusu olu\u015ftur. M\u00fcttefikler hedefe sald\u0131rd\u0131klar\u0131nda ilave Sa\u011fl\u0131k kazan\u0131r. M\u00fcttefikler \u00f6l\u00fcrse, ya\u015fam kuyusundaki d\u00fc\u015fmanlar onlar\u0131n yerine \u00f6l\u00fcr."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/EnergyVampireAbility",
@@ -604,7 +604,7 @@
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BlessingAbility",
                     "abilityName": "Blessing",
-                    "description": "Yak\u0131ndaki m\u00fcttefiklerin Sa\u011fl\u0131\u011f\u0131n\u0131 ve Kalkanlar\u0131n\u0131 yenileyerek ayn\u0131 zamanda d\u00fc\u015fmanlardan ald\u0131klar\u0131 hasar\u0131 azalt\u0131r."
+                    "description": "D\u00fc\u015fmanlardan ald\u0131klar\u0131 hasar\u0131 azalt\u0131rken <AFFINITY_SHARE>XP Menzili i\u00e7indeki m\u00fcttefiklerin sa\u011fl\u0131\u011f\u0131n\u0131 ve kalkanlar\u0131n\u0131 yeniler."
                 }
             ],
             "productCategory": "Suits"
@@ -622,12 +622,12 @@
             "codexSecret": false,
             "masteryReq": 0,
             "sprintSpeed": 1,
-            "passiveDescription": "D\u00fc\u015fen dostlar\u0131n\u0131 %|RANGE| daha uzaktan ve %|SPEED| daha h\u0131zl\u0131 kald\u0131r\u0131r.",
+            "passiveDescription": "<AFFINITY_SHARE>XP Menzilindeki m\u00fcttefikler, Trinity'nin Maksimum Enerjisinin %|BUFF| kadar\u0131n\u0131 Sa\u011fl\u0131k olarak kazan\u0131r.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/WellOfLifeAbility",
                     "abilityName": "Well of Life",
-                    "description": "Bir d\u00fc\u015fman\u0131n \u00fczerinde ya\u015fam kuyusu yarat\u0131r. Hedefe yak\u0131n m\u00fcttefiklerin sa\u011fl\u0131\u011f\u0131 yenilenir ve Stat\u00fc Etkilerine kar\u015f\u0131 ba\u011f\u0131\u015f\u0131kl\u0131k kazan\u0131r. Yak\u0131n menzildeki m\u00fcttefiklere y\u00f6neltilen Stat\u00fc Etkileri d\u00fc\u015fmanlara y\u00f6nlendirilir. M\u00fcttefikler d\u00fc\u015fmana sald\u0131rd\u0131klar\u0131nda ek sa\u011fl\u0131k kazan\u0131rlar."
+                    "description": "Bir d\u00fc\u015fman \u00fczerinde, yak\u0131ndaki m\u00fcttefiklere y\u00f6nelik Stat\u00fc Etkisi hasar\u0131n\u0131 emecek bir ya\u015fam kuyusu olu\u015ftur. M\u00fcttefikler hedefe sald\u0131rd\u0131klar\u0131nda ilave Sa\u011fl\u0131k kazan\u0131r. M\u00fcttefikler \u00f6l\u00fcrse, ya\u015fam kuyusundaki d\u00fc\u015fmanlar onlar\u0131n yerine \u00f6l\u00fcr."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/EnergyVampireAbility",
@@ -642,7 +642,7 @@
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BlessingAbility",
                     "abilityName": "Blessing",
-                    "description": "Yak\u0131ndaki m\u00fcttefiklerin Sa\u011fl\u0131\u011f\u0131n\u0131 ve Kalkanlar\u0131n\u0131 yenileyerek ayn\u0131 zamanda d\u00fc\u015fmanlardan ald\u0131klar\u0131 hasar\u0131 azalt\u0131r."
+                    "description": "D\u00fc\u015fmanlardan ald\u0131klar\u0131 hasar\u0131 azalt\u0131rken <AFFINITY_SHARE>XP Menzili i\u00e7indeki m\u00fcttefiklerin sa\u011fl\u0131\u011f\u0131n\u0131 ve kalkanlar\u0131n\u0131 yeniler."
                 }
             ],
             "productCategory": "Suits"
@@ -2437,27 +2437,27 @@
             "codexSecret": false,
             "masteryReq": 0,
             "sprintSpeed": 1.125,
-            "passiveDescription": "D\u00fc\u015fmanlar Nyx Prime'a ni\u015fan al\u0131rken hedef tutturma oranlar\u0131 %|PERCENT| d\u00fc\u015fer.",
+            "passiveDescription": "Nyx, <AFFINITY_SHARE>XP Menzili i\u00e7inde dikkati da\u011f\u0131t\u0131lan her d\u00fc\u015fman i\u00e7in Birincil ve \u0130kincil silahlarda +%|CRITICAL| Kritik \u015eans\u0131 kazan\u0131r. En fazla +%|MAX| olabilir.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/MindControlAbility",
                     "abilityName": "Mind Control",
-                    "description": "Nyx bir d\u00fc\u015fman\u0131n zihnini i\u015fgal ederek onu Tenno taraf\u0131na \u00e7eker. Nyx, zihnini i\u015fgal etti\u011fi hedefe sald\u0131rarak onun hasar\u0131n\u0131 \u00e7o\u011faltabilir."
+                    "description": "Nyx bir hedefin zihnini ele ge\u00e7irerek onlar\u0131 Tenno i\u00e7in sava\u015fmaya zorlar. Kontrol alt\u0131ndaki d\u00fc\u015fmanlar\u0131n art\u0131r\u0131lm\u0131\u015f <DT_RADIATION_COLOR>Radyasyon Stat\u00fc \u015eans\u0131 olur. Nyx'in kontrol alt\u0131ndaki hedeflere ate\u015f etmesi durumunda verdikleri Hasar Oran\u0131 artar."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/DaggerAbility",
                     "abilityName": "Psychic Bolts",
-                    "description": "Nyx d\u00fc\u015fmanlara hedeflerinin telekinesisle bulan bir g\u00fc\u00e7 topu y\u0131\u011f\u0131n\u0131yla sald\u0131r\u0131r. Bu sald\u0131r\u0131 d\u00fc\u015fman savunmalar\u0131n\u0131 par\u00e7alar."
+                    "description": "Nyx, yak\u0131ndaki d\u00fc\u015fmanlar\u0131 telekinetik hassasiyetle takip edip vuran bir dizi psi\u015fik m\u00fchimmat f\u0131rlat\u0131r. D\u00fc\u015fmanlar \u00f6ld\u00fcr\u00fcld\u00fc\u011f\u00fcnde, ek m\u00fchimmat yeni hedeflere da\u011f\u0131l\u0131r. D\u00fc\u015fmanlara vurmak savunmalar\u0131n\u0131 zay\u0131flat\u0131r ve bir k\u0131sm\u0131n\u0131 Nyx'e aktar\u0131r."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ChaosAbility",
                     "abilityName": "Chaos",
-                    "description": "G\u00fc\u00e7l\u00fc psi\u015fik patlama g\u00fcc\u00fc ile Nyx d\u00fc\u015fmanlar\u0131n kafalar\u0131n\u0131 kar\u0131\u015ft\u0131r\u0131p sa\u011fa sola sald\u0131rmalar\u0131n\u0131 sa\u011flayarak sava\u015f alan\u0131nda karma\u015fa yarat\u0131r."
+                    "description": "Nyx y\u0131k\u0131c\u0131 bir psi\u015fik darbe yayar, d\u00fc\u015fmanlar\u0131 geni\u015f bir yar\u0131\u00e7apta \u015fa\u015fk\u0131na \u00e7evirir ve birbirlerine kar\u015f\u0131 sald\u0131rmalar\u0131n\u0131 sa\u011flar. Kafas\u0131 kar\u0131\u015fan d\u00fc\u015fmanlar rastgele olarak etraf\u0131na sald\u0131r\u0131r."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/SelfBulletAttractorAbility",
                     "abilityName": "Absorb",
-                    "description": "Nyx, ald\u0131\u011f\u0131 t\u00fcm hasar\u0131 emer ve bu toplanan enerjiyi radyal bir \u015fekilde de\u015farj eder. Nyx'in Silah hasar\u0131, Yetenek bitti\u011finde al\u0131nan toplam hasar \u00fczerinden artar."
+                    "description": "Nyx, kendisine verilen hasar\u0131 ve kafas\u0131 kar\u0131\u015fm\u0131\u015f d\u00fc\u015fmanlar\u0131n birbirlerine verdi\u011fi hasar\u0131 i\u00e7ine \u00e7eker ve tutar, ard\u0131ndan bunu y\u0131k\u0131c\u0131 bir radyal patlamaya d\u00f6n\u00fc\u015ft\u00fcr\u00fcr. Patlaman\u0131n ard\u0131ndan, k\u0131sa bir s\u00fcre zarar g\u00f6rmezlik duruma girer ve emilen hasara orant\u0131l\u0131 bir Silah Hasar\u0131 art\u0131\u015f\u0131 kazan\u0131r."
                 }
             ],
             "productCategory": "Suits"
@@ -2475,27 +2475,27 @@
             "codexSecret": false,
             "masteryReq": 0,
             "sprintSpeed": 1.1,
-            "passiveDescription": "D\u00fc\u015fmanlar Nyx'i hedeflediklerinde isabet oranlar\u0131 %|PERCENT| azal\u0131r.",
+            "passiveDescription": "Nyx, <AFFINITY_SHARE>XP Menzili i\u00e7inde dikkati da\u011f\u0131t\u0131lan her d\u00fc\u015fman i\u00e7in Birincil ve \u0130kincil silahlarda +%|CRITICAL| Kritik \u015eans\u0131 kazan\u0131r. En fazla +%|MAX| olabilir.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/MindControlAbility",
                     "abilityName": "Mind Control",
-                    "description": "Nyx bir d\u00fc\u015fman\u0131n zihnini i\u015fgal ederek onu Tenno taraf\u0131na \u00e7eker. Nyx, zihnini i\u015fgal etti\u011fi hedefe sald\u0131rarak onun hasar\u0131n\u0131 \u00e7o\u011faltabilir."
+                    "description": "Nyx bir hedefin zihnini ele ge\u00e7irerek onlar\u0131 Tenno i\u00e7in sava\u015fmaya zorlar. Kontrol alt\u0131ndaki d\u00fc\u015fmanlar\u0131n art\u0131r\u0131lm\u0131\u015f <DT_RADIATION_COLOR>Radyasyon Stat\u00fc \u015eans\u0131 olur. Nyx'in kontrol alt\u0131ndaki hedeflere ate\u015f etmesi durumunda verdikleri Hasar Oran\u0131 artar."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/DaggerAbility",
                     "abilityName": "Psychic Bolts",
-                    "description": "Nyx d\u00fc\u015fmanlara hedeflerinin telekinesisle bulan bir g\u00fc\u00e7 topu y\u0131\u011f\u0131n\u0131yla sald\u0131r\u0131r. Bu sald\u0131r\u0131 d\u00fc\u015fman savunmalar\u0131n\u0131 par\u00e7alar."
+                    "description": "Nyx, yak\u0131ndaki d\u00fc\u015fmanlar\u0131 telekinetik hassasiyetle takip edip vuran bir dizi psi\u015fik m\u00fchimmat f\u0131rlat\u0131r. D\u00fc\u015fmanlar \u00f6ld\u00fcr\u00fcld\u00fc\u011f\u00fcnde, ek m\u00fchimmat yeni hedeflere da\u011f\u0131l\u0131r. D\u00fc\u015fmanlara vurmak savunmalar\u0131n\u0131 zay\u0131flat\u0131r ve bir k\u0131sm\u0131n\u0131 Nyx'e aktar\u0131r."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ChaosAbility",
                     "abilityName": "Chaos",
-                    "description": "G\u00fc\u00e7l\u00fc psi\u015fik patlama g\u00fcc\u00fc ile Nyx d\u00fc\u015fmanlar\u0131n kafalar\u0131n\u0131 kar\u0131\u015ft\u0131r\u0131p sa\u011fa sola sald\u0131rmalar\u0131n\u0131 sa\u011flayarak sava\u015f alan\u0131nda karma\u015fa yarat\u0131r."
+                    "description": "Nyx y\u0131k\u0131c\u0131 bir psi\u015fik darbe yayar, d\u00fc\u015fmanlar\u0131 geni\u015f bir yar\u0131\u00e7apta \u015fa\u015fk\u0131na \u00e7evirir ve birbirlerine kar\u015f\u0131 sald\u0131rmalar\u0131n\u0131 sa\u011flar. Kafas\u0131 kar\u0131\u015fan d\u00fc\u015fmanlar rastgele olarak etraf\u0131na sald\u0131r\u0131r."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/SelfBulletAttractorAbility",
                     "abilityName": "Absorb",
-                    "description": "Nyx, ald\u0131\u011f\u0131 t\u00fcm hasar\u0131 emer ve bu toplanan enerjiyi radyal bir \u015fekilde de\u015farj eder. Nyx'in Silah hasar\u0131, Yetenek bitti\u011finde al\u0131nan toplam hasar \u00fczerinden artar."
+                    "description": "Nyx, kendisine verilen hasar\u0131 ve kafas\u0131 kar\u0131\u015fm\u0131\u015f d\u00fc\u015fmanlar\u0131n birbirlerine verdi\u011fi hasar\u0131 i\u00e7ine \u00e7eker ve tutar, ard\u0131ndan bunu y\u0131k\u0131c\u0131 bir radyal patlamaya d\u00f6n\u00fc\u015ft\u00fcr\u00fcr. Patlaman\u0131n ard\u0131ndan, k\u0131sa bir s\u00fcre zarar g\u00f6rmezlik duruma girer ve emilen hasara orant\u0131l\u0131 bir Silah Hasar\u0131 art\u0131\u015f\u0131 kazan\u0131r."
                 }
             ],
             "productCategory": "Suits"
@@ -2595,7 +2595,7 @@
             "codexSecret": false,
             "masteryReq": 0,
             "sprintSpeed": 1,
-            "passiveDescription": "E\u011fer Nidus en az |STACKS| Mutasyon y\u0131\u011f\u0131n\u0131 \u00f6ld\u00fcr\u00fcrse, bu |STACKS| y\u0131\u011f\u0131nlar kullan\u0131l\u0131r, bu durum |DURATION|sn boyunca dokunulmazl\u0131k sa\u011flar ve %|HEAL| Sa\u011fl\u0131k verir.",
+            "passiveDescription": "E\u011fer Nidus en az |STACKS| Mutasyon y\u0131\u011f\u0131n\u0131 varken \u00f6lmesi durumunda |STACKS| y\u0131\u011f\u0131n\u0131 kullan\u0131l\u0131r. Bu durum |DURATION|sn boyunca \u00f6l\u00fcms\u00fczl\u00fck sa\u011flar ve %|HEAL| Sa\u011fl\u0131k verir.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/InfestRuptureAbility",
@@ -2633,7 +2633,7 @@
             "codexSecret": false,
             "masteryReq": 0,
             "sprintSpeed": 1,
-            "passiveDescription": "E\u011fer Nidus en az |STACKS| Mutasyon y\u0131\u011f\u0131n\u0131 \u00f6ld\u00fcr\u00fcrse, bu |STACKS| y\u0131\u011f\u0131nlar kullan\u0131l\u0131r, bu durum |DURATION|sn boyunca dokunulmazl\u0131k sa\u011flar ve %|HEAL| Sa\u011fl\u0131k verir.",
+            "passiveDescription": "E\u011fer Nidus en az |STACKS| Mutasyon y\u0131\u011f\u0131n\u0131 varken \u00f6lmesi durumunda |STACKS| y\u0131\u011f\u0131n\u0131 kullan\u0131l\u0131r. Bu durum |DURATION|sn boyunca \u00f6l\u00fcms\u00fczl\u00fck sa\u011flar ve %|HEAL| Sa\u011fl\u0131k verir.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/InfestRuptureAbility",
@@ -3007,6 +3007,47 @@
             "productCategory": "Suits"
         },
         {
+            "uniqueName": "/Lotus/Powersuits/Frumentarius/Frumentarius",
+            "name": "Cyte-09",
+            "parentName": "/Lotus/Powersuits/Frumentarius/FrumentariusBaseSuit",
+            "description": "G\u00f6lge gibi hareket et, g\u00fc\u00e7le sald\u0131r. Orokin, hassas sorunlar\u0131 ortadan kald\u0131rmak i\u00e7in hasar ve gizlili\u011fi birle\u015ftiren bir Warframe yaratt\u0131, ancak onlar\u0131n yok olu\u015funun kaosunda ortadan kayboldu. Geriye sadece bir \u00fcretim ad\u0131 kald\u0131: Cyte-09.",
+            "health": 225,
+            "shield": 135,
+            "armor": 150,
+            "stamina": 3,
+            "power": 180,
+            "codexSecret": false,
+            "masteryReq": 0,
+            "sprintSpeed": 1.1,
+            "passiveDescription": "Zay\u0131f Nokta \u00d6ld\u00fcrmeleri, Cyte-09'un Zay\u0131f Nokta Kritik \u015eans\u0131n\u0131 mevcut g\u00f6revin s\u00fcresi boyunca en fazla %|CAP| olacak \u015fekilde %|INCREASE| art\u0131r\u0131r.",
+            "exalted": [
+                "/Lotus/Powersuits/Frumentarius/ExaltedSniper"
+            ],
+            "abilities": [
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusScanAbility",
+                    "abilityName": "Seek",
+                    "description": "\u0130leri dalga taramas\u0131 yans\u0131tan bir anten yerle\u015ftirir. Tespit edilen d\u00fc\u015fmanlar daha fazla Zay\u0131f Nokta Hasar\u0131 al\u0131r ve duvarlar\u0131n arkas\u0131ndan g\u00f6r\u00fcn\u00fcr hale gelir. Silahlar Delip ge\u00e7me \u00f6zelli\u011fi kazan\u0131r."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusAmmoAbility",
+                    "abilityName": "Resupply",
+                    "description": "Aktif silah\u0131n \u015farj\u00f6r\u00fcn\u00fc an\u0131nda dolduran, silaha se\u00e7ili Element Hasar\u0131n\u0131 veren ve Stat\u00fc Etkisine ek bir istif sa\u011flayan iki Elementsel Cephane Paketi f\u0131rlat\u0131r. Silah\u0131 Doldurmak bu etkiyi temizler. Keskin Ni\u015fanc\u0131 T\u00fcfekleri ekstra hasar kazan\u0131r.\r\n\r\nElementsel Hasar t\u00fcr\u00fcn\u00fc se\u00e7mek i\u00e7in yetenek tu\u015funa bas\u0131l\u0131 tut."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusCloakAbility",
+                    "abilityName": "Evade",
+                    "description": "Geriye do\u011fru z\u0131plar ve k\u0131sa bir s\u00fcre g\u00f6r\u00fcnmez olur. D\u00fc\u015fmanlar\u0131 zay\u0131f noktalar\u0131ndan vurarak \u00f6ld\u00fcrmek s\u00fcreyi uzat\u0131r ve Cyte-09'u iyile\u015ftirir."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusSniperAbility",
+                    "abilityName": "Neutralize",
+                    "description": "N\u00f6trle\u015ftiriciyi \u00e7a\u011f\u0131r\u0131r, Cyte-09'un \u00f6zel Keskin Ni\u015fanc\u0131 T\u00fcfe\u011finin att\u0131\u011f\u0131 mermiler, zay\u0131f noktalardan sekerek yak\u0131ndaki di\u011fer zay\u0131f noktalara y\u00f6nelir. Alternatif at\u0131\u015f, d\u00fc\u015fmanlar\u0131 tamamen donduran <DT_FREEZE_COLOR>Buz el bombas\u0131 atar."
+                }
+            ],
+            "productCategory": "Suits"
+        },
+        {
             "uniqueName": "/Lotus/Powersuits/Frost/FrostPrime",
             "name": "Frost Prime",
             "parentName": "/Lotus/Powersuits/Frost/FrostBaseSuit",
@@ -3034,7 +3075,7 @@
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/IceShieldAbility",
                     "abilityName": "Snow Globe",
-                    "description": "Frost, \u00f6nlenemez alan korumas\u0131 olu\u015fturmak i\u00e7in \u00e7evredeki t\u00fcm nem ve buhar\u0131 dondurur."
+                    "description": "Frost, b\u00f6lgedeki buhar\u0131 ve nemi dondurarak k\u0131sa s\u00fcreli yenilmezli\u011fe sahip koruyucu bir k\u00fcre olu\u015fturur."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/AvalancheAbility",
@@ -3072,7 +3113,7 @@
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/IceShieldAbility",
                     "abilityName": "Snow Globe",
-                    "description": "Frost, \u00f6nlenemez alan korumas\u0131 olu\u015fturmak i\u00e7in \u00e7evredeki t\u00fcm nem ve buhar\u0131 dondurur."
+                    "description": "Frost, b\u00f6lgedeki buhar\u0131 ve nemi dondurarak k\u0131sa s\u00fcreli yenilmezli\u011fe sahip koruyucu bir k\u00fcre olu\u015fturur."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/AvalancheAbility",

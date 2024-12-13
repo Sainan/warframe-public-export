@@ -8,6 +8,21 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Keys/1999Quest/1999QuestGoodEndKeyChain",
+            "name": "Das Hex-Finale",
+            "description": "Eine Chance, die Geschichte neu zu schreiben und eine Katastrophe abzuwenden.",
+            "parentName": "",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Keys/1999Quest/1999QuestKeyChain",
+            "name": "Die Hex",
+            "description": "Die verzweifelte Jagd nach Albrecht Entrati hat den Drifter am 31. Dezember 1999 in die Stadt H\u00f6llvania gef\u00fchrt. Trotz der Absperrung durch die Scaldra aufgrund der Bedrohung durch den Techrot, machen die B\u00fcrger das Beste daraus, um Silvester zu feiern. Doch passierte dies schon einmal ... und es endete in einer Katastrophe.",
+            "parentName": "",
+            "codexSecret": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Keys/ApostasyQuest/ApostasyKeyChain",
             "name": "Apostasie Prolog",
             "description": "Besuche deinen Wohnbereich, nachdem du die Quest \"Ketten des Harrow\" abgeschlossen hast.",

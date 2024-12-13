@@ -1100,6 +1100,12 @@
             "description": "The preferred armor set of those who call both the mists of morning and the fog of war home. A perfect complement to the the Cumulus Syandana."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/CaliberChicksArmour/CaliberChicksArmourA",
+            "name": "Killian Shoulder Pad",
+            "codexSecret": false,
+            "description": "Protect your shoulders with Killian approved gear."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Armor/CephArmor/CephArmorA",
             "name": "Suda Arm Spurs",
             "codexSecret": false,
@@ -1240,6 +1246,27 @@
             "codexSecret": false,
             "excludeFromCodex": true,
             "description": "Newly discovered composites are what makes this striking armor set possible."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/CrpHighArmor/WinterSolsticeArcaArmourA",
+            "name": "Arca Solstice Shoulder Guards",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Arca Armor that has been adorned with a festive design."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/CrpHighArmor/WinterSolsticeArcaArmourC",
+            "name": "Arca Solstice Chest Guard",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Arca Armor that has been adorned with a festive design."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Armor/CrpHighArmor/WinterSolsticeArcaArmourL",
+            "name": "Arca Solstice Knee Guards",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Arca Armor that has been adorned with a festive design."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Armor/CrpIndexTwo/CrpIndexTwoAArmor",
@@ -4112,6 +4139,18 @@
             "description": "The standard issue skin for the Xaku Prime Warframe."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/CaliberChicks/CaliberChicksBratonSkin",
+            "name": "Justice Rifle Skin",
+            "codexSecret": false,
+            "description": "Distribute justice just like the Caliber Chicks with this Rifle skin."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/CaliberChicks/CaliberChicksIgnisSkin",
+            "name": "Freedom Flamethrower Skin",
+            "codexSecret": false,
+            "description": "Distribute freedom just like the Caliber Chicks with this Flamethrower skin."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Camo/AkimboViperCamo",
             "name": "Twin Vipers Desert-Camo Skin",
             "codexSecret": false,
@@ -4495,6 +4534,13 @@
             "description": "Earned through Railjack raids against the Sentient Murex during Operation Scarlet Spear."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/1999CommunityARGBadgeItem",
+            "name": "Drip Squad 4 Life Emblem",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "A badge of honor befitting one of the genuine truth-seekers. From another time, in another world..."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Clan/AggressionEventCorpusBadgeItem",
             "name": "Gradivus: Sacrifice Emblem",
             "codexSecret": false,
@@ -4578,6 +4624,13 @@
             "description": "Celebrate Lunar Renewal with the kind heart of the gentle rabbit."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/CNY2025SnakeEmblem",
+            "name": "Lunar Renewal Snake Emblem",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Celebrate the Lunar Renewal with the wisdom of the snake."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Clan/CY17173MediaBadge",
             "name": "17173 EMBLEM",
             "codexSecret": false,
@@ -4611,6 +4664,12 @@
             "codexSecret": false,
             "excludeFromCodex": true,
             "description": "Symbolizes the camaraderie between Tenno."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Clan/CaliberChicksCorgiEmblemItem",
+            "name": "President King Corgi Emblem",
+            "codexSecret": false,
+            "description": "President King Corgi acknowledges your unending dedication to thwarting Anna Ki and the G.O.B."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Clan/ClanEmblemItem",
@@ -7016,6 +7075,12 @@
             "description": "A helmet designed to match the Excalibur Vespula Skin, designed by polygonmonster."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburLasriaSkin",
+            "name": "Arthur Gemini Skin",
+            "codexSecret": false,
+            "description": "Arthur Nightingale, gruff leader of the Hex, brings a human face to the Excalibur Warframe.\r\n\r\nSwitch between Excalibur and Arthur's fully voiced, customizable Gemini Skin with the included Arthur Gemini Emote, even during missions."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburNobleAnims",
             "name": "Excalibur Noble Animation Set",
             "codexSecret": false,
@@ -7698,6 +7763,66 @@
             "name": "Frost Summit Helmet",
             "codexSecret": false,
             "description": "A helmet for the Frost Warframe, designed by artarrwen."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusAgileAnims",
+            "name": "Cyte-09 Agile Animation Set",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "The Agile Animation Set for Cyte-09."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusAltCloakA",
+            "name": "Semi-Cloak",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "A semi-transparent look when this Warframe is cloaked. Does not alter enemy perception."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusAltCloakB",
+            "name": "Glow-Cloak",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "An alternate, opaque glow, for when this Warframe is cloaked. Does not alter enemy perception."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusAltHelmet",
+            "name": "Cyte-09 Espricor Helmet",
+            "codexSecret": false,
+            "description": "An alternative helmet for Cyte-09."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusHelmet",
+            "name": "Cyte-09 Helmet",
+            "codexSecret": false,
+            "description": "The standard issue helmet for the Cyte-09 Warframe."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusNobleAnims",
+            "name": "Cyte-09 Noble Animation Set",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "The Noble Animation Set for Cyte-09."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/FrumentariusSkin",
+            "name": "Cyte-09 Skin",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "The standard issue skin for the Cyte-09 Warframe."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/WF1999FrumentariusAuxHat",
+            "name": "Quincy's Beret",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Quincy's favorite cap."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/WF1999FrumentariusSkin",
+            "name": "Quincy Gemini Skin",
+            "codexSecret": false,
+            "description": "Quincy Isaacs, the Hex's brash, self-assured sharpshooter, brings a human face to the Cyte-09 Warframe.\r\n\r\nSwitch between Cyte-09 and Quincy's fully voiced, customizable Gemini Skin with the included Quincy Gemini Emote, even during missions."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Garuda/GarudaAgileAnims",
@@ -9911,6 +10036,12 @@
             "description": "A unique skin for the Nyx Warframe, designed by Master Noob."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Jade/WF1999NyxSkin",
+            "name": "Eleanor Gemini Skin",
+            "codexSecret": false,
+            "description": "Eleanor Nightingale, the mysterious psychic specialist of the Hex, brings a human face to the Nyx Warframe.\r\n\r\nSwitch between Nyx and Eleanor's fully voiced, customizable Gemini Skin with the included Eleanor Gemini Emote, even during missions."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/KDrive/KDriveVelocipodRareSkin",
             "name": "White Velocipod K-Drive Skin",
             "codexSecret": false,
@@ -10815,6 +10946,12 @@
             "description": "Remember wisdom through renewal."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/CNY2025ScytheSkin",
+            "name": "Hespar Lunaeus Skin",
+            "codexSecret": false,
+            "description": "Strike with precision and prosperity on your side when you equip this Hespar skin."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/LNY2024DragonSigil",
             "name": "Lunar Renewal Soar Sigil",
             "codexSecret": false,
@@ -11139,6 +11276,12 @@
             "name": "Mag Toroidal Helmet",
             "codexSecret": false,
             "description": "A helmet for the Mag Warframe, designed by prosetisen."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Mag/WF1999MagSkin",
+            "name": "Aoi Gemini Skin",
+            "codexSecret": false,
+            "description": "Aoi Morohoshi, the Hex's protective second-in-command, brings a human face to the Mag Warframe.\r\n\r\nSwitch between Mag and Aoi's fully voiced, customizable Gemini Skin with the included Aoi Gemini Emote, even during missions."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Magician/LimboDeluxeHelmet",
@@ -11737,6 +11880,73 @@
             "description": "The standard issue skin for the Wukong Prime Warframe."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleColourShiftSkin",
+            "name": "Dichrome Livery",
+            "codexSecret": false,
+            "description": "A color shifting livery for the Atomicycle."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleDefaultSkin",
+            "name": "Standard Livery",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "The factory created livery of the Atomicycle."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleFlamesSkin",
+            "name": "Korrosive Kore Livery",
+            "codexSecret": false,
+            "description": "Green flames dance across this Atomicycle livery."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleGraffitiSkin",
+            "name": "All City Livery",
+            "codexSecret": false,
+            "description": "Rep the streets with this graffiti inspired livery."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleLightsSkin",
+            "name": "Neon Nights Livery",
+            "codexSecret": false,
+            "description": "Strips on neon illuminate this sleek Atomicycle livery."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleMedicSkin",
+            "name": "Rapidmed Livery",
+            "codexSecret": false,
+            "description": "Be first on the scene with this medic inspired Atomicycle livery."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleMonsterSkin",
+            "name": "Barracuda Livery",
+            "codexSecret": false,
+            "description": "Customize your Atomicycle with this voracious livery."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleNakedBikeSkin",
+            "name": "Cafe Racer Livery",
+            "codexSecret": false,
+            "description": "Stripped down and souped up, this livery is ready for a streetrace. "
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleRacingSkin",
+            "name": "Finish Line Livery",
+            "codexSecret": false,
+            "description": "A race inspired livery for the Atomicycle."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleRustSkin",
+            "name": "Rust Belt Livery",
+            "codexSecret": false,
+            "description": "Scratches mean nothing to this rough and ready Atomicycle livery."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleTennoSkin",
+            "name": "Monostar Livery",
+            "codexSecret": false,
+            "description": "An Atomicycle out of time."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Mustache/Stache",
             "name": "The Gentleman",
             "codexSecret": true,
@@ -12062,13 +12272,6 @@
             "name": "Nekros Lazarus Helmet",
             "codexSecret": false,
             "description": "A helmet for the Nekros Warframe, designed by [k a z]."
-        },
-        {
-            "uniqueName": "/Lotus/Upgrades/Skins/Necro/SWVisceraNekrosAuxillaryScarf",
-            "name": "Viscera Binds",
-            "codexSecret": false,
-            "excludeFromCodex": true,
-            "description": "[PH] Binds for Nekros, designed by ???."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/NewPlayerXP/NewPlayerXPBoSkin",
@@ -12619,6 +12822,18 @@
             "description": "View your surroundings with ultimate clarity through this delicate eyewear."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/CaliberChicksJillianBandana",
+            "name": "Jillian's Bandana",
+            "codexSecret": false,
+            "description": "Jillian's signature bandana."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/CaliberChicksLillianEyepatch",
+            "name": "Lillian's Eyepatch",
+            "codexSecret": false,
+            "description": "Lillian's signature Eyepatch."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/CircletA",
             "name": "Sofren Diadem",
             "codexSecret": false,
@@ -12722,6 +12937,12 @@
             "description": "A fashionable accessory for your Operator."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/OperatorDrifterGothFaceAccessory",
+            "name": "Goth Piercings",
+            "codexSecret": false,
+            "description": "Express your individuality with these spiked ear piercings."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/OperatorNefAnyoMask",
             "name": "Vox Solaris Mask",
             "codexSecret": false,
@@ -12764,6 +12985,42 @@
             "description": "Revenant's favored may wear his bony spikes as facial decoration."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SW1999F19CondrocEarsAcc",
+            "name": "F19 Condroc Headphones",
+            "codexSecret": false,
+            "description": "A unique pair of earpieces, designed by Master Noob."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SW1999Y2kAccBEar",
+            "name": "Pernicus Earrings",
+            "codexSecret": false,
+            "description": "A fashionable accessory for your Operator or Drifter."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SW1999Y2kAccCEar",
+            "name": "Lasar Earrings",
+            "codexSecret": false,
+            "description": "A fashionable accessory for your Operator or Drifter."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SW1999Y2kEyeAAcc",
+            "name": "Solvarc Sunglasses",
+            "codexSecret": false,
+            "description": "A fashionable accessory for your Operator or Drifter."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SW1999Y2kEyeBAcc",
+            "name": "Kanopia Sunglasses",
+            "codexSecret": false,
+            "description": "A fashionable accessory for your Operator or Drifter."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SW1999Y2kEyeCAcc",
+            "name": "Haxis Sunglasses",
+            "codexSecret": false,
+            "description": "A fashionable accessory for your Operator or Drifter."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWAuresCrownFacialAcc",
             "name": "Aures Diadem",
             "codexSecret": false,
@@ -12782,16 +13039,48 @@
             "description": "A unique oculus, designed by blazingcobalt."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWButterflyEyeAcc",
+            "name": "Butterfly Wings Oculus",
+            "codexSecret": false,
+            "description": "A unique oculus, designed by Mz-3."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWCaeruleaVisorEyeAcc",
             "name": "Caerulea Oculus",
             "codexSecret": false,
             "description": "A unique oculus, designed by blazingcobalt and Awk'Q-Luz."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWChoroidEyeAcc",
+            "name": "Choroid Oculus",
+            "codexSecret": false,
+            "description": "A unique oculus, designed by Erneix and Theriondrek."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWCorailDiademFacialAcc",
             "name": "Corail Diadem",
             "codexSecret": false,
             "description": "A unique diadem, designed by lukinu_u and HariPear."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWFrameFriendEarAcc",
+            "name": "Frame Friend Earpiece",
+            "codexSecret": false,
+            "description": "A unique earpiece, designed by Ventralhound."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWFrameFriendEarLAcc",
+            "name": "Frame Friend Earpiece (Left)",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "A unique earpiece, designed by Ventralhound."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWFrameFriendEarRAcc",
+            "name": "Frame Friend Earpiece (Right)",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "A unique earpiece, designed by Ventralhound."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWGarasuEarAcc",
@@ -12840,6 +13129,12 @@
             "name": "Lumis Oculus",
             "codexSecret": false,
             "description": "A unique oculus, designed by Ixe and lukinu_u."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWMillenniumVisorFacialAcc",
+            "name": "Millennium Visor Diadem",
+            "codexSecret": false,
+            "description": "A unique diadem, designed by Travelling Merchant and Theriondrek."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWOptimaEyeAcc",
@@ -13297,6 +13592,12 @@
             "description": "Ready yourself for the heat of battle. Fitted for the Drifter and the Operator."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultAthletic",
+            "name": "Athletic Shirt (Drifter)",
+            "codexSecret": false,
+            "description": "Get your game on with this exclusive line of sportswear-inspired Drifter garments and accessories."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultC",
             "name": "Drifter Vest",
             "codexSecret": false,
@@ -13363,6 +13664,12 @@
             "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Drifter."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultGrunge",
+            "name": "Grunge Jacket (Drifter)",
+            "codexSecret": false,
+            "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultJ",
             "name": "Haztech Cuirass (Drifter)",
             "codexSecret": false,
@@ -13391,6 +13698,12 @@
             "name": "Masker's Theodolite Crewsuit (Drifter)",
             "codexSecret": false,
             "description": "Historian Drusus Leverian recalls that the hostage crew of the passenger vessel, Masker's Theodolite, wore this very crewsuit when they were rescued by Nova."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultOperatorDrifterGoth",
+            "name": "Goth Jacket (Drifter)",
+            "codexSecret": false,
+            "description": "Watch from the shadows or dance with the dead, with these Gothic-inspired garments."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultOutfit1A",
@@ -13442,6 +13755,12 @@
             "description": "Ready yourself for the heat of battle. Fitted for the Drifter and the Operator."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAthletic",
+            "name": "Athletic Shirt (Operator)",
+            "codexSecret": false,
+            "description": "Get your game on with this exclusive line of sportswear-inspired Drifter garments and accessories."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitB",
             "name": "Koppra Suit",
             "codexSecret": false,
@@ -13481,6 +13800,12 @@
             "description": "A gift from the Lotus to commemorate the tenth anniversary of the first Tenno waking from Cryo stasis. Fitted for the Drifter and the Operator."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitGrunge",
+            "name": "Grunge Jacket (Operator)",
+            "codexSecret": false,
+            "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitInfestedA",
             "name": "Emissary Suit",
             "codexSecret": false,
@@ -13515,6 +13840,12 @@
             "name": "Kubrodon Ventkid Cuirass",
             "codexSecret": false,
             "description": "Operator Armor modeled on the K-drive gear favored by Boon, leader of the canny and cunning Kubrodon Ventkids."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitOperatorDrifterGoth",
+            "name": "Goth Jacket (Operator)",
+            "codexSecret": false,
+            "description": "Watch from the shadows or dance with the dead, with these Gothic-inspired garments."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitOutfit1A",
@@ -13675,6 +14006,18 @@
             "codexSecret": false,
             "excludeFromCodex": true,
             "description": "An intricate hair style for your Operator."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairCaliberChicksJillian",
+            "name": "Jillian's Locks",
+            "codexSecret": false,
+            "description": "Jillian's signature hairstyle."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairCaliberChicksLillian",
+            "name": "Lillian's Locks",
+            "codexSecret": false,
+            "description": "Lillian's signature hairstyle."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hair/HairD",
@@ -14342,6 +14685,12 @@
             "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Drifter."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultGrunge",
+            "name": "Grunge Hood (Drifter)",
+            "codexSecret": false,
+            "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultJ",
             "name": "Haztech Mask (Drifter)",
             "codexSecret": false,
@@ -14364,6 +14713,12 @@
             "name": "Masker's Theodolite Crewsuit Hood (Drifter)",
             "codexSecret": false,
             "description": "Historian Drusus Leverian recalls that the hostage crew of the passenger vessel, Masker's Theodolite, wore this very crewsuit when they were rescued by Nova."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultOperatorDrifterGoth",
+            "name": "Goth Hood (Drifter)",
+            "codexSecret": false,
+            "description": "Watch from the shadows or dance with the dead, with these Gothic-inspired garments."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultOutfit1A",
@@ -14472,6 +14827,12 @@
             "description": "You have seen this face before. You have never seen this face before."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodGrunge",
+            "name": "Grunge Hood (Operator)",
+            "codexSecret": false,
+            "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodInfestedA",
             "name": "Emissary Hood",
             "codexSecret": false,
@@ -14512,6 +14873,12 @@
             "name": "Kubrodon Ventkid Mask",
             "codexSecret": false,
             "description": "Operator Armor modeled on the K-drive gear favored by Boon, leader of the canny and cunning Kubrodon Ventkids."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodOperatorDrifterGoth",
+            "name": "Goth Hood (Operator)",
+            "codexSecret": false,
+            "description": "Watch from the shadows or dance with the dead, with these Gothic-inspired garments."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodOutfit1A",
@@ -14614,6 +14981,12 @@
             "description": "Ready yourself for the heat of battle. Fitted for the Drifter and the Operator."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultAthletic",
+            "name": "Athletic Leggings (Drifter)",
+            "codexSecret": false,
+            "description": "Get your game on with this exclusive line of sportswear-inspired Drifter garments and accessories."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultC",
             "name": "Drifter Pants",
             "codexSecret": false,
@@ -14680,6 +15053,12 @@
             "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Drifter."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultGrunge",
+            "name": "Grunge Leggings (Drifter)",
+            "codexSecret": false,
+            "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultJ",
             "name": "Haztech Greaves (Drifter)",
             "codexSecret": false,
@@ -14708,6 +15087,12 @@
             "name": "Masker's Theodolite Crewsuit Leggings (Drifter)",
             "codexSecret": false,
             "description": "Historian Drusus Leverian recalls that the hostage crew of the passenger vessel, Masker's Theodolite, wore this very crewsuit when they were rescued by Nova."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultOperatorDrifterGoth",
+            "name": "Goth Leggings (Drifter)",
+            "codexSecret": false,
+            "description": "Watch from the shadows or dance with the dead, with these Gothic-inspired garments."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultOutfit1A",
@@ -14759,6 +15144,12 @@
             "description": "Ready yourself for the heat of battle. Fitted for the Drifter and the Operator."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAthletic",
+            "name": "Athletic Leggings (Operator)",
+            "codexSecret": false,
+            "description": "Get your game on with this exclusive line of sportswear-inspired Drifter garments and accessories."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsB",
             "name": "Koppra Leggings",
             "codexSecret": false,
@@ -14798,6 +15189,12 @@
             "description": "A gift from the Lotus to commemorate the tenth anniversary of the first Tenno waking from Cryo stasis. Fitted for the Drifter and the Operator."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsGrunge",
+            "name": "Grunge Leggings (Operator)",
+            "codexSecret": false,
+            "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsInfestedA",
             "name": "Emissary Greaves",
             "codexSecret": false,
@@ -14832,6 +15229,12 @@
             "name": "Kubrodon Ventkid Greaves",
             "codexSecret": false,
             "description": "Operator Armor modeled on the K-drive gear favored by Boon, leader of the canny and cunning Kubrodon Ventkids."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsOperatorDrifterGoth",
+            "name": "Goth Leggings (Operator)",
+            "codexSecret": false,
+            "description": "Watch from the shadows or dance with the dead, with these Gothic-inspired garments."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsOutfit1A",
@@ -14894,6 +15297,12 @@
             "description": "Ready yourself for the heat of battle. Fitted for the Drifter and the Operator."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultAthletic",
+            "name": "Athletic Disc Player and Towel (Drifter)",
+            "codexSecret": false,
+            "description": "Get your game on with this exclusive line of sportswear-inspired Drifter garments and accessories."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultC",
             "name": "Drifter Gear",
             "codexSecret": false,
@@ -14930,6 +15339,12 @@
             "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Drifter."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultGrunge",
+            "name": "Grunge Skirt (Drifter)",
+            "codexSecret": false,
+            "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultJ",
             "name": "Haztech Apparel (Drifter)",
             "codexSecret": false,
@@ -14959,6 +15374,12 @@
             "name": "Operator Feldune Apparel",
             "codexSecret": false,
             "description": "Ready yourself for the heat of battle. Fitted for the Drifter and the Operator."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAthletic",
+            "name": "Athletic Disc Player and Towel (Operator)",
+            "codexSecret": false,
+            "description": "Get your game on with this exclusive line of sportswear-inspired Drifter garments and accessories."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtB",
@@ -15001,6 +15422,12 @@
             "name": "Zauba Apparel (Operator)",
             "codexSecret": false,
             "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Operator."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtGrunge",
+            "name": "Grunge Skirt (Operator)",
+            "codexSecret": false,
+            "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtJ",
@@ -15056,6 +15483,12 @@
             "name": "Drifter Feldune Sleeves",
             "codexSecret": false,
             "description": "Ready yourself for the heat of battle. Fitted for the Drifter and the Operator."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultAthletic",
+            "name": "Athletic Sleeves (Drifter)",
+            "codexSecret": false,
+            "description": "Get your game on with this exclusive line of sportswear-inspired Drifter garments and accessories."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultC",
@@ -15124,6 +15557,12 @@
             "description": "Inspired by the seers of old; constructed to withstand ravages to both body and mind. Fitted for the Drifter."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultGrunge",
+            "name": "Grunge Sleeves (Drifter)",
+            "codexSecret": false,
+            "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultJ",
             "name": "Haztech Pauldrons (Drifter)",
             "codexSecret": false,
@@ -15152,6 +15591,12 @@
             "name": "Masker's Theodolite Crewsuit Sleeves (Drifter)",
             "codexSecret": false,
             "description": "Historian Drusus Leverian recalls that the hostage crew of the passenger vessel, Masker's Theodolite, wore this very crewsuit when they were rescued by Nova."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultOperatorDrifterGoth",
+            "name": "Goth Sleeves (Drifter)",
+            "codexSecret": false,
+            "description": "Watch from the shadows or dance with the dead, with these Gothic-inspired garments."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultOutfit1A",
@@ -15203,6 +15648,12 @@
             "description": "Ready yourself for the heat of battle. Fitted for the Drifter and the Operator."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAthletic",
+            "name": "Athletic Sleeves (Operator)",
+            "codexSecret": false,
+            "description": "Get your game on with this exclusive line of sportswear-inspired Drifter garments and accessories."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesB",
             "name": "Koppra Sleeves",
             "codexSecret": false,
@@ -15242,6 +15693,12 @@
             "description": "A gift from the Lotus to commemorate the tenth anniversary of the first Tenno waking from Cryo stasis. Fitted for the Drifter and the Operator."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesGrunge",
+            "name": "Grunge Sleeves (Operator)",
+            "codexSecret": false,
+            "description": "Keep it real on the streets with thrifty, downbeat clothing inspired by the grunge scene."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesInfestedA",
             "name": "Emissary Sleeves",
             "codexSecret": false,
@@ -15276,6 +15733,12 @@
             "name": "Kubrodon Ventkid Pauldrons",
             "codexSecret": false,
             "description": "Operator Armor modeled on the K-drive gear favored by Boon, leader of the canny and cunning Kubrodon Ventkids."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesOperatorDrifterGoth",
+            "name": "Goth Sleeves (Operator)",
+            "codexSecret": false,
+            "description": "Watch from the shadows or dance with the dead, with these Gothic-inspired garments."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesOutfit1A",
@@ -15468,6 +15931,30 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooLoveRose",
             "name": "Affections Ink",
+            "codexSecret": false,
+            "description": "Body art can convey that which brings you peace or drives your spirit."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooTennoB",
+            "name": "Ligumi Ink",
+            "codexSecret": false,
+            "description": "Body art can convey that which brings you peace or drives your spirit."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooTennoC",
+            "name": "Yoshijo Ink",
+            "codexSecret": false,
+            "description": "Body art can convey that which brings you peace or drives your spirit."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooTennoD",
+            "name": "Miyeti Ink",
+            "codexSecret": false,
+            "description": "Body art can convey that which brings you peace or drives your spirit."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Operator/Tattoos/TattooTennoF",
+            "name": "Fumiro Ink",
             "codexSecret": false,
             "description": "Body art can convey that which brings you peace or drives your spirit."
         },
@@ -16469,6 +16956,24 @@
             "description": "A festive skin for the Atomos."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumBoltor",
+            "name": "Boltor Solstice Skin",
+            "codexSecret": false,
+            "description": "A festive skin for the Boltor."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumBrokenWar",
+            "name": "Broken War Solstice Skin",
+            "codexSecret": false,
+            "description": "A festive skin for the Broken War."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumCantare",
+            "name": "Cantare Solstice Skin",
+            "codexSecret": false,
+            "description": "A festive skin for the Cantare."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumCycronSkin",
             "name": "Cycron Solstice Skin",
             "codexSecret": false,
@@ -16491,6 +16996,18 @@
             "name": "Gram Solstice Skin",
             "codexSecret": false,
             "description": "A festive skin for the Gram."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumOcucor",
+            "name": "Ocucor Solstice Skin",
+            "codexSecret": false,
+            "description": "A festive skin for the Ocucor."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Promo/Seasonal/TennobaumParis",
+            "name": "Paris Solstice Skin",
+            "codexSecret": false,
+            "description": "A festive skin for the Paris."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Promo/Twitch/AkjagaraIridosSkin",
@@ -17513,13 +18030,6 @@
             "name": "Rhino Prime Helmet",
             "codexSecret": false,
             "description": "The standard issue helmet for the Rhino Prime Warframe."
-        },
-        {
-            "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoPrimeSkin",
-            "name": "Rhino Prime Skin",
-            "codexSecret": false,
-            "excludeFromCodex": true,
-            "description": "The standard issue skin for the Rhino Prime Warframe."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoRubedoSkin",
@@ -20508,6 +21018,36 @@
             "description": "A sigil representing prestige gained with the Entrati."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankFive",
+            "name": "Pizza Party Sigil",
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with The Hex."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankFour",
+            "name": "Hot & Fresh Sigil",
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with The Hex."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankOne",
+            "name": "Leftovers Sigil",
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with The Hex."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankThree",
+            "name": "2-For-1 Sigil",
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with The Hex."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HexRankTwo",
+            "name": "Fresh Slice Sigil",
+            "codexSecret": false,
+            "description": "A sigil representing prestige gained with The Hex."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Syndicate/HoldfastsRankFive",
             "name": "Holdfasts Angel Sigil",
             "codexSecret": false,
@@ -20920,6 +21460,12 @@
             "description": "A mark of respect for the Sisters of Parvos."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Cyte09Sigil",
+            "name": "Cyte-09 Target Sigil",
+            "codexSecret": false,
+            "description": "Lock onto your target with this Sigil that honors Cyte-09."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DanteSigil",
             "name": "Dante's Noctua Sigil",
             "codexSecret": false,
@@ -21290,7 +21836,6 @@
             "uniqueName": "/Lotus/Upgrades/Skins/Sigils/NWStalkerSigil",
             "name": "Stalker Smoke Screen Sigil",
             "codexSecret": false,
-            "excludeFromCodex": true,
             "description": "Who do you hunt, Shadow?"
         },
         {
@@ -22162,6 +22707,13 @@
             "name": "Lunar Renewal Swift Sigil",
             "codexSecret": false,
             "description": "Celebrate Lunar Renewal with the kind heart of the gentle rabbit."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WeGameNewYearSnakeSigil",
+            "name": "Lunar Renewal Snake Sigil",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Transform in the coming year with the intuition of the elegant snake."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WeGameNewYearTigerSigil",
@@ -23756,6 +24308,12 @@
             "description": "The standard issue skin for the Trinity Warframe."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Trinity/WF1999TrinitySkin",
+            "name": "Lettie Gemini Skin",
+            "codexSecret": false,
+            "description": "Lettie Garcia, the Hex's long-suffering medic, brings a human face to the Trinity Warframe.\r\n\r\nSwitch between Trinity and Lettie's fully voiced, customizable Gemini Skin with the included Lettie Gemini Emote, even during missions."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Umbra/UmbraAltHelmet",
             "name": "Excalibur Umbra Sunder Helmet",
             "codexSecret": false,
@@ -24166,6 +24724,19 @@
             "codexSecret": false,
             "excludeFromCodex": true,
             "description": "Draw attention with the bold geometric patterns in this exclusive Volt skin."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Volt/WF1999VoltAuxHat",
+            "name": "Amir's Shades",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Amir's signature sunglasses."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Volt/WF1999VoltSkin",
+            "name": "Amir Gemini Skin",
+            "codexSecret": false,
+            "description": "Amir Beckett, the Hex's quirky, upbeat technician, brings a human face to the Volt Warframe.\r\n\r\nSwitch between Volt and Amir's fully voiced, customizable Gemini Skin with the included Amir Gemini Emote, even during missions."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Weapons/DSPistols/BroncoSpectre",

@@ -161,6 +161,505 @@
             "parentName": "/Lotus/Types/Game/SpectreArmyItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/AVReceiver",
+            "name": "\ud0a4\ub124\ub9cc\ud2f1<RETRO_TM> A/V \ub9ac\uc2dc\ubc84",
+            "description": "2\uac1c\uc758 \ube44\ub514\uc624 \uc778\ud48b\uacfc 3\uac1c\uc758 \uc624\ub514\uc624 \uc778\ud48b\uc73c\ub85c \uc5c5\uadf8\ub808\uc774\ub4dc\ub418\uc5c8\uc2b5\ub2c8\ub2e4!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/AirHockeyTable",
+            "name": "\ud0a4\ub124\ub9cc\ud2f1<RETRO_TM> \ud558\ud0a4 \ud14c\uc774\ube14",
+            "description": "\uc774 \ud0a4\ub124\ub9cc\ud2f1<RETRO_TM> \uc5d0\uc5b4 \ud558\ud0a4 \ud14c\uc774\ube14\ub85c \ucd5c\uace0\uc758 \uc5d0\uc5b4 \ud558\ud0a4\ub97c \uc990\uaca8\ubcf4\uc138\uc694!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Bicycle",
+            "name": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \uc790\uc804\uac70",
+            "description": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \uc790\uc804\uac70\ub85c \ud544\uc694\ud55c \ubaa8\ub4e0 \uac83\uc744 \ucc59\uae30\uc138\uc694!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Binder",
+            "name": "\ud30c\uc77c-\uc5b4-\uc2a4\ud0c0\uc77c<RETRO_TM> \ubc14\uc778\ub354",
+            "description": "\ud30c\uc77c-\uc5b4-\uc2a4\ud0c0\uc77c<RETRO_TM> \ubc14\uc778\ub354\ub294 \ub354\uc6b1 \ub192\uc740 \uac00\uc131\ube44\ub97c \uc790\ub791\ud558\ub294 5\uac1c \ud329\uc73c\ub85c \uc81c\uacf5\ub429\ub2c8\ub2e4!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Calculator",
+            "name": "\ud30c\uc77c-\uc5b4-\uc2a4\ud0c0\uc77c<RETRO_TM> \ub514\ub7ed\uc2a4 \uacc4\uc0b0\uae30",
+            "description": "\ud30c\uc77c-\uc5b4-\uc2a4\ud0c0\uc77c<RETRO_TM> \ub514\ub7ed\uc2a4 \uacc4\uc0b0\uae30\ub294 \uc774\uc81c \uc774\uc804\uc5d0 \uc785\ub825\ud55c \ud568\uc218\ub97c \ucd5c\ub300 2\uac1c\uae4c\uc9c0 \uba54\ubaa8\ub9ac\uc5d0 \uc800\uc7a5\ud560 \uc218 \uc788\uac8c \ub418\uc5b4 \uace0\uac1d\ub2d8\uc758 \uadc0\uc911\ud55c \uc2dc\uac04\uc744 \uc808\uc57d\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/CardboardBox",
+            "name": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \uace8\ud310\uc9c0 \uc0c1\uc790",
+            "description": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \uace8\ud310\uc9c0 \uc0c1\uc790\ub85c \ud544\uc694\ud55c \ubaa8\ub4e0 \uac83\uc744 \ucc59\uae30\uc138\uc694!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/CellPhone",
+            "name": "\ud0a4\ub124\ub9cc\ud2f1<RETRO_TM> \ud734\ub300\ud3f0",
+            "description": "\ud0a4\ub124\ub9cc\ud2f1<RETRO_TM> \ud734\ub300\ud3f0\uc740 \ud3c9\uc0dd \ud30c\uc190\ub418\uc9c0 \uc54a\ub294\ub2e4\ub294 \uc810\uc744 \ubcf4\uc7a5*\ud569\ub2c8\ub2e4!\r\n\r\n(*\ud0a4\ub124\ub9cc\ud2f1 \uc628\ub77c\uc778 \uad6c\ub3c5\uc744 \ud3ec\ud568\ud55c \ud0a4\ub124\ub9cc\ud2f1 \uc81c\ud488\uc744 \uad6c\ub9e4\ud558\uc2e4 \uacbd\uc6b0, \uad6c\ub9e4\uc790\ub294 \ubc95\uc73c\ub85c \ud5c8\uc6a9\ub418\ub294 \ucd5c\ub300 \ubc94\uc704 \ub0b4\uc5d0\uc11c \ud0a4\ub124\ub9cc\ud2f1, \uadf8 \uacc4\uc5f4\uc0ac \ub610\ub294 \uacc4\uc5f4\uc0ac \uc2b9\uacc4\uc790\ub97c \uc0c1\ub300\ub85c \ud55c \uccad\uad6c, \ubc95\uc801 \uad6c\uc81c\ucc45 \ub610\ub294 \uc190\ud574 \ubc30\uc0c1 \uccad\uad6c\uc640 \uad00\ub828\ub41c \ubaa8\ub4e0 \uad8c\ub9ac\ub97c \ud3ec\uae30\ud558\uac8c \ub429\ub2c8\ub2e4.)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/CoffeeCup",
+            "name": "\ud30c\uc77c-\uc5b4-\uc2a4\ud0c0\uc77c<RETRO_TM> \ucee4\ud53c \ucef5",
+            "description": "200\uac1c \ud329\uc73c\ub85c \uc81c\uacf5\ub418\ub294 \uc774 \ucd5c\uace0\uae09 \uc0dd\ubd84\ud574\uc131 \ub2e8\uc5f4 \uc885\uc774\ucef5\uc774\ub77c\uba74, \uc0ac\ubb34\uc2e4 \uc9c1\uc6d0\ub4e4\uc774 \ub108\ubb34\ub108\ubb34 \uace0\ub9c8\uc6cc\ud558\uaca0\uc8e0!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/CoffeeMachine",
+            "name": "\ud0a4\ub124\ud0a4\uce5c<RETRO_TM> \ucee4\ud53c \uba38\uc2e0",
+            "description": "\ud0a4\ub124\ud0a4\uce5c<RETRO_TM> \ucee4\ud53c \uba54\uc774\ucee4 \ub77c\uc778\uc5d0\ub294 \uae30\uacc4\uc5d0\uc11c \ucee4\ud53c\ub97c \ub0b4\ub9ac\ub294 \ub3d9\uc548\uc5d0\ub3c4 \ucef5\uc5d0 \ubb3c\uc744 \ucc44\uc6b8 \uc218 \uc788\ub294, \ud2b9\ud5c8 \ucd9c\uc6d0 \uc911\uc778 \uc0c8\ub85c\uc6b4 '\uc2a4\ub2c9 \ucef5' \uae30\ub2a5\uc774 \ud0d1\uc7ac\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/CompactDisc",
+            "name": "On-lyne: The Boys R Back",
+            "description": "The Boys R Back \ucef4\ud544\ub808\uc774\uc158 \uc568\ubc94\uc5d0\ub294 On-lyne\uc758 \ucd5c\uace0 \ud788\ud2b8\uace1 \uc77c\ubd80\uc640 \uc9c4\uc2ec \ud30c\ud2f0\ub97c \uc704\ud55c \ub304\uc2a4 \ub9ac\ubbf9\uc2a4\uac00 \uc218\ub85d\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/DigitalPhone",
+            "name": "\ud0a4\ub124\ub9cc\ud2f1<RETRO_TM> \ub514\uc9c0\ud138 \ud3f0",
+            "description": "\ud0a4\ub124\ub9cc\ud2f1<RETRO_TM> \ub514\uc9c0\ud138 \ud3f0\uc740 \uc5b4\ub514\uc5d0\uc11c\ub098 \ud130\uc9c0\ub294 \uc804\ud30c\ub97c \ubcf4\uc7a5\ud569\ub2c8\ub2e4!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/EntratiPoster",
+            "name": "\ud30c\uc77c-\uc5b4-\uc2a4\ud0c0\uc77c<RETRO_TM> \uc989\uc11d-\uc778\uc1c4 \ud3ec\uc2a4\ud130",
+            "description": "\ud30c\uc77c-\uc5b4-\uc2a4\ud0c0\uc77c<RETRO_TM>\uc740 \uc544\ubb34\ub9ac \uc5b4\ub824\uc6b4 \uc694\uad6c\ub77c \ud560\uc9c0\ub77c\ub3c4, \ub2f9\uc2e0\uc758 \uc778\uc1c4 \uc695\uad6c\ub97c \ucda9\uc871\uc2dc\ucf1c \ub4dc\ub9bd\ub2c8\ub2e4!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/FireExtinguisher",
+            "name": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \uc18c\ud654\uae30",
+            "description": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \uc18c\ud654\uae30\ub85c \ud544\uc694\ud55c \ubaa8\ub4e0 \uac83\uc744 \ucc59\uae30\uc138\uc694!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/FloodLight",
+            "name": "\ud0a4\ub124\ub9e4\uc9c1!<RETRO_TM> \ud30c\ud2f0 \uc870\uba85",
+            "description": "\uc774 \ud0a4\ub124\ub9e4\uc9c1!<RETRO_TM>\uc758 \uba4b\uc9c4 \ud30c\ud2f0 \uc870\uba85\uc740 \uc704\uae30 \uc0c1\ud669\uc5d0\uc11c\ub294 \uc218\uc0c9 \uc870\uba85\uc73c\ub85c\ub3c4 \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/HardwareGPU",
+            "name": "\ud0a4\ub124\ub9cc\ud2f1<RETRO_TM> 256 GPU",
+            "description": "\uc644\uc804 \ud56b\ud55c \uc2e0\uc81c\ud488! \uc774 \uc138\uacc4 \ucd5c\ucd08\uc758 \uadf8\ub798\ud53d \ucc98\ub9ac \uc7a5\uce58\uac00 \uc5ec\ub7ec\ubd84\uc774 \uc9c0\uae08\uae4c\uc9c0 \uc54c\ub358 \uac8c\uc784\uc744 \uc644\uc804\ud788 \ubc14\uafd4\ubc84\ub9b4 \uac81\ub2c8\ub2e4! 128\ube44\ud2b8\uc5d0 \ub0b4\uc7a5\ub41c \uba54\ubaa8\ub9ac \uc778\ud130\ud398\uc774\uc2a4\uc640 VHS \ubc0f \ubcf5\ud569 \ucd9c\ub825\uc744 \ubaa8\ub450 \uac16\ucd98 \ud0a4\ub124\ub9cc\ud2f1 <RETRO_TM> \uadf8\ub798\ud53d \uce74\ub4dc\ub294 \uc808\ub300\ub85c \uc2dc\ub300\uc5d0 \ub4a4\ucc98\uc9c8 \uc77c\uc774 \uc5c6\uc744 \uac81\ub2c8\ub2e4!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Headphones",
+            "name": "\ud0a4\ub124\ub9e4\uc9c1!<RETRO_TM> \ubb34\uc120 \ud5e4\ub4dc\ud3f0",
+            "description": "\uc774 \ud0a4\ub124\ub9e4\uc9c1!<RETRO_TM> \ubb34\uc120 \ud5e4\ub4dc\ud3f0\uc73c\ub85c \uc5bb\uc744 \uc218 \uc788\ub294 \uc790\uc720\ub97c \uc0c1\uc0c1\ud574\ubcf4\uc138\uc694! \ucd5c\ub300 100m*\uae4c\uc9c0 \uc791\ub3d9\ud558\ub294 2\ucc44\ub110 \uc1a1\uc2e0\uae30\uac00 \ud3ec\ud568\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4!\r\n\r\n(*\uc9c1\uc120 \ubc94\uc704 \ub0b4\uc5d0\uc11c\ub9cc \ud574\ub2f9\ud569\ub2c8\ub2e4. \ubc30\ud130\ub9ac\ub294 \ud3ec\ud568\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Highlighters",
+            "name": "\ud30c\uc77c-\uc5b4-\uc2a4\ud0c0\uc77c<RETRO_TM> \ud615\uad11\ud39c",
+            "description": "\ud30c\uc77c-\uc5b4-\uc2a4\ud0c0\uc77c<RETRO_TM> \ube0c\ub79c\ub4dc\uc758 \ud615\uad11\ud39c\uc740 \ub2e4\uc591\ud55c \uc0c9\uc0c1\uc73c\ub85c \uc81c\uacf5\ub429\ub2c8\ub2e4. 50\uac1c \ud329\uc73c\ub85c \uad6c\uc131\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/JerryCanLarge",
+            "name": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \uac00\uc194\ub9b0 \uce94 (\ub300\ud615)",
+            "description": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \uc0ac\uc758 \ub300\ud615 \uac00\uc194\ub9b0 \uc6b4\ubc18\ud1b5\uc73c\ub85c \ud544\uc694\ud55c \ubaa8\ub4e0 \uac83\uc744 \ucc59\uae30\uc138\uc694!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/JerryCanSmall",
+            "name": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \uac00\uc194\ub9b0 \uce94 (\uc18c\ud615)",
+            "description": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \uc0ac\uc758 \uc18c\ud615 \uac00\uc194\ub9b0 \uc6b4\ubc18\ud1b5\uc73c\ub85c \ud544\uc694\ud55c \ubaa8\ub4e0 \uac83\uc744 \ucc59\uae30\uc138\uc694!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/KeyChain",
+            "name": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \ubcf4\uc870 \uae08\uc18d \uc5f4\uc1e0\uace0\ub9ac",
+            "description": "\uc774 \ub2e4\uc591\ud55c \ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \uae08\uc18d \uc5f4\uc1e0\uace0\ub9ac \uceec\ub809\uc158\uc740 100\uac1c\ub4e4\uc774 \ud55c \ucf00\uc774\uc2a4\ub85c \uad6c\uc131\ub418\uc5b4 \uc788\uc73c\uba70 \uc5f4\uc1e0\uace0\ub9ac\uac00 \ud544\uc694\ud55c \uc77c\uc774\ub77c\uba74 \ubd84\uba85 \ubb50\ub4e0 \ucda9\uc871\ud574 \uc904 \uac81\ub2c8\ub2e4!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/LunchBox",
+            "name": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \uae08\uc18d \ub3c4\uc2dc\ub77d \uc0c1\uc790",
+            "description": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \ub3c4\uc2dc\ub77d \uc0c1\uc790\ub85c \ub3c4\uc2dc\ub77d\uc744 \ub4e4\uace0 \ub2e4\ub140\uc57c \ud560 \ubaa8\ub4e0 \uc0c1\ud669\uc5d0 \ub300\ucc98\ud574\ubcf4\uc138\uc694!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/MedKit",
+            "name": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \uad6c\uae09\ud568",
+            "description": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \uad6c\uae09\ud568\uc73c\ub85c \ud544\uc694\ud55c \ubaa8\ub4e0 \uac83\uc744 \ucc59\uae30\uc138\uc694!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Microphone",
+            "name": "\ud0a4\ub124\ub9cc\ud2f1<RETRO_TM> \ud0c4\ub178\uc774 \uc2a4\ud53c\ucee4 \uc7a5\uce58",
+            "description": "\ud0a4\ub124\ub9cc\ud2f1<RETRO_TM> \ud0c4\ub178\uc774 \uc2a4\ud53c\ucee4 \uc7a5\uce58\ub294 \ubaa8\ub4e0 \uc8fc\uc694 \uc2dc\uc2a4\ud15c\ub4e4\uacfc \ud638\ud658\ub429\ub2c8\ub2e4. \uc870\uc808\uc774 \uac00\ub2a5\ud55c \ub0b4\ubd80 \ubcfc\ub968 \uae30\ub2a5 \uc624\ubc84\ub77c\uc774\ub4dc\ub85c \uc644\uace0\ud55c \ubd80\ub300\uc6d0\ub4e4\ub3c4 \ud655\uc2e4\ud558\uac8c \uc18c\uc9d1\ud560 \uc218 \uc788\uc744 \uac81\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Microwave",
+            "name": "\ud0a4\ub124\ud0a4\uce5c<RETRO_TM> \uc804\uc790\ub808\uc778\uc9c0",
+            "description": "\ud0a4\ub124\ud0a4\uce5c<RETRO_TM> \uc804\uc790\ub808\uc778\uc9c0\ub294 \uc2a4\ub9c8\ud2b8 \ud574\ub3d9 \ubc0f \uc989\uc11d \uc870\ub9ac\uc640 \uac19\uc740 \uc644\uc804\ud788 \uc0c8\ub85c\uc6b4 \ud2b9\ud5c8 \ucd9c\uc6d0 \uae30\ub2a5\uc774 \uc81c\uacf5\ub429\ub2c8\ub2e4. 10\ucd08 \uc774\ub0b4\uc5d0 \ud31d\ucf58\uc744 \ub9cc\ub4e4\uba70 \ud0c0\uc9c0 \uc54a\ub294 \ud31d\ucf58 \uc54c\uac31\uc774\ub97c \ubcf4\uc7a5\ud569\ub2c8\ub2e4!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/MousePad",
+            "name": "\ud30c\uc77c-\uc5b4-\uc2a4\ud0c0\uc77c<RETRO_TM> \ub9c8\uc6b0\uc2a4 \ud328\ub4dc",
+            "description": "\uc774 50\uac1c \uc138\ud2b8\uc758 \uac80\uc740\uc0c9 \ub9c8\uc6b0\uc2a4 \ud328\ub4dc\uac00 \uc788\ub2e4\uba74, \ubc1d\uc740 \uc0c9\uc0c1\uc5d0 \ub208\ubd80\uc2dc\uc9c0 \uc54a\uac8c \ub41c \ub3d9\ub8cc\ub4e4\uc774 \uac10\uc0ac\ud574\ud560 \uac81\ub2c8\ub2e4!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Mug",
+            "name": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \ucee4\ud53c \uba38\uadf8\ucef5",
+            "description": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \ucee4\ud53c \uba38\uadf8\ucef5\uc73c\ub85c \ud544\uc694\ud55c \ubaa8\ub4e0 \uac83\ub4e4\uc744 \ucc59\uaca8\uac00\uc138\uc694! \ub450 \uac1c \ud55c\uc138\ud2b8\ub85c \uad6c\uc131\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Notepad",
+            "name": "\ud30c\uc77c-\uc5b4-\uc2a4\ud0c0\uc77c<RETRO_TM> \uba54\ubaa8\uc7a5",
+            "description": "\ud30c\uc77c-\uc5b4-\uc2a4\ud0c0\uc77c<RETRO_TM> \uba54\ubaa8\uc7a5\uc740 10\uac1c\uac00 \ud328\ud0a4\uc9c0\ub85c \ud310\ub9e4\ub418\uba70 \uc904\uc774 \uadf8\uc5b4\uc838 \uc788\uc2b5\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/OfficePhone",
+            "name": "\ud30c\uc77c-\uc5b4-\uc2a4\ud0c0\uc77c<RETRO_TM> \uc0ac\ubb34\uc2e4 \uc804\ud654\uae30",
+            "description": "\ud30c\uc77c-\uc5b4-\uc2a4\ud0c0\uc77c<RETRO_TM> \uc0ac\ubb34\uc2e4 \uc804\ud654\uae30\ub294 \uc5c5\ubb34\ub85c \ubc14\uc05c \ub0a0\uc744 \uc704\ud55c 9\uac1c\uc758 \ub300\uae30 \uc804\ud654\uc120, \uc678\ubd80 \ubc1c\uc2e0 \uc124\uc815, \ub450 \uac00\uc9c0 \ucd94\uac00 \uc74c\uc131 \uc124\uc815\uc774 \uac00\ub2a5\ud55c \uc0c8\ub85c\uc6b4 \ub514\uc9c0\ud138 \uc74c\uc131 \uba54\uc77c \uae30\ub2a5\uc774 \ud3ec\ud568\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedBoomBox",
+            "name": "\ud0a4\ub124\ub9e4\uc9c1!<RETRO_TM> \ubd90\ubc15\uc2a4",
+            "description": "\ud0a4\ub124\ub9e4\uc9c1!<RETRO_TM> \ubd90\ubc15\uc2a4\ub294 \ub2f9\uc2e0\uc774 \ub4e3\uace0 \uc788\ub294 \uc74c\uc545\uc744 \uc628 \ub3d9\ub124\uc5d0 \ud37c\ub728\ub9ac\uace0 \uc2f6\uc744 \ub54c \uc720\uc6a9\ud569\ub2c8\ub2e4!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedGameConsole",
+            "name": "K.A.H.<RETRO_TM> \uac8c\uc784 \uc2dc\uc2a4\ud15c",
+            "description": "\uc9d1\uc5d0\uc11c \uc990\uae30\ub294 \ud0a4\ub124\ub9cc\ud2f1 (K.A.H)<RETRO_TM> \uac8c\uc784 \uc2dc\uc2a4\ud15c\uc740 \uc624\ub77d\uc2e4 \uac8c\uc784\uc744 \uac70\uc2e4\ub85c \uac00\uc838\uc624\ub294 \uc0c8\ub85c\uc6b4 \ud601\uc2e0\uc801 \ubc29\ubc95\uc785\ub2c8\ub2e4!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedMonitor",
+            "name": "K.A.H.<RETRO_TM> \uac8c\uc784 \ubaa8\ub2c8\ud130",
+            "description": "\uc9d1\uc5d0\uc11c \uc990\uae30\ub294 \ud0a4\ub124\ub9cc\ud2f1 (K.A.H)<RETRO_TM> \uac8c\uc784 \ubaa8\ub2c8\ud130\ub294 \uc644\ubcbd\ud55c 64\ube44\ud2b8 \uc120\uba85\ub3c4\ub97c \uad6c\ud604\ud568\uc73c\ub85c\uc11c \uc9d1\uc5d0\uc11c K.A.H. \uc2dc\uc2a4\ud15c\uc744 \uc2e4\ud589\ud558\ub294 \uac00\uc7a5 \uc88b\uc740 \ubc29\ubc95\uc785\ub2c8\ub2e4.\r\n\r\n(\ucc38\uace0 \uc0ac\ud56d: K.A.H. \uac8c\uc784 \uc2dc\uc2a4\ud15c\uc740 K.A.H. \uac8c\uc784 \ubaa8\ub2c8\ud130\uc640\ub9cc \ud638\ud658\ub418\uba70 \ub2e4\ub978 TV \ud639\uc740 \ubaa8\ub2c8\ud130\uc640\ub294 \uc791\ub3d9\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedPortableTV",
+            "name": "\ud0a4\ub124\ub9e4\uc9c1!<RETRO_TM> \ud734\ub300\uc6a9 TV",
+            "description": "\ud0a4\ub124\ub9e4\uc9c1!<RETRO_TM> \ud734\ub300\uc6a9 TV(\ud29c\ub108 \ud3ec\ud568) \ub85c \ub3c4\ub85c \uc774\ub3d9 \uc911\uc5d0\ub3c4 TV \uc1fc\ub4e4\uc744 \uc2dc\uccad\ud574 \ubcf4\uc138\uc694! ",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedSpeaker",
+            "name": "\ud0a4\ub124\ub9cc\ud2f1<RETRO_TM> \uc2a4\ud53c\ucee4",
+            "description": "\ud0a4\ub124\ub9cc\ud2f1<RETRO_TM> \ub2e8\uc77c \uc2a4\ud53c\ucee4\ub294 500w\uc5d0\uc11c\ub3c4 \uc791\ub3d9\ub429\ub2c8\ub2e4! \uc791\ub3d9\ud558\ub824\uba74 \ud0a4\ub124\ub9cc\ud2f1<RETRO_TM> A/V \ub9ac\uc2dc\ubc84 \ub610\ub294 \ub2e4\ub978 \uc570\ud504\uac00 \ud544\uc694\ud569\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedStereoAmp",
+            "name": "\ud0a4\ub124\ub9cc\ud2f1<RETRO_TM> \uc2a4\ud53c\ucee4 \uc2dc\uc2a4\ud15c",
+            "description": "\uc774 \ud0a4\ub124\ub9cc\ud2f1<RETRO_TM> \uc2a4\ud53c\ucee4 \uc2dc\uc2a4\ud15c (\uc570\ud504 \ud3ec\ud568) \uc740 \uc88b\uc544\ud558\ub294 \uc74c\uc545\uc744 \ucd5c\ub300 \ubcfc\ub968\uc73c\ub85c \ub4e3\uace0 \uc2f6\uc740 \ubaa8\ub4e0 \uc0ac\ub78c\ub4e4\uc744 \uc704\ud55c \uc62c\uc778\uc6d0 \ud574\ubc95\uc785\ub2c8\ub2e4! \ubaa8\ub4e0 \ud0a4\ub124\ub9e4\uc9c1!<RETRO_TM> \ud5e4\ub4dc\ud3f0\uacfc \ud638\ud658\ub429\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedVideoCamera",
+            "name": "\ud0a4\ub124\ub9cc\ud2f1<RETRO_TM> \ub514\uc9c0\ud138 \ube44\ub514\uc624 \uce74\uba54\ub77c",
+            "description": "\uc774 \ub180\ub77c\uc6b4 \ud0a4\ub124\ub9cc\ud2f1<RETRO_TM> \ub514\uc9c0\ud138 \ube44\ub514\uc624 \uce74\uba54\ub77c\ub85c \ub3c4\ub85c \uc704\uc5d0\uc11c \uc1fc\ub97c \ucc0d\uc5b4\ubcf4\uc138\uc694! \ub514\uc9c0\ud138 \ube44\ub514\uc624 \ub179\ud654\uc758 \uc138\uacc4\uc758 \ubbf8\ub798\ub85c \uc624\uc2e0 \uac83\uc744 \ud658\uc601\ud569\ub2c8\ub2e4! \ud3f4\ub9ac\ud06c\ub9ac\uc2a4\ud0c8\ub9b0 \uc2e4\ub9ac\ucf58 LCD \ubaa8\ub2c8\ud130\uac00 \ubd80\ucc29\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4! \ubd84\uba85 \uc5ec\ub7ec\ubd84\uc758 \ub3d9\ub124\uc5d0\uc11c\ub3c4 \ud654\uc81c\uac00 \ub420 \uac78\uc694!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PartyHat",
+            "name": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \uc885\uc774 \ud30c\ud2f0 \uace0\uae54\ubaa8\uc790",
+            "description": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM>\uc73c\ub85c \ud30c\ud2f0\uc5d0 \ud544\uc694\ud55c \ubaa8\ub4e0 \uac83\ub4e4\uc744 \ucc59\uaca8\uac00\uc138\uc694!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Pen",
+            "name": "\ud30c\uc77c-\uc5b4-\uc2a4\ud0c0\uc77c<RETRO_TM> \ud39c",
+            "description": "\ud30c\uc77c-\uc5b4-\uc2a4\ud0c0\uc77c<RETRO_TM> \ud39c\uc740 50\uac1c\ub4e4\uc774 \ud329\uc73c\ub85c \uc81c\uacf5\ub418\uba70, \ud30c\ub780\uc0c9, \uac80\uc740\uc0c9 \uc789\ud06c\uac00 \ubb34\uc791\uc704\ub85c \uc11e\uc5ec \uc788\uc2b5\ub2c8\ub2e4. \ub2e4\uc591\uc131\uc740 \uc0b6\uc758 \ubb18\ubbf8\ub2c8\uae4c\uc694!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Pencil",
+            "name": "\ud30c\uc77c-\uc5b4-\uc2a4\ud0c0\uc77c<RETRO_TM> \uc5f0\ud544",
+            "description": "\ud30c\uc77c-\uc5b4-\uc2a4\ud0c0\uc77c<RETRO_TM> \uc5f0\ud544\uc740 100\uac1c \ud328\ud0a4\uc9c0\ub85c \ud310\ub9e4\ub429\ub2c8\ub2e4. \uc5f0\ud544\uae4e\uc774\ub294 \ud3ec\ud568\ub418\uc5b4 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Pillow",
+            "name": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \ubca0\uac1c",
+            "description": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \ubca0\uac1c\ub85c \ud544\uc694\ud55c \ubaa8\ub4e0 \uac83\ub4e4\uc744 \ucc59\uaca8\uac00\uc138\uc694!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PizzaBox",
+            "name": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \ud53c\uc790 \uc0c1\uc790",
+            "description": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \ud53c\uc790 \uc0c1\uc790\ub85c \ud544\uc694\ud55c \ubaa8\ub4e0 \uac83\ub4e4\uc744 \ucc59\uaca8\uac00\uc138\uc694! (\ucc38\uace0 \uc0ac\ud56d: \ud53c\uc790\ub294 \ud3ec\ud568\ub418\uc5b4 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Planter",
+            "name": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \ubcbd\uba74\ud615 \ud654\ubd84",
+            "description": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \ubcbd\uba74\ud615 \ud654\ubd84\uc73c\ub85c \ud544\uc694\ud55c \ubaa8\ub4e0 \uac83\ub4e4\uc744 \ucc59\uaca8\uac00\uc138\uc694! \uc870\uadf8\ub9c8\ud55c \uc790\uc5f0\uc744 \uc9d1\uc73c\ub85c \ubd88\ub7ec\uc624\uc138\uc694.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PropaneGas",
+            "name": "\uadf8\ub9b0 \uace0\ub9b4\ub77c<RETRO_TM> \ud504\ub85c\ud310 \ud0f1\ud06c",
+            "description": "\uadf8\ub9b0 \uace0\ub9b4\ub77c<RETRO_TM> \ud504\ub85c\ud310\uc740 \uadf8\ub0e5 \ud504\ub85c\ud310\uc774 \uc544\ub2d9\ub2c8\ub2e4. \ud0f1\ud06c\uc5d0 \ub2f4\uae34 \ud504\ub85c\ud310\uc774\uc9c0\uc694. ",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Scooter",
+            "name": "\uc2a4\ucfe0\ud2f0\ud074<RETRO_TM>",
+            "description": "ZeViLa \uc2a4\ucfe0\ud2f0\ud074<RetroTM>\uc740 \ub354 \ud070 \uc790\ub9e4\ud488\uc778 \uc544\ud1a0\ubbf8\uc0ac\uc774\ud074\uacfc \ube44\uad50\ud558\uba74 \ud06c\uae30\uac00 \uc791\uc544 \ubcf4\uc77c \uc218 \uc788\uc9c0\ub9cc, \uadf8 \uac15\ub825\ud558\uace0 \uc778\uae30\uc788\ub294 \uc624\ud1a0\ubc14\uc774\ub97c \ub9cc\ub4e0 \uc5d4\uc9c0\ub2c8\uc5b4\ub4e4\uc740 \uc774 \ub354 \uc791\uace0 \ub3c4\uc2dc \uce5c\ud654\uc801\uc778 \uc790\ub9e4\ud488\uc744 \uc124\uacc4\ud560 \ub54c\uc5d0\ub3c4 \ube44\uc6a9\uc744 \uc544\ub07c\uc9c0 \uc54a\uc558\uc2b5\ub2c8\ub2e4! ",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Sign",
+            "name": "\ud0a4\ub124\ubca0\uc774\uc9c1<RETRO_TM> \ub3c4\ub85c \ud45c\uc9c0\ud310 \ubaa8\uc74c \uc138\ud2b8",
+            "description": "\ud0a4\ub124\ubca0\uc774\uc9c1<Retro_TM> \ub3c4\ub85c \ud45c\uc9c0\ud310 \ubaa8\uc74c \uc138\ud2b8\ub85c \ud544\uc694\ud55c \ubaa8\ub4e0 \uac83\ub4e4\uc744 \ucc59\uaca8\uac00\uc138\uc694!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/StickyNotes",
+            "name": "\ud30c\uc77c-\uc5b4-\uc2a4\ud0c0\uc77c<RETRO_TM> \uc811\ucc29\uc2dd \uba54\ubaa8\uc9c0",
+            "description": "\ud30c\uc77c-\uc5b4-\uc2a4\ud0c0\uc77c<RETRO_TM> \uc811\ucc29\uc2dd \uba54\ubaa8\uc9c0\ub294 \ub2e4\uc591\ud55c \uc0c9\uc0c1\uc758 100\uac1c \ud328\ud0a4\uc9c0\ub85c \ud310\ub9e4\ub418\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Television",
+            "name": "\ud0a4\ub124\ub9cc\ud2f1<RETRO_TM> 840HD TV",
+            "description": "\ud0a4\ub124\ub9cc\ud2f1<RETRO_TM>840 HD TV\ub294 \ucd5c\uace0\uae09 \uc74c\uadf9\uc120\uad00 \ud154\ub808\ube44\uc804 \uc138\ud2b8\ub85c, \ubaa8\ub4e0 \uc778\uae30 \ud504\ub85c\uadf8\ub7a8\uc744 \uc544\ub984\ub2e4\uc6b4 4:3 \uc601\uc0c1\ube44\ub85c \uc2dc\uccad\ud558\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Toaster",
+            "name": "\ud0a4\ub124\ud0a4\uce5c<RETRO_TM> \ud1a0\uc2a4\ud130",
+            "description": "\ud0a4\ub124\ud0a4\uce5c<RETRO_TM> \ud1a0\uc2a4\ud130\ub294 \uc644\ubcbd\ud558\uace0\ub3c4 \ubc14\uc0ad\ud55c \uc544\uce68 \uc2dd\uc0ac\ub97c \uc704\ud55c 4\uac1c\uc758 \uc804\uae30 \ucf54\uc77c\uacfc 10 \ub2e8\uacc4\uc758 \uc628\ub3c4 \uc124\uc815\uc774 \ud0d1\uc7ac\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/ToasterOven",
+            "name": "\ud0a4\ub124\ud0a4\uce5c<RETRO_TM> \ud1a0\uc2a4\ud130 \uc624\ube10",
+            "description": "\ud0a4\ub124\ud0a4\uce5c<RETRO_TM> \ud1a0\uc2a4\ud130 \uc624\ube10\uc740 \uc791\uc740 \uc8fc\ubc29\uc5d0\uc11c, \ud639\uc740 \uc774\ub3d9 \uc911\uc5d0 \uc694\ub9ac\ud558\uae30\uc5d0 \uc644\ubcbd\ud55c \ub3c4\uad6c\uc785\ub2c8\ub2e4. \uc774 \uae30\uacc4\uc758 \uad7d\uae30\uc640 \uac00\uc5f4 \uc124\uc815\uc73c\ub85c \ubb34\uc5c7\uc774\ub4e0 \ub9cc\ub4e4 \uc218 \uc788\ub2e4\ub294 \uac74 \ucc38 \uba4b\uc9c4 \uc77c\uc785\ub2c8\ub2e4!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/VideoCassette",
+            "name": "VHS\ub85c \ubcf4\ub294 \"\ub3d9\uc9c0\ub4e4\uc758 \uc778\uc5f0\" \uc2dc\ub9ac\uc988",
+            "description": "\ube44\ud3c9\uac00\ub4e4\uc758 \uadf9\ucc2c\uc744 \ubc1b\uc740 '\ub3d9\uc9c0\ub4e4\uc758 \uc778\uc5f0' \uc804 \uc2dc\ub9ac\uc988\ub97c VHS\ub85c \ubcf4\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \ud55c \uc138\ud2b8\uc5d0 6\uac1c\uc758 \ud14c\uc774\ud504\ub85c \uad6c\uc131\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Quest/LoanerWeaponsItem",
+            "name": "\uc784\uc2dc \uc7a5\ube44",
+            "description": "",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonA",
+            "name": "\uc5d0\ud37c\ubcf8 \uc0d8\ud50c",
+            "description": "\uc2a4\uce7c\ub4dc\ub77c\uac00 \ud14c\ud06c\ubcd1\uc744 \uc815\ud654\ud560 \ub54c \uc0ac\uc6a9\ud558\ub294 \ubd80\uc2dd\uc131 \ubb3c\uc9c8\uc758 \uc0d8\ud50c\uc785\ub2c8\ub2e4. \ucde8\uae09 \uc2dc \uc8fc\uc758\ud558\uc138\uc694.\r\n\r\n\ud68d\ub4dd \uac00\ub2a5 \uc7a5\uc18c: 1999 (\ud640\ubc14\ub2c8\uc544)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonB",
+            "name": "\ud640\ubc14\ub2c8\uc548 \ud53c\uce58\uc6e8\uc774\ube0c \uc870\uac01",
+            "description": "\uc2a4\uce7c\ub4dc\ub77c \uc81c\ubcf5\uc744 \uc81c\uc791\ud560 \ub54c \uc0ac\uc6a9\ub418\ub294 \uc5d0\ud37c\ubcf8 \uc800\ud56d\uc131 \uc18c\uc7ac\uc785\ub2c8\ub2e4.\r\n\r\n\ud68d\ub4dd \uac00\ub2a5 \uc7a5\uc18c: 1999 (\ud640\ubc14\ub2c8\uc544)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceRareA",
+            "name": "\ud14c\ud06c\ubcd1 \ub9c8\ub354\ubcf4\ub4dc",
+            "description": "\uc774 \ub9c8\ub354\ubcf4\ub4dc\ub294 \uc544\ub9c8\ub3c4 \ud14c\ud06c\ubcd1\uc758 \ud1b5\uc2e0 \ub124\ud2b8\uc6cc\ud06c\ub97c \uad6c\ucd95\ud558\ub294 \uc2e0\uacbd \uc911\ucd94\uc758 \uc5ed\ud560\uc744 \ud588\uc744 \uac81\ub2c8\ub2e4.\r\n\r\n\ud68d\ub4dd \uac00\ub2a5 \uc7a5\uc18c: 1999 (\ud640\ubc14\ub2c8\uc544)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonA",
+            "name": "\ud14c\ud06c\ubcd1 \ud0a4\ud2f4",
+            "description": "\ud14c\ud06c\ubcd1\uc758 \ub04a\uc784\uc5c6\ub294 \ud655\uc0b0\uc5d0 \uc758\ud574 \ub9c8\ubaa8\ub418\uace0 \ubcc0\ud615\ub41c \uc774 \ub4a4\ud2c0\ub9b0 \uaecd\uc9c8\uc5d0, \ud55c \ub54c \uc6d0\ubcf8\uc774\uc5c8\ub358 \uc804\uc790\uae30\uae30\uc758 \ud754\uc801\uc740 \ud76c\ubc15\ud569\ub2c8\ub2e4.\r\n\r\n\ud68d\ub4dd \uac00\ub2a5 \uc7a5\uc18c: 1999 (\ud640\ubc14\ub2c8\uc544)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonB",
+            "name": "\uc2e4\ud5d8\uc6a9 \uc544\ud06c-\ub9b4\ub808\uc774",
+            "description": "\ud640\ubc14\ub2c8\uc544\uc758 \ub3c5\ucc3d\uc131\uc740 \uadf8 \ub05d\uc744 \ubaa8\ub974\uc9c0\uc694. \uadf8\ub9ac\uace0 \uc774 \uaddc\uc81c\ub418\uc9c0 \uc54a\uc740 \uacbd\uc774\uc57c\ub9d0\ub85c \uadf8 \uc99d\uac70\uc785\ub2c8\ub2e4! \uae38\ub4e4\uc5ec\uc9c0\uc9c0 \uc54a\uc740 \ud601\uc2e0\uc73c\ub85c \uac00\ub4dd \ucc2c \ucd5c\ucca8\ub2e8 \uc7a5\uce58\uc785\ub2c8\ub2e4.\r\n\r\n\ud68d\ub4dd \uac00\ub2a5 \uc7a5\uc18c: 1999 (\ud640\ubc14\ub2c8\uc544)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagAmir",
+            "name": "\uce74\uc6b4\ud14c\uc0ac \ub9cc\ud654\ucc45",
+            "description": "\uce74\uc6b4\ud14c\uc0ac\ub294 \ub2e8\uc21c\ud55c \uc6b0\uc0c1\uc774 \uc544\ub2d9\ub2c8\ub2e4\u2014\uc601\uc6c5\uc774\uae30\ub3c4 \ud558\uc8e0! \uc774 \uceec\ud2b8 \ud074\ub798\uc2dd \ub9cc\ud654 \uc2dc\ub9ac\uc988\uc758 \uc5d0\ud53c\uc18c\ub4dc\ub294, \uac15\ud558\uace0 \uc2a4\ud0c0\uc77c\ub9ac\uc2dc\ud55c \uc8fc\uc778\uacf5\uc758 \uac00\uce58\ub97c \uc544\ub294 \uc11c\ube0c\uceec\uccd0 \uc560\ud638\uac00\ub77c\uba74 \ub204\uad6c\uc5d0\uac8c\ub098 \uc778\uae30\uac00 \ub9ce\uc2b5\ub2c8\ub2e4. \uc774 \ud5e5\uc2a4 \ud300\uc6d0\uc758 \ubcf4\ubb3c\uc744 \ub808\ud2f0\uc640 \uad50\ud658\ud558\uc5ec \ud5e5\uc2a4 \ud3c9\ud310\uc744 \uc5bb\uc5b4 \ubcf4\uc138\uc694.\r\n\r\n\ud68d\ub4dd \uac00\ub2a5 \uc7a5\uc18c: 1999 (\ud640\ubc14\ub2c8\uc544)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagAoi",
+            "name": "On-lyne CD",
+            "description": "On-lyne \ud32c\ub4e4\uc744 \uc704\ud55c \uad81\uadf9\uc758 \uc120\ubb3c\uc785\ub2c8\ub2e4! \uc74c\uc545 \uc560\ud638\uac00\uc758 \uceec\ub809\uc158\uc5d0 \uaf2d \ud558\ub098\uc529\uc740 \uc788\uc5b4\uc57c \ud560 \uc774 \uc0c1\ud488\uc73c\ub85c \uc5ec\ub7ec\ubd84\uc758 \uc0ac\ub791\uacfc \uc9c0\uc9c0\ub97c \ubcf4\uc5ec\uc8fc\uc138\uc694. \uc774 \ud5e5\uc2a4 \ud300\uc6d0\uc758 \ubcf4\ubb3c\uc744 \ub808\ud2f0\uc640 \uad50\ud658\ud558\uc5ec \ud5e5\uc2a4 \ud3c9\ud310\uc744 \uc5bb\uc5b4 \ubcf4\uc138\uc694.\r\n\r\n\ud68d\ub4dd \uac00\ub2a5 \uc7a5\uc18c: 1999 (\ud640\ubc14\ub2c8\uc544)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagArthur",
+            "name": "\ub290\ub9b0 \ub118\uae40 \ub9e5\uc8fc \uc2dd\uc2a4\ud329",
+            "description": "\uc7a0\uae50\uc758 \ud734\uc2dd\uc774 \ud544\uc694\ud55c \uc0ac\ub78c\uc5d0\uac8c \ub204\uad6c\ub098 \uc644\ubcbd\ud55c \uc704\uc548\uc774 \ub418\uc5b4\uc904 \uc74c\ub8cc \uc138\ud2b8\uc785\ub2c8\ub2e4. \uc628 \uc138\uc0c1\uc758 \ubb34\uac8c\ub97c \uc5b4\uae68\uc5d0 \uc9ca\uc5b4\uc9c4 \uc0ac\ub78c\uc5d0\uac8c \uc774\uc0c1\uc801\uc778 \uc120\ubb3c\uc774\uc8e0. \uc774 \ud5e5\uc2a4 \ud300\uc6d0\uc758 \ubcf4\ubb3c\uc744 \ub808\ud2f0\uc640 \uad50\ud658\ud558\uc5ec \ud5e5\uc2a4 \ud3c9\ud310\uc744 \uc5bb\uc5b4 \ubcf4\uc138\uc694.\r\n\r\n \ud68d\ub4dd \uac00\ub2a5 \uc7a5\uc18c: 1999 (\ud640\ubc14\ub2c8\uc544)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagEleanor",
+            "name": "\ubb34\ub4dc \ud06c\ub9ac\uc2a4\ud0c8",
+            "description": "\ub9e4\ub048\ud558\uace0 \uc2a4\ud0c0\uc77c\ub9ac\uc2dc\ud558\uba70, \ub9c8\uc74c\uc744 \uc548\uc815\uc2dc\ucf1c \uc8fc\ub294 \ubb34\ub4dc \ud06c\ub9ac\uc2a4\ud0c8\uc740 \uc870\uae08\uc774\ub098\ub9c8 \uc548\uc815\uac10\uc774 \ud544\uc694\ud55c \uc0ac\ub78c\uc5d0\uac8c \uc644\ubcbd\ud55c \uc120\ubb3c\uc785\ub2c8\ub2e4. \uc774 \ud5e5\uc2a4 \ud300\uc6d0\uc758 \ubcf4\ubb3c\uc744 \ub808\ud2f0\uc640 \uad50\ud658\ud558\uc5ec \ud5e5\uc2a4 \ud3c9\ud310\uc744 \uc5bb\uc5b4 \ubcf4\uc138\uc694.\r\n\r\n\ud68d\ub4dd \uac00\ub2a5 \uc7a5\uc18c: 1999 (\ud640\ubc14\ub2c8\uc544)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagLettie",
+            "name": "\uccb4\ub2e4 \ud06c\ub77c\uc6b4 \uc2dc\ub9ac\uc5bc",
+            "description": "\uad81\uadf9\uc758 90\ub144\ub300\uc0dd\ub4e4\uc744 \uc704\ud55c \uadf8\ub9ac\uc6b4 \uc120\ubb3c\uc785\ub2c8\ub2e4! \uba85\ub791\ud55c \uc0dd\uc950 4\ucd1d\uc0ac\uac00 \ub098\uc624\ub294 \uadf8 \uad11\uace0\ub97c \uae30\uc5b5\ud558\uc138\uc694? \uc774 \ud5e5\uc2a4 \ud300\uc6d0\uc758 \ubcf4\ubb3c\uc744 \ub808\ud2f0\uc640 \uad50\ud658\ud558\uc5ec \ud5e5\uc2a4 \ud3c9\ud310\uc744 \uc5bb\uc5b4 \ubcf4\uc138\uc694.\r\n\r\n\ud68d\ub4dd \uac00\ub2a5 \uc7a5\uc18c: 1999 (\ud640\ubc14\ub2c8\uc544)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagQuincy",
+            "name": "35mm \ud544\ub984",
+            "description": "\ub3c5\ud2b9\ud55c \ub80c\uc988\ub97c \ud1b5\ud574 \uc138\uc0c1\uc744 \ubcf4\ub294 \ub2e4\ud050\uba58\ud130\ub9ac \uc791\uac00\uc5d0\uac8c, \uc5ec\ubd84\uc758 \ud544\ub984\uc740 \ud56d\uc0c1 \uc788\uc744\uc218\ub85d \uc88b\uc8e0. \uc774 \ud5e5\uc2a4 \ud300\uc6d0\uc758 \ubcf4\ubb3c\uc744 \ub808\ud2f0\uc640 \uad50\ud658\ud558\uc5ec \ud5e5\uc2a4 \ud3c9\ud310\uc744 \uc5bb\uc5b4 \ubcf4\uc138\uc694.\r\n\r\n\ud68d\ub4dd \uac00\ub2a5 \uc7a5\uc18c: 1999 (\ud640\ubc14\ub2c8\uc544)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagRare",
+            "name": "\ube45 \ubc14\uc774\ud2b8 \ud53c\uc790",
+            "description": "\ud53c\uc790\ub97c \uc2eb\uc5b4\ud558\ub294 \uc0ac\ub78c\uc774 \uc5b4\ub514 \uc788\uc5b4\uc694? \uc774 \ud5e5\uc2a4 \ud300\uc6d0\uc758 \ubcf4\ubb3c\uc744 \ub808\ud2f0\uc640 \uad50\ud658\ud558\uc5ec \ud5e5\uc2a4 \ud3c9\ud310\uc744 \uc5bb\uc5b4 \ubcf4\uc138\uc694.\r\n\r\n\ud68d\ub4dd \uac00\ub2a5 \uc7a5\uc18c: 1999 (\ud640\ubc14\ub2c8\uc544)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagUncommon",
+            "name": "\uc544\ub974\uace4 \ubc84\uac70 \uc138\ud2b8",
+            "description": "\ubc84\uac70\ub780 \uba39\uac70\ub9ac\ub294 \ub108\ubb34 \ub9db\ub09c \ub098\uba38\uc9c0 \ud56d\uc0c1 \ube68\ub9ac \uc0ac\ub77c\uc9c0\uae30 \ub9c8\ub828\uc774\uc8e0!\r\n\r\n\ud68d\ub4dd \uac00\ub2a5 \uc7a5\uc18c: 1999 (\ud640\ubc14\ub2c8\uc544)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag",
+            "name": "",
+            "description": "",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/SyndicateDogTags/AutoSharedDogTag"
+        },
+        {
             "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/DuviriFishAItem",
             "name": "\uc774\ub098\ud06c",
             "description": "\ub204\uad70\uac00\ub294 \ub450\ube44\ub9ac\uac00 \uac70\ub300\ud55c \uc774\ub098\ud06c\uc758 \ub4f1\uaecd\uc9c8 \uc704\uc5d0 \uc11c \uc788\ub2e4\ub294 \uac00\uc124\uc744 \uc81c\uae30\ud558\uace4 \ud569\ub2c8\ub2e4. \uc774\uc5d0 \uc790\uc5f0\ud788, \ub204\uad70\uac00\ub294 \uadf8 \uac70\ub300\ud55c \uc774\ub098\ud06c\uac00 \ubb34\uc5bc \ub514\ub514\uace0 \uc11c \uc788\ub294\uc9c0 \uad81\uae08\ud574\ud558\uace4 \ud558\uc8e0. \ub2f5\uc740 \uadf8\uc57c \ub2f9\uc5f0\ud788, \uc544\ub798\ub85c \uc544\ub798\ub85c \ub05d\uc5c6\uc774 \uc313\uc5ec \uc788\ub294 \ub2e4\ub978 \uc774\ub098\ud06c\ub4e4\uc774\ub77c\uace0 \ud569\ub2c8\ub2e4.",
@@ -1076,6 +1575,22 @@
             "description": "",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/DangerRoomTileItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/DangerRoom/DangerRoomTile1999MallRotunda",
+            "name": "\uc1fc\ud551\ubab0 \uc6d0\ud615 \ud640 \uc2dc\ubbac\ub77c\ud06c\ub7fc",
+            "description": "\ud640\ubc14\ub2c8\uc544 \uc9c0\ud558, \ud14c\ud06c\ubcd1\uc73c\ub85c \uaf49 \ub9c9\ud78c \uc1fc\ud551\ubab0\uc5d0\uc11c\uc758 \uc804\ud22c\ub97c \uc2dc\ubbac\ub808\uc774\uc158\ud574 \ubcf4\uc138\uc694. \uc774 \uc2dc\ubbac\ub77c\ud06c\ub7fc\uc744 \uc0ac\uc6a9\ud558\uba74 \uc801\ub4e4\uc758 \ub09c\uc774\ub3c4\ub97c \ud45c\uc900 \ucd5c\ub300\uce58\ubcf4\ub2e4 25 \ub808\ubca8 \ub192\uac8c \uc124\uc815\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/DangerRoom/DangerRoomTile",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/DangerRoom/DangerRoomTile1999StreetCourtyard",
+            "name": "\ud640\ubc14\ub2c8\uc544 \uc548\ub730 \uc2dc\ubbac\ub77c\ud06c\ub7fc",
+            "description": "\ud640\ubc14\ub2c8\uc544\uc758 \ub4b7\uace8\ubaa9\uc5d0\uc11c \uc804\ud22c\ub97c \uc2dc\ubbac\ub808\uc774\uc158\ud574 \ubcf4\uc138\uc694. \uc774 \uc2dc\ubbac\ub77c\ud06c\ub7fc\uc744 \uc0ac\uc6a9\ud558\uba74 \uc801\ub4e4\uc758 \ub09c\uc774\ub3c4\ub97c \ud45c\uc900 \ucd5c\ub300\uce58\ubcf4\ub2e4 25 \ub808\ubca8 \ub192\uac8c \uc124\uc815\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/DangerRoom/DangerRoomTile",
             "excludeFromCodex": true
         },
         {
@@ -3779,7 +4294,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/MiscItems/FormaOmega",
             "name": "TEST FORMA",
-            "description": "/Lotus/Language/Consumables/FormaOmegaDesc",
+            "description": "\uc624\ub85c\ud0a8 \uac74\uc124\uc5d0\uc11c \ud544\uc218\uc801\uc73c\ub85c \uc4f0\uc774\ub294 \ud615\uc0c1\ubcc0\ud654 \ud569\uae08\uc785\ub2c8\ub2e4. \uc0ac\uc6a9 \uc2dc \uc6cc\ud504\ub808\uc784, \ub3d9\ubc18\uc790 \ubc0f \ubb34\uae30\uc758 \uadf9\uc131\uc744 \ucd94\uac00 \ud639\uc740 \ubcc0\uacbd\uc2dc\ud0ac \uc218 \uc788\uc73c\uba70 \uc219\ub828\ub3c4\uac00 0\uc73c\ub85c \ub3cc\uc544\uac11\ub2c8\ub2e4. \ud3ec\ub974\ub9c8\ub294 \ucd5c\ub300 \ub7ad\ud06c\uc758 \uc6cc\ud504\ub808\uc784, \ub3d9\ubc18\uc790 \ubc0f \ubb34\uae30\uc5d0\ub9cc \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
             "codexSecret": true,
             "parentName": "/Lotus/Types/Items/MiscItems/Forma",
             "excludeFromCodex": true
@@ -5307,6 +5822,69 @@
             "excludeFromCodex": true
         },
         {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConAlleyValguma",
+            "name": "\ud640\ubc14\ub2c8\uc544 \uc5ec\ub984 \ud14c\ub77c\uc2a4",
+            "description": "\ubb34\uae30\uace0\uc758 \uc6cc\ud504\ub808\uc784 \uc678\ud615 \uba54\ub274\ub97c \ud1b5\ud574 \ub4e4\uc5b4\uac08 \uc218 \uc788\ub294 \ucea1\ucc98\ub77c \ubaa8\ub4dc\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc788\ub294 \ubc30\uacbd\uc744 \ud574\uae08\ud569\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConMallGrano",
+            "name": "\ud14c\ud06c \ud0c0\uc774\ud0c4 \uc804\uc790\uc81c\ud488 \ub9e4\uc7a5",
+            "description": "\ubb34\uae30\uace0\uc758 \uc6cc\ud504\ub808\uc784 \uc678\ud615 \uba54\ub274\ub97c \ud1b5\ud574 \ub4e4\uc5b4\uac08 \uc218 \uc788\ub294 \ucea1\ucc98\ub77c \ubaa8\ub4dc\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc788\ub294 \ubc30\uacbd\uc744 \ud574\uae08\ud569\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConMallStargla",
+            "name": "\ud640\ubc14\ub2c8\uc544 \uc911\uc559 \uc1fc\ud551\ubab0 \uc9c0\ud558\ucca0",
+            "description": "\ubb34\uae30\uace0\uc758 \uc6cc\ud504\ub808\uc784 \uc678\ud615 \uba54\ub274\ub97c \ud1b5\ud574 \ub4e4\uc5b4\uac08 \uc218 \uc788\ub294 \ucea1\ucc98\ub77c \ubaa8\ub4dc\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc788\ub294 \ubc30\uacbd\uc744 \ud574\uae08\ud569\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetJekabpils",
+            "name": "\ud640\ubc14\ub2c8\uc544 \uaca8\uc6b8 \uad50\ucc28\ub85c",
+            "description": "\ubb34\uae30\uace0\uc758 \uc6cc\ud504\ub808\uc784 \uc678\ud615 \uba54\ub274\ub97c \ud1b5\ud574 \ub4e4\uc5b4\uac08 \uc218 \uc788\ub294 \ucea1\ucc98\ub77c \ubaa8\ub4dc\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc788\ub294 \ubc30\uacbd\uc744 \ud574\uae08\ud569\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetMatisa",
+            "name": "\ud640\ubc14\ub2c8\uc544 \uc5ec\ub984 \uc8fc\ud0dd",
+            "description": "\ubb34\uae30\uace0\uc758 \uc6cc\ud504\ub808\uc784 \uc678\ud615 \uba54\ub274\ub97c \ud1b5\ud574 \ub4e4\uc5b4\uac08 \uc218 \uc788\ub294 \ucea1\ucc98\ub77c \ubaa8\ub4dc\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc788\ub294 \ubc30\uacbd\uc744 \ud574\uae08\ud569\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetOgres",
+            "name": "\ud640\ubc14\ub2c8\uc544 \ubd04 \uc5ed\uc0ac \uc9c0\uad6c",
+            "description": "\ubb34\uae30\uace0\uc758 \uc6cc\ud504\ub808\uc784 \uc678\ud615 \uba54\ub274\ub97c \ud1b5\ud574 \ub4e4\uc5b4\uac08 \uc218 \uc788\ub294 \ucea1\ucc98\ub77c \ubaa8\ub4dc\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc788\ub294 \ubc30\uacbd\uc744 \ud574\uae08\ud569\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetStrencu",
+            "name": "\ud640\ubc14\ub2c8\uc544 \uac00\uc744 \uad6c\uc2dc\uac00\uc9c0",
+            "description": "\ubb34\uae30\uace0\uc758 \uc6cc\ud504\ub808\uc784 \uc678\ud615 \uba54\ub274\ub97c \ud1b5\ud574 \ub4e4\uc5b4\uac08 \uc218 \uc788\ub294 \ucea1\ucc98\ub77c \ubaa8\ub4dc\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc788\ub294 \ubc30\uacbd\uc744 \ud574\uae08\ud569\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaIntMallArcade",
+            "name": "\uc624\ube57 \uc624\ub77d\uc2e4",
+            "description": "\ubb34\uae30\uace0\uc758 \uc6cc\ud504\ub808\uc784 \uc678\ud615 \uba54\ub274\ub97c \ud1b5\ud574 \ub4e4\uc5b4\uac08 \uc218 \uc788\ub294 \ucea1\ucc98\ub77c \ubaa8\ub4dc\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc788\ub294 \ubc30\uacbd\uc744 \ud574\uae08\ud569\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaTailorShop",
+            "name": "\uc911\uc559 \uc1fc\ud551\ubab0 \ubc00\uc2e4",
+            "description": "\ubb34\uae30\uace0\uc758 \uc6cc\ud504\ub808\uc784 \uc678\ud615 \uba54\ub274\ub97c \ud1b5\ud574 \ub4e4\uc5b4\uac08 \uc218 \uc788\ub294 \ucea1\ucc98\ub77c \ubaa8\ub4dc\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc788\ub294 \ubc30\uacbd\uc744 \ud574\uae08\ud569\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/PhotoBooth/Zariman/PhotoboothTileZarAmphitheatre",
             "name": "\uc790\ub9ac\ub9cc \uc6d0\ud615 \uadf9\uc7a5 \ubc30\uacbd",
             "description": "\ubb34\uae30\uace0\uc758 \uc6cc\ud504\ub808\uc784 \uc678\ud615 \uba54\ub274\ub97c \ud1b5\ud574 \ub4e4\uc5b4\uac08 \uc218 \uc788\ub294 \ucea1\ucc98\ub77c \ubaa8\ub4dc\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc788\ub294 \ubc30\uacbd\uc744 \ud574\uae08\ud569\ub2c8\ub2e4.",
@@ -5790,6 +6368,30 @@
             "description": "\uc774 \ubd80\uc11c\uc9c4 \ud544\ub4dc\ub860 \uc870\uac01\uc744 \ud1b5\ud574 \ucd08 \uace0\uc5f4 \ubd09\uc1c4 \uc7a5\uce58\uc5d0 \ub300\ud574 \uc5f0\uad6c \ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\r\n\r\n\ud68d\ub4dd \uac00\ub2a5 \uc7a5\uc18c: \uae08\uc131, \ud654\uc131, \ubaa9\uc131, \uc720\ub85c\ud30c, \ud574\uc655\uc131 \ubc0f \uba85\uc655\uc131.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Research/SampleBase"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/AmazingEternals/TAExArmyManWinterTennoBaumToyDeco",
+            "name": "\uc13c\uce04\ub9ac\uc628 \ucee4\ub9cc\ub3c4 \uc7a5\ub09c\uac10",
+            "description": "\ucd5c\uace0\uae09 \ub179\uc0c9 \ud3f4\ub9ac\uc5d0\ud2f8\ub80c\uc73c\ub85c \uc81c\uc791\ub41c \uace0\ub300 \uc804\uc0ac\uc758 \uc774 \uc791\uc740 \uc870\uac01\uc0c1\uc73c\ub85c \uc5ec\ub7ec\ubd84\uc758 \ubaa8\ube44\ud130\ub97c \uc7a5\uc2dd\ud574 \ubcf4\uc138\uc694. \uc57d 1999\ub144\ub3c4 \uacbd\uc5d0 \uc81c\uc791\ub418\uc5c8\uc2b5\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/AmazingEternals/TAExPlushAstronautRayTennoBaumToyDeco",
+            "name": "\uc544\uc2a4\ud2b8\ub85c \ud3a0\ub77c \uc7a5\ub09c\uac10",
+            "description": "\ub2f9\uc2e0\ub9cc\uc758 \ubd09\uc81c\uc778\ud615 \uc6b0\uc8fc \ube44\ud589\uc0ac\ub85c, \uc6b0\uc8fc\ub85c\uc758 \ubaa8\ud5d8\uc744 \ub5a0\ub098\ubcf4\uc138\uc694!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/AmazingEternals/TAExRocketShipTennoBaumToyDeco",
+            "name": "\ub85c\ucf13\uc27d \ub8e8\uc544 \uc7a5\ub09c\uac10",
+            "description": "\uc774 \uc720\ucf8c\ud558\uace0 \ud2bc\ud2bc\ud55c \ub85c\ucf13\uc27d\uc73c\ub85c \ub8e8\uc544 \ucc29\ub959\uc744 \uae30\ub150\ud574 \ubcf4\uc138\uc694. \ubc30\ud130\ub9ac\ub294 \ud3ec\ud568\ub418\uc5b4 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/CorpusShip/LisetPropGreedCoinBlack",
@@ -6996,6 +7598,14 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ChildDrawingBase"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophy1999Bronze",
+            "name": "\uac15\ucca0\uc758 \uae38 - 1999",
+            "description": "1999\uc5d0\uc11c \uac15\ucca0\uc758 \uae38\uc744 \uac78\uc740 \uc774\ub4e4\uc758 \uc99d\ud45c\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyCeresBronze",
             "name": "\uac15\ucca0\uc758 \uae38 - \uc138\ub808\uc2a4",
             "description": "\uc138\ub808\uc2a4\uc5d0\uc11c \uac15\ucca0\uc758 \uae38\uc744 \uac78\uc740 \uc774\ub4e4\uc758 \uc99d\ud45c\uc785\ub2c8\ub2e4.",
@@ -7346,6 +7956,20 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyAmir",
+            "name": "\uc544\ubbf8\ub974 \ud50c\ub8e8\ud504",
+            "description": "\uc774\uc81c \uc544\ubbf8\ub974\uac00 \uadf8\ub807\uac8c\ub098 \uc88b\uc544\ud558\ub294 \ud3ec\uc639\uc744 \ub9c8\uc74c\uaecf \ud574\uc904 \uc218 \uc788\uc2b5\ub2c8\ub2e4!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyAoi",
+            "name": "\uc544\uc624\uc774 \ud50c\ub8e8\ud504",
+            "description": "\uc774 \ud479\uc2e0\ud479\uc2e0\ud55c \uce5c\uad6c\ub294 \uc544\uc624\uc774\uac00 \uc9c1\uc811 \uc778\uc815\ud55c \uce5c\uad6c\uc785\ub2c8\ub2e4. \uc9dc\ubd80\ub77c\uc9c8 \uac71\uc815 \uc5c6\uc774 \uaef4\uc548\uc544\ub3c4 \ub418\uc8e0.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyArthur",
             "name": "\uc544\uc11c \ud50c\ub8e8\ud504",
             "description": "'1999\ub144 \uc2dc\ub300\uc5d0 \ub300\ud55c \uc5f0\uad6c\ub97c \ud558\ub2e4 \ubcf4\ub2c8, '\uc2a4\ud130\ud53c \ubc84\ub514'\ub77c\ub294 \uba85\uce6d\uc73c\ub85c \uc54c\ub824\uc9c4 \uadc0\uc911\ud55c \uc720\ubb3c\uc5d0 \ub300\ud574 \uc54c\uc544\ub0b4\uac8c \ub418\uc5c8\uc2b5\ub2c8\ub2e4. \uc774 \uacfc\uac70\uc758 \uacbd\uc774\ub97c \ub2e4\uc2dc \ud55c \ubc88 \uaf2d \uc7ac\ud604\ud574\uc57c\uaca0\uc9c0\uc694.' - \ub85c\uc774\ub4dc",
@@ -7412,6 +8036,13 @@
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyDesertSkate",
             "name": "\ub370\uc800\ud2b8 \uc2a4\ucf00\uc774\ud504 \ud50c\ub8e8\ud504",
             "description": "\uc774 \uc9c8\ucc99\uc9c8\ucc99\ud55c \uc791\uc740 \uce5c\uad6c\uc640 \ud568\uaed8 \ud750\ub974\ub294 \uc720\uc0ac\ub97c \ud53c\ud574 \ubcf4\uc138\uc694!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyEleanor",
+            "name": "\uc5d8\ub808\ub178\uc5b4 \ud50c\ub8e8\ud504",
+            "description": "\uc5d8\ub9ac\ub178\uc5b4\uc758 \ud3ec\uadfc\ud55c \ubcf5\uc81c \uc778\ud615\uc73c\ub85c, \uc808\ub300 \uc5ec\ub7ec\ubd84\uc758 \uba38\ub9bf\uc18d\uc5d0 \ub4e4\uc5b4\uac00\uac70\ub098 \uc1a1\uacf3\ub2c8\ub97c \ub4e4\uc774\ub300\uc9c0 \uc54a\uc744 \uac81\ub2c8\ub2e4.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
@@ -7507,6 +8138,13 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLettie",
+            "name": "\ub808\ud2f0 \ud50c\ub8e8\ud504",
+            "description": "\ub0a1\uace0 \uc9c0\uce5c \ud5e5\uc2a4 \uc758\ubb34\ubcd1\uc744 \uc880 \ub354 \ud3ec\uadfc\ud558\uace0 \uc560\uc815 \ub118\uce58\ub294 \ubc84\uc804\uc73c\ub85c \ub9cc\ub4e0 \uc774 \uc778\ud615\uc740 \uc2e4\ubb3c\uc758 \uadf8\ub140\ubcf4\ub2e4 \ud6e8\uc52c \ud3ec\uc639\uc744 \uc798 \ubc1b\uc544\uc90d\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLotus",
             "name": "\ub85c\ud130\uc2a4 \ud50c\ub8e8\ud504",
             "description": "\uc774 \ud50c\ub8e8\ud504 \ud55c \ub540 \ud55c \ub540\uc5d0 \ub9ce\uc740 \uc0ac\ub791\uc774 \ub2f4\uaca8\uc788\uc2b5\ub2c8\ub2e4.",
@@ -7573,6 +8211,13 @@
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyPobbersUncommonDirty",
             "name": "\uadf8\ub784\uc758 \ud3ec\ubc84 \ud50c\ub8e8\ud504",
             "description": "\ub4ec\ubfcd \uc0ac\ub791\ubc1b\uc740 \ud754\uc801\uc774 \ub9ce\uc740 \ud3ec\ubc84 \ud50c\ub8e8\ud504\ub85c, \uadf8\ub784\uc774\ub780 \uc774\ub984\uc73c\ub85c \uc54c\ub824\uc9c4 \uadf8\ub9ac\ub2c8\uc5b4\uac00 \ud55c \ub54c \uc18c\uc720\ud558\uace0 \uc788\uc5c8\uc2b5\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyQuincy",
+            "name": "\ud038\uc2dc \ud50c\ub8e8\ud504",
+            "description": "\ud5e5\uc2a4\uc758 \uba85\uc0ac\uc218\ub97c \ubcf8\ub72c \uc0ac\ub791\uc2a4\ub7ec\uc6b4 \ubcf5\uc81c\ud488\uc785\ub2c8\ub2e4. \ub9c8\uc74c\uaecf \uaef4\uc548\uc544\ub3c4 \uadf8\uc758 \uc2a4\ud0c0\uc77c\uc744 \uad6c\uae30\uc9c0 \ubabb\ud569\ub2c8\ub2e4.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
@@ -9246,8 +9891,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/1999BoybandPoster",
-            "name": "Warframe: 1999 On-lyne Poster",
-            "description": "Celebrate the release of Warframe: 1999 with this poster of the On-lyne boys and their Technocyte Coda counterparts.",
+            "name": "\uc6cc\ud504\ub808\uc784: 1999 On-lyne \ud3ec\uc2a4\ud130",
+            "description": "On-lyne \uba64\ubc84\ub4e4 \ubc0f \ud14c\ud06c\ub178\uc0ac\uc774\ud2b8 \ucf54\ub2e4\ub4e4\uc774 \ud568\uaed8 \ub4f1\uc7a5\ud558\ub294 \uc774 \ud3ec\uc2a4\ud130\ub85c \uc6cc\ud504\ub808\uc784: 1999 \ucd9c\uc2dc\ub97c \uae30\ub150\ud574 \ubcf4\uc138\uc694.",
             "codexSecret": true,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
@@ -9260,8 +9905,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/1999OnlyneWallPoster",
-            "name": "On-lyne Poster Collage",
-            "description": "Show your love for Zeke, Drillbit, DJ Rom, Hardrive and Packet with this lovingly arranged collection of On-lyne fold-out posters. Who is your favorite?",
+            "name": "On-lyne \ud3ec\uc2a4\ud130 \ucf5c\ub77c\uc8fc",
+            "description": "\uc0ac\ub791\uc2a4\ub7fd\uac8c \ub098\uc5f4\ub41c On-lyne\uc758 \uc811\uc774\uc2dd \ud3ec\uc2a4\ud130 \uceec\ub809\uc158\uc73c\ub85c \uc9c0\ud06c, \ub4dc\ub9b4\ube44\ud2b8, DJ Rom, \ud558\ub4dc\ub4dc\ub77c\uc774\ube0c, \ud328\ud0b7\uc5d0 \ub300\ud55c \uc0ac\ub791\uc744 \ubcf4\uc5ec\uc8fc\uc138\uc694. \uc5ec\ub7ec\ubd84\uc758 \ucd5c\uc560\ub294 \ub204\uad6c\uc778\uac00\uc694?",
             "codexSecret": true,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
@@ -9329,6 +9974,13 @@
             "description": "\uc54c\ub77c\ub4dc V\uc758 \uac38\uc6c3\uac70\ub9ac\ub294 \uc791\uc740 \uc778\ud615\uc785\ub2c8\ub2e4.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Albrecht2in1Display",
+            "name": "\uc5d4\ud2b8\ub77c\ud2f0 \ucee4\ubba4\ub2c8\ud2f0 \ud4e8\uc804 \ub514\uc2a4\ud50c\ub808\uc774",
+            "description": "\ucee4\ubba4\ub2c8\ud2f0 \uc544\ud2f0\uc2a4\ud2b8 Shiro_kosh_a\uc5d0 \uc758\ud574 \ub514\uc790\uc778\ub41c, \uc54c\ube0c\ub808\ud788\ud2b8 \uc5d4\ud2b8\ub77c\ud2f0\uc758 \uc0c1\ubc18\ub41c \ub450 \uba74\ubaa8\ub97c \ubb18\uc0ac\ud55c \ub3c5\ud2b9\ud55c \ub514\uc2a4\ud50c\ub808\uc774\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ChildDrawingBase"
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/AlbrechtPortrait",
@@ -9750,6 +10402,34 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/CaliberChicksAnnaKiBobbleHead",
+            "name": "\ub178\uae00 \uc2a4\ud0dc\uce04 - \uc548\ub098 \ud0a4",
+            "description": "\uc544\ub098 \ud0a4\uc758 \uac38\uc6c3\uac70\ub9ac\ub294 \uc791\uc740 \uc778\ud615\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/CaliberChicksJillianBobbleHead",
+            "name": "\ub178\uae00 \uc2a4\ud0dc\uce04 - \uc9c8\ub9ac\uc548 \ud0ac\ub9ac\uc548",
+            "description": "\uc9c8\ub9ac\uc548 \ud0ac\ub9ac\uc548\uc758 \uac38\uc6c3\uac70\ub9ac\ub294 \uc791\uc740 \uc778\ud615\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/CaliberChicksLillianBobbleHead",
+            "name": "\ub178\uae00 \uc2a4\ud0dc\uce04 - \ub9b4\ub9ac\uc548 \ud0ac\ub9ac\uc548",
+            "description": "\ub9b4\ub9ac\uc548 \ud0ac\ub9ac\uc548\uc758 \uac38\uc6c3\uac70\ub9ac\ub294 \uc791\uc740 \uc778\ud615\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/CaliberChicksPoster",
+            "name": "\uce7c\ub9ac\ubc84 \uce59\uc2a4 2 \ud3ec\uc2a4\ud130",
+            "description": "\uc774 \uc790\ub9e4\ub4e4\uc740 \ube57\ub9de\ucd94\ub294 \uc77c\uc774 \uc5c6\uc9c0\uc694. \uc9c8\ub9ac\uc548\uacfc \ub9b4\ub9ac\uc548 \ud0ac\ub9ac\uc548\uc774 \ud63c\ucb50\uc744 \ub0b4\uc8fc\ub7ec \ub3cc\uc544\uc654\uc2b5\ub2c8\ub2e4! ",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/CephalonSudaSyndicateOrnament",
             "name": "\ub370\uc774\ud140 \uc870\uac01\uc0c1",
             "description": "\uc138\ud314\ub860 \uc218\ub2e4\ub97c \uc0c1\uc9d5\ud558\ub294 \uc791\uc740 \uc0c1\uc9d5\uc73c\ub85c \uc624\ube44\ud130\uc5d0 \uc124\uce58\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
@@ -10083,6 +10763,13 @@
             "uniqueName": "/Lotus/Types/Items/ShipDecos/CorpusGreedReliefK",
             "name": "\uc6b0\ub9ac\ub294 \ucf54\ud37c\uc2a4\ub2e4",
             "description": "\uc6b0\ub9ac\ub294 \uc695\ub9dd\uc758 \ud654\uc2e0\uc774\ub2e4. \uc6b0\ub9ac\uc758 \uc190\uc740 \ud0d0\uc695\uc2a4\ub7ec\uc6b4 \ud669\uae08\uc758 \uc190\uc774\ub2e4. \uc6b0\ub9ac\ub294. \ubc14\ub85c. \ucf54\ud37c\uc2a4\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Cyte09ExaltedSniperShipDeco",
+            "name": "\uc783\uc5b4\ubc84\ub9b0 \uc2dc\uac04\uc758 \uc720\ubb3c",
+            "description": "\uc624\ub85c\ud0a8 \uc2dc\ub300 \ud6e8\uc52c \uc774\uc804, \uc804\uc124\uc774 \ub41c \ud55c \uba85\uc758 \uba85\uc0ac\uc218\uac00 \uc788\uc5c8\uc2b5\ub2c8\ub2e4. \uc774 \uc7a5\uc2dd\uc740 Cyte-09\uc758 \ud504\ub85c\ud1a0\ud504\ub808\uc784, \ud038\uc2dc\ub97c \uae30\ub9bd\ub2c8\ub2e4.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
@@ -11076,6 +11763,13 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneCaliberChicks",
+            "name": "\ub3c4\uba54\uc2a4\ud2f1 \uce7c\ub9ac\ubc84 \ub4dc\ub860",
+            "description": "\ud0ac\ub9ac\uc548 \uc790\ub9e4\uc5d0\uac8c \ud30c\uc6cc \uc5c5\uc744 \uc81c\uacf5\ud574\uc8fc\ub294 \uadf8 \ub4dc\ub860\uacfc \ub611\uac19\uc8e0!\r\n\r\n\uba74\ucc45 \uc870\ud56d: \uc624\ub77d \ubaa9\uc801 \ud55c\uc815\uc785\ub2c8\ub2e4. \uc2e4\uc81c \uae30\ub2a5\uc740 \uccad\uc18c\uc5d0\ub9cc \ud55c\uc815\ub3fc \uc788\uc73c\uba70, \ud30c\uc6cc \uc5c5\uc744 \uc2e4\uc81c\ub85c \uc81c\uacf5\ud574\uc8fc\uc9c0\ub294 \uc54a\uc2b5\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneColorFive",
             "name": "\ub3c4\uba54\uc2a4\ud2f1 \ubb34\ub4dc \ub4dc\ub860",
             "description": "\ucd5c\uc2e0\uc758 \ucf54\ud37c\uc2a4 \uc704\uc0dd \uae30\uc220\ub85c \uc624\ube44\ud130\ub97c \ud760\uc7a1\uc744 \ub370 \uc5c6\ub294 \uc0c1\ud0dc\ub85c \uc720\uc9c0\ud558\uc138\uc694.",
@@ -11710,7 +12404,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/MirageTennobaumBobbleHead",
-            "name": "Noggle Statue - Tennobaum Mirage",
+            "name": "\ub178\uae00 \uc2a4\ud0dc\uce04 - \ud150\ub178\ubc14\uc6c0 \ubbf8\ub77c\uc9c0",
             "description": "\ubbf8\ub77c\uc9c0\uc758 \uac38\uc6c3\uac70\ub9ac\ub294 \uc791\uc740 \uc778\ud615\uc785\ub2c8\ub2e4.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
@@ -12406,6 +13100,13 @@
             "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardCitrine",
             "name": "\uc2dc\ud2b8\ub9b0 \ud504\ub809\uc2a4",
             "description": "\uc218\uc815\uc758 \uc218\ud638\uc790",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardCyte",
+            "name": "Cyte-09 \ud504\ub809\uc2a4",
+            "description": "\ub9dd\uac01\uc758 \uc785\ub9de\ucda4",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
@@ -13638,7 +14339,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/ModsTransmuteFeatureItem",
             "name": "\ubaa8\ub4dc \ubcc0\ud658 \uc7a5\uce58",
-            "description": "/Lotus/Language/ShipFeatureItems/ModsTransmuteFeatureItemDesc",
+            "description": "",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipFeatureItems/ShipFeatureItem",
             "showInInventory": false
@@ -14019,6 +14720,133 @@
             "showInInventory": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CC16BitGirlsSongItem",
+            "name": "16-Bit Girls with Machine Guns",
+            "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \uce7c\ub9ac\ubc84 \uce59\uc2a4 2 \uc624\ub9ac\uc9c0\ub110 \uc0ac\uc6b4\ub4dc\ud2b8\ub799\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCAnnaKiGOBSongItem",
+            "name": "Anna Ki in the G.O.B.",
+            "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \uce7c\ub9ac\ubc84 \uce59\uc2a4 2 \uc624\ub9ac\uc9c0\ub110 \uc0ac\uc6b4\ub4dc\ud2b8\ub799\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCAnnaKiPunkSongItem",
+            "name": "Anna Ki is a Punk Rocker",
+            "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \uce7c\ub9ac\ubc84 \uce59\uc2a4 2 \uc624\ub9ac\uc9c0\ub110 \uc0ac\uc6b4\ub4dc\ud2b8\ub799\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCBizMarqueBopSongItem",
+            "name": "Biz-Marque Bop",
+            "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \uce7c\ub9ac\ubc84 \uce59\uc2a4 2 \uc624\ub9ac\uc9c0\ub110 \uc0ac\uc6b4\ub4dc\ud2b8\ub799\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCIWannaBeYourGOBSongItem",
+            "name": "I Wanna Be Your G.O.B.",
+            "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \uce7c\ub9ac\ubc84 \uce59\uc2a4 2 \uc624\ub9ac\uc9c0\ub110 \uc0ac\uc6b4\ub4dc\ud2b8\ub799\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCKickOutTheGunsSongItem",
+            "name": "Kick Out the Guns",
+            "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \uce7c\ub9ac\ubc84 \uce59\uc2a4 2 \uc624\ub9ac\uc9c0\ub110 \uc0ac\uc6b4\ub4dc\ud2b8\ub799\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCLundoraCallingSongItem",
+            "name": "Lundora Calling",
+            "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \uce7c\ub9ac\ubc84 \uce59\uc2a4 2 \uc624\ub9ac\uc9c0\ub110 \uc0ac\uc6b4\ub4dc\ud2b8\ub799\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCPsychoKillianSongItem",
+            "name": "Psycho Killian",
+            "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \uce7c\ub9ac\ubc84 \uce59\uc2a4 2 \uc624\ub9ac\uc9c0\ub110 \uc0ac\uc6b4\ub4dc\ud2b8\ub799\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CorpusLichLoginSongItem",
+            "name": "\ud30c\ubcf4\uc2a4\uc758 \uc790\ub9e4\ub4e4 \ub85c\uadf8\uc778 \uc74c\uc6d0",
+            "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \ud30c\ubcf4\uc2a4\uc758 \uc790\ub9e4\ub4e4 \ub85c\uadf8\uc778 \uc74c\uc6d0\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CorpusRailjackLoginSongItem",
+            "name": "\ub808\uc77c\uc7ad \uac1c\uc7a5 \ub85c\uadf8\uc778 \uc74c\uc6d0",
+            "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \ub808\uc77c\uc7ad \uac1c\uc7a5 \ub85c\uadf8\uc778 \uc74c\uc6d0\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/DanteUnboundLoginSongItem",
+            "name": "\ud574\ubc29\ub41c \ub2e8\ud14c \ub85c\uadf8\uc778 \uc74c\uc6d0",
+            "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \ud574\ubc29\ub41c \ub2e8\ud14c \ub85c\uadf8\uc778 \uc74c\uc6d0\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/DeadlockLoginSongItem",
+            "name": "\uad50\ucc29 \ud504\ub85c\ud1a0\ucf5c \ub85c\uadf8\uc778 \uc74c\uc6d0",
+            "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \uad50\ucc29 \ud504\ub85c\ud1a0\ucf5c \ub85c\uadf8\uc778 \uc74c\uc6d0\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/DeimosLoginSongItem",
+            "name": "\ub370\uc774\ubaa8\uc2a4\uc758 \uc2ec\uc7a5 \ub85c\uadf8\uc778 \uc74c\uc6d0",
+            "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \ub370\uc774\ubaa8\uc2a4\uc758 \uc2ec\uc7a5 \ub85c\uadf8\uc778 \uc74c\uc6d0\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/DuviriKullervoLoginSongItem",
+            "name": "\ucfe8\ub808\ub974\ubcf4\uc758 \uc77c\uacf1 \uac00\uc9c0 \uc8c4 \ub85c\uadf8\uc778 \uc74c\uc6d0",
+            "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \ucfe8\ub808\ub974\ubcf4\uc758 \uc77c\uacf1 \uac00\uc9c0 \uc8c4 \ub85c\uadf8\uc778 \uc74c\uc6d0\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/DuviriLoginSongItem",
+            "name": "\ub450\ube44\ub9ac\uc758 \uc5ed\uc124 \ub85c\uadf8\uc778 \uc74c\uc6d0",
+            "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \ub450\ube44\ub9ac\uc758 \uc5ed\uc124 \ub85c\uadf8\uc778 \uc74c\uc6d0\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/SongItems/EmpyreanSongItem",
             "name": "\uc5e0\ud53c\ub9ac\uc5b8 \ub85c\uadf8\uc778 \uc74c\uc6d0",
             "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \uc5e0\ud53c\ub9ac\uc5b8 \ub85c\uadf8\uc778 \uc74c\uc6d0\uc785\ub2c8\ub2e4.",
@@ -14068,11 +14896,29 @@
             "showInInventory": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/SongItems/JadeShadowsLoginSongItem",
+            "name": "\uc625\ube5b\uc758 \uadf8\ub9bc\uc790 \ub85c\uadf8\uc778 \uc74c\uc6d0",
+            "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \uc625\ube5b\uc758 \uadf8\ub9bc\uc790 \ub85c\uadf8\uc778 \uc74c\uc6d0\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/SongItems/KhoraPrimeSongItem",
             "name": "\ucf54\ub77c \ud504\ub77c\uc784 \ud14c\ub9c8",
             "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \ucf54\ub77c \ud504\ub77c\uc784\uc758 \ub300\ud45c \ud14c\ub9c8\uace1\uc785\ub2c8\ub2e4.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/KuvaLichLoginSongItem",
+            "name": "\uc624\ub798\ub41c \ud53c \ub85c\uadf8\uc778 \uc74c\uc6d0",
+            "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \uc624\ub798\ub41c \ud53c \ub85c\uadf8\uc778 \uc74c\uc6d0\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
             "showInInventory": false
         },
         {
@@ -14117,6 +14963,94 @@
             "showInInventory": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneArsenalSongItem",
+            "name": "Arsenal",
+            "description": "\uc138\uc0c1\uc5d0 \uc788\ub294 \ubc34\ub4dc\ub294 \ud558\ub098\ub9cc\uc774 \uc544\ub2c8\uc8e0! \ud640\ubc14\ub2c8\uc544\uc758 \uc794\ud639\ud55c \uac70\ub9ac\uc5d0\uc11c \ub4e4\uc744 \uc218 \uc788\uc5c8\ub358 \uc774 \ud2b8\ub799\ub4e4\ub85c 1999\uc758 \uc0ac\uac74\ub4e4\uc744 \ub2e4\uc2dc \uccb4\ud5d8\ud574 \ubcf4\uc138\uc694.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneCoreContainmentSongItem",
+            "name": "Core Containment",
+            "description": "\uc138\uc0c1\uc5d0 \uc788\ub294 \ubc34\ub4dc\ub294 \ud558\ub098\ub9cc\uc774 \uc544\ub2c8\uc8e0! \ud640\ubc14\ub2c8\uc544\uc758 \uc794\ud639\ud55c \uac70\ub9ac\uc5d0\uc11c \ub4e4\uc744 \uc218 \uc788\uc5c8\ub358 \uc774 \ud2b8\ub799\ub4e4\ub85c 1999\uc758 \uc0ac\uac74\ub4e4\uc744 \ub2e4\uc2dc \uccb4\ud5d8\ud574 \ubcf4\uc138\uc694.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneCutThroughSongItem",
+            "name": "Cut Through",
+            "description": "\uc138\uc0c1\uc5d0 \uc788\ub294 \ubc34\ub4dc\ub294 \ud558\ub098\ub9cc\uc774 \uc544\ub2c8\uc8e0! \ud640\ubc14\ub2c8\uc544\uc758 \uc794\ud639\ud55c \uac70\ub9ac\uc5d0\uc11c \ub4e4\uc744 \uc218 \uc788\uc5c8\ub358 \uc774 \ud2b8\ub799\ub4e4\ub85c 1999\uc758 \uc0ac\uac74\ub4e4\uc744 \ub2e4\uc2dc \uccb4\ud5d8\ud574 \ubcf4\uc138\uc694.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneInfectionSongItem",
+            "name": "Infection",
+            "description": "\uc138\uc0c1\uc5d0 \uc788\ub294 \ubc34\ub4dc\ub294 \ud558\ub098\ub9cc\uc774 \uc544\ub2c8\uc8e0! \ud640\ubc14\ub2c8\uc544\uc758 \uc794\ud639\ud55c \uac70\ub9ac\uc5d0\uc11c \ub4e4\uc744 \uc218 \uc788\uc5c8\ub358 \uc774 \ud2b8\ub799\ub4e4\ub85c 1999\uc758 \uc0ac\uac74\ub4e4\uc744 \ub2e4\uc2dc \uccb4\ud5d8\ud574 \ubcf4\uc138\uc694.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneNumbSongItem",
+            "name": "Numb",
+            "description": "\uc138\uc0c1\uc5d0 \uc788\ub294 \ubc34\ub4dc\ub294 \ud558\ub098\ub9cc\uc774 \uc544\ub2c8\uc8e0! \ud640\ubc14\ub2c8\uc544\uc758 \uc794\ud639\ud55c \uac70\ub9ac\uc5d0\uc11c \ub4e4\uc744 \uc218 \uc788\uc5c8\ub358 \uc774 \ud2b8\ub799\ub4e4\ub85c 1999\uc758 \uc0ac\uac74\ub4e4\uc744 \ub2e4\uc2dc \uccb4\ud5d8\ud574 \ubcf4\uc138\uc694.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlynePartyOfYourLifetimeSongItem",
+            "name": "Party of your Lifetime",
+            "description": "On-lyne\uc758 \uc568\ubc94 'Party of your Lifetime'\uc758 \ud788\ud2b8 \uace1\ub4e4",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlynePickASideSongItem",
+            "name": "Pick a Side",
+            "description": "\uc138\uc0c1\uc5d0 \uc788\ub294 \ubc34\ub4dc\ub294 \ud558\ub098\ub9cc\uc774 \uc544\ub2c8\uc8e0! \ud640\ubc14\ub2c8\uc544\uc758 \uc794\ud639\ud55c \uac70\ub9ac\uc5d0\uc11c \ub4e4\uc744 \uc218 \uc788\uc5c8\ub358 \uc774 \ud2b8\ub799\ub4e4\ub85c 1999\uc758 \uc0ac\uac74\ub4e4\uc744 \ub2e4\uc2dc \uccb4\ud5d8\ud574 \ubcf4\uc138\uc694.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneRottenLivesSongItem",
+            "name": "Rotten Lives",
+            "description": "\uc138\uc0c1\uc5d0 \uc788\ub294 \ubc34\ub4dc\ub294 \ud558\ub098\ub9cc\uc774 \uc544\ub2c8\uc8e0! \ud640\ubc14\ub2c8\uc544\uc758 \uc794\ud639\ud55c \uac70\ub9ac\uc5d0\uc11c \ub4e4\uc744 \uc218 \uc788\uc5c8\ub358 \uc774 \ud2b8\ub799\ub4e4\ub85c 1999\uc758 \uc0ac\uac74\ub4e4\uc744 \ub2e4\uc2dc \uccb4\ud5d8\ud574 \ubcf4\uc138\uc694.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneShutItDownSongItem",
+            "name": "Shut It Down",
+            "description": "\uc138\uc0c1\uc5d0 \uc788\ub294 \ubc34\ub4dc\ub294 \ud558\ub098\ub9cc\uc774 \uc544\ub2c8\uc8e0! \ud640\ubc14\ub2c8\uc544\uc758 \uc794\ud639\ud55c \uac70\ub9ac\uc5d0\uc11c \ub4e4\uc744 \uc218 \uc788\uc5c8\ub358 \uc774 \ud2b8\ub799\ub4e4\ub85c 1999\uc758 \uc0ac\uac74\ub4e4\uc744 \ub2e4\uc2dc \uccb4\ud5d8\ud574 \ubcf4\uc138\uc694.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneTheCallSongItem",
+            "name": "The Call",
+            "description": "\uc138\uc0c1\uc5d0 \uc788\ub294 \ubc34\ub4dc\ub294 \ud558\ub098\ub9cc\uc774 \uc544\ub2c8\uc8e0! \ud640\ubc14\ub2c8\uc544\uc758 \uc794\ud639\ud55c \uac70\ub9ac\uc5d0\uc11c \ub4e4\uc744 \uc218 \uc788\uc5c8\ub358 \uc774 \ud2b8\ub799\ub4e4\ub85c 1999\uc758 \uc0ac\uac74\ub4e4\uc744 \ub2e4\uc2dc \uccb4\ud5d8\ud574 \ubcf4\uc138\uc694.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneTheGreatDespairSongItem",
+            "name": "The Great Despair",
+            "description": "On-lyne\uc758 \uc568\ubc94 'Party of your Lifetime'\uc758 \ud788\ud2b8 \uace1\ub4e4",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/SongItems/ProteaPrimeSongItem",
             "name": "\ud504\ub85c\ud2f0\uc544 \ud504\ub77c\uc784 \ud14c\ub9c8",
             "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \ud504\ub85c\ud2f0\uc544 \ud504\ub77c\uc784\uc758 \ub300\ud45c \ud14c\ub9c8\uace1\uc785\ub2c8\ub2e4.",
@@ -14141,6 +15075,24 @@
             "showInInventory": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/SongItems/TheNewWarLoginSongItem",
+            "name": "\uc0c8\ub85c\uc6b4 \uc804\uc7c1 \ub85c\uadf8\uc778 \uc74c\uc6d0",
+            "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \uc0c8\ub85c\uc6b4 \uc804\uc7c1 \ub85c\uadf8\uc778 \uc74c\uc6d0\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/TheSacrificeLoginSongItem",
+            "name": "\ud76c\uc0dd \ub85c\uadf8\uc778 \uc74c\uc6d0",
+            "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \ud76c\uc0dd \ub85c\uadf8\uc778 \uc74c\uc6d0\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/SongItems/VaubanPrimeSongItem",
             "name": "\ubc14\uc6b0\ubc18 \ud504\ub77c\uc784 \ud14c\ub9c8",
             "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \ubc14\uc6b0\ubc18 \ud504\ub77c\uc784\uc758 \ub300\ud45c \ud14c\ub9c8\uace1\uc785\ub2c8\ub2e4.",
@@ -14149,11 +15101,56 @@
             "showInInventory": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/SongItems/VeilbreakerLoginSongItem",
+            "name": "\ubca0\uc77c \ud30c\uad34\uc790 \ub85c\uadf8\uc778 \uc74c\uc6d0",
+            "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \ubca0\uc77c \ud30c\uad34\uc790 \ub85c\uadf8\uc778 \uc74c\uc6d0\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/VenusOrbVallisLoginSongItem",
+            "name": "\ud3ec\ub974\ud22c\ub098 \ub85c\uadf8\uc778 \uc74c\uc6d0",
+            "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \ud3ec\ub974\ud22c\ub098 \ub85c\uadf8\uc778 \uc74c\uc6d0\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/VoidEclipseLoginSongItem",
+            "name": "\ub8e8\uc544\uc758 \uc0ac\ub0e5\uac10 \ub85c\uadf8\uc778 \uc74c\uc6d0",
+            "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \ub8e8\uc544\uc758 \uc0ac\ub0e5\uac10 \ub85c\uadf8\uc778 \uc74c\uc6d0\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/WhispersInTheWallLoginSongItem",
+            "name": "\ubcbd \uc18d\uc758 \uc18d\uc0ad\uc784 \ub85c\uadf8\uc778 \uc74c\uc6d0",
+            "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \ubcbd \uc18d\uc758 \uc18d\uc0ad\uc784 \ub85c\uadf8\uc778 \uc74c\uc6d0\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/SongItems/WispPrimeSongItem",
             "name": "\uc704\uc2b5 \ud504\ub77c\uc784 \ud14c\ub9c8",
             "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \uc704\uc2b5 \ud504\ub77c\uc784\uc758 \ub300\ud45c \ud14c\ub9c8\uace1\uc785\ub2c8\ub2e4.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/ZarimanLoginSongItem",
+            "name": "\uc790\ub9ac\ub9cc\uc758 \ucc9c\uc0ac\ub4e4 \ub85c\uadf8\uc778 \uc74c\uc6d0",
+            "description": "\uc624\ube44\ud130 \ub0b4 \uc18c\ub9c8\ucf54\ub4dc\uc5d0\uc11c \uac10\uc0c1\ud560 \uc218 \uc788\ub294 \uc790\ub9ac\ub9cc\uc758 \ucc9c\uc0ac\ub4e4 \ub85c\uadf8\uc778 \uc74c\uc6d0\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
             "showInInventory": false
         },
         {
@@ -15061,6 +16058,27 @@
             "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ConcreteFrameSystemsComponent",
             "name": "\ucf54\ub974\ubca1\uc2a4 \uc2dc\uc2a4\ud15c",
             "description": "\ucf54\ub974\ubca1\uc2a4 \uc6cc\ud504\ub808\uc784\uc758 \uc2dc\uc2a4\ud15c \ubd80\ubd84\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09ChassisComponent",
+            "name": "Cyte-09 \uc100\uc2dc",
+            "description": "Cyte-09 \uc6cc\ud504\ub808\uc784\uc758 \uc100\uc2dc \ubd80\ubd84\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09HelmetComponent",
+            "name": "Cyte-09 \ub274\ub85c\uc635\ud2f1\uc2a4",
+            "description": "Cyte-09 \uc6cc\ud504\ub808\uc784\uc758 \ub274\ub85c\uc635\ud2f1\uc2a4 \ubd80\ubd84\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09SystemsComponent",
+            "name": "Cyte-09 \uc2dc\uc2a4\ud15c",
+            "description": "Cyte-09 \uc6cc\ud504\ub808\uc784\uc758 \uc2dc\uc2a4\ud15c \ubd80\ubd84\uc785\ub2c8\ub2e4.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem"
         },
@@ -18472,6 +19490,30 @@
             "primeSellingPrice": 45
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolBarrel",
+            "name": "\ubca0\uc2a4\ud37c 77 \ubc30\ub7f4",
+            "description": "\ubb34\uae30 \uc81c\uc791 \ubd80\ud488\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolReceiver",
+            "name": "\ubca0\uc2a4\ud37c 77 \ub9ac\uc2dc\ubc84",
+            "description": "\ubb34\uae30 \uc81c\uc791 \ubd80\ud488\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolStock",
+            "name": "\ubca0\uc2a4\ud37c 77 \ud578\ub4e4",
+            "description": "\ubb34\uae30 \uc81c\uc791 \ubd80\ud488\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LatoVandalBarrel",
             "name": "\ub77c\ud1a0 \ubc18\ub2ec \ubc30\ub7f4",
             "description": "\ubb34\uae30 \uc81c\uc791 \ubd80\ud488\uc785\ub2c8\ub2e4.",
@@ -19790,6 +20832,30 @@
             "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleBarrel",
+            "name": "\ub9ac\ucf54\ub2c8\ud399\uc2a4 \ubc30\ub7f4",
+            "description": "\ubb34\uae30 \uc81c\uc791 \ubd80\ud488\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleReceiver",
+            "name": "\ub9ac\ucf54\ub2c8\ud399\uc2a4 \ub9ac\uc2dc\ubc84",
+            "description": "\ubb34\uae30 \uc81c\uc791 \ubd80\ud488\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleStock",
+            "name": "\ub9ac\ucf54\ub2c8\ud399\uc2a4 \uc2a4\ud1a1",
+            "description": "\ubb34\uae30 \uc81c\uc791 \ubd80\ud488\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnConcreteArchgunBarrel",
             "name": "\ub9cc\ub3c4\ub12c \ubc30\ub7f4",
             "description": "\uc544\ud06c\uc719 \ubb34\uae30 \uc81c\uc791 \ubd80\ud488\uc785\ub2c8\ub2e4.",
@@ -20136,16 +21202,16 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/LastChanceItemA",
-            "name": "\ub9c8\uc9c0\ub9c9 \uae30\ud68c - 1\ubd80",
-            "description": "\ub9e4\uadf8, \ub178\ubc14, \ub9bc\ubcf4, \ud2b8\ub9ac\ub2c8\ud2f0, \ud558\uc774\ub4dc\ub85c\uc774\ub4dc, \uba54\uc0ac, \ubcfc\ud2b8 \ubc0f \ub85c\ud0a4!",
+            "name": "\ubc14\ub974\uc9c0\uc544\uc758 \uc81c\uacf5\ud488 - \ub9c8\uc9c0\ub9c9 \uae30\ud68c",
+            "description": "\ubc14\ub974\uc9c0\uc544\ub97c \ucc3e\uc544\uac00 \uc544\uc57c\uc640 \ub9ac\uac08 \uc544\uc57c\ub85c \ud55c\uc815 \uc7a5\ube44\ub97c \uad50\ud658\ud574 \ubcf4\uc138\uc694.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/LastChanceItemB",
-            "name": "\ub9c8\uc9c0\ub9c9 \uae30\ud68c - 2\ubd80",
-            "description": "\uc560\uc26c, \ubc14\uc6b0\ubc18, \ub124\ud06c\ub85c\uc2a4, \uc624\ubca0\ub860, \uc0c8\ub9b0, \ubc1c\ud0a4\ub974, \uc5e0\ubc84 \ubc0f \ud504\ub85c\uc2a4\ud2b8!",
+            "name": "\ubc14\ub974\uc9c0\uc544\uc758 \uc81c\uacf5\ud488 - \ud30c\ud2b8 2",
+            "description": "\ubc14\ub974\uc9c0\uc544\ub97c \ucc3e\uc544\uac00 \uc544\uc57c\uc640 \ub9ac\uac08 \uc544\uc57c\ub85c \ud55c\uc815 \uc7a5\ube44\ub97c \uad50\ud658\ud574 \ubcf4\uc138\uc694.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/LastChanceItemA",
             "excludeFromCodex": true

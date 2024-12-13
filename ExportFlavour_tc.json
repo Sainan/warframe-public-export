@@ -279,6 +279,20 @@
             "excludeFromCodex": true
         },
         {
+            "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseRetro",
+            "name": "",
+            "description": "\u4f7f\u7528\u6ed1\u9f20\u6642\u7684\u6e38\u6a19\u6a23\u5f0f\u3002",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseThrowback",
+            "name": "",
+            "description": "\u4f7f\u7528\u6ed1\u9f20\u6642\u7684\u6e38\u6a19\u6a23\u5f0f\u3002",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseYareli",
             "name": "",
             "description": "\u4f7f\u7528\u6ed1\u9f20\u6642\u7684\u6e38\u6a19\u6a23\u5f0f\u3002",
@@ -1983,6 +1997,13 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/Emotes/Hardmode1999Emote",
+            "name": "\u92fc\u97cc\u4e4b\u9053\uff1a1999",
+            "description": "\u5b8c\u6210\u92fc\u97cc\u4e4b\u9053\uff1a1999 \u800c\u9812\u767c\u7684\u8868\u60c5\u52d5\u4f5c\u3002",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/Emotes/HardmodeCeresEmote",
             "name": "\u92fc\u97cc\u4e4b\u9053\uff1a\u7a40\u795e\u661f",
             "description": "\u5b8c\u6210\u92fc\u97cc\u4e4b\u9053\uff1a\u7a40\u795e\u661f\u800c\u9812\u767c\u7684\u8868\u60c5\u52d5\u4f5c\u3002",
@@ -2175,6 +2196,42 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryAmirEmote",
+            "name": "\u963f\u7c73\u723e\u96d9\u5b50\u8868\u60c5\u52d5\u4f5c",
+            "description": "\u4f7f\u7528\u963f\u7c73\u723e\u96d9\u5b50\u8868\u60c5\u52d5\u4f5c\u4f86\u5728 Volt \u548c\u963f\u7c73\u723e\u7684\u96d9\u5b50\u5916\u89c0\u4e4b\u9593\u5207\u63db\uff0c\u5373\u4f7f\u5728\u4efb\u52d9\u671f\u9593\u3002",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryAoiEmote",
+            "name": "\u8475\u96d9\u5b50\u8868\u60c5\u52d5\u4f5c",
+            "description": "\u4f7f\u7528\u8475\u96d9\u5b50\u8868\u60c5\u52d5\u4f5c\u4f86\u5728 Mag \u548c\u8475\u7684\u96d9\u5b50\u5916\u89c0\u4e4b\u9593\u5207\u63db\uff0c\u5373\u4f7f\u5728\u4efb\u52d9\u671f\u9593\u3002",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryArthurEmote",
+            "name": "\u4e9e\u745f\u96d9\u5b50\u8868\u60c5\u52d5\u4f5c",
+            "description": "\u4f7f\u7528\u4e9e\u745f\u96d9\u5b50\u8868\u60c5\u52d5\u4f5c\u4f86\u5728 Excalibur \u548c\u4e9e\u745f\u7684\u96d9\u5b50\u5916\u89c0\u4e4b\u9593\u5207\u63db\uff0c\u5373\u4f7f\u5728\u4efb\u52d9\u671f\u9593\u3002",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryEleanorEmote",
+            "name": "\u611b\u7433\u5a1c\u96d9\u5b50\u8868\u60c5\u52d5\u4f5c",
+            "description": "\u4f7f\u7528\u611b\u7433\u5a1c\u96d9\u5b50\u8868\u60c5\u52d5\u4f5c\u4f86\u5728 Nyx \u548c\u611b\u7433\u5a1c\u7684\u96d9\u5b50\u5916\u89c0\u4e4b\u9593\u5207\u63db\uff0c\u5373\u4f7f\u5728\u4efb\u52d9\u671f\u9593\u3002",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryLettieEmote",
+            "name": "\u8389\u8482\u96d9\u5b50\u8868\u60c5\u52d5\u4f5c",
+            "description": "\u4f7f\u7528\u8389\u8482\u96d9\u5b50\u8868\u60c5\u52d5\u4f5c\u4f86\u5728 Trinity \u548c\u8389\u8482\u7684\u96d9\u5b50\u5916\u89c0\u4e4b\u9593\u5207\u63db\uff0c\u5373\u4f7f\u5728\u4efb\u52d9\u671f\u9593\u3002",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryQuincyEmote",
+            "name": "\u5d11\u897f\u96d9\u5b50\u8868\u60c5\u52d5\u4f5c",
+            "description": "\u4f7f\u7528\u5d11\u897f\u96d9\u5b50\u8868\u60c5\u52d5\u4f5c\u4f86\u5728 Cyte-09 \u548c\u5d11\u897f\u7684\u96d9\u5b50\u5916\u89c0\u4e4b\u9593\u5207\u63db\uff0c\u5373\u4f7f\u5728\u4efb\u52d9\u671f\u9593\u3002",
+            "codexSecret": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/Emotes/LegionSaluteEmote",
             "name": "\u72fc\u5f0f\u656c\u79ae",
             "description": "\u4ee5\u9019\u500b\u81f4\u656c\uff0c\u7fa4\u54e1\u5c31\u8a8d\u5f97\u5f7c\u6b64\u4e86\u3002",
@@ -2286,7 +2343,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/Emotes/ThousandDaysEmote",
             "name": "\u5343\u65e5",
-            "description": "[PH] Awarded to Tenno who have shown unyielding dedication.",
+            "description": "\u734e\u52f5\u7d66\u90a3\u4e9b\u5c55\u793a\u5805\u5b9a\u610f\u5fd7\u7684 Tenno\u3002",
             "codexSecret": false
         },
         {
@@ -5214,6 +5271,66 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectA",
+            "name": "\u5b8c\u7f8e\u756b\u7d20\u5409\u8389\u5b89\u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a\u756b\u7d20\u5316\u5409\u8389\u5b89\u30fb\u57fa\u5229\u5b89\u7684\u6d6e\u5370\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectB",
+            "name": "\u5b8c\u7f8e\u756b\u7d20\u8389\u8389\u5b89\u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a\u756b\u7d20\u5316\u8389\u8389\u5b89\u30fb\u57fa\u5229\u5b89\u7684\u6d6e\u5370\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectC",
+            "name": "\u5b8c\u7f8e\u756b\u7d20\u5b89\u5a1c\u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a\u756b\u7d20\u5316\u5b89\u5a1c\u30fb\u57fa\u7684\u6d6e\u5370\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectD",
+            "name": "\u5b8c\u7f8e\u756b\u7d20\u5c0f\u6df7\u6df7\u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a\u756b\u7d20\u5316\u7684\u862d\u8d77\u6e90\u5c0f\u6df7\u6df7\u7684\u6d6e\u5370\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPortraitJillian",
+            "name": "\u5409\u8389\u5b89\u30fb\u57fa\u5229\u5b89\u756b\u7d20\u8096\u50cf\u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a\u5409\u8389\u5b89\u30fb\u57fa\u5229\u5b89\u8096\u50cf\u7684\u6d6e\u5370\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPortraitLillian",
+            "name": "\u8389\u8389\u5b89\u756b\u7d20\u8096\u50cf\u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a\u8389\u8389\u5b89\u30fb\u57fa\u5229\u5b89\u8096\u50cf\u7684\u6d6e\u5370\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerA",
+            "name": "\u300a\u82f1\u8c6a\u6230\u59ec 2\u300b\u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a\u300a\u82f1\u8c6a\u6230\u59ec 2\u300b\u6a19\u8a8c\u7684\u6d6e\u5370\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerB",
+            "name": "\u5409\u8389\u5b89\u30fb\u57fa\u5229\u5b89\u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a\u5409\u8389\u5b89\u30fb\u57fa\u5229\u5b89\u7684\u6d6e\u5370\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerC",
+            "name": "\u8389\u8389\u5b89\u30fb\u57fa\u5229\u5b89\u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a\u8389\u8389\u5b89\u30fb\u57fa\u5229\u5b89\u7684\u6d6e\u5370\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerD",
+            "name": "\u5b89\u5a1c\u30fb\u57fa\u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a\u5b89\u5a1c\u30fb\u57fa\u7684\u6d6e\u5370\u3002",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageBaruukPrimeBright",
             "name": "Baruuk Prime \u6d6e\u5370 - \u660e\u4eae",
             "description": "\u4e00\u679a\u63cf\u7e6a Baruuk Prime \u5728\u660e\u4eae\u80cc\u666f\u4e0b\u7684\u6d6e\u5370\u3002",
@@ -5443,6 +5560,18 @@
             "description": "\u5728\u884c\u52d5\u4ee3\u865f\uff1a\u7329\u7d05\u6a19\u69cd\u4f5c\u6230\u671f\u9593\uff0c\u65bc\u92b3\u6377\u865f\u7a81\u8972\u4efb\u52d9\u9032\u653b Sentient \u9aa8\u87ba\u6bcd\u8266\u5f97\u4f86\u7684\u734e\u52f5\u3002",
             "codexSecret": true,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphA",
+            "name": "\u8cdc\u798f\u9748\u86c7\u6d6e\u5370",
+            "description": "\u7528\u65bc\u500b\u4eba\u6a94\u6848\u7684\u6d6e\u5370\u3002",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphB",
+            "name": "\u4e59\u5df3\u6d6e\u5370",
+            "description": "\u7528\u65bc\u500b\u4eba\u6a94\u6848\u7684\u6d6e\u5370\u3002",
+            "codexSecret": false
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageChillingGlyphFour",
@@ -5692,6 +5821,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/Cyte09SupporterGlyph",
+            "name": "Cyte-09 \u92b3\u773c\u6d6e\u5370",
+            "description": "\u7528\u65bc\u500b\u4eba\u6a94\u6848\u7684\u6d6e\u5370\u3002",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageBaruukDeluxe",
             "name": "Baruuk \u78ec\u5b97\u6d6e\u5370",
             "description": "\u4e00\u679a\u63cf\u7e6a Baruuk \u78ec\u5b97\u7684\u6d6e\u5370\u3002",
@@ -5774,6 +5909,30 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageDagathDark",
             "name": "Dagath \u6d6e\u5370 - \u9ed1\u6697",
             "description": "\u4e00\u679a\u63cf\u7e6a Dagath \u5728\u9ed1\u6697\u80cc\u666f\u4e0b\u7684\u6d6e\u5370\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusAltBright",
+            "name": "Cyte-09 \u9b25\u5fd7\u6d6e\u5370 - \u660e\u4eae",
+            "description": "\u4e00\u679a\u63cf\u7e6a Cyte-09 \u9b25\u5fd7\u5728\u660e\u4eae\u80cc\u666f\u4e0b\u7684\u6d6e\u5370\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusAltDark",
+            "name": "Cyte-09 \u9b25\u5fd7\u6d6e\u5370 - \u9ed1\u6697",
+            "description": "\u4e00\u679a\u63cf\u7e6a Cyte-09 \u9b25\u5fd7\u5728\u9ed1\u6697\u80cc\u666f\u4e0b\u7684\u6d6e\u5370\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusBright",
+            "name": "Cyte-09 \u6d6e\u5370 - \u660e\u4eae",
+            "description": "\u4e00\u679a\u63cf\u7e6a Cyte-09 \u5728\u660e\u4eae\u80cc\u666f\u4e0b\u7684\u6d6e\u5370\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusDark",
+            "name": "Cyte-09 \u6d6e\u5370 - \u9ed1\u6697",
+            "description": "\u4e00\u679a\u63cf\u7e6a Cyte-09 \u5728\u9ed1\u6697\u80cc\u666f\u4e0b\u7684\u6d6e\u5370\u3002",
             "codexSecret": true
         },
         {
@@ -6110,19 +6269,19 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAmirAccoladeGlyph",
             "name": "\u963f\u7c73\u723e\u8b9a\u8b7d\u6d6e\u5370",
-            "description": "A glyph representing a feat of strength by community artist Carl Tabora.",
+            "description": "\u4e00\u679a\u4ee3\u8868\u529b\u91cf\u58ef\u8209\u7684\u6d6e\u5370\uff0c\u7531\u793e\u7fa4\u85dd\u8853\u5bb6 Carl Tabora \u5275\u4f5c\u3002",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAoiAccoladeGlyph",
             "name": "\u8475\u8b9a\u8b7d\u6d6e\u5370",
-            "description": "A glyph representing a feat of strength by community artist Carl Tabora.",
+            "description": "\u4e00\u679a\u4ee3\u8868\u529b\u91cf\u58ef\u8209\u7684\u6d6e\u5370\uff0c\u7531\u793e\u7fa4\u85dd\u8853\u5bb6 Carl Tabora \u5275\u4f5c\u3002",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageArthurAccoladeGlyph",
             "name": "\u4e9e\u745f\u8b9a\u8b7d\u6d6e\u5370",
-            "description": "A glyph representing a feat of strength by community artist Carl Tabora.",
+            "description": "\u4e00\u679a\u4ee3\u8868\u529b\u91cf\u58ef\u8209\u7684\u6d6e\u5370\uff0c\u7531\u793e\u7fa4\u85dd\u8853\u5bb6 Carl Tabora \u5275\u4f5c\u3002",
             "codexSecret": true
         },
         {
@@ -6307,6 +6466,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaum1999Mug",
+            "name": "\u300a1999\u300b\u99ac\u514b\u676f Tennobaum \u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a\u5927\u676f\u71b1\u5de7\u514b\u529b\u7684\u6d6e\u5370\uff0c\u7531 Cyanfacade \u5275\u4f5c\u3002",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumFrost",
             "name": "Frost \u793e\u7fa4 Tennobaum \u6d6e\u5370",
             "description": "\u4e00\u679a\u63cf\u7e6a Frost \u5728\u51b0\u96ea\u8b77\u7f69\u88e1\u7684\u6d6e\u5370\uff0c\u7531 Nelosart \u8a2d\u8a08\u3002",
@@ -6487,6 +6652,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDJRoMGlyph",
+            "name": "\u793e\u7fa4\u300c\u7dda\u4e0a\u7537\u5b69\u30fb\u789f\u90ce\u300d\u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a\u7dda\u4e0a\u7537\u5b69\u5718\u54e1\u2500\u2500\u789f\u90ce\u7684\u793e\u7fa4\u6d6e\u5370\uff0c\u4ee5\u793e\u7fa4\u85dd\u8853\u5bb6\u2500\u2500death_ma666ots \u7684\u98a8\u683c\u5275\u4f5c\u3002",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDanteGlyph",
             "name": "Dante \u7684\u6b23\u559c\u6d6e\u5370",
             "description": "\u4e00\u679a\u63cf\u7e6a Dante \u5168\u8eab\u5fc3\u6295\u5165\u5728\u4ed6\u611b\u597d\u7684\u6d88\u9063\u4e4b\u4e00\u7684\u6d6e\u5370\u3002",
@@ -6506,6 +6677,12 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDrillbitGlyph",
+            "name": "\u793e\u7fa4\u300c\u7dda\u4e0a\u7537\u5b69\u30fb\u947d\u982d\u300d\u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a\u7dda\u4e0a\u7537\u5b69\u5718\u54e1\u2500\u2500\u947d\u982d\u7684\u793e\u7fa4\u6d6e\u5370\uff0c\u4ee5\u793e\u7fa4\u85dd\u8853\u5bb6\u2500\u2500death_ma666ots \u7684\u98a8\u683c\u5275\u4f5c\u3002",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDrippy",
             "name": "\u6ef4\u55f6 1999 \u5e74\u6d6e\u5370",
             "description": "\u4f60\u597d\u50cf\u5728\u81ea\u8a02\u4f60\u7684\u500b\u4eba\u6a94\u6848\uff01\u4f7f\u7528 K.O.L \u81ea\u5bb6\u7684\u6ef4\u55f6\u5c0f\u5e6b\u624b\u4f86\u5728\u4f60\u7684\u5e33\u865f\u4e2d\u52a0\u4e0a\u4e9b\u8a31 1999 \u5e74\u7684\u5fa9\u53e4\u98a8\u683c\u3002",
@@ -6515,7 +6692,7 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageEleanorAccoladeGlyph",
             "name": "\u611b\u7433\u5a1c\u8b9a\u8b7d\u6d6e\u5370",
-            "description": "A glyph representing a feat of strength by community artist Carl Tabora.",
+            "description": "\u4e00\u679a\u4ee3\u8868\u529b\u91cf\u58ef\u8209\u7684\u6d6e\u5370\uff0c\u7531\u793e\u7fa4\u85dd\u8853\u5bb6 Carl Tabora \u5275\u4f5c\u3002",
             "codexSecret": true
         },
         {
@@ -6608,6 +6785,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGamingDogDaysYareli",
             "name": "Yareli \u793e\u7fa4\u4e09\u4f0f\u5929\u6d6e\u5370",
             "description": "\u4e00\u679a\u63cf\u7e6a Yareli \u5728\u6d88\u6691\u7684\u6d6e\u5370\uff0c\u7531 CheruuAx \u5275\u4f5c\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGaussAccoladeGlyph",
+            "name": "Gauss \u8b9a\u8b7d\u6d6e\u5370",
+            "description": "\u4e00\u679a\u4ee3\u8868\u529b\u91cf\u58ef\u8209\u7684\u6d6e\u5370\uff0c\u7531\u793e\u7fa4\u85dd\u8853\u5bb6 Anavi_Ivy \u5275\u4f5c\u3002",
             "codexSecret": true
         },
         {
@@ -7097,6 +7280,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageHarddriveGlyph",
+            "name": "\u793e\u7fa4\u300c\u7dda\u4e0a\u7537\u5b69\u30fb\u786c\u9a45\u300d\u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a\u7dda\u4e0a\u7537\u5b69\u5718\u54e1\u2500\u2500\u786c\u9a45\u7684\u793e\u7fa4\u6d6e\u5370\uff0c\u4ee5\u793e\u7fa4\u85dd\u8853\u5bb6\u2500\u2500death_ma666ots \u7684\u98a8\u683c\u5275\u4f5c\u3002",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageHarrowAction",
             "name": "Harrow \u6230\u9b25\u59ff\u614b\u6d6e\u5370",
             "description": "\u7528\u65bc\u500b\u4eba\u6a94\u6848\u7684\u6d6e\u5370\u3002",
@@ -7119,6 +7308,42 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInarosScarabs",
             "name": "\u8056\u7532\u87f2\u8457\u8272\u6d6e\u5370",
             "description": "\u7528\u65bc\u500b\u4eba\u6a94\u6848\u7684\u6d6e\u5370\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedDJRoMGlyph",
+            "name": "\u793e\u7fa4\u300c\u7dda\u4e0a\u7537\u5b69\u30fb\u611f\u67d3\u789f\u90ce\u300d\u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a\u7dda\u4e0a\u7537\u5b69\u5718\u54e1\u2500\u2500\u611f\u67d3\u789f\u90ce\u7684\u793e\u7fa4\u6d6e\u5370\uff0c\u4ee5\u793e\u7fa4\u85dd\u8853\u5bb6\u2500\u2500death_ma666ots \u7684\u98a8\u683c\u5275\u4f5c\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedDrillbitGlyph",
+            "name": "\u793e\u7fa4\u300c\u7dda\u4e0a\u7537\u5b69\u30fb\u611f\u67d3\u947d\u982d\u300d\u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a\u7dda\u4e0a\u7537\u5b69\u5718\u54e1\u2500\u2500\u611f\u67d3\u947d\u982d\u7684\u793e\u7fa4\u6d6e\u5370\uff0c\u4ee5\u793e\u7fa4\u85dd\u8853\u5bb6\u2500\u2500death_ma666ots \u7684\u98a8\u683c\u5275\u4f5c\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedHarddriveGlyph",
+            "name": "\u793e\u7fa4\u300c\u7dda\u4e0a\u7537\u5b69\u30fb\u611f\u67d3\u786c\u9a45\u300d\u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a\u7dda\u4e0a\u7537\u5b69\u5718\u54e1\u2500\u2500\u611f\u67d3\u786c\u9a45\u7684\u793e\u7fa4\u6d6e\u5370\uff0c\u4ee5\u793e\u7fa4\u85dd\u8853\u5bb6\u2500\u2500death_ma666ots \u7684\u98a8\u683c\u5275\u4f5c\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedLogoGlyph",
+            "name": "\u793e\u7fa4\u7dda\u4e0a\u7537\u5b69\u611f\u67d3\u6a19\u8a8c\u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a\u7dda\u4e0a\u7537\u5b69\u611f\u67d3\u6a19\u8a8c\u7684\u793e\u7fa4\u6d6e\u5370\uff0c\u4ee5\u793e\u7fa4\u85dd\u8853\u5bb6\u2500\u2500death_ma666ots \u7684\u98a8\u683c\u5275\u4f5c\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedPacketGlyph",
+            "name": "\u793e\u7fa4\u300c\u7dda\u4e0a\u7537\u5b69\u30fb\u611f\u67d3\u5c01\u5305\u300d\u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a\u7dda\u4e0a\u7537\u5b69\u5718\u54e1\u2500\u2500\u611f\u67d3\u5c01\u5305\u7684\u793e\u7fa4\u6d6e\u5370\uff0c\u4ee5\u793e\u7fa4\u85dd\u8853\u5bb6\u2500\u2500death_ma666ots \u7684\u98a8\u683c\u5275\u4f5c\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedZekeGlyph",
+            "name": "\u793e\u7fa4\u300c\u7dda\u4e0a\u7537\u5b69\u30fb\u611f\u67d3\u9f4a\u514b\u300d\u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a\u7dda\u4e0a\u7537\u5b69\u5718\u54e1\u2500\u2500\u611f\u67d3\u9f4a\u514b\u7684\u793e\u7fa4\u6d6e\u5370\uff0c\u4ee5\u793e\u7fa4\u85dd\u8853\u5bb6\u2500\u2500death_ma666ots \u7684\u98a8\u683c\u5275\u4f5c\u3002",
             "codexSecret": true
         },
         {
@@ -7182,6 +7407,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageJadeAccoladeGlyph",
+            "name": "Jade \u8b9a\u8b7d\u6d6e\u5370",
+            "description": "\u4e00\u679a\u4ee3\u8868\u529b\u91cf\u58ef\u8209\u7684\u6d6e\u5370\uff0c\u7531\u793e\u7fa4\u85dd\u8853\u5bb6 Anavi_Ivy \u5275\u4f5c\u3002",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageJadeInActionGlyph",
             "name": "Jade \u6230\u9b25\u59ff\u614b\u6d6e\u5370",
             "description": "\u7528\u65bc\u500b\u4eba\u6a94\u6848\u7684\u6d6e\u5370\u3002",
@@ -7226,7 +7457,13 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLettieAccoladeGlyph",
             "name": "\u8389\u8482\u8b9a\u8b7d\u6d6e\u5370",
-            "description": "A glyph representing a feat of strength by community artist Carl Tabora.",
+            "description": "\u4e00\u679a\u4ee3\u8868\u529b\u91cf\u58ef\u8209\u7684\u6d6e\u5370\uff0c\u7531\u793e\u7fa4\u85dd\u8853\u5bb6 Carl Tabora \u5275\u4f5c\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLogoGlyph",
+            "name": "\u793e\u7fa4\u7dda\u4e0a\u7537\u5b69\u7480\u74a8\u6a19\u8a8c\u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a\u7dda\u4e0a\u7537\u5b69\u7480\u74a8\u6a19\u8a8c\u7684\u793e\u7fa4\u6d6e\u5370\uff0c\u4ee5\u793e\u7fa4\u85dd\u8853\u5bb6\u2500\u2500death_ma666ots \u7684\u98a8\u683c\u5275\u4f5c\u3002",
             "codexSecret": true
         },
         {
@@ -7311,6 +7548,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMirageAccoladeGlyph",
+            "name": "Mirage \u8b9a\u8b7d\u6d6e\u5370",
+            "description": "\u4e00\u679a\u4ee3\u8868\u529b\u91cf\u58ef\u8209\u7684\u6d6e\u5370\uff0c\u7531\u793e\u7fa4\u85dd\u8853\u5bb6 Anavi_Ivy \u5275\u4f5c\u3002",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageModPackBlast",
             "name": "\u57fa\u790e\u7206\u70b8\u6d6e\u5370",
             "description": "\u7528\u65bc\u500b\u4eba\u6a94\u6848\u7684\u6d6e\u5370\u3002",
@@ -7384,8 +7627,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMovember",
-            "name": "\u9b0d\u5b50\u6708 \u6d6e\u5370",
-            "description": "\u7531 RetroAlchemist \u6240\u5275\u4f5c\u7684\u9b0d\u5b50\u6708\u6d6e\u5370\u3002",
+            "name": "\u9b0d\u5b50\u6708\u6d6e\u5370",
+            "description": "\u9b0d\u5b50\u6708\u6d6e\u5370\uff0c\u7531 RetroAlchemist \u5275\u4f5c\u3002",
             "codexSecret": true
         },
         {
@@ -7449,9 +7692,51 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePacketGlyph",
+            "name": "\u793e\u7fa4\u300c\u7dda\u4e0a\u7537\u5b69\u30fb\u5c01\u5305\u300d\u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a\u7dda\u4e0a\u7537\u5b69\u5718\u54e1\u2500\u2500\u5c01\u5305\u7684\u793e\u7fa4\u6d6e\u5370\uff0c\u4ee5\u793e\u7fa4\u85dd\u8853\u5bb6\u2500\u2500death_ma666ots \u7684\u98a8\u683c\u5275\u4f5c\u3002",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePartyCDGlyph",
             "name": "\u6d3e\u5c0d\u5149\u789f\u6d6e\u5370",
             "description": "\u7528\u65bc\u500b\u4eba\u6a94\u6848\u7684\u6d6e\u5370\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelAmir",
+            "name": "\u963f\u7c73\u723e\u756b\u7d20\u6d6e\u5370",
+            "description": "\u900f\u904e Volt \u7684\u539f\u578b Warframe\u2500\u2500\u963f\u7c73\u723e\u4f86\u61f7\u5ff5 1999 \u5e74\u7684\u7368\u7279\u87a2\u5e55\u98a8\u683c\uff01",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelAoi",
+            "name": "\u8475\u756b\u7d20\u6d6e\u5370",
+            "description": "\u900f\u904e Mag \u7684\u539f\u578b Warframe\u2500\u2500\u8475\u4f86\u61f7\u5ff5 1999 \u5e74\u7684\u7368\u7279\u87a2\u5e55\u98a8\u683c\uff01",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelArthur",
+            "name": "\u4e9e\u745f\u756b\u7d20\u6d6e\u5370",
+            "description": "\u900f\u904e Excalibur \u7684\u539f\u578b Warframe\u2500\u2500\u4e9e\u745f\u4f86\u61f7\u5ff5 1999 \u5e74\u7684\u7368\u7279\u87a2\u5e55\u98a8\u683c\uff01",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelEleanor",
+            "name": "\u611b\u7433\u5a1c\u756b\u7d20\u6d6e\u5370",
+            "description": "\u900f\u904e Nyx \u7684\u539f\u578b Warframe\u2500\u2500\u611b\u7433\u5a1c\u4f86\u61f7\u5ff5 1999 \u5e74\u7684\u7368\u7279\u87a2\u5e55\u98a8\u683c\uff01",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelLettie",
+            "name": "\u8389\u8482\u756b\u7d20\u6d6e\u5370",
+            "description": "\u900f\u904e Trinity \u7684\u539f\u578b Warframe\u2500\u2500\u8389\u8482\u4f86\u61f7\u5ff5 1999 \u5e74\u7684\u7368\u7279\u87a2\u5e55\u98a8\u683c\uff01",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelQuincy",
+            "name": "\u5d11\u897f\u756b\u7d20\u6d6e\u5370",
+            "description": "\u900f\u904e Cyte-09 \u7684\u539f\u578b Warframe\u2500\u2500\u5d11\u897f\u4f86\u61f7\u5ff5 1999 \u5e74\u7684\u7368\u7279\u87a2\u5e55\u98a8\u683c\uff01",
             "codexSecret": true
         },
         {
@@ -7467,6 +7752,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageProteaAccoladeGlyph",
+            "name": "Protea \u8b9a\u8b7d\u6d6e\u5370",
+            "description": "\u4e00\u679a\u4ee3\u8868\u529b\u91cf\u58ef\u8209\u7684\u6d6e\u5370\uff0c\u7531\u793e\u7fa4\u85dd\u8853\u5bb6 Anavi_Ivy \u5275\u4f5c\u3002",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageProteaAction",
             "name": "Protea \u6230\u9b25\u59ff\u614b\u6d6e\u5370",
             "description": "\u7528\u65bc\u500b\u4eba\u6a94\u6848\u7684\u6d6e\u5370\u3002",
@@ -7476,7 +7767,7 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageQuincyAccoladeGlyph",
             "name": "\u5d11\u897f\u8b9a\u8b7d\u6d6e\u5370",
-            "description": "A glyph representing a feat of strength by community artist Carl Tabora.",
+            "description": "\u4e00\u679a\u4ee3\u8868\u529b\u91cf\u58ef\u8209\u7684\u6d6e\u5370\uff0c\u7531\u793e\u7fa4\u85dd\u8853\u5bb6 Carl Tabora \u5275\u4f5c\u3002",
             "codexSecret": true
         },
         {
@@ -7504,6 +7795,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSevagothAccoladeGlyph",
+            "name": "Sevagoth \u8b9a\u8b7d\u6d6e\u5370",
+            "description": "\u4e00\u679a\u4ee3\u8868\u529b\u91cf\u58ef\u8209\u7684\u6d6e\u5370\uff0c\u7531\u793e\u7fa4\u85dd\u8853\u5bb6 Anavi_Ivy \u5275\u4f5c\u3002",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSevagothAction",
             "name": "Sevagoth \u6230\u9b25\u59ff\u614b\u6d6e\u5370",
             "description": "\u7528\u65bc\u500b\u4eba\u6a94\u6848\u7684\u6d6e\u5370\u3002",
@@ -7514,8 +7811,7 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageStalkerAction",
             "name": "Stalker \u6230\u9b25\u59ff\u614b\u6d6e\u5370",
             "description": "\u7528\u65bc\u500b\u4eba\u6a94\u6848\u7684\u6d6e\u5370\u3002",
-            "codexSecret": true,
-            "excludeFromCodex": true
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageStarDaysCervulitePat",
@@ -7546,6 +7842,30 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennoVIP",
             "name": "Tenno VIP East \u6d6e\u5370",
             "description": "VIP Tenno \u7684\u6d6e\u5370\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumAoi",
+            "name": "\u8475\u793e\u7fa4 Tennobaum \u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a Jade \u5728\u88fd\u4f5c\u96ea\u5929\u4f7f\u7684\u6d6e\u5370\uff0c\u7531 alcyonsa \u5275\u4f5c\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumCozyStalker",
+            "name": "\u611c\u610f Stalker \u793e\u7fa4 Tennobaum \u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a Stalker \u7a7f\u8457\u611c\u610f\u6bdb\u8863\u7684\u6d6e\u5370\uff0c\u7531 alcyonsa \u5275\u4f5c\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumJade",
+            "name": "Jade \u793e\u7fa4 Tennobaum \u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a Jade \u5728\u88fd\u4f5c\u96ea\u5929\u4f7f\u7684\u6d6e\u5370\uff0c\u7531 alcyonsa \u5275\u4f5c\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumManintheCookie",
+            "name": "\u9905\u4e2d\u4eba\u793e\u7fa4 Tennobaum \u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a\u8591\u9905\u7246\u4e2d\u4eba\u7684\u6d6e\u5370\uff0c\u7531 alcyonsa \u5275\u4f5c\u3002",
             "codexSecret": true
         },
         {
@@ -7709,6 +8029,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageValkyrAction",
             "name": "Valkyr \u6230\u9b25\u59ff\u614b\u6d6e\u5370",
             "description": "\u7528\u65bc\u500b\u4eba\u6a94\u6848\u7684\u6d6e\u5370\u3002",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageVaubanAccoladeGlyph",
+            "name": "Vauban \u8b9a\u8b7d\u6d6e\u5370",
+            "description": "\u4e00\u679a\u4ee3\u8868\u529b\u91cf\u58ef\u8209\u7684\u6d6e\u5370\uff0c\u7531\u793e\u7fa4\u85dd\u8853\u5bb6 Anavi_Ivy \u5275\u4f5c\u3002",
             "codexSecret": true
         },
         {
@@ -7932,6 +8258,12 @@
             "excludeFromCodex": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageZekeGlyph",
+            "name": "\u793e\u7fa4\u300c\u7dda\u4e0a\u7537\u5b69\u30fb\u9f4a\u514b\u300d\u6d6e\u5370",
+            "description": "\u4e00\u679a\u63cf\u7e6a\u7dda\u4e0a\u7537\u5b69\u5718\u54e1\u2500\u2500\u9f4a\u514b\u7684\u793e\u7fa4\u6d6e\u5370\uff0c\u4ee5\u793e\u7fa4\u85dd\u8853\u5bb6\u2500\u2500death_ma666ots \u7684\u98a8\u683c\u5275\u4f5c\u3002",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/CNY2023RabbitGlyph",
             "name": "\u7678\u536f\u6d6e\u5370",
             "description": "\u7528\u65bc\u500b\u4eba\u6a94\u6848\u7684\u6d6e\u5370\u3002",
@@ -7963,12 +8295,6 @@
             "description": "\u6176\u795d Warframe 10 \u9031\u5e74\u7684\u6d6e\u5370\uff0c\u7531 Searyn \u8a2d\u8a08\u3002",
             "codexSecret": false,
             "excludeFromCodex": true
-        },
-        {
-            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/CommunityTennobaum1999Mug",
-            "name": "\u300a1999\u300b\u99ac\u514b\u676f Tennobaum \u6d6e\u5370",
-            "description": "\u4e00\u679a\u63cf\u7e6a\u5927\u676f\u71b1\u5de7\u514b\u529b\u7684\u6d6e\u5370\uff0c\u7531 Cyanfacade \u5275\u4f5c\u3002",
-            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/DeimosRevolverGlyph",
@@ -28667,6 +28993,20 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/UnlockFrumentariusAgile",
+            "name": "Cyte-09 \u8fc5\u6377\u7ad9\u59ff",
+            "description": "\u9019\u500b\u7269\u54c1\u80fd\u8b93\u4f60\u9078\u7528\u7684\u4efb\u4f55 Warframe \u4f7f\u7528 Cyte-09 \u7684\u8fc5\u6377\u7ad9\u59ff\u3002",
+            "codexSecret": true,
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/UnlockFrumentariusNoble",
+            "name": "Cyte-09 \u5c0a\u8cb4\u7ad9\u59ff",
+            "description": "\u9019\u500b\u7269\u54c1\u80fd\u8b93\u4f60\u9078\u7528\u7684\u4efb\u4f55 Warframe \u4f7f\u7528 Cyte-09 \u7684\u5c0a\u8cb4\u7ad9\u59ff\u3002",
+            "codexSecret": true,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Garuda/UnlockGarudaAgile",
             "name": "Garuda \u8fc5\u6377\u7ad9\u59ff",
             "description": "\u9019\u500b\u7269\u54c1\u80fd\u8b93\u4f60\u9078\u7528\u7684\u4efb\u4f55 Warframe \u4f7f\u7528 Garuda \u7684\u8fc5\u6377\u7ad9\u59ff\u3002",
@@ -28931,6 +29271,12 @@
             "name": "Parallax \u53cd\u7167\u5916\u89c0",
             "description": "\u7576 Parallax \u7684\u4e58\u5ba2\u96e2\u958b\u624e\u65e5\u66fc\u865f\u524d\u53bb\u7814\u7a76 Tau \u7684\u5bd2\u51b7\u6216\u9ed1\u6697\u5340\u57df\u6642\uff0c\u5b83\u5c31\u6703\u88dd\u5099\u53cd\u7167\u5916\u89c0\u3002",
             "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Liset/1999TankHoodOrnament",
+            "name": "H-09 \u5c16\u7aef\u7832\u5854\u8239\u6a19",
+            "description": "\u6e05\u527f\u968a H-09 \u5c16\u7aef\u6230\u8eca\u7684\u706b\u71b1\u7832\u5854\u5c07\u9ede\u7db4\u4f60\u7684\u767b\u9678\u8247\u3002",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Liset/ConquestHoodOrnament",

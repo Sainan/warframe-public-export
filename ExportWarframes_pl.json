@@ -584,12 +584,12 @@
             "codexSecret": false,
             "masteryReq": 0,
             "sprintSpeed": 1.1,
-            "passiveDescription": "Wskrzesza towarzyszy o |SPEED|% szybciej i z |RANGE|% wi\u0119kszej odleg\u0142o\u015bci.",
+            "passiveDescription": "Sojusznicy w <AFFINITY_SHARE>Zasi\u0119gu Bieg\u0142o\u015bci otrzymuj\u0105 |BUFF|% Maks. Energii Trinity jako \u017bycie.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/WellOfLifeAbility",
                     "abilityName": "Studnia \u017bycia",
-                    "description": "Tworzy na przeciwniku studni\u0119 \u017cycia. Sojusznicy stopniowo odzyskuj\u0105 punkty \u017bycia wok\u00f3\u0142 celu i s\u0105 odporni na Efekty Statusu. Obra\u017cenia Efekt\u00f3w Statusu otrzymane przez sojusznik\u00f3w s\u0105 przekierowywane na wroga. Sojusznicy zyskuj\u0105 dodatkowe punkty \u017bycia, zadaj\u0105c mu obra\u017cenia."
+                    "description": "Zamienia przeciwnika w studni\u0119 \u017cycia, kt\u00f3ry przyjmuje obra\u017cenia Efekt\u00f3w Statusu otrzymane przez pobliskich sojusznik\u00f3w. Sojusznicy otrzymuj\u0105 \u017cycie po zranieniu celu. Je\u015bli sojusznik zostan\u0105 zabici, zamiast tego umiera studnia \u017cycia."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/EnergyVampireAbility",
@@ -604,7 +604,7 @@
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BlessingAbility",
                     "abilityName": "B\u0142ogos\u0142awie\u0144stwo",
-                    "description": "Przywraca \u017bycie i Tarcze pobliskim sojusznikom oraz redukuje otrzymywane przez nich obra\u017cenia."
+                    "description": "Przywraca \u017bycie i Tarcze pobliskim sojusznikom w zasi\u0119gu <AFFINITY_SHARE>Zasi\u0119gu Bieg\u0142o\u015bci, jednocze\u015bnie zmniejszaj\u0105c obra\u017cenia otrzymywane od wrog\u00f3w."
                 }
             ],
             "productCategory": "Suits"
@@ -622,12 +622,12 @@
             "codexSecret": false,
             "masteryReq": 0,
             "sprintSpeed": 1,
-            "passiveDescription": "Wskrzesza towarzyszy o |SPEED|% szybciej i z |RANGE|% wi\u0119kszej odleg\u0142o\u015bci.",
+            "passiveDescription": "Sojusznicy w <AFFINITY_SHARE>Zasi\u0119gu Bieg\u0142o\u015bci otrzymuj\u0105 |BUFF|% Maks. Energii Trinity jako \u017bycie.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/WellOfLifeAbility",
                     "abilityName": "Studnia \u017bycia",
-                    "description": "Tworzy na przeciwniku studni\u0119 \u017cycia. Sojusznicy stopniowo odzyskuj\u0105 punkty \u017bycia wok\u00f3\u0142 celu i s\u0105 odporni na Efekty Statusu. Obra\u017cenia Efekt\u00f3w Statusu otrzymane przez sojusznik\u00f3w s\u0105 przekierowywane na wroga. Sojusznicy zyskuj\u0105 dodatkowe punkty \u017bycia, zadaj\u0105c mu obra\u017cenia."
+                    "description": "Zamienia przeciwnika w studni\u0119 \u017cycia, kt\u00f3ry przyjmuje obra\u017cenia Efekt\u00f3w Statusu otrzymane przez pobliskich sojusznik\u00f3w. Sojusznicy otrzymuj\u0105 \u017cycie po zranieniu celu. Je\u015bli sojusznik zostan\u0105 zabici, zamiast tego umiera studnia \u017cycia."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/EnergyVampireAbility",
@@ -642,7 +642,7 @@
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BlessingAbility",
                     "abilityName": "B\u0142ogos\u0142awie\u0144stwo",
-                    "description": "Przywraca \u017bycie i Tarcze pobliskim sojusznikom oraz redukuje otrzymywane przez nich obra\u017cenia."
+                    "description": "Przywraca \u017bycie i Tarcze pobliskim sojusznikom w zasi\u0119gu <AFFINITY_SHARE>Zasi\u0119gu Bieg\u0142o\u015bci, jednocze\u015bnie zmniejszaj\u0105c obra\u017cenia otrzymywane od wrog\u00f3w."
                 }
             ],
             "productCategory": "Suits"
@@ -2437,27 +2437,27 @@
             "codexSecret": false,
             "masteryReq": 0,
             "sprintSpeed": 1.125,
-            "passiveDescription": "Wrogowie s\u0105 |PERCENT|% mniej celni atakuj\u0105c Nyx Prime.",
+            "passiveDescription": "Nyx zyskuje +|CRITICAL|% Szansy Obr. Krytycznej Broni g\u0142\u00f3wnej i bocznej za ka\u017cdego zdezorientowanego wroga w <AFFINITY_SHARE>Zasi\u0119gu Bieg\u0142o\u015bci, do maks. +|MAX|%.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/MindControlAbility",
                     "abilityName": "Kontrola Umys\u0142u",
-                    "description": "Nyx atakuje psychik\u0119 celu, dezorientuj\u0105c go i zmuszaj\u0105c do walki dla Tenno. Kiedy zniewolenie przeminie, dany cel dostanie pomno\u017cone obra\u017cenia."
+                    "description": "Nyx przejmuje kontrol\u0119 nad umys\u0142em wroga, zmuszaj\u0105c go do walki po stronie Tenno. Wr\u00f3g pod jej kontrol\u0105 zyskuje Szans\u0119 Statusu <DT_RADIATION_COLOR>Obr. Radiacyjnych. Kiedy zostanie postrzelony przez Nyx, zyskuje tak\u017ce dodatkowe obra\u017cenia."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/DaggerAbility",
                     "abilityName": "Psioniczne Sztylety",
-                    "description": "Nyx rzuca w kierunku wrog\u00f3w kilka sztylet\u00f3w energetycznych u\u017cywaj\u0105c telekinezy do kontroli toru ich lotu. Ugodzeni przeciwnicy trac\u0105 cz\u0119\u015b\u0107 obrony."
+                    "description": "Nyx miota salw\u0105 psionicznych sztylet\u00f3w, kt\u00f3re namierzaj\u0105 pobliskich wrog\u00f3w. Kiedy ci wrogowie zostan\u0105 zabici, tworz\u0105 oni dodatkowe sztylety, namierzaj\u0105ce nowe cele. Obrona trafionych wrog\u00f3w jest os\u0142abiana i cz\u0119\u015bciowo przekazywana Nyx."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ChaosAbility",
                     "abilityName": "Chaos",
-                    "description": "Pot\u0119\u017cnym, psionicznym uderzeniem Nyx powoduje masow\u0105 histeri\u0119 na polu walki, zmuszaj\u0105c wrog\u00f3w do atakowania siebie nawzajem."
+                    "description": "Nyx tworzy dewastuj\u0105cy impuls psioniczny, dezorientuj\u0105cy wrog\u00f3w w znacznym zasi\u0119gu i zmuszaj\u0105c ich do walki mi\u0119dzy sob\u0105. Zdezorientowani wrogowie atakuj\u0105 losowe frakcje."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/SelfBulletAttractorAbility",
                     "abilityName": "Absorpcja",
-                    "description": "Nyx wch\u0142ania wszystkie zadane jej obra\u017cenia i przekszta\u0142ca ich energi\u0119 w pot\u0119\u017cny atak obszarowy. Obra\u017cenia Broni Nyx s\u0105 wzmacniane na podstawie otrzymywanych obra\u017ce\u0144, kiedy Umiej\u0119tno\u015b\u0107 si\u0119 ko\u0144czy."
+                    "description": "Nyx przyci\u0105ga i zbiera otrzymane obra\u017cenia i obra\u017cenia zadane przez zdezorientowanych wrog\u00f3w, aby uwolni\u0107 je w postaci dewastuj\u0105cego wybuchu. Po wybuchu Nyx przez kr\u00f3tki czas jest niewra\u017cliwa na obra\u017cenia i zyskuje premi\u0119 Obra\u017ce\u0144 Broni proporcjonaln\u0105 do zebranych obra\u017ce\u0144."
                 }
             ],
             "productCategory": "Suits"
@@ -2475,27 +2475,27 @@
             "codexSecret": false,
             "masteryReq": 0,
             "sprintSpeed": 1.1,
-            "passiveDescription": "Wrogowie s\u0105 |PERCENT|% mniej celni atakuj\u0105c Nyx.",
+            "passiveDescription": "Nyx zyskuje +|CRITICAL|% Szansy Obr. Krytycznej Broni g\u0142\u00f3wnej i bocznej za ka\u017cdego zdezorientowanego wroga w <AFFINITY_SHARE>Zasi\u0119gu Bieg\u0142o\u015bci, do maks. +|MAX|%.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/MindControlAbility",
                     "abilityName": "Kontrola Umys\u0142u",
-                    "description": "Nyx atakuje psychik\u0119 celu, dezorientuj\u0105c go i zmuszaj\u0105c do walki dla Tenno. Kiedy zniewolenie przeminie, dany cel dostanie pomno\u017cone obra\u017cenia."
+                    "description": "Nyx przejmuje kontrol\u0119 nad umys\u0142em wroga, zmuszaj\u0105c go do walki po stronie Tenno. Wr\u00f3g pod jej kontrol\u0105 zyskuje Szans\u0119 Statusu <DT_RADIATION_COLOR>Obr. Radiacyjnych. Kiedy zostanie postrzelony przez Nyx, zyskuje tak\u017ce dodatkowe obra\u017cenia."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/DaggerAbility",
                     "abilityName": "Psioniczne Sztylety",
-                    "description": "Nyx rzuca w kierunku wrog\u00f3w kilka sztylet\u00f3w energetycznych u\u017cywaj\u0105c telekinezy do kontroli toru ich lotu. Ugodzeni przeciwnicy trac\u0105 cz\u0119\u015b\u0107 obrony."
+                    "description": "Nyx miota salw\u0105 psionicznych sztylet\u00f3w, kt\u00f3re namierzaj\u0105 pobliskich wrog\u00f3w. Kiedy ci wrogowie zostan\u0105 zabici, tworz\u0105 oni dodatkowe sztylety, namierzaj\u0105ce nowe cele. Obrona trafionych wrog\u00f3w jest os\u0142abiana i cz\u0119\u015bciowo przekazywana Nyx."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ChaosAbility",
                     "abilityName": "Chaos",
-                    "description": "Pot\u0119\u017cnym, psionicznym uderzeniem Nyx powoduje masow\u0105 histeri\u0119 na polu walki, zmuszaj\u0105c wrog\u00f3w do atakowania siebie nawzajem."
+                    "description": "Nyx tworzy dewastuj\u0105cy impuls psioniczny, dezorientuj\u0105cy wrog\u00f3w w znacznym zasi\u0119gu i zmuszaj\u0105c ich do walki mi\u0119dzy sob\u0105. Zdezorientowani wrogowie atakuj\u0105 losowe frakcje."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/SelfBulletAttractorAbility",
                     "abilityName": "Absorpcja",
-                    "description": "Nyx wch\u0142ania wszystkie zadane jej obra\u017cenia i przekszta\u0142ca ich energi\u0119 w pot\u0119\u017cny atak obszarowy. Obra\u017cenia Broni Nyx s\u0105 wzmacniane na podstawie otrzymywanych obra\u017ce\u0144, kiedy Umiej\u0119tno\u015b\u0107 si\u0119 ko\u0144czy."
+                    "description": "Nyx przyci\u0105ga i zbiera otrzymane obra\u017cenia i obra\u017cenia zadane przez zdezorientowanych wrog\u00f3w, aby uwolni\u0107 je w postaci dewastuj\u0105cego wybuchu. Po wybuchu Nyx przez kr\u00f3tki czas jest niewra\u017cliwa na obra\u017cenia i zyskuje premi\u0119 Obra\u017ce\u0144 Broni proporcjonaln\u0105 do zebranych obra\u017ce\u0144."
                 }
             ],
             "productCategory": "Suits"
@@ -3002,6 +3002,47 @@
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/GarudaUnstoppableAbility",
                     "abilityName": "Poszukuj\u0105ce Szpony",
                     "description": "Na\u0142aduj, aby rozszerzy\u0107 obszar celowania, zwolnij, aby wys\u0142a\u0107 szpony Garudy, kt\u00f3re pop\u0119dz\u0105 za ka\u017cdym celem w okolicy. Wrogowie, kt\u00f3rzy przetrwaj\u0105, s\u0105 podatni na <DT_SLASH_COLOR>Efekt Statusu Obr. Tn\u0105cych."
+                }
+            ],
+            "productCategory": "Suits"
+        },
+        {
+            "uniqueName": "/Lotus/Powersuits/Frumentarius/Frumentarius",
+            "name": "Cyte-09",
+            "parentName": "/Lotus/Powersuits/Frumentarius/FrumentariusBaseSuit",
+            "description": "Poruszaj si\u0119 jak cie\u0144, uderzaj z moc\u0105. Orokin stworzyli Warframe'a, kt\u00f3ry \u0142\u0105czy obra\u017cenia i podst\u0119p, aby wyeliminowa\u0107 dyskretnie problemy, ale znikn\u0105\u0142 w chaosie ich upadku. Pozosta\u0142a tylko nazwa partii: Cyte-09.",
+            "health": 225,
+            "shield": 135,
+            "armor": 150,
+            "stamina": 3,
+            "power": 180,
+            "codexSecret": false,
+            "masteryReq": 0,
+            "sprintSpeed": 1.1,
+            "passiveDescription": "Zabicia trafieniem w s\u0142aby punkt trwale zwi\u0119kszaj\u0105 Szans\u0119 Obr. Krytycznych przy trafieniu w s\u0142aby punkt o |INCREASE|% do maks. |CAP|% na czas trwaj\u0105cej misji.",
+            "exalted": [
+                "/Lotus/Powersuits/Frumentarius/ExaltedSniper"
+            ],
+            "abilities": [
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusScanAbility",
+                    "abilityName": "Skanowanie",
+                    "description": "Instaluje anten\u0119, kt\u00f3ra emituje fale do przodu. Wykryci wrogowie otrzymuj\u0105 zwi\u0119kszone obra\u017cenia od s\u0142abych punkt\u00f3w i staj\u0105 si\u0119 widoczni przez \u015bciany. Bro\u0144 otrzymuje premi\u0119 Przebicia na Wylot."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusAmmoAbility",
+                    "abilityName": "Zaopatrzenie",
+                    "description": "Wyrzuca dwa pakiety amunicji, kt\u00f3re natychmiast uzupe\u0142niaj\u0105 magazynek trzymanej broni. Bro\u0144 zadaje dodatkow\u0105 instancj\u0119 obra\u017ce\u0144 \u017cywio\u0142owych z gwarantowanym efektem statusu, a\u017c do prze\u0142adowania. Karabiny snajperskie otrzymuj\u0105 dodatkow\u0105 premi\u0119 obra\u017ce\u0144.\r\n\r\nPrzytrzymaj umiej\u0119tno\u015b\u0107, aby zmieni\u0107 typ obra\u017ce\u0144."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusCloakAbility",
+                    "abilityName": "Unik",
+                    "description": "Odskocz i sta\u0144 si\u0119 niewidzialny na kr\u00f3tki czas. Zabijanie wrog\u00f3w, wykorzystuj\u0105c ich s\u0142abe punkty, wyd\u0142u\u017ca czas dzia\u0142ania i leczy Cyte-09."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusSniperAbility",
+                    "abilityName": "Neutralizacja",
+                    "description": "Przywo\u0142aj Neutralizator, egzaltowany karabin snajperski Cyte-09. Pociski odbijaj\u0105 si\u0119 rykoszetem od s\u0142abych punkt\u00f3w i szukaj\u0105 innych pobliskich s\u0142abych punkt\u00f3w. Alternatywny strza\u0142 wystrzeliwuje <DT_FREEZE_COLOR>Granat lodowy, kt\u00f3ry ca\u0142kowicie zamra\u017ca wrog\u00f3w."
                 }
             ],
             "productCategory": "Suits"

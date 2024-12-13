@@ -500,14 +500,14 @@
         {
             "uniqueName": "/Lotus/Types/Restoratives/Consumable/AlphaCorruptor",
             "name": "Corruptor Alfa",
-            "description": "Este Corruptor inerte \u00e9 altamente eficiente se unido \u00e0 sua vers\u00e3o Beta. Se unido adequadamente, este Corruptor desestabilizar\u00e1 Reatores Fomorian bem mais r\u00e1pido que suas vers\u00e3o est\u00e1vel. Este item vol\u00e1til n\u00e3o pode ser equipado junto com Corruptores Beta. Recomendado para os Tennos trabalhando em equipe.",
+            "description": "Este Corruptor inerte \u00e9 altamente eficiente se unido \u00e0 sua vers\u00e3o Beta. Se unido adequadamente, este Corruptor desestabilizar\u00e1 Reatores Fomorianos bem mais r\u00e1pido que suas vers\u00e3o est\u00e1vel. Este item vol\u00e1til n\u00e3o pode ser equipado com Corruptores Beta. Recomendado para os Tennos trabalhando em equipe.",
             "codexSecret": true,
             "parentName": "/Lotus/Types/Restoratives/Consumable/Corruptor"
         },
         {
             "uniqueName": "/Lotus/Types/Restoratives/Consumable/AncientHealerBall",
-            "name": "Espectro do Anci\u00e3o Curandeiro",
-            "description": "Posiciona uma unidade do ANCI\u00c3O CURANDEIRO (EXIMUS) para lutar por voc\u00ea.",
+            "name": "Espectro do Anci\u00e3o Protetor",
+            "description": "Posiciona uma unidade do ANCI\u00c3O PROTETOR (EXIMUS) para lutar por voc\u00ea.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/SummonNpcItem"
         },
@@ -556,7 +556,7 @@
         {
             "uniqueName": "/Lotus/Types/Restoratives/Consumable/BetaCorruptor",
             "name": "Corruptor Beta",
-            "description": "Este Corruptor inerte \u00e9 altamente eficiente se unido \u00e0 sua vers\u00e3o Alpha. Se unido adequadamente, este Corruptor desestabilizar\u00e1 Reatores Fomorian bem mais r\u00e1pido que suas vers\u00e3o est\u00e1vel. Este item vol\u00e1til n\u00e3o pode ser equipado junto com Corruptores Alpha. Recomendado para os Tennos trabalhando em equipe.",
+            "description": "Este Corruptor inerte \u00e9 altamente eficiente se unido \u00e0 sua vers\u00e3o Alpha. Se unido adequadamente, este Corruptor desestabilizar\u00e1 Reatores Fomorianos bem mais r\u00e1pido que suas vers\u00e3o est\u00e1vel. Este item vol\u00e1til n\u00e3o pode ser equipado com Corruptores Alpha. Recomendado para os Tennos trabalhando em equipe.",
             "codexSecret": true,
             "parentName": "/Lotus/Types/Restoratives/Consumable/Corruptor"
         },
@@ -653,8 +653,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Restoratives/Consumable/FomorianNegator",
-            "name": "Disruptor Fomorian",
-            "description": "Quando ativado, ele interrompe o campo de Energia Omega do n\u00facleo Fomorian, fazendo com que fique vulner\u00e1vel. Al\u00e9m disso, protege os Tenno de radia\u00e7\u00e3o Omega.",
+            "name": "Disruptor Fomoriano",
+            "description": "Quando ativado, ele interrompe o campo de Energia \u00d4mega do n\u00facleo Fomoriano, fazendo com que fique vulner\u00e1vel. Al\u00e9m disso, protege os Tenno de radia\u00e7\u00e3o \u00d4mega.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/Restorative"
         },
@@ -885,7 +885,7 @@
         {
             "uniqueName": "/Lotus/Types/Restoratives/Consumable/StableCorruptor",
             "name": "Corruptor Est\u00e1vel",
-            "description": "Injetado em um Reator Fomorian, este corruptor desbalancear\u00e1 as c\u00e9lulas. Desbalancear os reatores criticamente far\u00e1 com que, eventualmente, eles implodam, e desta forma destruindo a nave. Lento mas eficaz, recomendado para Tenno Solo.",
+            "description": "Injetado em um Reator Fomoriano, este corruptor desbalancear\u00e1 as c\u00e9lulas. Desbalancear os reatores far\u00e1 criticamente com que, eventualmente, eles implodam, e desta forma destruindo a nave. Lento, mas eficaz, recomendado para Tennos no Modo Solo.",
             "codexSecret": true,
             "parentName": "/Lotus/Types/Restoratives/Consumable/Corruptor"
         },
@@ -1109,7 +1109,7 @@
         {
             "uniqueName": "/Lotus/Types/Restoratives/MotorcycleSummon",
             "name": "Invocador da Atomimoto",
-            "description": "Invoca uma Atomimoto para uso durante as miss\u00f5es de 1999 e de percurso livre.",
+            "description": "Invocar\u00e1 uma Atomimoto para uso durante as miss\u00f5es de 1999 e de percurso livre.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/Restorative"
         },

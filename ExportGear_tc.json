@@ -506,8 +506,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Restoratives/Consumable/AncientHealerBall",
-            "name": "\u9060\u53e4\u6cbb\u7652\u8005\u9b45\u5f71",
-            "description": "\u8a2d\u7f6e\u4e00\u500b\u70ba\u4f60\u6230\u9b25\u7684\u9060\u53e4\u6cbb\u7652\u5353\u8d8a\u8005\u9b45\u5f71\u3002",
+            "name": "\u9060\u53e4\u4fdd\u8b77\u8005\u9b45\u5f71",
+            "description": "\u8a2d\u7f6e\u4e00\u500b\u70ba\u4f60\u6230\u9b25\u7684\u9060\u53e4\u4fdd\u8b77\u5353\u8d8a\u8005\u3002",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/SummonNpcItem"
         },
@@ -1108,8 +1108,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Restoratives/MotorcycleSummon",
-            "name": "Atomicycle Summon",
-            "description": "\u53ec\u559a\u4e00\u53f0 Atomicycle \u4f9b 1999 \u5e74\u53ca\u81ea\u7531\u63a2\u7d22\u4efb\u52d9\u4e2d\u4f7f\u7528\u3002",
+            "name": "\u539f\u62d3\u5bc6\u91cd\u6a5f\u53ec\u559a\u5668",
+            "description": "\u53ec\u559a\u4e00\u53f0\u539f\u62d3\u5bc6\u91cd\u6a5f\u4f9b\u300a1999\u300b\u53ca\u81ea\u7531\u63a2\u7d22\u4efb\u52d9\u4e2d\u4f7f\u7528\u3002",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/Restorative"
         },

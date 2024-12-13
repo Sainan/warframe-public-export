@@ -8,6 +8,21 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Keys/1999Quest/1999QuestGoodEndKeyChain",
+            "name": "O Hexa (Final Alternativo)",
+            "description": "Uma chance de reescrever a hist\u00f3ria e evitar o desastre.",
+            "parentName": "",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Keys/1999Quest/1999QuestKeyChain",
+            "name": "O Hexa",
+            "description": "A persegui\u00e7\u00e3o constante a Albrecht Entrati levou o Peregrino \u00e0 cidade de Holv\u00e2nia, de volta ao dia 31 de dezembro de 1999. Apesar do bloqueio da Scaldra diante da amea\u00e7a do Tecnov\u00edrus, os cidad\u00e3os fazem o que podem para comemorar a virada do Ano Novo. Por\u00e9m, isso j\u00e1 aconteceu antes\u2026 e foi um desastre.",
+            "parentName": "",
+            "codexSecret": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Keys/ApostasyQuest/ApostasyKeyChain",
             "name": "Pr\u00f3logo da Apost\u00e1sia",
             "description": "Inspecione seus aposentos pessoais ap\u00f3s a conclus\u00e3o da jornada \"Correntes de Harrow\".",
@@ -115,7 +130,7 @@
         {
             "uniqueName": "/Lotus/Types/Keys/InfestedMicroplanetQuest/InfestedMicroplanetQuestKeyChain",
             "name": "Cora\u00e7\u00e3o de Deimos",
-            "description": "Deimos surge na \u00f3rbita marciana, completamente invadida pela Infesta\u00e7\u00e3o... ainda assim, entre a massa infestada retorcida, um pedido de socorro ecoa atrav\u00e9s de uma onda transmissora passada...",
+            "description": "Deimos surge na \u00f3rbita marciana, completamente invadida pela Infesta\u00e7\u00e3o\u2026 ainda assim, entre a massa infestada retorcida, um pedido de socorro ecoa atrav\u00e9s de uma onda transmissora passada\u2026",
             "parentName": "",
             "codexSecret": false
         },

@@ -322,7 +322,7 @@
             {
                 "uniqueName": "/Lotus/Types/Challenges/Seasons/Daily/SeasonDailyKillEnemiesWhileOnKDrive",
                 "name": "\u00c7\u0131lg\u0131n S\u00fcr\u00fcc\u00fc",
-                "description": "K-Drive, Kaithe, Velocipod, veya Merulina kullan\u0131rken |COUNT| d\u00fc\u015fman \u00f6ld\u00fcr.",
+                "description": "K-Drive, Kaithe, Velocipod, veya Atomisiklet kullan\u0131rken |COUNT| d\u00fc\u015fman \u00f6ld\u00fcr.",
                 "standing": 1000,
                 "required": 20
             },
@@ -1393,7 +1393,7 @@
             {
                 "uniqueName": "/Lotus/Types/Challenges/Seasons/WeeklyHard/SeasonWeeklyHardCompleteSortie",
                 "name": "Taarruz Ustas\u0131",
-                "description": "|COUNT| Taarruz G\u00f6revi tamamla.",
+                "description": "|COUNT| Taarruz tamamla.",
                 "standing": 7000,
                 "required": 3
             },

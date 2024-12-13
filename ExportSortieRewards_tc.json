@@ -322,7 +322,7 @@
             {
                 "uniqueName": "/Lotus/Types/Challenges/Seasons/Daily/SeasonDailyKillEnemiesWhileOnKDrive",
                 "name": "\u4e58\u677f\u5feb\u611f",
-                "description": "\u99d5\u4e58 K \u5f0f\u61f8\u6d6e\u677f\u3001\u51f1\u99ff\u3001\u66b4\u901f\u7ffc\u87f2\uff0c\u6216\u662f\u7f8e\u6d6a\u73ca\u677f\u6642\uff0c\u64ca\u6bba |COUNT| \u540d\u6575\u4eba\u3002",
+                "description": "\u99d5\u4e58 K \u5f0f\u61f8\u6d6e\u677f\u3001\u51f1\u99ff\u3001\u66b4\u901f\u7ffc\u87f2\uff0c\u6216\u662f\u539f\u62d3\u5bc6\u91cd\u6a5f\u6642\uff0c\u64ca\u6bba |COUNT| \u540d\u6575\u4eba\u3002",
                 "standing": 1000,
                 "required": 20
             },

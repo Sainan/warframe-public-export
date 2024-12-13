@@ -584,12 +584,12 @@
             "codexSecret": false,
             "masteryReq": 0,
             "sprintSpeed": 1.1,
-            "passiveDescription": "Rianima gli alleati a terra del |SPEED|% pi\u00f9 velocemente e dal |RANGE|% in pi\u00f9 di distanza.",
+            "passiveDescription": "Gli alleati nella <AFFINITY_SHARE>Portata Affinit\u00e0 ricevono |BUFF|% dell'Energia Massima di Trinity sotto forma di Salute.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/WellOfLifeAbility",
                     "abilityName": "Well of Life",
-                    "description": "Crea una sorgente di vita su un nemico. Gli alleati vicino al bersaglio rigenerano gradualmente la salute e sono immuni agli Effetti. Il danno degli Effetti inteso per gli alleati nelle vicinanze verr\u00e0 assorbito dal nemico. Gli alleati guadagneranno Salute aggiuntiva quando attaccano il bersaglio."
+                    "description": "Crea una sorgente di vita su un nemico che assorbir\u00e0 i danni degli Effetti destinati agli alleati vicini. Gli alleati guadagneranno Salute aggiuntiva quando attaccano il bersaglio. Se gli alleati muoiono, i nemici nella sorgente di vita moriranno al posto loro."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/EnergyVampireAbility",
@@ -604,7 +604,7 @@
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BlessingAbility",
                     "abilityName": "Blessing",
-                    "description": "Ripristina la salute e gli scudi degli alleati nelle vicinanze riducendo il danno che subiscono dai nemici."
+                    "description": "Ripristina la salute e gli scudi degli alleati entro la <AFFINITY_SHARE>Portata Affinit\u00e0 riducendo il danno che subiscono dai nemici."
                 }
             ],
             "productCategory": "Suits"
@@ -622,12 +622,12 @@
             "codexSecret": false,
             "masteryReq": 0,
             "sprintSpeed": 1,
-            "passiveDescription": "Rianima gli alleati a terra del |SPEED|% pi\u00f9 velocemente e dal |RANGE|% in pi\u00f9 di distanza.",
+            "passiveDescription": "Gli alleati nella <AFFINITY_SHARE>Portata Affinit\u00e0 ricevono |BUFF|% dell'Energia Massima di Trinity sotto forma di Salute.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/WellOfLifeAbility",
                     "abilityName": "Well of Life",
-                    "description": "Crea una sorgente di vita su un nemico. Gli alleati vicino al bersaglio rigenerano gradualmente la salute e sono immuni agli Effetti. Il danno degli Effetti inteso per gli alleati nelle vicinanze verr\u00e0 assorbito dal nemico. Gli alleati guadagneranno Salute aggiuntiva quando attaccano il bersaglio."
+                    "description": "Crea una sorgente di vita su un nemico che assorbir\u00e0 i danni degli Effetti destinati agli alleati vicini. Gli alleati guadagneranno Salute aggiuntiva quando attaccano il bersaglio. Se gli alleati muoiono, i nemici nella sorgente di vita moriranno al posto loro."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/EnergyVampireAbility",
@@ -642,7 +642,7 @@
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BlessingAbility",
                     "abilityName": "Blessing",
-                    "description": "Ripristina la salute e gli scudi degli alleati nelle vicinanze riducendo il danno che subiscono dai nemici."
+                    "description": "Ripristina la salute e gli scudi degli alleati entro la <AFFINITY_SHARE>Portata Affinit\u00e0 riducendo il danno che subiscono dai nemici."
                 }
             ],
             "productCategory": "Suits"
@@ -2437,27 +2437,27 @@
             "codexSecret": false,
             "masteryReq": 0,
             "sprintSpeed": 1.125,
-            "passiveDescription": "I Nemici sono il |PERCENT|% meno precisi quando bersagliano Nyx Prime.",
+            "passiveDescription": "Nyx ottiene +|CRITICAL|% Probabilit\u00e0 Critico con le armi Primarie e Secondarie per ogni nemico Confuso entro la <AFFINITY_SHARE>Portata Affinit\u00e0, fino a un massimo di +|MAX|%.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/MindControlAbility",
                     "abilityName": "Mind Control",
-                    "description": "Nyx invade la psiche dei nemici, confondendoli e facendoli combattere per la causa Tenno. Nyx beneficia inoltre di un moltiplicatore di danno sparando a questi bersagli."
+                    "description": "Nyx prende il controllo della mente di un bersaglio, costringendolo a combattere per i Tenno. I nemici controllati hanno una Probabilit\u00e0 Effetto <DT_RADIATION_COLOR>Radiazione aumentata. Quando colpiti da Nyx, anche il Moltiplicatore Danno aumenta."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/DaggerAbility",
                     "abilityName": "Psychic Bolts",
-                    "description": "Nyx lancia un gruppo di dardi cinetici sui nemici, usando la telecinesi per correggerne la traiettoria e inseguire gli obiettivi vicini. Colpendo alcune difese nemiche."
+                    "description": "Nyx lancia una raffica di dardi psichici che seguono e colpiscono i nemici vicini con precisione telecinetica. Quando dei nemici vengono uccisi, altri dardi vengono scagliati verso nuovi bersagli. Colpire i nemici indebolisce le loro difese trasferendone una parte a Nyx."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ChaosAbility",
                     "abilityName": "Chaos",
-                    "description": "Con una potente ondata psichica, Nyx causa follia di massa sul campo di battaglia confondendo i nemici e spingendoli ad attaccarsi l'un l'altro."
+                    "description": "Nyx rilascia un impulso psichico devastante, disorientando i nemici in un ampio raggio e costringendoli a rivoltarsi l'uno contro l'altro. I nemici confusi si scagliano contro fazioni casuali."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/SelfBulletAttractorAbility",
                     "abilityName": "Absorb",
-                    "description": "Nyx assorbe tutti i danni in arrivo e canalizza l'energia raccolta in una scarica radiale esplosiva. Il danno dell'arma di Nyx viene potenziato in base al danno in arrivo assorbito al termine dell'abilit\u00e0."
+                    "description": "Nyx assorbe e trattiene il danno inflitto a lei e quello che i nemici confusi si infliggono tra di loro, quindi lo converte in una devastante esplosione radiale. Dopo l'esplosione, entra in un breve stato di invulnerabilit\u00e0 e il Danno dell'Arma di Nyx viene potenziato in base a quello assorbito."
                 }
             ],
             "productCategory": "Suits"
@@ -2475,27 +2475,27 @@
             "codexSecret": false,
             "masteryReq": 0,
             "sprintSpeed": 1.1,
-            "passiveDescription": "I Nemici sono il |PERCENT|% meno precisi quando bersagliano Nyx.",
+            "passiveDescription": "Nyx ottiene +|CRITICAL|% Probabilit\u00e0 Critico con le armi Primarie e Secondarie per ogni nemico Confuso entro la <AFFINITY_SHARE>Portata Affinit\u00e0, fino a un massimo di +|MAX|%.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/MindControlAbility",
                     "abilityName": "Mind Control",
-                    "description": "Nyx invade la psiche dei nemici, confondendoli e facendoli combattere per la causa Tenno. Nyx beneficia inoltre di un moltiplicatore di danno sparando a questi bersagli."
+                    "description": "Nyx prende il controllo della mente di un bersaglio, costringendolo a combattere per i Tenno. I nemici controllati hanno una Probabilit\u00e0 Effetto <DT_RADIATION_COLOR>Radiazione aumentata. Quando colpiti da Nyx, anche il Moltiplicatore Danno aumenta."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/DaggerAbility",
                     "abilityName": "Psychic Bolts",
-                    "description": "Nyx lancia un gruppo di dardi cinetici sui nemici, usando la telecinesi per correggerne la traiettoria e inseguire gli obiettivi vicini. Colpendo alcune difese nemiche."
+                    "description": "Nyx lancia una raffica di dardi psichici che seguono e colpiscono i nemici vicini con precisione telecinetica. Quando dei nemici vengono uccisi, altri dardi vengono scagliati verso nuovi bersagli. Colpire i nemici indebolisce le loro difese trasferendone una parte a Nyx."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ChaosAbility",
                     "abilityName": "Chaos",
-                    "description": "Con una potente ondata psichica, Nyx causa follia di massa sul campo di battaglia confondendo i nemici e spingendoli ad attaccarsi l'un l'altro."
+                    "description": "Nyx rilascia un impulso psichico devastante, disorientando i nemici in un ampio raggio e costringendoli a rivoltarsi l'uno contro l'altro. I nemici confusi si scagliano contro fazioni casuali."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/SelfBulletAttractorAbility",
                     "abilityName": "Absorb",
-                    "description": "Nyx assorbe tutti i danni in arrivo e canalizza l'energia raccolta in una scarica radiale esplosiva. Il danno dell'arma di Nyx viene potenziato in base al danno in arrivo assorbito al termine dell'abilit\u00e0."
+                    "description": "Nyx assorbe e trattiene il danno inflitto a lei e quello che i nemici confusi si infliggono tra di loro, quindi lo converte in una devastante esplosione radiale. Dopo l'esplosione, entra in un breve stato di invulnerabilit\u00e0 e il Danno dell'Arma di Nyx viene potenziato in base a quello assorbito."
                 }
             ],
             "productCategory": "Suits"
@@ -3002,6 +3002,47 @@
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/GarudaUnstoppableAbility",
                     "abilityName": "Seeking Talons",
                     "description": "Carica per espandere l'area interessata, rilascia per mandare gli artigli di Garuda che dirompono verso ciascun bersaglio nell'area. I nemici sopravvissuti sono soggetti all'Effetto <DT_SLASH_COLOR>Taglio."
+                }
+            ],
+            "productCategory": "Suits"
+        },
+        {
+            "uniqueName": "/Lotus/Powersuits/Frumentarius/Frumentarius",
+            "name": "Cyte-09",
+            "parentName": "/Lotus/Powersuits/Frumentarius/FrumentariusBaseSuit",
+            "description": "Muoviti come un'ombra, colpisci con forza. Gli Orokin crearono un Warframe che combinava danno e furtivit\u00e0 per risolvere questioni delicate, ma scomparve nel caos della loro fine. Tutto ci\u00f2 che rimane \u00e8 solo un codice di produzione: Cyte-09.",
+            "health": 225,
+            "shield": 135,
+            "armor": 150,
+            "stamina": 3,
+            "power": 180,
+            "codexSecret": false,
+            "masteryReq": 0,
+            "sprintSpeed": 1.1,
+            "passiveDescription": "Le Uccisioni nei Punti Deboli aumentano la Probabilit\u00e0 Critico Punto Debole di Cyte-09 del |INCREASE|% fino al |CAP|% per la durata della missione in corso.",
+            "exalted": [
+                "/Lotus/Powersuits/Frumentarius/ExaltedSniper"
+            ],
+            "abilities": [
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusScanAbility",
+                    "abilityName": "Seek",
+                    "description": "Piazza un'antenna che effettuer\u00e0 una scansione di fronte a s\u00e9. I nemici rilevati subiscono Danno da Punto Debole aumentato e diventano visibili attraverso i muri. Conferisce inoltre Attraversamento alle armi."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusAmmoAbility",
+                    "abilityName": "Resupply",
+                    "description": "Lancia due Pacchetti di Munizioni Elementali che riempiono istantaneamente il caricatore dell'arma attiva, conferendo all'arma un'istanza aggiuntiva di Danno Elementale e dell'Effetto selezionati. Ricaricare cancella l'effetto. I Fucili da Cecchino ottengono danni extra.\r\n\r\nTieni premuto il tasto dell'abilit\u00e0 per selezionare il tipo di Danno Elementale."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusCloakAbility",
+                    "abilityName": "Evade",
+                    "description": "Salta all'indietro e diventa invisibile per un breve periodo. Uccidere i nemici nei loro Punti Deboli ne prolunga la durata e cura Cyte-09."
+                },
+                {
+                    "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusSniperAbility",
+                    "abilityName": "Neutralize",
+                    "description": "Evoca il Neutralizer, il Fucile da Cecchino Exalted di Cyte-09. I proiettili rimbalzano sui Punti Deboli per cercarne altri nelle vicinanze. Il Fuoco Secondario lancia una granata di <DT_FREEZE_COLOR>Ghiaccio che congela totalmente i nemici."
                 }
             ],
             "productCategory": "Suits"

@@ -161,6 +161,505 @@
             "parentName": "/Lotus/Types/Game/SpectreArmyItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/AVReceiver",
+            "name": "Kinemantik<RETRO_TM> A/V Al\u0131c\u0131s\u0131",
+            "description": "\u0130K\u0130 Video Giri\u015fi ve \u00dc\u00c7 Ses Giri\u015fi ile Y\u00dcKSELT\u0130LD\u0130!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/AirHockeyTable",
+            "name": "Kinemantik<RETRO_TM> Hokey Masas\u0131",
+            "description": "Bu Kinemantik<RETRO_TM> Hava Hokeyi Masas\u0131 ile Hava Hokeyinin en iyisini ya\u015fay\u0131n!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Bicycle",
+            "name": "KineBasik<RETRO_TM> Bisiklet",
+            "description": "T\u00fcm KineBasik<RETRO_TM> bisiklet ihtiya\u00e7lar\u0131n\u0131z i\u00e7in!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Binder",
+            "name": "File-a-Style<RETRO_TM> Kapakl\u0131 Dosya",
+            "description": "File-a-Style<RETRO_TM> Kapakl\u0131 Dosyalar, DAHA FAZLA tasarruf i\u00e7in BE\u015eL\u0130 paketler halinde gelir!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Calculator",
+            "name": "File-a-Style<RETRO_TM> L\u00fcks Hesap Makinesi",
+            "description": "File-a-Style<RETRO_TM> L\u00fcks Hesap Makinesi art\u0131k haf\u0131zas\u0131nda \u00f6nceki \u0130K\u0130 fonksiyonu tutabiliyor, b\u00f6ylece de\u011ferli zaman\u0131n\u0131zdan tasarruf edebiliyorsunuz!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/CardboardBox",
+            "name": "KineBasik<RETRO_TM> Karton Kutu",
+            "description": "T\u00fcm KineBasic<RETRO_TM> karton kutu ihtiya\u00e7lar\u0131n\u0131z i\u00e7in!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/CellPhone",
+            "name": "Kinemantik<RETRO_TM> Cep Telefonu",
+            "description": "Kinemantik<RETRO_TM> Cep Telefonlar\u0131, \u00f6m\u00fcr boyu dayan\u0131kl\u0131l\u0131k garantisiyle* birlikte gelir!\r\n\r\n(*Kinemantik On Line abonelikleri dahil olmak \u00fczere herhangi bir Kinemantik \u00fcr\u00fcn\u00fcn\u00fc sat\u0131n alan kullan\u0131c\u0131, kanunen izin verilen kapsamda Kinemantik'e, ba\u011fl\u0131 \u015firketlerine veya ortaklar\u0131na kar\u015f\u0131 yasal olarak herhangi bir itirazda bulunamaz ve tazminat talep etme haklar\u0131ndan feragat eder.)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/CoffeeCup",
+            "name": "File-A-Style<RETRO_TM> Kahve Bardaklar\u0131",
+            "description": "200'l\u00fck paketle gelen bu bardaklarla birlikte ofisiniz, bu biyolojik olarak par\u00e7alanabilen birinci s\u0131n\u0131f yal\u0131t\u0131ml\u0131 ka\u011f\u0131t bardaklar i\u00e7in size te\u015fekk\u00fcr edecek!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/CoffeeMachine",
+            "name": "KineKitchen<RETRO_TM> Kahve Makinesi",
+            "description": "KineKitchen<RETRO_TM> serisi kahve makineleri, kahvenin yap\u0131ld\u0131\u011f\u0131 s\u0131rada kahvenizi alman\u0131za olanak veren ve patent bekleyen yeni 'gizli kahve doldurma' \u00f6zelli\u011fine sahip!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/CompactDisc",
+            "name": "On-lyne: Delikanl\u0131lar Geri D\u00f6nd\u00fc",
+            "description": "Delikanl\u0131lar Geri D\u00f6nd\u00fc derleme alb\u00fcm\u00fcnde On-lyne'\u0131n en b\u00fcy\u00fck hit par\u00e7alar\u0131n\u0131n yan\u0131 s\u0131ra partiyi ger\u00e7ek anlamda ba\u015flatacak dans remikslerini de i\u00e7eriyor!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/DigitalPhone",
+            "name": "Kinemantik<RETRO_TM> Dijital Telefon",
+            "description": "Kinemantik<RETRO_TM> Dijital Telefonlar\u0131n her yerde kesintisiz hizmet vermesi garantidir!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/EntratiPoster",
+            "name": "File-A-Style<RETRO_TM> Insta-Print Poster Makinesi",
+            "description": "File-A-Style<RETRO_TM> ne kadar zorlay\u0131c\u0131 olursa olsun bask\u0131 ihtiya\u00e7lar\u0131n\u0131z\u0131 kar\u015f\u0131layabilir!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/FireExtinguisher",
+            "name": "KineBasik<RETRO_TM> Yang\u0131n S\u00f6nd\u00fcr\u00fcc\u00fc",
+            "description": "T\u00fcm KineBasik<RETRO_TM> yang\u0131n s\u00f6nd\u00fcrme ihtiya\u00e7lar\u0131n\u0131z i\u00e7in!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/FloodLight",
+            "name": "KineMagik!<RETRO_TM> Parti I\u015f\u0131\u011f\u0131",
+            "description": "Bu KineMagik!<RETRO_TM> parti \u0131\u015f\u0131\u011f\u0131 ayn\u0131 zamanda zor durumlarda bir arama \u0131\u015f\u0131\u011f\u0131 olarak da kullan\u0131labilir!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/HardwareGPU",
+            "name": "Kinemantik<RETRO_TM> 256 GPU",
+            "description": "YEN\u0130 \u00dcR\u00dcN!! Bu D\u00dcNYADA L\u0130DER\u0130 Grafik \u0130\u015fleme Birimi, oyun deneyiminizi t\u00fcm\u00fcyle de\u011fi\u015ftirecek! 128 bitlik yerle\u015fik bellek aray\u00fcz\u00fc hem VHS, hem de Kompozit \u00e7\u0131k\u0131\u015flar\u0131yla Kinemantik<RETRO_TM> 256 GPU ASLA eskimeyecek!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Headphones",
+            "name": "KineMagik!<RETRO_TM> Kablosuz Kulakl\u0131klar",
+            "description": "Bu KineMagik!<RETRO_TM> Kablosuz Kulakl\u0131klarla sahip olaca\u011f\u0131n\u0131z \u00f6zg\u00fcrl\u00fc\u011f\u00fc hayal edin! 100 metreye kadar* \u00e7al\u0131\u015fan 2 kanall\u0131 bir verici i\u00e7erir!\r\n\r\n(*Do\u011frudan g\u00f6r\u00fc\u015f hatt\u0131 i\u00e7inde ge\u00e7erlidir. Piller dahil de\u011fildir.)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Highlighters",
+            "name": "File-a-Style<RETRO_TM> Fosforlu Kalemler",
+            "description": "File-a-Style<RETRO_TM> markal\u0131 fosforlu kalemler \u00e7e\u015fitli renklerde gelir. 50'li paket.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/JerryCanLarge",
+            "name": "KineBasik<RETRO_TM> Benzin Bidonu (B\u00fcy\u00fck)",
+            "description": "T\u00fcm KineBasik<RETRO_TM> b\u00fcy\u00fck boy benzin ta\u015f\u0131ma ihtiya\u00e7lar\u0131n\u0131z i\u00e7in!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/JerryCanSmall",
+            "name": "KineBasik<RETRO_TM> Benzin Bidonu (K\u00fc\u00e7\u00fck)",
+            "description": "T\u00fcm KineBasik<RETRO_TM> k\u00fc\u00e7\u00fck boy benzin ta\u015f\u0131ma ihtiya\u00e7lar\u0131n\u0131z i\u00e7in!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/KeyChain",
+            "name": "KineBasik<RETRO_TM> Metal Anahtarl\u0131klar",
+            "description": "KineBasik<RETRO_TM> metal anahtarl\u0131klardan olu\u015fan bu \u00e7e\u015fitli koleksiyon 100'l\u00fck bir kutuda geliyor ve ihtiya\u00e7lar\u0131n\u0131z\u0131 kar\u015f\u0131layaca\u011f\u0131ndan emin olabilirsiniz!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/LunchBox",
+            "name": "KineBasik<RETRO_TM> Metal Beslenme Kutusu",
+            "description": "T\u00fcm KineBasik<RETRO_TM> yemek ta\u015f\u0131ma ihtiya\u00e7lar\u0131n\u0131z i\u00e7in!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/MedKit",
+            "name": "KineBasik<RETRO_TM> T\u0131bbi Kit",
+            "description": "T\u00fcm KineBasik<RETRO_TM> acil t\u0131bbi ihtiya\u00e7lar\u0131n\u0131z i\u00e7in!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Microphone",
+            "name": "Kinemantik<RETRO_TM> Hoparl\u00f6r",
+            "description": "Kinemantik<RETRO_TM> Hoparl\u00f6r t\u00fcm b\u00fcy\u00fck sistemlerle uyumludur. Ayarlanabilir hat i\u00e7i ses engelleme \u00f6zelli\u011fiyle en inat\u00e7\u0131 parazitleri bile giderece\u011finden emin olabilirsiniz.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Microwave",
+            "name": "KineKitchen<RETRO_TM> Mikrodalga",
+            "description": "KineKitchen<RETRO_TM> Mikrodalga, Ak\u0131ll\u0131 Buz \u00c7\u00f6zme ve H\u0131zl\u0131 M\u0131s\u0131r Patlatma gibi yepyeni patent bekleyen ayarlarla birlikte gelir! Yanm\u0131\u015f taneler olmadan on saniye veya daha k\u0131sa s\u00fcrede patlam\u0131\u015f m\u0131s\u0131r yapma garantili!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/MousePad",
+            "name": "File-a-Style<RETRO_TM> Fare Altl\u0131\u011f\u0131",
+            "description": "50 adet siyah fare alt\u0131l\u0131\u011f\u0131ndan olu\u015fan bu set sayesinde i\u015f arkada\u015flar\u0131n\u0131z parlak renkler konusunda endi\u015felenmek zorunda kalmad\u0131klar\u0131 i\u00e7in size te\u015fekk\u00fcr edecekler!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Mug",
+            "name": "KineBasik<RETRO_TM> Kahve Kupas\u0131",
+            "description": "T\u00fcm KineBasik<RETRO_TM> kahve ihtiya\u00e7lar\u0131n\u0131z i\u00e7in! \u0130kili paket.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Notepad",
+            "name": "File-a-Style<RETRO_TM> Not Defteri",
+            "description": "File-a-Style<RETRO_TM> not defterleri 10'luk paketler halinde gelir ve \u00e7izgilidir.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/OfficePhone",
+            "name": "File-a-Style<RETRO_TM> Ofis Telefonu",
+            "description": "File-a-Style<RETRO_TM> Ofis Telefonu, yo\u011fun g\u00fcnler i\u00e7in dokuz bekleme hatt\u0131, arama ayarlar\u0131, \u0130K\u0130 iste\u011fe ba\u011fl\u0131 ses ayar\u0131 ve yeni dijital sesli mesaj \u00f6zellikleriyle birlikte gelir!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedBoomBox",
+            "name": "KineMagik!<RETRO_TM> Medya Oynat\u0131c\u0131",
+            "description": "KineMagik!<RETRO_TM> M\u00fcziklerinizi t\u00fcm mahallenin duymas\u0131n\u0131 istiyorsan\u0131z bu medya oynat\u0131c\u0131 tam size g\u00f6re!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedGameConsole",
+            "name": "K.A.H.<RETRO_TM> Oyun Sistemi",
+            "description": "Kinemantik At Home (K.A.H.)<RETRO_TM> Oyun Sistemi, oyun salonu deneyimini oturma odan\u0131za ta\u015f\u0131man\u0131n yeni ve devrim niteli\u011finde bir yoludur!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedMonitor",
+            "name": "K.A.H.<RETRO_TM> Oyun Monit\u00f6r\u00fc",
+            "description": "Kinemantik At Home (K.A.H.)<RETRO_TM> Oyun Monit\u00f6r\u00fc, evinizdeki K.A.H. sisteminizi m\u00fckemmel 64-bit \u00e7\u00f6z\u00fcn\u00fcrl\u00fckle \u00e7al\u0131\u015ft\u0131rman\u0131n en iyi yoludur. \r\n\r\n(Not: K.A.H. Oyun Sistemi yaln\u0131zca K.A.H. Oyun Monit\u00f6r\u00fc ile uyumludur ve ba\u015fka hi\u00e7bir TV veya monit\u00f6rle \u00e7al\u0131\u015fmaz.)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedPortableTV",
+            "name": "KineMagik!<RETRO_TM> Ta\u015f\u0131nabilir TV",
+            "description": "KineMagik<RETRO_TM> ta\u015f\u0131nabilir TV ile dizilerinizi yolculuk s\u0131ras\u0131nda izleyin! ",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedSpeaker",
+            "name": "Kinemantik<RETRO_TM> Speaker",
+            "description": "Bu tekli Kinemantik<RETRO_TM> hoparl\u00f6r 500w g\u00fc\u00e7le \u00e7al\u0131\u015f\u0131r! \u00c7al\u0131\u015fmas\u0131 i\u00e7in bir Kinemantik<RETRO_TM> A/V Al\u0131c\u0131s\u0131 veya ba\u015fka bir amfi gerekir.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedStereoAmp",
+            "name": "Kinemantik<RETRO_TM> Speaker Sistemi",
+            "description": "Bu Kinemantik<RETRO_TM> Amplifikat\u00f6rl\u00fc Hoparl\u00f6r Sistemi, en sevdi\u011finiz \u015fark\u0131lar\u0131 son seste dinlemek isteyen herkes i\u00e7in hepsi bir arada \u00e7\u00f6z\u00fcmd\u00fcr! T\u00fcm KineMagik!<RETRO_TM> kulakl\u0131klarla uyumludur.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PackagedVideoCamera",
+            "name": "Kinemantik<RETRO_TM> Dijital Video Kameras\u0131",
+            "description": "Bu muhte\u015fem Kinemantik<RETRO_TM> D\u0130J\u0130TAL Video Kameras\u0131 ile yolculu\u011funuzu kaydedin! Dijital video kayd\u0131 ile dolu bir gelece\u011fine ho\u015f geldiniz! Entegre polikristalin silikon LCD monit\u00f6rle mahallenin konu\u015fulan\u0131 olacaks\u0131n\u0131z!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PartyHat",
+            "name": "KineBasik<RETRO_TM> Ka\u011f\u0131t Parti \u015eapkalar\u0131",
+            "description": "T\u00fcm KineBasik<RETRO_TM> parti ihtiya\u00e7lar\u0131n\u0131z i\u00e7in!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Pen",
+            "name": "File-a-Style<RETRO_TM> T\u00fckenmez Kalem",
+            "description": "File-a-Style<RETRO_TM> kalemler 50'lik paketler olarak mavi ve siyah m\u00fcrekkeplerin rastgele \u00e7e\u015fitleriyle gelir. \u00c7e\u015fitlilik hayat\u0131n tuzu biberidir!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Pencil",
+            "name": "File-a-Style<RETRO_TM> Kur\u015fun Kalem",
+            "description": "File-a-Style<RETRO_TM> kalemler 100'l\u00fck paketler halinde gelir. Kalemt\u0131ra\u015f dahil de\u011fildir.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Pillow",
+            "name": "KineBasik<RETRO_TM> Yast\u0131k",
+            "description": "T\u00fcm KineBasik<RETRO_TM> yast\u0131k ihtiya\u00e7lar\u0131n\u0131z i\u00e7in!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PizzaBox",
+            "name": "KineBasik<RETRO_TM> Pizza Kutusu",
+            "description": "T\u00fcm KineBasik<RETRO_TM> pizza paketleme ihtiya\u00e7lar\u0131n\u0131z i\u00e7in! (Not: Pizza dahil de\u011fildir.)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Planter",
+            "name": "KineBasik<RETRO_TM> Ask\u0131l\u0131 Saks\u0131",
+            "description": "T\u00fcm KineBasik<RETRO_TM> bitki asma ihtiya\u00e7lar\u0131n\u0131z i\u00e7in! Do\u011fay\u0131 i\u00e7eriye ta\u015f\u0131y\u0131n.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/PropaneGas",
+            "name": "Green Gorilla<RETRO_TM> Propan T\u00fcp\u00fc",
+            "description": "Green Gorilla<RETRO_TM> Propan, sadece propandan ibaret de\u011fildir. T\u00fcpteki bir propand\u0131r. ",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Scooter",
+            "name": "Scooticle<RETRO_TM>",
+            "description": "ZeViLa Scooticle<RetroTM>, daha b\u00fcy\u00fck karde\u015fi olan Atomisiklet ile kar\u015f\u0131la\u015ft\u0131r\u0131ld\u0131\u011f\u0131nda s\u00f6n\u00fck g\u00f6r\u00fcnebilir, ancak bu g\u00fc\u00e7l\u00fc ve pop\u00fcler motosikletin arkas\u0131ndaki m\u00fchendisler, daha k\u00fc\u00e7\u00fck ve \u015fehir dostu karde\u015fini tasarlarken hi\u00e7bir masraftan ka\u00e7\u0131nmad\u0131! ",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Sign",
+            "name": "KineBasik<RETRO_TM> \u00c7e\u015fitli Yol \u0130\u015faretleri",
+            "description": "T\u00fcm KineBasik<Retro_TM> \u00e7e\u015fitli yol i\u015fareti ihtiya\u00e7lar\u0131n\u0131z i\u00e7in!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/StickyNotes",
+            "name": "File-a-Style<RETRO_TM> Yap\u0131\u015fkan Not Ka\u011f\u0131tlar\u0131",
+            "description": "File-a-Style<RETRO_TM> Yap\u0131\u015fkan Not Ka\u011f\u0131tlar\u0131, 100'l\u00fck paketler halinde ve \u00e7e\u015fitli renklerle gelir.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Television",
+            "name": "Kinemantik<RETRO_TM> 840HD TV",
+            "description": "Kinemantik<RETRO_TM> 840 HD TV, en sevdi\u011finiz programlar\u0131 muhte\u015fem 4:3 g\u00f6r\u00fcnt\u00fc oran\u0131nda g\u00f6steren, \u00fcst d\u00fczey katot \u0131\u015f\u0131n t\u00fcpl\u00fc televizyon setidir!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Toaster",
+            "name": "KineKitchen<RETRO_TM> Tost Makinesi",
+            "description": "KineKitchen<RETRO_TM> tost makinesi, m\u00fckemmel ve \u00e7\u0131t\u0131r kahvalt\u0131lar i\u00e7in d\u00f6rt set elektrikli bobin ve on \u0131s\u0131 ayar\u0131yla birlikte gelir!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/ToasterOven",
+            "name": "KineKitchen<RETRO_TM> Tost F\u0131r\u0131n\u0131",
+            "description": "KineKitchen<RETRO_TM> Tost F\u0131r\u0131n\u0131, tam bir mutfa\u011f\u0131n bulunmad\u0131\u011f\u0131 k\u00fc\u00e7\u00fck mutfaklar veya hareket halinde yemek pi\u015firme ihtiya\u00e7lar\u0131 i\u00e7in m\u00fckemmeldir. Izgara ve konveksiyon ayarlar\u0131yla neler yap\u0131labildi\u011fine inanmayacaks\u0131n\u0131z!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/VideoCassette",
+            "name": "\"Yolda\u015flar \u00c7emberi\" Dizisi art\u0131k kaset format\u0131nda",
+            "description": "Ele\u015ftirmenlerce be\u011fenilen 'Yolda\u015flar \u00c7emberi' dizisinin tamam\u0131 kaset format\u0131nda. 6 Kasetli Set i\u00e7erir.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Quest/LoanerWeaponsItem",
+            "name": "\u00d6d\u00fcn\u00e7 Silahlar",
+            "description": "",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonA",
+            "name": "Efervon \u00d6rne\u011fi",
+            "description": "Scaldra'n\u0131n Techrot'u temizlemek i\u00e7in kulland\u0131\u011f\u0131 a\u015f\u0131nd\u0131r\u0131c\u0131 maddenin bir \u00f6rne\u011fi. Dikkatli kullan.\r\n\r\nKonum: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonB",
+            "name": "H\u00f6llvanian Pitchweave Par\u00e7as\u0131",
+            "description": "Scaldra \u00fcniformalar\u0131n\u0131 \u00fcretmek i\u00e7in kullan\u0131lan ve Efervon'a dayan\u0131kl\u0131 bir malzeme.\r\n\r\nKonum: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceRareA",
+            "name": "Techrot Anakart",
+            "description": "Bu anakart muhtemelen bir sinir merkezi olarak hizmet veriyordu ve Techrot'un ileti\u015fim a\u011f\u0131n\u0131 kolayla\u015ft\u0131r\u0131yordu.\r\n\r\nKonum: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonA",
+            "name": "Techrot Chitin",
+            "description": "Bu b\u00fck\u00fclm\u00fc\u015f kabuk, bir zamanlar oldu\u011fu elektronik cihaza neredeyse hi\u00e7 benzemiyor, Techrot'un amans\u0131z yay\u0131l\u0131m\u0131yla t\u00fcketiliyor ve yeniden \u015fekilleniyor.\r\n\r\nKonum: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonB",
+            "name": "Deneysel Arc-Relay",
+            "description": "H\u00f6llvania yarat\u0131c\u0131l\u0131\u011f\u0131n\u0131n s\u0131n\u0131r\u0131 yoktur ve bu \u00fcr\u00fcn bunun kan\u0131t\u0131d\u0131r! \u00c7\u0131lg\u0131n yeniliklerle dolu, son teknoloji bir cihaz.\r\n\r\nKonum: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagAmir",
+            "name": "Countessa \u00c7izgi Roman\u0131",
+            "description": "Kontes sadece bir ikon de\u011fil, ayn\u0131 zamanda bir kahraman! Bu k\u00fclt klasik \u00e7izgi roman serisinin say\u0131lar\u0131, g\u00fc\u00e7l\u00fc ve \u015f\u0131k bir kahraman\u0131n de\u011ferini bilen hayranlar\u0131 taraf\u0131ndan arzulan\u0131r. Bu Hex Hazinesini Lettie ile takas ederek Hex'te mevki kazanabilirsin.\r\n\r\nKonum: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagAoi",
+            "name": "On-lyne CD",
+            "description": "On-lyne hayranlar\u0131 i\u00e7in en iyi hediye! Her m\u00fczikseverin koleksiyonunda bulunmas\u0131 gereken bu olmazsa olmaz \u00fcr\u00fcnle sevginizi ve deste\u011finizi g\u00f6sterin. Bu Hex Hazinesini Lettie ile takas ederek Hex'te mevki kazanabilirsin.\r\n\r\nKonum: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagArthur",
+            "name": "Alt\u0131l\u0131 Paket \u0130\u00e7ecek",
+            "description": "Rahatlamak ve kendine ay\u0131rmak istedi\u011fin o \u00f6zel an i\u00e7in m\u00fckemmel bir konfor seti. D\u00fcnyan\u0131n y\u00fck\u00fcn\u00fc omuzlar\u0131nda ta\u015f\u0131yan biri i\u00e7in ideal. Bu Hex Hazinesini Lettie ile takas ederek Hex'te mevki kazanabilirsin.\r\n\r\nKonum: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagEleanor",
+            "name": "Ruh Hali Kristali",
+            "description": "\u015e\u0131k, zarif ve rahatlat\u0131c\u0131 ruh hali kristalleri, biraz sakinli\u011fe ihtiya\u00e7 duyan herkes i\u00e7in m\u00fckemmel bir hediyedir. Bu Hex Hazinesini Lettie ile takas ederek Hex'te mevki kazanabilirsin.\r\n\r\nKonum: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagLettie",
+            "name": "Cheddar Crowns M\u0131s\u0131r Gevre\u011fi",
+            "description": "90'lar\u0131n en iyi \u00e7ocu\u011fu i\u00e7in nostaljik bir hediye! Ne\u015feli fare d\u00f6rtl\u00fcs\u00fcn\u00fcn oldu\u011fu o reklamlar\u0131 hat\u0131rl\u0131yor musunuz? Bu Hex Hazinesini Lettie ile takas ederek Hex'te mevki kazanabilirsin.\r\n\r\nKonum: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagQuincy",
+            "name": "35mm Film",
+            "description": "D\u00fcnyay\u0131 benzersiz bir mercekten g\u00f6ren belgeselciler i\u00e7in ekstra film her zaman bir kazan\u00e7t\u0131r. Bu Hex Hazinesini Lettie ile takas ederek Hex'te mevki kazanabilirsin.\r\n\r\nKonum: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagRare",
+            "name": "Big Bytes Pizza",
+            "description": "Pizzay\u0131 kim sevmez ki? Bu Hex Hazinesini Lettie ile takas ederek Hex'te mevki kazanabilirsin.\r\n\r\nKonum: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagUncommon",
+            "name": "Argon Hamburger Yeme\u011fi",
+            "description": "Hamburgerler o kadar lezzetli ki hemen ortadan kayboluyorlar!\r\n\r\nKonum: 1999 (H\u00f6llvania)",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag",
+            "name": "",
+            "description": "",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/SyndicateDogTags/AutoSharedDogTag"
+        },
+        {
             "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/DuviriFishAItem",
             "name": "Inaak",
             "description": "Baz\u0131lar\u0131, Duviri'nin dev bir Inaak kabu\u011funun \u00fczerinde durdu\u011funu teorize ediyor. Do\u011fal olarak, baz\u0131lar\u0131 dev Inaak'\u0131n neyin \u00fczerinde durdu\u011funu merak ediyor. Elbette bunun cevab\u0131 di\u011fer sonsuz Inaak'lar\u0131n \u00fczeridir.",
@@ -1076,6 +1575,22 @@
             "description": "",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/DangerRoomTileItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/DangerRoom/DangerRoomTile1999MallRotunda",
+            "name": "Al\u0131\u015fveri\u015f Merkezi Rotunda Simulacrum",
+            "description": "H\u00f6llvania'n\u0131n alt\u0131ndaki Techrot taraf\u0131ndan istila edilmi\u015f bir Al\u0131\u015fveri\u015f Merkesindeki sava\u015f\u0131 sim\u00fcle et. Bu simulacrum, d\u00fc\u015fman zorlu\u011funun standart maksimumun 25 seviye \u00fcst\u00fcne ayarlanmas\u0131n\u0131 sa\u011flar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/DangerRoom/DangerRoomTile",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/DangerRoom/DangerRoomTile1999StreetCourtyard",
+            "name": "H\u00f6llvania Avlusu Simulacrum",
+            "description": "H\u00f6llvania'n\u0131n arka sokaklar\u0131nda bir sava\u015f\u0131 sim\u00fcle et. Bu simulacrum, d\u00fc\u015fman zorlu\u011funun standart maksimumun 25 seviye \u00fcst\u00fcne ayarlanmas\u0131n\u0131 sa\u011flar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/DangerRoom/DangerRoomTile",
             "excludeFromCodex": true
         },
         {
@@ -3779,7 +4294,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/MiscItems/FormaOmega",
             "name": "TEST FORMA",
-            "description": "/Lotus/Language/Consumables/FormaOmegaDesc",
+            "description": "Bu kutup de\u011fi\u015ftirici, Orokin teknolojisine \u00f6zg\u00fc bir \u00fcr\u00fcnd\u00fcr. Warframe, Yolda\u015f veya Silahlar\u0131n\u0131n mod yuvalar\u0131n\u0131n kutup tiplerini de\u011fi\u015ftirmeni sa\u011flar ve de\u011fi\u015fim sonras\u0131nda ekipmanlar\u0131n seviyelerini s\u0131f\u0131rlayarak tekrardan seviyesiz hale getirir. Sadece son Seviye'ye gelen Warframe, Yolda\u015f ve Silahlarda kullan\u0131labilir.",
             "codexSecret": true,
             "parentName": "/Lotus/Types/Items/MiscItems/Forma",
             "excludeFromCodex": true
@@ -3973,7 +4488,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
             "name": "Nano H\u00fccreler",
-            "description": "Lifli Technosit t\u00fcm\u00f6r\u00fc. Bu Infested dokuya dokunurken dikkatli ol.\r\n\r\nKonum: Sat\u00fcrn, Nept\u00fcn, Eris ve Deimos",
+            "description": "Lifli teknosit t\u00fcm\u00f6r\u00fc. Bu Infested dokusunun yak\u0131n\u0131nda dikkatli olunmas\u0131 \u00f6nerilir.\r\n\r\nKonum: Sat\u00fcrn, Nept\u00fcn, Eris ve Deimos",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
         },
@@ -5307,6 +5822,69 @@
             "excludeFromCodex": true
         },
         {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConAlleyValguma",
+            "name": "H\u00f6llvania Teras\u0131, Yaz",
+            "description": "Captura Modunda kullanmak i\u00e7in bu sahneyi a\u00e7ar, Arsenaldeki Warframe G\u00f6r\u00fcn\u00fcm sekmesinden eri\u015filebilir.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConMallGrano",
+            "name": "Teknolojik Titan Elektronik Ma\u011fazas\u0131",
+            "description": "Captura Modunda kullanmak i\u00e7in bu sahneyi a\u00e7ar, Arsenaldeki Warframe G\u00f6r\u00fcn\u00fcm sekmesinden eri\u015filebilir.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConMallStargla",
+            "name": "H\u00f6llvania AVM Metrosu",
+            "description": "Captura Modunda kullanmak i\u00e7in bu sahneyi a\u00e7ar, Arsenaldeki Warframe G\u00f6r\u00fcn\u00fcm sekmesinden eri\u015filebilir.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetJekabpils",
+            "name": "H\u00f6llvania Kav\u015fa\u011f\u0131, K\u0131\u015f",
+            "description": "Captura Modunda kullanmak i\u00e7in bu sahneyi a\u00e7ar, Arsenaldeki Warframe G\u00f6r\u00fcn\u00fcm sekmesinden eri\u015filebilir.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetMatisa",
+            "name": "H\u00f6llvania Apartmanlar\u0131, Yaz",
+            "description": "Captura Modunda kullanmak i\u00e7in bu sahneyi a\u00e7ar, Arsenaldeki Warframe G\u00f6r\u00fcn\u00fcm sekmesinden eri\u015filebilir.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetOgres",
+            "name": "H\u00f6llvania Tarihi Mahallesi, \u0130lkbahar",
+            "description": "Captura Modunda kullanmak i\u00e7in bu sahneyi a\u00e7ar, Arsenaldeki Warframe G\u00f6r\u00fcn\u00fcm sekmesinden eri\u015filebilir.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetStrencu",
+            "name": "H\u00f6llvania Eski Kasabas\u0131, Sonbahar",
+            "description": "Captura Modunda kullanmak i\u00e7in bu sahneyi a\u00e7ar, Arsenaldeki Warframe G\u00f6r\u00fcn\u00fcm sekmesinden eri\u015filebilir.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaIntMallArcade",
+            "name": "Y\u00f6r\u00fcnge Oyun Salonu",
+            "description": "Captura Modunda kullanmak i\u00e7in bu sahneyi a\u00e7ar, Arsenaldeki Warframe G\u00f6r\u00fcn\u00fcm sekmesinden eri\u015filebilir.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaTailorShop",
+            "name": "Al\u0131\u015fveri\u015f Merkezi Gizli Odas\u0131",
+            "description": "Captura Modunda kullanmak i\u00e7in bu sahneyi a\u00e7ar, Arsenaldeki Warframe G\u00f6r\u00fcn\u00fcm sekmesinden eri\u015filebilir.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseEntrati"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/PhotoBooth/Zariman/PhotoboothTileZarAmphitheatre",
             "name": "Zariman Amfitiyatro Sahnesi",
             "description": "Captura Modunda kullanmak i\u00e7in bu sahneyi a\u00e7ar, Arsenaldeki Warframe G\u00f6r\u00fcn\u00fcm sekmesinden eri\u015filebilir.",
@@ -5790,6 +6368,30 @@
             "description": "Bu tahrip edilmi\u015f Fieldron, a\u015f\u0131r\u0131 \u0131s\u0131t\u0131lm\u0131\u015f tutma alanlar\u0131 hakk\u0131nda daha fazla ara\u015ft\u0131rma sa\u011flayabilir.\r\n\r\nKonumlar: Ven\u00fcs, Mars, J\u00fcpiter, Europa, Nept\u00fcn ve Pl\u00fcton.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/Research/SampleBase"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/AmazingEternals/TAExArmyManWinterTennoBaumToyDeco",
+            "name": "Centurion Komando Oyunca\u011f\u0131",
+            "description": "Orbiter'\u0131, en kaliteli ye\u015fil polietilenden yap\u0131lm\u0131\u015f bu antik sava\u015f\u00e7\u0131 fig\u00fcr\u00fcyle s\u00fcsle. Yakla\u015f\u0131k olarak 1999 y\u0131llar\u0131na ait.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/AmazingEternals/TAExPlushAstronautRayTennoBaumToyDeco",
+            "name": "Astro Fella Oyunca\u011f\u0131",
+            "description": "Uzaydaki maceralara haz\u0131r, kendinize ait Stuffie Buddy astronotunuz!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/AmazingEternals/TAExRocketShipTennoBaumToyDeco",
+            "name": "Roket Gemisi Lua Oyuncak",
+            "description": "Bu e\u011flenceli, sa\u011flam roket gemisiyle Lua ini\u015flerini an\u0131n. Piller dahil de\u011fildir.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/CorpusShip/LisetPropGreedCoinBlack",
@@ -6996,6 +7598,14 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ChildDrawingBase"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophy1999Bronze",
+            "name": "Steel Path - 1999",
+            "description": "Steel Path'i 1999'da tamamlayanlar i\u00e7in bir simge",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyCeresBronze",
             "name": "Steel Path - Ceres",
             "description": "Steel Path'i Ceres'te tamamlayanlar i\u00e7in bir simge",
@@ -7346,6 +7956,20 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyAmir",
+            "name": "Amir Pelu\u015f",
+            "description": "Art\u0131k Amir'e o \u00e7ok sevdi\u011fi sar\u0131lmalar\u0131 verebilirsin!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyAoi",
+            "name": "Aoi Pelu\u015f",
+            "description": "Bu Pelu\u015f Arkada\u015f bizzat Aoi taraf\u0131ndan onaylanm\u0131\u015ft\u0131r. Ezilmekten korkmadan ona sar\u0131labilirsin.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyArthur",
             "name": "Arthur Pelu\u015f",
             "description": "\u201c1999 d\u00f6nemine ili\u015fkin \u00e7al\u0131\u015fmalar\u0131m, Pelu\u015f Ahbap olarak bilinen paha bi\u00e7ilmez bir kal\u0131nt\u0131y\u0131 ortaya \u00e7\u0131kard\u0131. Ge\u00e7mi\u015fin harikalar\u0131n\u0131 yeniden yaratmal\u0131y\u0131z.\u201d - Loid",
@@ -7412,6 +8036,13 @@
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyDesertSkate",
             "name": "Desert Skate Pelu\u015f",
             "description": "Bu k\u00fc\u00e7\u00fck yumu\u015fak dostumuzla kumlarda kaymaktan ka\u00e7\u0131n\u0131n!",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyEleanor",
+            "name": "Eleanor Pelu\u015f",
+            "description": "Eleanor'un bu sevimli kopyas\u0131, kafana girmeyecek veya di\u015flerini sana g\u00f6stermeyecek.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
@@ -7507,6 +8138,13 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLettie",
+            "name": "Lettie Pelu\u015f",
+            "description": "Hex'in yorgun doktorunun bu sevimli versiyonu, ger\u00e7ek hayattaki benzerine g\u00f6re sar\u0131lmalar\u0131 kabul etmete \u00e7ok daha istekli g\u00f6r\u00fcn\u00fcyor.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLotus",
             "name": "Lotus Pelu\u015f",
             "description": "Bu pelu\u015fun her ilme\u011fine \u00e7ok fazla sevgi konuldu.",
@@ -7573,6 +8211,13 @@
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyPobbersUncommonDirty",
             "name": "Gral Pobber Pelu\u015f",
             "description": "Bir zamanlar Gral olarak bilinen Grineer'a ait olan, \u00e7ok sevilen bir Pobber Pelu\u015f.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyQuincy",
+            "name": "Quincy Pelu\u015f",
+            "description": "Hex'in keskin ni\u015fanc\u0131s\u0131n\u0131n sevimli bir kopyas\u0131. Onu istedi\u011fin kadar kucakla, tarz\u0131n\u0131 bozmayacakt\u0131r.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
@@ -9246,8 +9891,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/1999BoybandPoster",
-            "name": "Warframe: 1999 On-lyne Poster",
-            "description": "Celebrate the release of Warframe: 1999 with this poster of the On-lyne boys and their Technocyte Coda counterparts.",
+            "name": "Warframe: 1999 On-lyne Posteri",
+            "description": "Warframe: 1999'un \u00e7\u0131k\u0131\u015f\u0131n\u0131, On-lyne ekibinin ve Teknosit Coda \u00fcyelerinin yer ald\u0131\u011f\u0131 bu posterle kutla.",
             "codexSecret": true,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
@@ -9260,8 +9905,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/1999OnlyneWallPoster",
-            "name": "On-lyne Poster Collage",
-            "description": "Show your love for Zeke, Drillbit, DJ Rom, Hardrive and Packet with this lovingly arranged collection of On-lyne fold-out posters. Who is your favorite?",
+            "name": "On-lyne Poster Kolaj\u0131",
+            "description": "Zeke, Drillbit, DJ Rom, Hardrive ve Packet'a olan sevgini, tutkuyla tasarlanm\u0131\u015f On-lyne katlanan poster koleksiyonuyla g\u00f6ster. En sevdi\u011fin gurup \u00fcyesi hangisi?",
             "codexSecret": true,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
@@ -9329,6 +9974,13 @@
             "description": "Alad V k\u00fc\u00e7\u00fck oynar fig\u00fcr.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Albrecht2in1Display",
+            "name": "Entrati Topluluk F\u00fczyon Sergisi",
+            "description": "Albrecht Entrati'nin iki y\u00fcz\u00fcn\u00fcn yer ald\u0131\u011f\u0131 benzersiz bir sergi. Topluluk Sanat\u00e7\u0131s\u0131 Shiro_kosh_a taraf\u0131ndan yarat\u0131ld\u0131.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ChildDrawingBase"
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/AlbrechtPortrait",
@@ -9750,6 +10402,34 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/CaliberChicksAnnaKiBobbleHead",
+            "name": "Noggle Heykeli - Anna Ki",
+            "description": "Anna Ki k\u00fc\u00e7\u00fck oynar fig\u00fcr",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/CaliberChicksJillianBobbleHead",
+            "name": "Noggle Heykeli - Jillian Killian",
+            "description": "Jillian Killian k\u00fc\u00e7\u00fck oynar fig\u00fcr",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/CaliberChicksLillianBobbleHead",
+            "name": "Noggle Heykeli - Lillian Killian",
+            "description": "Lillian Killian k\u00fc\u00e7\u00fck oynar fig\u00fcr",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/CaliberChicksPoster",
+            "name": "Caliber Chicks 2 Posteri",
+            "description": "Bu karde\u015fler \u0131skalam\u0131yor. Jillian ve Lillian Killian geri d\u00f6nd\u00fc ve harikalar yaratt\u0131lar! ",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/CephalonSudaSyndicateOrnament",
             "name": "Veri Heykeli",
             "description": "Orbiter'a yerle\u015ftirilebilen k\u00fc\u00e7\u00fck bir Cephalon Suda simgesi.",
@@ -10083,6 +10763,13 @@
             "uniqueName": "/Lotus/Types/Items/ShipDecos/CorpusGreedReliefK",
             "name": "Biz Corpusuz",
             "description": "Biz arzunun ta kendisiyiz. Bizimki kavrayan alt\u0131n bir eldir. Biz Corpus'uz.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Cyte09ExaltedSniperShipDeco",
+            "name": "Kaybedilen Zaman\u0131n Kal\u0131nt\u0131s\u0131",
+            "description": "Orokin \u00c7a\u011f\u0131ndan \u00e7ok \u00f6nce, efsane olacak bir keskin ni\u015fanc\u0131 vard\u0131. Bu dekorasyon Cyte-09'un Protoframe'i Quincy'yi onurland\u0131r\u0131yor.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
@@ -11072,6 +11759,13 @@
             "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneBeachcomber",
             "name": "Beachcomber Domestik Drone",
             "description": "Bu g\u00f6z kama\u015ft\u0131r\u0131c\u0131 sanitasyon \u00fcnitesi ile Orbiter'ine biraz parlakl\u0131k ver.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneCaliberChicks",
+            "name": "Domestik Caliber Drone",
+            "description": "T\u0131pk\u0131 Killian'lara g\u00fc\u00e7lendiriciler sa\u011flayan drone gibi!\r\n\r\nUyar\u0131: Sadece e\u011flence ama\u00e7l\u0131d\u0131r. Ger\u00e7ek i\u015flevsellik temizlikle s\u0131n\u0131rl\u0131d\u0131r, bu birim g\u00fc\u00e7lendiriciler sa\u011flamamaktad\u0131r.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
@@ -12410,6 +13104,13 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardCyte",
+            "name": "Cyte-09 Prex",
+            "description": "Kay\u0131ts\u0131zl\u0131k \u00d6p\u00fcc\u00fc\u011f\u00fc",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardDagath",
             "name": "Dagath Prex",
             "description": "Su\u00e7layan Ayna",
@@ -13638,7 +14339,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/ModsTransmuteFeatureItem",
             "name": "Mod D\u00f6n\u00fc\u015ft\u00fcrme Segmenti",
-            "description": "/Lotus/Language/ShipFeatureItems/ModsTransmuteFeatureItemDesc",
+            "description": "",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipFeatureItems/ShipFeatureItem",
             "showInInventory": false
@@ -14019,6 +14720,133 @@
             "showInInventory": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CC16BitGirlsSongItem",
+            "name": "Makineli T\u00fcfekleri olan 16-Bit K\u0131zlar",
+            "description": "Orbiter'\u0131nda yer alan Somachord'da Caliber Chicks 2 Orijinal Oyun M\u00fczi\u011finin keyfini \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCAnnaKiGOBSongItem",
+            "name": "Anna Ki G.O.B.'da",
+            "description": "Orbiter'\u0131nda yer alan Somachord'da Caliber Chicks 2 Orijinal Oyun M\u00fczi\u011finin keyfini \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCAnnaKiPunkSongItem",
+            "name": "Punk Rock Anna Ki",
+            "description": "Orbiter'\u0131nda yer alan Somachord'da Caliber Chicks 2 Orijinal Oyun M\u00fczi\u011finin keyfini \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCBizMarqueBopSongItem",
+            "name": "Biz-Marque Bop",
+            "description": "Orbiter'\u0131nda yer alan Somachord'da Caliber Chicks 2 Orijinal Oyun M\u00fczi\u011finin keyfini \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCIWannaBeYourGOBSongItem",
+            "name": "Senin G.O.B.'un Olmak \u0130stiyorum",
+            "description": "Orbiter'\u0131nda yer alan Somachord'da Caliber Chicks 2 Orijinal Oyun M\u00fczi\u011finin keyfini \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCKickOutTheGunsSongItem",
+            "name": "Silahlar\u0131 \u00c7\u0131karma Zaman\u0131",
+            "description": "Orbiter'\u0131nda yer alan Somachord'da Caliber Chicks 2 Orijinal Oyun M\u00fczi\u011finin keyfini \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCLundoraCallingSongItem",
+            "name": "Lundora'n\u0131n \u00c7a\u011fr\u0131s\u0131",
+            "description": "Orbiter'\u0131nda yer alan Somachord'da Caliber Chicks 2 Orijinal Oyun M\u00fczi\u011finin keyfini \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CCPsychoKillianSongItem",
+            "name": "Psikopat Killian",
+            "description": "Orbiter'\u0131nda yer alan Somachord'da Caliber Chicks 2 Orijinal Oyun M\u00fczi\u011finin keyfini \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CorpusLichLoginSongItem",
+            "name": "Sisters of Parvos Giri\u015f M\u00fczi\u011fi",
+            "description": "Orbiter'\u0131nda yer alan Somachord'da Sisters of Parvos giri\u015f m\u00fczi\u011finin keyfini \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/CorpusRailjackLoginSongItem",
+            "name": "Railjack Retrofit Giri\u015f M\u00fczi\u011fi",
+            "description": "Orbiter'\u0131nda yer alan Somachord'da Railjack Retrofit giri\u015f m\u00fczi\u011finin keyfini \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/DanteUnboundLoginSongItem",
+            "name": "Dante Unbound Giri\u015f M\u00fczi\u011fi",
+            "description": "Orbiter'\u0131nda yer alan Somachord'da Dante Unbound giri\u015f m\u00fczi\u011finin keyfini \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/DeadlockLoginSongItem",
+            "name": "The Deadlock Protocol Giri\u015f M\u00fczi\u011fi",
+            "description": "Orbiter'\u0131nda yer alan Somachord'da Deadlock Protocol giri\u015f m\u00fczi\u011finin keyfini \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/DeimosLoginSongItem",
+            "name": "Heart of Deimos Giri\u015f M\u00fczi\u011fi",
+            "description": "Orbiter'\u0131nda yer alan Somachord'da Heart of Deimos giri\u015f m\u00fczi\u011finin keyfini \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/DuviriKullervoLoginSongItem",
+            "name": "The Seven Crimes of Kullervo Giri\u015f M\u00fczi\u011fi",
+            "description": "Orbiter'\u0131nda yer alan Somachord'da Seven Crimes of Kullervo giri\u015f m\u00fczi\u011finin keyfini \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/DuviriLoginSongItem",
+            "name": "The Duviri Paradox Giri\u015f M\u00fczi\u011fi",
+            "description": "Orbiter'\u0131nda yer alan Somachord'da Duviri Paradox giri\u015f m\u00fczi\u011finin keyfini \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/SongItems/EmpyreanSongItem",
             "name": "Empyrean Giri\u015f M\u00fczi\u011fi",
             "description": "Orbiter'\u0131nda yer alan Somachord'da Empyrean giri\u015f m\u00fczi\u011finin keyfini \u00e7\u0131kar.",
@@ -14068,11 +14896,29 @@
             "showInInventory": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/SongItems/JadeShadowsLoginSongItem",
+            "name": "Jade Shadows Giri\u015f M\u00fczi\u011fi",
+            "description": "Orbiter'\u0131nda yer alan Somachord'da Jade Shadows giri\u015f m\u00fczi\u011finin keyfini \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/SongItems/KhoraPrimeSongItem",
             "name": "Khora Prime Tema M\u00fczi\u011fi",
             "description": "Orbiter'\u0131nda yer alan Somachord'da Khora Prime'\u0131n \u00f6zel tema m\u00fczi\u011finin keyfini \u00e7\u0131kar.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/KuvaLichLoginSongItem",
+            "name": "The Old Blood Giri\u015f M\u00fczi\u011fi",
+            "description": "Orbiter'\u0131nda yer alan Somachord'da Old Blood giri\u015f m\u00fczi\u011finin keyfini \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
             "showInInventory": false
         },
         {
@@ -14117,6 +14963,94 @@
             "showInInventory": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneArsenalSongItem",
+            "name": "Arsenal",
+            "description": "Birden fazla m\u00fczik grubu var! H\u00f6llvania'n\u0131n tehlikeli sokaklar\u0131ndan gelen bu par\u00e7alarla 1999'daki olaylar\u0131 yeniden ya\u015fay\u0131n.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneCoreContainmentSongItem",
+            "name": "Core Containment",
+            "description": "Birden fazla m\u00fczik grubu var! H\u00f6llvania'n\u0131n tehlikeli sokaklar\u0131ndan gelen bu par\u00e7alarla 1999'daki olaylar\u0131 yeniden ya\u015fay\u0131n.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneCutThroughSongItem",
+            "name": "Cut Through",
+            "description": "Birden fazla m\u00fczik grubu var! H\u00f6llvania'n\u0131n tehlikeli sokaklar\u0131ndan gelen bu par\u00e7alarla 1999'daki olaylar\u0131 yeniden ya\u015fay\u0131n.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneInfectionSongItem",
+            "name": "Infection",
+            "description": "Birden fazla m\u00fczik grubu var! H\u00f6llvania'n\u0131n tehlikeli sokaklar\u0131ndan gelen bu par\u00e7alarla 1999'daki olaylar\u0131 yeniden ya\u015fay\u0131n.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneNumbSongItem",
+            "name": "Numb",
+            "description": "Birden fazla m\u00fczik grubu var! H\u00f6llvania'n\u0131n tehlikeli sokaklar\u0131ndan gelen bu par\u00e7alarla 1999'daki olaylar\u0131 yeniden ya\u015fay\u0131n.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlynePartyOfYourLifetimeSongItem",
+            "name": "Party of your Lifetime",
+            "description": "On-lyne'\u0131n 'Party of your Lifetime' alb\u00fcm\u00fcnden hit \u015fark\u0131lar",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlynePickASideSongItem",
+            "name": "Pick a Side",
+            "description": "Birden fazla m\u00fczik grubu var! H\u00f6llvania'n\u0131n tehlikeli sokaklar\u0131ndan gelen bu par\u00e7alarla 1999'daki olaylar\u0131 yeniden ya\u015fay\u0131n.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneRottenLivesSongItem",
+            "name": "Rotten Lives",
+            "description": "Birden fazla m\u00fczik grubu var! H\u00f6llvania'n\u0131n tehlikeli sokaklar\u0131ndan gelen bu par\u00e7alarla 1999'daki olaylar\u0131 yeniden ya\u015fay\u0131n.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneShutItDownSongItem",
+            "name": "Shut It Down",
+            "description": "Birden fazla m\u00fczik grubu var! H\u00f6llvania'n\u0131n tehlikeli sokaklar\u0131ndan gelen bu par\u00e7alarla 1999'daki olaylar\u0131 yeniden ya\u015fay\u0131n.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneTheCallSongItem",
+            "name": "The Call",
+            "description": "Birden fazla m\u00fczik grubu var! H\u00f6llvania'n\u0131n tehlikeli sokaklar\u0131ndan gelen bu par\u00e7alarla 1999'daki olaylar\u0131 yeniden ya\u015fay\u0131n.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/OnlyneTheGreatDespairSongItem",
+            "name": "The Great Despair",
+            "description": "On-lyne'\u0131n 'Party of your Lifetime' alb\u00fcm\u00fcnden hit \u015fark\u0131lar",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/SongItems/ProteaPrimeSongItem",
             "name": "Protea Prime Tema M\u00fczi\u011fi",
             "description": "Orbiter'\u0131nda yer alan Somachord'da Protea Prime'\u0131n \u00f6zel tema m\u00fczi\u011finin keyfini \u00e7\u0131kar.",
@@ -14141,6 +15075,24 @@
             "showInInventory": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/SongItems/TheNewWarLoginSongItem",
+            "name": "The New War Giri\u015f M\u00fczi\u011fi",
+            "description": "Orbiter'\u0131nda yer alan Somachord'da New War giri\u015f m\u00fczi\u011finin keyfini \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/TheSacrificeLoginSongItem",
+            "name": "The Sacrifice Giri\u015f M\u00fczi\u011fi",
+            "description": "Orbiter'\u0131nda yer alan Somachord'da Sacrifice giri\u015f m\u00fczi\u011finin keyfini \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/SongItems/VaubanPrimeSongItem",
             "name": "Vauban Prime Tema M\u00fczi\u011fi",
             "description": "Orbiter'\u0131nda yer alan Somachord'da Vauban Prime'\u0131n \u00f6zel tema m\u00fczi\u011finin keyfini \u00e7\u0131kar.",
@@ -14149,11 +15101,56 @@
             "showInInventory": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/SongItems/VeilbreakerLoginSongItem",
+            "name": "Veilbreaker Giri\u015f M\u00fczi\u011fi",
+            "description": "Orbiter'\u0131nda yer alan Somachord'da Veilbreaker giri\u015f m\u00fczi\u011finin keyfini \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/VenusOrbVallisLoginSongItem",
+            "name": "Fortuna Giri\u015f M\u00fczi\u011fi",
+            "description": "Orbiter'\u0131nda yer alan Somachord'da Fortuna giri\u015f m\u00fczi\u011finin keyfini \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/VoidEclipseLoginSongItem",
+            "name": "Lua's Prey Giri\u015f M\u00fczi\u011fi",
+            "description": "Orbiter'\u0131nda yer alan Somachord'da Lua's Prey giri\u015f m\u00fczi\u011finin keyfini \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/WhispersInTheWallLoginSongItem",
+            "name": "Whispers in the Walls Giri\u015f M\u00fczi\u011fi",
+            "description": "Orbiter'\u0131nda yer alan Somachord'da Whispers in the Walls giri\u015f m\u00fczi\u011finin keyfini \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
+            "showInInventory": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/SongItems/WispPrimeSongItem",
             "name": "Wisp Prime Tema M\u00fczi\u011fi",
             "description": "Orbiter'\u0131nda yer alan Somachord'da Wisp Prime'\u0131n \u00f6zel tema m\u00fczi\u011finin keyfini \u00e7\u0131kar.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/SongItem",
+            "showInInventory": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/SongItems/ZarimanLoginSongItem",
+            "name": "Angels of the Zariman Giri\u015f M\u00fczi\u011fi",
+            "description": "Orbiter'\u0131nda yer alan Somachord'da Angels of the Zariman giri\u015f m\u00fczi\u011finin keyfini \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Game/SongItem",
+            "excludeFromCodex": true,
             "showInInventory": false
         },
         {
@@ -15061,6 +16058,27 @@
             "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ConcreteFrameSystemsComponent",
             "name": "Qorvex Sistemleri",
             "description": "Qorvex Warframe i\u00e7in Sistem bile\u015feni.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09ChassisComponent",
+            "name": "Cyte-09 G\u00f6vde",
+            "description": "Cyte-09 Warframe i\u00e7in g\u00f6vde bile\u015feni.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09HelmetComponent",
+            "name": "Cyte-09 N\u00f6roptikleri",
+            "description": "Cyte-09 Warframe i\u00e7in N\u00f6roptik bile\u015feni.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09SystemsComponent",
+            "name": "Cyte-09 Sistemleri",
+            "description": "Cyte-09 Warframe i\u00e7in sistem bile\u015feni.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/WarframeComponentItem"
         },
@@ -18472,6 +19490,30 @@
             "primeSellingPrice": 45
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolBarrel",
+            "name": "Vesper 77 Namlu",
+            "description": "Bir silah \u00fcretim bile\u015feni.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolReceiver",
+            "name": "Vesper 77 S\u00fcrg\u00fc",
+            "description": "Bir silah \u00fcretim bile\u015feni.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolStock",
+            "name": "Vesper 77 Kabza",
+            "description": "Bir silah \u00fcretim bile\u015feni.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LatoVandalBarrel",
             "name": "Lato Vandal Namlu",
             "description": "Bir silah \u00fcretim bile\u015feni.",
@@ -19790,6 +20832,30 @@
             "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
         },
         {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleBarrel",
+            "name": "Reconifex Namlu",
+            "description": "Bir silah \u00fcretim bile\u015feni.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleReceiver",
+            "name": "Reconifex S\u00fcrg\u00fc",
+            "description": "Bir silah \u00fcretim bile\u015feni.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleStock",
+            "name": "Reconifex Dip\u00e7ik",
+            "description": "Bir silah \u00fcretim bile\u015feni.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnConcreteArchgunBarrel",
             "name": "Mandonel Namlu",
             "description": "Bir Archwing silah\u0131 \u00fcretim bile\u015feni.",
@@ -20136,16 +21202,16 @@
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/LastChanceItemA",
-            "name": "SON \u015eANS - 1. B\u00f6l\u00fcm",
-            "description": "Mag, Nova, Limbo, Trinity, Hydroid, Mesa, Volt, ve Loki!",
+            "name": "Varzia'n\u0131n Teklifleri - Son \u015eans",
+            "description": "Aya ve Regal Aya ile \u00f6zel Te\u00e7hizat takas\u0131 ger\u00e7ekle\u015ftirmek i\u00e7in Varzia'y\u0131 ziyaret et.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/LastChanceItemB",
-            "name": "SON \u015eANS - 2. B\u00f6l\u00fcm",
-            "description": "Ash, Vauban, Nekros, Oberon, Saryn, Valkyr, Ember, ve Frost!",
+            "name": "Varzia'n\u0131n Teklifleri - B\u00f6l\u00fcm 2",
+            "description": "Aya ve Regal Aya ile \u00f6zel Te\u00e7hizat takas\u0131 ger\u00e7ekle\u015ftirmek i\u00e7in Varzia'y\u0131 ziyaret et.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/StoreItems/Packages/MegaPrimeVault/LastChanceItemA",
             "excludeFromCodex": true

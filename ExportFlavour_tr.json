@@ -279,6 +279,20 @@
             "excludeFromCodex": true
         },
         {
+            "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseRetro",
+            "name": "",
+            "description": "Mouse imle\u00e7 stili.",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseThrowback",
+            "name": "",
+            "description": "Mouse imle\u00e7 stili.",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseYareli",
             "name": "",
             "description": "Mouse imle\u00e7 stili.",
@@ -1983,6 +1997,13 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/Emotes/Hardmode1999Emote",
+            "name": "Steel Path: 1999",
+            "description": "Steel Path: 1999, tamamlama \u00f6d\u00fcl\u00fc.",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/Emotes/HardmodeCeresEmote",
             "name": "Steel Path: Ceres",
             "description": "Steel Path: Ceres \u00f6d\u00fcl\u00fc.",
@@ -2175,6 +2196,42 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryAmirEmote",
+            "name": "Amir Gemini G\u00f6vde Hareketi",
+            "description": "G\u00f6revler s\u0131ras\u0131nda, Amir Gemini G\u00f6vde Hareketi ile Volt ve Amir'in Gemini Skin'i aras\u0131nda ge\u00e7i\u015f yapabilirsin.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryAoiEmote",
+            "name": "Aoi Gemini G\u00f6vde Hareketi",
+            "description": "G\u00f6revler s\u0131ras\u0131nda, Aoi Gemini G\u00f6vde Hareketi ile Mag ve Aoi'nin Gemini Skin'i aras\u0131nda ge\u00e7i\u015f yapabilirsin.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryArthurEmote",
+            "name": "Arthur Gemini G\u00f6vde Hareketi",
+            "description": "G\u00f6revler s\u0131ras\u0131nda, Arthur Gemini G\u00f6vde Hareketi ile Excalibur ve Arthur'un Gemini Skin'i aras\u0131nda ge\u00e7i\u015f yapabilirsin.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryEleanorEmote",
+            "name": "Eleanor Gemini G\u00f6vde Hareketi",
+            "description": "G\u00f6revler s\u0131ras\u0131nda, Eleanor Gemini G\u00f6vde Hareketi ile Nyx ve Eleanor'un Gemini Skin'i aras\u0131nda ge\u00e7i\u015f yapabilirsin.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryLettieEmote",
+            "name": "Lettie Gemini G\u00f6vde Hareketi",
+            "description": "G\u00f6revler s\u0131ras\u0131nda, Lettie Gemini G\u00f6vde Hareketi ile Trinity ve Lettie'nin Gemini Skin'i aras\u0131nda ge\u00e7i\u015f yapabilirsin.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LegendaryQuincyEmote",
+            "name": "Quincy Gemini G\u00f6vde Hareketi",
+            "description": "G\u00f6revler s\u0131ras\u0131nda, Quincy Gemini G\u00f6vde Hareketi ile Cyte-09 ve Quincy'nin Gemini Skin'i aras\u0131nda ge\u00e7i\u015f yapabilirsin.",
+            "codexSecret": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/Emotes/LegionSaluteEmote",
             "name": "Kurt Selam\u0131",
             "description": "S\u00fcr\u00fcdekiler bu selamla\u015fma ile birbirini ay\u0131rt eder.",
@@ -2286,7 +2343,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/Emotes/ThousandDaysEmote",
             "name": "Binbir G\u00fcn",
-            "description": "[PH] Awarded to Tenno who have shown unyielding dedication.",
+            "description": "Boyun e\u011fmeyen ve adanm\u0131\u015fl\u0131k g\u00f6steren Tenno'lara verilir.",
             "codexSecret": false
         },
         {
@@ -5214,6 +5271,66 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectA",
+            "name": "Kusursuz Piksel Jillian Glif",
+            "description": "Pikselli Jillian Killian'\u0131 temsil eden bir glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectB",
+            "name": "Kusursuz Piksel Lillian Glif",
+            "description": "Pikselli Lillian Killian'\u0131 temsil eden bir glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectC",
+            "name": "Kusursuz Piksel Anna Glif",
+            "description": "Pikselli Anna Ki'yi temsil eden bir glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectD",
+            "name": "Kusursuz Piksel Goon Glif",
+            "description": "G.O.B'dan pikselli bir Goon'u temsil eden bir glif",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPortraitJillian",
+            "name": "Jillian Piksel Portre Glif",
+            "description": "Jillian Killian'\u0131n portresini temsil eden bir glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPortraitLillian",
+            "name": "Lillian Piksel Portre Glif",
+            "description": "Lillian Killian'\u0131n portresini temsil eden bir glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerA",
+            "name": "Caliber Chicks 2 Glif",
+            "description": "Caliber Chicks 2 logosunu temsil eden bir glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerB",
+            "name": "Jillian Killian Glif",
+            "description": "Jillian Killian'\u0131 temsil eden bir glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerC",
+            "name": "Lillian Killian Glif",
+            "description": "Lillian Killian'\u0131 temsil eden bir glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphStickerD",
+            "name": "Anna Ki Glif",
+            "description": "Anna Ki'yi temsil eden bir glif.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageBaruukPrimeBright",
             "name": "Baruuk Prime Glif - A\u00e7\u0131k",
             "description": "Baruuk Prime'\u0131 tasvir eden a\u00e7\u0131k fonlu bir glif.",
@@ -5443,6 +5560,18 @@
             "description": "Scarlet Spear Operasyonunda Sentient Murex'ine kar\u015f\u0131 yap\u0131lan Railjack ak\u0131nlar\u0131nda kazan\u0131l\u0131r.",
             "codexSecret": true,
             "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphA",
+            "name": "Bereketli Y\u0131lan Glifi",
+            "description": "Profilin i\u00e7in bir Glif.",
+            "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphB",
+            "name": "Yisi Glifi",
+            "description": "Profilin i\u00e7in bir Glif.",
+            "codexSecret": false
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageChillingGlyphFour",
@@ -5692,6 +5821,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/Cyte09SupporterGlyph",
+            "name": "Cyte-09 Keskin Ni\u015fanc\u0131 Glifi",
+            "description": "Profilin i\u00e7in bir Glif.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageBaruukDeluxe",
             "name": "Baruuk Doan Glif",
             "description": "Baruuk Doan'\u0131 temsil eden bir glif.",
@@ -5774,6 +5909,30 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageDagathDark",
             "name": "Dagath Glif - Koyu",
             "description": "Dagath'\u0131 koyu bir fonda temsil eden bir glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusAltBright",
+            "name": "Cyte-09 Espricor Glif - A\u00e7\u0131k",
+            "description": "Cyte-09 Espricor a\u00e7\u0131k fonlu glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusAltDark",
+            "name": "Cyte-09 Espricor Glif - Koyu",
+            "description": "Cyte-09 Espricor koyu fonlu glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusBright",
+            "name": "Cyte-09 Glif - A\u00e7\u0131k",
+            "description": "Cyte-09 a\u00e7\u0131k fonlu glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Warframes/ImageFrumentariusDark",
+            "name": "Cyte-09 Glif - Koyu",
+            "description": "Cyte-09 koyu fonlu glif.",
             "codexSecret": true
         },
         {
@@ -6307,6 +6466,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaum1999Mug",
+            "name": "Topluluk Tennobaum 1999 Kupas\u0131 Glifi",
+            "description": "Cyanfacade taraf\u0131ndan tasarlanan, 1999'da \u00fcretilmi\u015f \u015fekerlemelerle dolu bir kupa s\u0131cak \u00e7ikolatay\u0131 tasvir eden bir Glif.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTennobaumFrost",
             "name": "Topluluk Tennobaum Frost Glifi",
             "description": "Nelosart taraf\u0131ndan tasarlanan, kar k\u00fcresindeki Frost'u temsil eden bir Glif.",
@@ -6487,6 +6652,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDJRoMGlyph",
+            "name": "Topluluk On-lyne DJ RoM Glifi",
+            "description": "Topluluk sanat\u00e7\u0131s\u0131 death_ma666ots taraf\u0131ndan On-lyne \u00fcyesi DJ RoM'u tasvir eden bir topluluk glifi.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDanteGlyph",
             "name": "Dante'nin Sevinci Glif",
             "description": "Dante'yi zaman ge\u00e7irmek i\u00e7in tercih etti\u011fi eylemlerden biriyle me\u015fgulken tasvir eden bir glif.",
@@ -6504,6 +6675,12 @@
             "name": "Tiberon Obsidian Glif",
             "description": "Profilin i\u00e7in bir Glif.",
             "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDrillbitGlyph",
+            "name": "Topluluk On-lyne Drillbit Glifi",
+            "description": "Topluluk sanat\u00e7\u0131s\u0131 death_ma666ots taraf\u0131ndan On-lyne \u00fcyesi Drillbit'i tasvir eden bir topluluk glifi.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDrippy",
@@ -6608,6 +6785,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGamingDogDaysYareli",
             "name": "Topluluk Dog Days Yareli Glif",
             "description": "CheruuAx taraf\u0131ndan \u00e7izilen ve Yareli'nin s\u0131cakla m\u00fccadele edi\u015fini tasvir eden bir topluluk glifi.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGaussAccoladeGlyph",
+            "name": "Gauss Ni\u015fan\u0131 Glif",
+            "description": "Topluluk sanat\u00e7\u0131s\u0131 Anavi_Ivy taraf\u0131ndan tasarlanan ve g\u00fcc\u00fc simgeleyen bir glif.",
             "codexSecret": true
         },
         {
@@ -7097,6 +7280,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageHarddriveGlyph",
+            "name": "Topluluk On-lyne Sabit S\u00fcr\u00fcc\u00fc Glifi",
+            "description": "Topluluk sanat\u00e7\u0131s\u0131 death_ma666ots taraf\u0131ndan On-lyne \u00fcyesi Harddrive'\u0131 tasvir eden bir topluluk glifi.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageHarrowAction",
             "name": "Harrow \u0130\u015f Ba\u015f\u0131nda Glif",
             "description": "Profilin i\u00e7in bir Glif.",
@@ -7119,6 +7308,42 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInarosScarabs",
             "name": "Scarab Varna Glif",
             "description": "Profilin i\u00e7in bir Glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedDJRoMGlyph",
+            "name": "Topluluk On-lyne Infested DJ RoM Glifi",
+            "description": "Topluluk sanat\u00e7\u0131s\u0131 death_ma666ots taraf\u0131ndan On-lyne \u00fcyesi Infested DJ RoM'u tasvir eden bir topluluk glifi.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedDrillbitGlyph",
+            "name": "Topluluk On-lyne Infested Drillbit Glifi",
+            "description": "Topluluk sanat\u00e7\u0131s\u0131 death_ma666ots taraf\u0131ndan On-lyne \u00fcyesi Infested Drillbit'i tasvir eden bir topluluk glifi.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedHarddriveGlyph",
+            "name": "Topluluk On-lyne Infested Sabit S\u00fcr\u00fcc\u00fc Glifi",
+            "description": "Topluluk sanat\u00e7\u0131s\u0131 death_ma666ots taraf\u0131ndan On-lyne \u00fcyesi Infested Harddrive'\u0131 tasvir eden bir topluluk glifi.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedLogoGlyph",
+            "name": "Topluluk Infested On-lyne Logo Glifi",
+            "description": "Topluluk sanat\u00e7\u0131s\u0131 death_ma666ots taraf\u0131ndan On-lyne \u00fcyesi Infested Logo'yu tasvir eden bir topluluk glifi.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedPacketGlyph",
+            "name": "Topluluk On-lyne Infested Packet Glifi",
+            "description": "Topluluk sanat\u00e7\u0131s\u0131 death_ma666ots taraf\u0131ndan On-lyne \u00fcyesi Infested Packet'i tasvir eden bir topluluk glifi.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedZekeGlyph",
+            "name": "Topluluk On-lyne Infested Zeke Glifi",
+            "description": "Topluluk sanat\u00e7\u0131s\u0131 death_ma666ots taraf\u0131ndan On-lyne \u00fcyesi Infested Zeke'yi tasvir eden bir topluluk glifi.",
             "codexSecret": true
         },
         {
@@ -7182,6 +7407,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageJadeAccoladeGlyph",
+            "name": "Jade Ni\u015fan\u0131 Glif",
+            "description": "Topluluk sanat\u00e7\u0131s\u0131 Anavi_Ivy taraf\u0131ndan tasarlanan ve g\u00fcc\u00fc simgeleyen bir glif.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageJadeInActionGlyph",
             "name": "Jade \u0130\u015f Ba\u015f\u0131nda Glif",
             "description": "Profilin i\u00e7in bir Glif.",
@@ -7227,6 +7458,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLettieAccoladeGlyph",
             "name": "Lettie Ni\u015fan\u0131 Glif",
             "description": "Topluluk sanat\u00e7\u0131s\u0131 Carl Tabora taraf\u0131ndan tasarlanan ve g\u00fcc\u00fc simgeleyen bir glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLogoGlyph",
+            "name": "Topluluk Radiant On-lyne Logo Glifi",
+            "description": "Topluluk sanat\u00e7\u0131s\u0131 death_ma666ots taraf\u0131ndan On-lyne \u00fcyesi radiant Logo'yu tasvir eden bir topluluk glifi.",
             "codexSecret": true
         },
         {
@@ -7308,6 +7545,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMesaEnamel",
             "name": "Mesa Fixated Glif",
             "description": "Profilin i\u00e7in bir Glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMirageAccoladeGlyph",
+            "name": "Mirage Ni\u015fan\u0131 Glif",
+            "description": "Topluluk sanat\u00e7\u0131s\u0131 Anavi_Ivy taraf\u0131ndan tasarlanan ve g\u00fcc\u00fc simgeleyen bir glif.",
             "codexSecret": true
         },
         {
@@ -7449,9 +7692,51 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePacketGlyph",
+            "name": "Topluluk On-lyne Packet Glifi",
+            "description": "Topluluk sanat\u00e7\u0131s\u0131 death_ma666ots taraf\u0131ndan On-lyne \u00fcyesi Packet'i tasvir eden bir topluluk glifi.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePartyCDGlyph",
             "name": "Party CD Glif",
             "description": "Profilin i\u00e7in bir Glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelAmir",
+            "name": "Amir Piksel Glif",
+            "description": "Amir'i, yani Volt protoframe tasvir eden bu glif ile 1999'un kendine \u00f6zg\u00fc ekran stilini kutla!",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelAoi",
+            "name": "Aoi Piksel Glif",
+            "description": "Aoi'yi, yani Mag protoframe tasvir eden bu glif ile 1999'un kendine \u00f6zg\u00fc ekran stilini kutla!",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelArthur",
+            "name": "Arthur Piksel Glif",
+            "description": "Arthur'u, yani Excalibur protoframe tasvir eden bu glif ile 1999'un kendine \u00f6zg\u00fc ekran stilini kutla!",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelEleanor",
+            "name": "Eleanor Pixel Glif",
+            "description": "Eleanor'u, yani Nyx protoframe tasvir eden bu glif ile 1999'un kendine \u00f6zg\u00fc ekran stilini kutla!",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelLettie",
+            "name": "Lettie Pixel Glif",
+            "description": "Lettie'yi, yani Trinity protoframe tasvir eden bu glif ile 1999'un kendine \u00f6zg\u00fc ekran stilini kutla!",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePixelQuincy",
+            "name": "Quincy Piksel Glif",
+            "description": "Quincy'yi yani Cyte-09 protoframe tasvir eden bu glif ile 1999'un kendine \u00f6zg\u00fc ekran stilini kutla!",
             "codexSecret": true
         },
         {
@@ -7464,6 +7749,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePrideGlyph",
             "name": "Pride Glif III",
             "description": "Bu Glif, Pride'\u0131 kutlar. NimkeArts taraf\u0131ndan dizayn edilmi\u015ftir.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageProteaAccoladeGlyph",
+            "name": "Protea Ni\u015fan\u0131 Glif",
+            "description": "Topluluk sanat\u00e7\u0131s\u0131 Anavi_Ivy taraf\u0131ndan tasarlanan ve g\u00fcc\u00fc simgeleyen bir glif.",
             "codexSecret": true
         },
         {
@@ -7504,6 +7795,12 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSevagothAccoladeGlyph",
+            "name": "Sevagoth Ni\u015fan\u0131 Glif",
+            "description": "Topluluk sanat\u00e7\u0131s\u0131 Anavi_Ivy taraf\u0131ndan tasarlanan ve g\u00fcc\u00fc simgeleyen bir glif.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSevagothAction",
             "name": "Sevagoth \u0130\u015f Ba\u015f\u0131nda Glif",
             "description": "Profilin i\u00e7in bir Glif.",
@@ -7514,8 +7811,7 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageStalkerAction",
             "name": "Stalker \u0130\u015f Ba\u015f\u0131nda Glif",
             "description": "Profilin i\u00e7in bir Glif.",
-            "codexSecret": true,
-            "excludeFromCodex": true
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageStarDaysCervulitePat",
@@ -7546,6 +7842,30 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennoVIP",
             "name": "Tenno VIP East Glif",
             "description": "VIP Tenno i\u00e7in bir glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumAoi",
+            "name": "Topluluk Tennobaum Aoi Glifi",
+            "description": "alcyonsa taraf\u0131ndan tasarlanan, Aoi'nin kar toplar\u0131n\u0131 hava kald\u0131rd\u0131\u011f\u0131n\u0131 g\u00f6steren bir Glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumCozyStalker",
+            "name": "Topluluk Tennobaum Rahat Stalker Glifi",
+            "description": "alcyonsa taraf\u0131ndan tasarlanan, Stalker'\u0131n rahat bir kazak giydi\u011fini g\u00f6steren bir Glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumJade",
+            "name": "Topluluk Tennobaum Jade Glifi",
+            "description": "alcyonsa taraf\u0131ndan tasarlanan, Jade'in kar mele\u011fi yapt\u0131\u011f\u0131n\u0131 g\u00f6steren bir Glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumManintheCookie",
+            "name": "Topluluk Tennobaum Kurabiyedeki Adam Glifi",
+            "description": "alcyonsa taraf\u0131ndan tasarlanan, Zencefilli Duvardaki Adam kurabiyesini tasvir eden bir Glif.",
             "codexSecret": true
         },
         {
@@ -7709,6 +8029,12 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageValkyrAction",
             "name": "Valkyr \u0130\u015f Ba\u015f\u0131nda Glif",
             "description": "Profilin i\u00e7in bir Glif.",
+            "codexSecret": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageVaubanAccoladeGlyph",
+            "name": "Vauban Ni\u015fan\u0131 Glif",
+            "description": "Topluluk sanat\u00e7\u0131s\u0131 Anavi_Ivy taraf\u0131ndan tasarlanan ve g\u00fcc\u00fc simgeleyen bir glif.",
             "codexSecret": true
         },
         {
@@ -7932,6 +8258,12 @@
             "excludeFromCodex": true
         },
         {
+            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageZekeGlyph",
+            "name": "Topluluk On-lyne Zeke Glifi",
+            "description": "Topluluk sanat\u00e7\u0131s\u0131 death_ma666ots taraf\u0131ndan On-lyne \u00fcyesi Zeke'yi tasvir eden bir topluluk glifi.",
+            "codexSecret": true
+        },
+        {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/CNY2023RabbitGlyph",
             "name": "Guimao Glif",
             "description": "Profilin i\u00e7in bir Glif.",
@@ -7963,12 +8295,6 @@
             "description": "Searyn taraf\u0131ndan tasarlanan ve Warframe'in 10. y\u0131l\u0131n\u0131 kutlayan bir Glif.",
             "codexSecret": false,
             "excludeFromCodex": true
-        },
-        {
-            "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/CommunityTennobaum1999Mug",
-            "name": "Topluluk Tennobaum 1999 Kupas\u0131 Glifi",
-            "description": "Cyanfacade taraf\u0131ndan tasarlanan, 1999'da \u00fcretilmi\u015f \u015fekerlemelerle dolu bir kupa s\u0131cak \u00e7ikolatay\u0131 tasvir eden bir Glif.",
-            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/DeimosRevolverGlyph",
@@ -28667,6 +28993,20 @@
             "codexSecret": true
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/UnlockFrumentariusAgile",
+            "name": "Cyte-09 Agile Animasyon Seti",
+            "description": "Bu e\u015fya, se\u00e7ilen herhangi bir Warframe'de, Cyte-09'un agile animasyon setinin kullan\u0131m\u0131na izin verir.",
+            "codexSecret": true,
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Frumentarius/UnlockFrumentariusNoble",
+            "name": "Cyte-09 Noble Animasyon Seti",
+            "description": "Bu e\u015fya, se\u00e7ilen herhangi bir Warframe'de, Cyte-09'un noble animasyon setinin kullan\u0131m\u0131na izin verir.",
+            "codexSecret": true,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Garuda/UnlockGarudaAgile",
             "name": "Garuda Agile Animasyon Seti",
             "description": "Bu e\u015fya, se\u00e7ilen herhangi bir Warframe'de, Garuda'n\u0131n agile animasyon setinin kullan\u0131m\u0131na izin verir.",
@@ -28931,6 +29271,12 @@
             "name": "Parallax Albodix Skin",
             "description": "Parallax, yolcular\u0131 Tau'nun so\u011fuk veya karanl\u0131k b\u00f6lgelerini incelemek i\u00e7in Zariman'dan ayr\u0131ld\u0131\u011f\u0131nda Albodix skin ile s\u00fcslenecekti.",
             "codexSecret": false
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Liset/1999TankHoodOrnament",
+            "name": "H-09 Apex Taret Sumdali",
+            "description": "Bir H-09 Apex Scaldra tank\u0131n\u0131n i\u00e7in i\u00e7in yanan tareti \u00c7\u0131karma Gemini s\u00fcsleyecek.",
+            "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Liset/ConquestHoodOrnament",

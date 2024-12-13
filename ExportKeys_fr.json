@@ -8,6 +8,21 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Keys/1999Quest/1999QuestGoodEndKeyChain",
+            "name": "\u00c9pisode final",
+            "description": "Une chance de r\u00e9\u00e9crire l\u2019histoire et d\u2019\u00e9viter un d\u00e9sastre.",
+            "parentName": "",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Keys/1999Quest/1999QuestKeyChain",
+            "name": "L'Hexagone",
+            "description": "La chasse d\u00e9sesp\u00e9r\u00e9e d'Albrecht Entrati a conduit le Voyageur jusqu'en H\u00f6llvanie le 31 d\u00e9cembre 1999. Malgr\u00e9 le blocage des Scaldras face \u00e0 la menace du Techrot, les citoyens font de leur mieux pour c\u00e9l\u00e9brer la nouvelle ann\u00e9e. Mais tout cela s'est d\u00e9j\u00e0 produit auparavant... et s'est termin\u00e9 en d\u00e9sastre.",
+            "parentName": "",
+            "codexSecret": false
+        },
+        {
             "uniqueName": "/Lotus/Types/Keys/ApostasyQuest/ApostasyKeyChain",
             "name": "Prologue Apostasie",
             "description": "Inspectez vos Quartiers Personnels apr\u00e8s avoir termin\u00e9 la Qu\u00eate \"Le Fardeau de Harrow\".",

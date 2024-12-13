@@ -506,8 +506,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Restoratives/Consumable/AncientHealerBall",
-            "name": "Ancient Healer Specter",
-            "description": "Sizin ad\u0131n\u0131za sava\u015fmas\u0131 i\u00e7in ANCIENT HEALER yarat\u0131r",
+            "name": "Ancient Protector Specter",
+            "description": "Sizin ad\u0131n\u0131za sava\u015fmas\u0131 i\u00e7in ANCIENT PROTECTOR EXIMUS yarat\u0131r.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/SummonNpcItem"
         },
@@ -1081,7 +1081,7 @@
         {
             "uniqueName": "/Lotus/Types/Restoratives/LisetShield",
             "name": "Snow Globe",
-            "description": "Frost, \u00f6nlenemez alan korumas\u0131 olu\u015fturmak i\u00e7in \u00e7evredeki t\u00fcm nem ve buhar\u0131 dondurur.",
+            "description": "Frost, b\u00f6lgedeki buhar\u0131 ve nemi dondurarak k\u0131sa s\u00fcreli yenilmezli\u011fe sahip koruyucu bir k\u00fcre olu\u015fturur.",
             "codexSecret": true,
             "parentName": "/Lotus/Types/Restoratives/LisetBaseAirSupportPower"
         },
@@ -1108,8 +1108,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Restoratives/MotorcycleSummon",
-            "name": "Atomicycle Konu\u015fland\u0131r\u0131c\u0131",
-            "description": "1999 ve serbest dola\u015f\u0131m g\u00f6revlerinde kullan\u0131lmak \u00fczere bir Atomicycle \u00e7a\u011f\u0131r\u0131r.",
+            "name": "Atomisiklet \u00c7a\u011f\u0131r\u0131c\u0131",
+            "description": "1999 ve serbest dola\u015f\u0131m g\u00f6revlerinde kullan\u0131lmak \u00fczere bir Atomisiklet \u00e7a\u011f\u0131r\u0131r.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/Restorative"
         },
