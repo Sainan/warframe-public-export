@@ -3042,7 +3042,7 @@
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusSniperAbility",
                     "abilityName": "Neutralize",
-                    "description": "N\u00f6trle\u015ftiriciyi \u00e7a\u011f\u0131r\u0131r, Cyte-09'un \u00f6zel Keskin Ni\u015fanc\u0131 T\u00fcfe\u011finin att\u0131\u011f\u0131 mermiler, zay\u0131f noktalardan sekerek yak\u0131ndaki di\u011fer zay\u0131f noktalara y\u00f6nelir. Alternatif at\u0131\u015f, d\u00fc\u015fmanlar\u0131 tamamen donduran <DT_FREEZE_COLOR>Buz el bombas\u0131 atar."
+                    "description": "Cyte-09'un \u00f6zel Keskin Ni\u015fanc\u0131 T\u00fcfe\u011fi Neutralizer'\u0131 \u00e7a\u011f\u0131r\u0131r. Att\u0131\u011f\u0131 mermiler, zay\u0131f noktalardan sekerek yak\u0131ndaki di\u011fer zay\u0131f noktalara y\u00f6nelir. Alternatif at\u0131\u015f, d\u00fc\u015fmanlar\u0131 tamamen donduran <DT_FREEZE_COLOR>Buz bombas\u0131 atar."
                 }
             ],
             "productCategory": "Suits"

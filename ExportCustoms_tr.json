@@ -12938,7 +12938,7 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/OperatorDrifterGothFaceAccessory",
-            "name": "Goth Piercingleri",
+            "name": "Gotik Piercingler",
             "codexSecret": false,
             "description": "Bu sivri kulak piercing'leriyle bireyselli\u011fini ifade et."
         },
@@ -13593,7 +13593,7 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultAthletic",
-            "name": "Athletic Ti\u015f\u00f6rt\u00fc (Gezgin)",
+            "name": "Atletik Ti\u015f\u00f6rt (Gezgin)",
             "codexSecret": false,
             "description": "Spor giyimden ilham alan bu \u00f6zel Gezgin giyim ve aksesuar serisiyle oyununu oyna."
         },
@@ -13665,9 +13665,9 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultGrunge",
-            "name": "Grunge Ceketi (Gezgin)",
+            "name": "Y\u0131pranm\u0131\u015f Ceket (Gezgin)",
             "codexSecret": false,
-            "description": "Grunge sahnesinden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
+            "description": "Y\u0131pranm\u0131\u015f stilden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultJ",
@@ -13701,7 +13701,7 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAdultOperatorDrifterGoth",
-            "name": "Goth Ceketi (Gezgin)",
+            "name": "Gotik Ceket (Gezgin)",
             "codexSecret": false,
             "description": "Gotik esintiler ta\u015f\u0131yan bu giysilerle g\u00f6lgelerden izle veya \u00f6l\u00fclerle dans et."
         },
@@ -13756,7 +13756,7 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitAthletic",
-            "name": "Athletic Ti\u015f\u00f6rt\u00fc (Operat\u00f6r)",
+            "name": "Atletik Ti\u015f\u00f6rt (Operat\u00f6r)",
             "codexSecret": false,
             "description": "Spor giyimden ilham alan bu \u00f6zel Gezgin giyim ve aksesuar serisiyle oyununu oyna."
         },
@@ -13801,9 +13801,9 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitGrunge",
-            "name": "Grunge Ceketi (Operat\u00f6r)",
+            "name": "Y\u0131pranm\u0131\u015f Ceket (Operat\u00f6r)",
             "codexSecret": false,
-            "description": "Grunge sahnesinden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
+            "description": "Y\u0131pranm\u0131\u015f stilden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitInfestedA",
@@ -13843,7 +13843,7 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitOperatorDrifterGoth",
-            "name": "Goth Ceketi (Operat\u00f6r)",
+            "name": "Gotik Ceket (Operat\u00f6r)",
             "codexSecret": false,
             "description": "Gotik esintiler ta\u015f\u0131yan bu giysilerle g\u00f6lgelerden izle veya \u00f6l\u00fclerle dans et."
         },
@@ -14686,9 +14686,9 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultGrunge",
-            "name": "Grunge Ba\u015fl\u0131k (Gezgin)",
+            "name": "Y\u0131pranm\u0131\u015f Ba\u015fl\u0131k (Gezgin)",
             "codexSecret": false,
-            "description": "Grunge sahnesinden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
+            "description": "Y\u0131pranm\u0131\u015f stilden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultJ",
@@ -14716,7 +14716,7 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodAdultOperatorDrifterGoth",
-            "name": "Goth Ba\u015fl\u0131k (Gezgin)",
+            "name": "Gotik Ba\u015fl\u0131k (Gezgin)",
             "codexSecret": false,
             "description": "Gotik esintiler ta\u015f\u0131yan bu giysilerle g\u00f6lgelerden izle veya \u00f6l\u00fclerle dans et."
         },
@@ -14828,9 +14828,9 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodGrunge",
-            "name": "Grunge Ba\u015fl\u0131k (Operat\u00f6r)",
+            "name": "Y\u0131pranm\u0131\u015f Ba\u015fl\u0131k (Operat\u00f6r)",
             "codexSecret": false,
-            "description": "Grunge sahnesinden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
+            "description": "Y\u0131pranm\u0131\u015f stilden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodInfestedA",
@@ -14876,7 +14876,7 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodOperatorDrifterGoth",
-            "name": "Goth Ba\u015fl\u0131k (Operat\u00f6r)",
+            "name": "Gotik Ba\u015fl\u0131k (Operat\u00f6r)",
             "codexSecret": false,
             "description": "Gotik esintiler ta\u015f\u0131yan bu giysilerle g\u00f6lgelerden izle veya \u00f6l\u00fclerle dans et."
         },
@@ -14982,7 +14982,7 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultAthletic",
-            "name": "Athletic Pantolonu (Gezgin)",
+            "name": "Atletik Pantolon (Gezgin)",
             "codexSecret": false,
             "description": "Spor giyimden ilham alan bu \u00f6zel Gezgin giyim ve aksesuar serisiyle oyununu oyna."
         },
@@ -15054,9 +15054,9 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultGrunge",
-            "name": "Grunge Pantolonu (Gezgin)",
+            "name": "Y\u0131pranm\u0131\u015f Pantolon (Gezgin)",
             "codexSecret": false,
-            "description": "Grunge sahnesinden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
+            "description": "Y\u0131pranm\u0131\u015f stilden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultJ",
@@ -15090,7 +15090,7 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAdultOperatorDrifterGoth",
-            "name": "Goth Pantolonu (Gezgin)",
+            "name": "Gotik Pantolon (Gezgin)",
             "codexSecret": false,
             "description": "Gotik esintiler ta\u015f\u0131yan bu giysilerle g\u00f6lgelerden izle veya \u00f6l\u00fclerle dans et."
         },
@@ -15145,7 +15145,7 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsAthletic",
-            "name": "Athletic Pantolonu (Operat\u00f6r)",
+            "name": "Atletik Pantolon (Operat\u00f6r)",
             "codexSecret": false,
             "description": "Spor giyimden ilham alan bu \u00f6zel Gezgin giyim ve aksesuar serisiyle oyununu oyna."
         },
@@ -15190,9 +15190,9 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsGrunge",
-            "name": "Grunge Pantolonu (Operat\u00f6r)",
+            "name": "Y\u0131pranm\u0131\u015f Pantolon (Operat\u00f6r)",
             "codexSecret": false,
-            "description": "Grunge sahnesinden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
+            "description": "Y\u0131pranm\u0131\u015f stilden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsInfestedA",
@@ -15232,7 +15232,7 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsOperatorDrifterGoth",
-            "name": "Goth Pantolonu (Operat\u00f6r)",
+            "name": "Gotik Pantolon (Operat\u00f6r)",
             "codexSecret": false,
             "description": "Gotik esintiler ta\u015f\u0131yan bu giysilerle g\u00f6lgelerden izle veya \u00f6l\u00fclerle dans et."
         },
@@ -15340,9 +15340,9 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultGrunge",
-            "name": "Grunge Ete\u011fi (Gezgin)",
+            "name": "Y\u0131pranm\u0131\u015f Etek (Gezgin)",
             "codexSecret": false,
-            "description": "Grunge sahnesinden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
+            "description": "Y\u0131pranm\u0131\u015f stilden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtAdultJ",
@@ -15425,9 +15425,9 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtGrunge",
-            "name": "Grunge Ete\u011fi (Operat\u00f6r)",
+            "name": "Y\u0131pranm\u0131\u015f Etek (Operat\u00f6r)",
             "codexSecret": false,
-            "description": "Grunge sahnesinden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
+            "description": "Y\u0131pranm\u0131\u015f stilden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtJ",
@@ -15486,7 +15486,7 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultAthletic",
-            "name": "Athletic Kolluklar\u0131 (Gezgin)",
+            "name": "Atletik Kolluklar (Gezgin)",
             "codexSecret": false,
             "description": "Spor giyimden ilham alan bu \u00f6zel Gezgin giyim ve aksesuar serisiyle oyununu oyna."
         },
@@ -15558,9 +15558,9 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultGrunge",
-            "name": "Grunge Kolluklar\u0131 (Gezgin)",
+            "name": "Y\u0131pranm\u0131\u015f Kolluklar (Gezgin)",
             "codexSecret": false,
-            "description": "Grunge sahnesinden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
+            "description": "Y\u0131pranm\u0131\u015f stilden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultJ",
@@ -15594,7 +15594,7 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAdultOperatorDrifterGoth",
-            "name": "Goth Kolluklar\u0131 (Gezgin)",
+            "name": "Gotik Kolluklar (Gezgin)",
             "codexSecret": false,
             "description": "Gotik esintiler ta\u015f\u0131yan bu giysilerle g\u00f6lgelerden izle veya \u00f6l\u00fclerle dans et."
         },
@@ -15649,7 +15649,7 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesAthletic",
-            "name": "Athletic Kolluklar\u0131 (Operat\u00f6r)",
+            "name": "Atletik Kolluklar (Operat\u00f6r)",
             "codexSecret": false,
             "description": "Spor giyimden ilham alan bu \u00f6zel Gezgin giyim ve aksesuar serisiyle oyununu oyna."
         },
@@ -15694,9 +15694,9 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesGrunge",
-            "name": "Grunge Kolluklar\u0131 (Operat\u00f6r)",
+            "name": "Y\u0131pranm\u0131\u015f Kolluklar (Operat\u00f6r)",
             "codexSecret": false,
-            "description": "Grunge sahnesinden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
+            "description": "Y\u0131pranm\u0131\u015f stilden ilham alan tutumlu, ne\u015feli k\u0131yafetlerle sokaklarda ger\u00e7ek\u00e7i ol."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesInfestedA",
@@ -15736,7 +15736,7 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesOperatorDrifterGoth",
-            "name": "Goth Kolluklar\u0131 (Operat\u00f6r)",
+            "name": "Gotik Kolluklar (Operat\u00f6r)",
             "codexSecret": false,
             "description": "Gotik esintiler ta\u015f\u0131yan bu giysilerle g\u00f6lgelerden izle veya \u00f6l\u00fclerle dans et."
         },

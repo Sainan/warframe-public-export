@@ -11338,6 +11338,54 @@
             "excludeFromCodex": true
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/HexAmirBobbleHead",
+            "name": "Noggle Statue - Amir Beckett",
+            "description": "A small wobbly statue of the protoframe Amir.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/HexAoiBobbleHead",
+            "name": "Noggle Statue - Aoi Morohoshi",
+            "description": "A small wobbly statue of the protoframe Aoi.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/HexArthurBobbleHead",
+            "name": "Noggle Statue - Arthur Nightingale",
+            "description": "A small wobbly statue of the protoframe Arthur.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/HexEleanorBobbleHead",
+            "name": "Noggle Statue - Eleanor Nightingale",
+            "description": "A small wobbly statue of the protoframe Eleanor.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/HexLettieBobbleHead",
+            "name": "Noggle Statue - Lettie Garcia",
+            "description": "A small wobbly statue of the protoframe Lettie.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/HexQuincyBobbleHead",
+            "name": "Noggle Statue - Quincy Isaacs",
+            "description": "A small wobbly statue of the protoframe Quincy.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/HildrynPrimeBobbleHead",
             "name": "Noggle Heykeli - Hildryn Prime",
             "description": "Hildryn Prime k\u00fc\u00e7\u00fck oynar fig\u00fcr.",

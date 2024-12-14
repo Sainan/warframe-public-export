@@ -398,23 +398,23 @@
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/WispReservoirAbility",
-                    "abilityName": "Reservoirs",
+                    "abilityName": "Reservat\u00f3rios",
                     "description": "Escolha e invoque um Reservat\u00f3rio preenchido com Brotos que se aderir\u00e3o \u00e0 Wisp e seus aliados. O Broto de Rapidez aumentar\u00e1 a Velocidade de Movimento e a de Ataque. O Broto de Vitalidade aumentar\u00e1 a Vida M\u00e1xima e a curar\u00e1 ao longo do tempo. O Broto de Choque atordoar\u00e1 os inimigos no alcance."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/WispLightAbility",
-                    "abilityName": "Wil-O-Wisp",
+                    "abilityName": "Travessia Espectral",
                     "description": "Conjurar\u00e1 uma imagem espectral da Wisp que confundir\u00e1 e distrair\u00e1 os inimigos. Reativar a habilidade far\u00e1 com que a Wisp viaje na posi\u00e7\u00e3o da mesma. Segurar a habilidade far\u00e1 com que a imagem espectral viaje mais rapidamente, teleportando a Wisp na posi\u00e7\u00e3o da imagem ao liberar a habilidade. "
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/WispHarnessAbility",
-                    "abilityName": "Breach Surge",
+                    "abilityName": "Surto de Fa\u00edscas",
                     "description": "Abrir\u00e1 uma fenda dimensional que afetar\u00e1 os inimigos pr\u00f3ximos, os sobrecarregando e fazendo com que eles soltem fa\u00edscas que os deixar\u00e3o vulner\u00e1veis ao receberem dano.\r\nA Wisp tamb\u00e9m poder\u00e1 teleportar-se at\u00e9 um Reservat\u00f3rio e dobrar o alcance das fa\u00edscas."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/WispSunAbility",
-                    "abilityName": "Sol Gate",
-                    "description": "Abrir\u00e1 um portal direto at\u00e9 o sol que irradiar\u00e1 os inimigos com um feixe devastador de plasma solar. Segure o bot\u00e3o de atirar para dobrar o Dano, consumindo energia extra no processo. Inimigos atingidos pela Sol Gate estar\u00e3o mais vulner\u00e1veis a dano ao serem atingidos continuamente pelo feixe."
+                    "abilityName": "Portal Solar",
+                    "description": "Abrir\u00e1 um portal direto at\u00e9 o sol, que irradiar\u00e1 os inimigos com um feixe devastador de plasma solar. Segure o bot\u00e3o de atirar para dobrar o dano, consumindo energia extra no processo. Inimigos atingidos pela habilidade ficar\u00e3o mais vulner\u00e1veis a dano ao serem atingidos continuamente pelo feixe."
                 }
             ],
             "productCategory": "Suits"
@@ -436,23 +436,23 @@
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/WispReservoirAbility",
-                    "abilityName": "Reservoirs",
+                    "abilityName": "Reservat\u00f3rios",
                     "description": "Escolha e invoque um Reservat\u00f3rio preenchido com Brotos que se aderir\u00e3o \u00e0 Wisp e seus aliados. O Broto de Rapidez aumentar\u00e1 a Velocidade de Movimento e a de Ataque. O Broto de Vitalidade aumentar\u00e1 a Vida M\u00e1xima e a curar\u00e1 ao longo do tempo. O Broto de Choque atordoar\u00e1 os inimigos no alcance."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/WispLightAbility",
-                    "abilityName": "Wil-O-Wisp",
+                    "abilityName": "Travessia Espectral",
                     "description": "Conjurar\u00e1 uma imagem espectral da Wisp que confundir\u00e1 e distrair\u00e1 os inimigos. Reativar a habilidade far\u00e1 com que a Wisp viaje na posi\u00e7\u00e3o da mesma. Segurar a habilidade far\u00e1 com que a imagem espectral viaje mais rapidamente, teleportando a Wisp na posi\u00e7\u00e3o da imagem ao liberar a habilidade. "
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/WispHarnessAbility",
-                    "abilityName": "Breach Surge",
+                    "abilityName": "Surto de Fa\u00edscas",
                     "description": "Abrir\u00e1 uma fenda dimensional que afetar\u00e1 os inimigos pr\u00f3ximos, os sobrecarregando e fazendo com que eles soltem fa\u00edscas que os deixar\u00e3o vulner\u00e1veis ao receberem dano.\r\nA Wisp tamb\u00e9m poder\u00e1 teleportar-se at\u00e9 um Reservat\u00f3rio e dobrar o alcance das fa\u00edscas."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/WispSunAbility",
-                    "abilityName": "Sol Gate",
-                    "description": "Abrir\u00e1 um portal direto at\u00e9 o sol que irradiar\u00e1 os inimigos com um feixe devastador de plasma solar. Segure o bot\u00e3o de atirar para dobrar o Dano, consumindo energia extra no processo. Inimigos atingidos pela Sol Gate estar\u00e3o mais vulner\u00e1veis a dano ao serem atingidos continuamente pelo feixe."
+                    "abilityName": "Portal Solar",
+                    "description": "Abrir\u00e1 um portal direto at\u00e9 o sol, que irradiar\u00e1 os inimigos com um feixe devastador de plasma solar. Segure o bot\u00e3o de atirar para dobrar o dano, consumindo energia extra no processo. Inimigos atingidos pela habilidade ficar\u00e3o mais vulner\u00e1veis a dano ao serem atingidos continuamente pelo feixe."
                 }
             ],
             "productCategory": "Suits"
@@ -854,23 +854,23 @@
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/PoisonAbility",
-                    "abilityName": "Spores",
-                    "description": "Atingir\u00e1 o alvo com uma p\u00fastula de Esporos <DT_CORROSIVE_COLOR>Corrosivos. Destruir os esporos ao atirar neles ou eliminar o hospedeiro os espalhar\u00e3o para inimigos pr\u00f3ximos. O dano causado pelos Esporos aumentar\u00e1 enquanto os inimigos continuarem sob efeito da habilidade."
+                    "abilityName": "Esporos Venenosos",
+                    "description": "Atingir\u00e1 o alvo com uma p\u00fastula de Esporos <DT_CORROSIVE_COLOR>Corrosivos. Destruir os esporos ao atirar neles ou eliminar o hospedeiro os espalhar\u00e3o para inimigos pr\u00f3ximos. O dano causado pela habilidade Esporos Venenosos aumentar\u00e1 enquanto os inimigos continuarem sob efeito da habilidade."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ShedAbility",
-                    "abilityName": "Molt",
+                    "abilityName": "Ex\u00favia",
                     "description": "Assim como a cobra troca de pele, a Saryn deixar\u00e1 uma c\u00f3pia de si mesma para atrair a aten\u00e7\u00e3o dos inimigos."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/WeaponPoisonAbility",
-                    "abilityName": "Toxic Lash",
-                    "description": "Enquanto ativa, os ataques da Saryn causar\u00e3o Dano <DT_POISON_COLOR>T\u00f3xico adicional; o efeito ser\u00e1 dobrado ao atacar com armas Corpo a Corpo. Atacar os inimigos afetados pela Spores far\u00e1 com que os Esporos explodam imediatamente."
+                    "abilityName": "Lacera\u00e7\u00e3o T\u00f3xica",
+                    "description": "Enquanto ativa, os ataques da Saryn causar\u00e3o Dano <DT_POISON_COLOR>T\u00f3xico adicional; o efeito ser\u00e1 dobrado ao atacar com armas Corpo a Corpo. Atacar os inimigos afetados pela habilidade Esporos Venenosos far\u00e1 com que os esporos explodam imediatamente."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ExplosiveDissolveAbility",
                     "abilityName": "Miasma",
-                    "description": "Liberar\u00e1 um miasma venenoso que causar\u00e1 Dano <DT_VIRAL_COLOR>Viral aos inimigos no alcance. Inimigos afetados pela Spores estar\u00e3o mais vulner\u00e1veis a esta habilidade."
+                    "description": "Liberar\u00e1 um miasma venenoso que causar\u00e1 Dano <DT_VIRAL_COLOR>Viral aos inimigos no alcance. Inimigos afetados pela habilidade Esporos Venenosos estar\u00e3o mais vulner\u00e1veis a esta habilidade."
                 }
             ],
             "productCategory": "Suits"
@@ -892,23 +892,23 @@
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/PoisonAbility",
-                    "abilityName": "Spores",
-                    "description": "Atingir\u00e1 o alvo com uma p\u00fastula de Esporos <DT_CORROSIVE_COLOR>Corrosivos. Destruir os esporos ao atirar neles ou eliminar o hospedeiro os espalhar\u00e3o para inimigos pr\u00f3ximos. O dano causado pelos Esporos aumentar\u00e1 enquanto os inimigos continuarem sob efeito da habilidade."
+                    "abilityName": "Esporos Venenosos",
+                    "description": "Atingir\u00e1 o alvo com uma p\u00fastula de Esporos <DT_CORROSIVE_COLOR>Corrosivos. Destruir os esporos ao atirar neles ou eliminar o hospedeiro os espalhar\u00e3o para inimigos pr\u00f3ximos. O dano causado pela habilidade Esporos Venenosos aumentar\u00e1 enquanto os inimigos continuarem sob efeito da habilidade."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ShedAbility",
-                    "abilityName": "Molt",
+                    "abilityName": "Ex\u00favia",
                     "description": "Assim como a cobra troca de pele, a Saryn deixar\u00e1 uma c\u00f3pia de si mesma para atrair a aten\u00e7\u00e3o dos inimigos."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/WeaponPoisonAbility",
-                    "abilityName": "Toxic Lash",
-                    "description": "Enquanto ativa, os ataques da Saryn causar\u00e3o Dano <DT_POISON_COLOR>T\u00f3xico adicional; o efeito ser\u00e1 dobrado ao atacar com armas Corpo a Corpo. Atacar os inimigos afetados pela Spores far\u00e1 com que os Esporos explodam imediatamente."
+                    "abilityName": "Lacera\u00e7\u00e3o T\u00f3xica",
+                    "description": "Enquanto ativa, os ataques da Saryn causar\u00e3o Dano <DT_POISON_COLOR>T\u00f3xico adicional; o efeito ser\u00e1 dobrado ao atacar com armas Corpo a Corpo. Atacar os inimigos afetados pela habilidade Esporos Venenosos far\u00e1 com que os esporos explodam imediatamente."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ExplosiveDissolveAbility",
                     "abilityName": "Miasma",
-                    "description": "Liberar\u00e1 um miasma venenoso que causar\u00e1 Dano <DT_VIRAL_COLOR>Viral aos inimigos no alcance. Inimigos afetados pela Spores estar\u00e3o mais vulner\u00e1veis a esta habilidade."
+                    "description": "Liberar\u00e1 um miasma venenoso que causar\u00e1 Dano <DT_VIRAL_COLOR>Viral aos inimigos no alcance. Inimigos afetados pela habilidade Esporos Venenosos estar\u00e3o mais vulner\u00e1veis a esta habilidade."
                 }
             ],
             "productCategory": "Suits"
@@ -1083,23 +1083,23 @@
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RhinoChargeAbility",
-                    "abilityName": "Rhino Charge",
-                    "description": "Rhino avan\u00e7ar\u00e1 na dire\u00e7\u00e3o escolhida, derrubando qualquer um em seu caminho e eviscerando suas v\u00edtimas."
+                    "abilityName": "Investida do Rhino",
+                    "description": "O Rhino avan\u00e7ar\u00e1 na dire\u00e7\u00e3o escolhida, derrubando qualquer um em seu caminho e eviscerando suas v\u00edtimas."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/IronSkinAbility",
-                    "abilityName": "Iron Skin",
-                    "description": "Rhino enrijecer\u00e1 sua pele, prevenindo todo o dano recebido e ganhando Guarda Refor\u00e7ada."
+                    "abilityName": "Pele Blindada",
+                    "description": "O Rhino enrijecer\u00e1 sua pele, prevenindo todo o dano recebido e ganhando Guarda Refor\u00e7ada."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RhinoRoarAbility",
-                    "abilityName": "Roar",
+                    "abilityName": "Rugido Fortificante",
                     "description": "Conceder\u00e1 um aumento de dano tempor\u00e1rio a todos os aliados pr\u00f3ximos."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RhinoStompAbility",
-                    "abilityName": "Rhino Stomp",
-                    "description": "Rhino pisar\u00e1 no ch\u00e3o com for\u00e7a suficiente para distorcer o tempo, deixando os inimigos no alcance suspensos no ar."
+                    "abilityName": "Pis\u00e3o do Rhino",
+                    "description": "O Rhino pisar\u00e1 no ch\u00e3o com for\u00e7a suficiente para distorcer o tempo, deixando os inimigos no alcance suspensos no ar."
                 }
             ],
             "productCategory": "Suits"
@@ -1121,23 +1121,23 @@
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RhinoChargeAbility",
-                    "abilityName": "Rhino Charge",
-                    "description": "Rhino avan\u00e7ar\u00e1 na dire\u00e7\u00e3o escolhida, derrubando qualquer um em seu caminho e eviscerando suas v\u00edtimas."
+                    "abilityName": "Investida do Rhino",
+                    "description": "O Rhino avan\u00e7ar\u00e1 na dire\u00e7\u00e3o escolhida, derrubando qualquer um em seu caminho e eviscerando suas v\u00edtimas."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/IronSkinAbility",
-                    "abilityName": "Iron Skin",
-                    "description": "Rhino enrijecer\u00e1 sua pele, prevenindo todo o dano recebido e ganhando Guarda Refor\u00e7ada."
+                    "abilityName": "Pele Blindada",
+                    "description": "O Rhino enrijecer\u00e1 sua pele, prevenindo todo o dano recebido e ganhando Guarda Refor\u00e7ada."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RhinoRoarAbility",
-                    "abilityName": "Roar",
+                    "abilityName": "Rugido Fortificante",
                     "description": "Conceder\u00e1 um aumento de dano tempor\u00e1rio a todos os aliados pr\u00f3ximos."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RhinoStompAbility",
-                    "abilityName": "Rhino Stomp",
-                    "description": "Rhino pisar\u00e1 no ch\u00e3o com for\u00e7a suficiente para distorcer o tempo, deixando os inimigos no alcance suspensos no ar."
+                    "abilityName": "Pis\u00e3o do Rhino",
+                    "description": "O Rhino pisar\u00e1 no ch\u00e3o com for\u00e7a suficiente para distorcer o tempo, deixando os inimigos no alcance suspensos no ar."
                 }
             ],
             "productCategory": "Suits"
@@ -3351,17 +3351,17 @@
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FireBallAbility",
-                    "abilityName": "Fireball",
+                    "abilityName": "Bola de Fogo",
                     "description": "Lan\u00e7ar\u00e1 um proj\u00e9til flamejante que incendiar\u00e1 os inimigos ao atingi-los."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/EmberImmolationAbility",
-                    "abilityName": "Immolation",
-                    "description": "Ember \u00e9 protegida por uma armadura flamejante que se fortalecer\u00e1 com o passar do tempo, consumindo energia apenas quando o medidor estiver cheio. Conjurar a habilidade enquanto ela estiver ativa extinguir\u00e1 as chamas."
+                    "abilityName": "Imola\u00e7\u00e3o",
+                    "description": "Proteger\u00e1 a Ember com uma armadura flamejante que se fortalecer\u00e1 com o passar do tempo, consumindo energia apenas quando o medidor estiver cheio. Conjurar a habilidade enquanto ela estiver ativa extinguir\u00e1 as chamas."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FireBlastAbility",
-                    "abilityName": "Fire Blast",
+                    "abilityName": "Explos\u00e3o \u00cdgnea",
                     "description": "Golpear\u00e1 o ch\u00e3o e criar\u00e1 uma onda de plasma incinerador, que derrubar\u00e1 os inimigos e remover\u00e1 suas armaduras."
                 },
                 {
@@ -3390,17 +3390,17 @@
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FireBallAbility",
-                    "abilityName": "Fireball",
+                    "abilityName": "Bola de Fogo",
                     "description": "Lan\u00e7ar\u00e1 um proj\u00e9til flamejante que incendiar\u00e1 os inimigos ao atingi-los."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/EmberImmolationAbility",
-                    "abilityName": "Immolation",
-                    "description": "Ember \u00e9 protegida por uma armadura flamejante que se fortalecer\u00e1 com o passar do tempo, consumindo energia apenas quando o medidor estiver cheio. Conjurar a habilidade enquanto ela estiver ativa extinguir\u00e1 as chamas."
+                    "abilityName": "Imola\u00e7\u00e3o",
+                    "description": "Proteger\u00e1 a Ember com uma armadura flamejante que se fortalecer\u00e1 com o passar do tempo, consumindo energia apenas quando o medidor estiver cheio. Conjurar a habilidade enquanto ela estiver ativa extinguir\u00e1 as chamas."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FireBlastAbility",
-                    "abilityName": "Fire Blast",
+                    "abilityName": "Explos\u00e3o \u00cdgnea",
                     "description": "Golpear\u00e1 o ch\u00e3o e criar\u00e1 uma onda de plasma incinerador, que derrubar\u00e1 os inimigos e remover\u00e1 suas armaduras."
                 },
                 {
@@ -3779,23 +3779,23 @@
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenRotAbility",
-                    "abilityName": "Xata's Whisper",
+                    "abilityName": "Sussurro de Xata",
                     "description": "Quando ativada, causar\u00e1 Dano de <DT_RADIANT_COLOR>Void adicional em todos os ataques realizados com as armas equipadas."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenGraspAbility",
-                    "abilityName": "Grasp of Lohk",
-                    "description": "As Gavinhas do Void roubar\u00e3o as armas dos inimigos pr\u00f3ximos para us\u00e1-las como seu pr\u00f3prio armamento flutuante de mira autom\u00e1tica. O Dano produzido aumentar\u00e1 de acordo com o n\u00edvel dos inimigos. O n\u00famero de armas capturadas tamb\u00e9m determinar\u00e1 o multiplicador de Dano para o feixe de Void da habilidade The Lost: Deny."
+                    "abilityName": "Entrela\u00e7o de Lohk",
+                    "description": "As gavinhas do Void roubar\u00e3o as armas dos inimigos pr\u00f3ximos para us\u00e1-las como seu pr\u00f3prio armamento flutuante de mira autom\u00e1tica. O dano produzido aumentar\u00e1 conforme o n\u00edvel dos inimigos. O n\u00famero de armas capturadas tamb\u00e9m determinar\u00e1 o multiplicador de Dano para o feixe de Void da habilidade Elos Perdidos (Condena\u00e7\u00e3o)."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenEmbraceAbility",
-                    "abilityName": "The Lost",
-                    "description": "Alternar\u00e1 entre um trio de poderes perdidos de outros Warframes. A habilidade Accuse manifestar\u00e1 uma fenda do Void, que corromper\u00e1 os inimigos e os tornar\u00e3o aliados. A habilidade Gaze agarrar\u00e1 os seus alvos com gavinhas do Void, que acumular\u00e3o dano e o infligir\u00e3o quando os seus alvos s\u00e3o soltos. A habilidade Deny aniquilar\u00e1 os inimigos com um feixe de energia do Void, removendo as resist\u00eancias a dano acumuladas por unidades Sentient."
+                    "abilityName": "Elos Perdidos",
+                    "description": "Alternar\u00e1 entre um trio de poderes perdidos de outros Warframes. A habilidade Elos Perdidos (Acusa\u00e7\u00e3o) manifestar\u00e1 uma fenda do Void, que corromper\u00e1 os inimigos e far\u00e1 com que eles se tornem aliados. A habilidade Elos Perdidos (Vis\u00e3o) agarrar\u00e1 os seus alvos com gavinhas do Void, que acumular\u00e3o dano e o infligir\u00e3o quando os seus alvos s\u00e3o soltos. A habilidade Elos Perdidos (Condena\u00e7\u00e3o) aniquilar\u00e1 os inimigos com um feixe de energia do Void, removendo as resist\u00eancias a dano acumuladas por unidades Sentient."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenDestructAbility",
-                    "abilityName": "The Vast Untime",
-                    "description": "Ejetar\u00e1 temporariamente as pe\u00e7as externas dos Xaku em uma explos\u00e3o destrutiva, permitindo uma \u00e1gil movimenta\u00e7\u00e3o pelo campo de batalha com sua nova forma esquel\u00e9tica. Inimigos que receberem dano dos estilha\u00e7os corporais ficar\u00e3o mais vulner\u00e1veis ao Dano de <DT_RADIANT_COLOR>Void. A dura\u00e7\u00e3o das outras habilidades ativas dos Xaku ser\u00e1 congelada no tempo, e redefinida assim que a habilidade The Vast Untime acabar."
+                    "abilityName": "Vastid\u00e3o Atemporal",
+                    "description": "Ejetar\u00e1 temporariamente as pe\u00e7as externas dos Xaku em uma explos\u00e3o destrutiva, permitindo uma \u00e1gil movimenta\u00e7\u00e3o pelo campo de batalha com sua nova forma esquel\u00e9tica. Inimigos que receberem dano dos estilha\u00e7os corporais ficar\u00e3o mais vulner\u00e1veis ao Dano de <DT_RADIANT_COLOR>Void. A dura\u00e7\u00e3o das outras habilidades ativas dos Xaku ser\u00e1 congelada no tempo e redefinida assim que a habilidade Vastid\u00e3o Atemporal acabar."
                 }
             ],
             "productCategory": "Suits"
@@ -3817,23 +3817,23 @@
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenRotAbility",
-                    "abilityName": "Xata's Whisper",
+                    "abilityName": "Sussurro de Xata",
                     "description": "Quando ativada, causar\u00e1 Dano de <DT_RADIANT_COLOR>Void adicional em todos os ataques realizados com as armas equipadas."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenGraspAbility",
-                    "abilityName": "Grasp of Lohk",
-                    "description": "As Gavinhas do Void roubar\u00e3o as armas dos inimigos pr\u00f3ximos para us\u00e1-las como seu pr\u00f3prio armamento flutuante de mira autom\u00e1tica. O Dano produzido aumentar\u00e1 de acordo com o n\u00edvel dos inimigos. O n\u00famero de armas capturadas tamb\u00e9m determinar\u00e1 o multiplicador de Dano para o feixe de Void da habilidade The Lost: Deny."
+                    "abilityName": "Entrela\u00e7o de Lohk",
+                    "description": "As gavinhas do Void roubar\u00e3o as armas dos inimigos pr\u00f3ximos para us\u00e1-las como seu pr\u00f3prio armamento flutuante de mira autom\u00e1tica. O dano produzido aumentar\u00e1 conforme o n\u00edvel dos inimigos. O n\u00famero de armas capturadas tamb\u00e9m determinar\u00e1 o multiplicador de Dano para o feixe de Void da habilidade Elos Perdidos (Condena\u00e7\u00e3o)."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenEmbraceAbility",
-                    "abilityName": "The Lost",
-                    "description": "Alternar\u00e1 entre um trio de poderes perdidos de outros Warframes. A habilidade Accuse manifestar\u00e1 uma fenda do Void, que corromper\u00e1 os inimigos e os tornar\u00e3o aliados. A habilidade Gaze agarrar\u00e1 os seus alvos com gavinhas do Void, que acumular\u00e3o dano e o infligir\u00e3o quando os seus alvos s\u00e3o soltos. A habilidade Deny aniquilar\u00e1 os inimigos com um feixe de energia do Void, removendo as resist\u00eancias a dano acumuladas por unidades Sentient."
+                    "abilityName": "Elos Perdidos",
+                    "description": "Alternar\u00e1 entre um trio de poderes perdidos de outros Warframes. A habilidade Elos Perdidos (Acusa\u00e7\u00e3o) manifestar\u00e1 uma fenda do Void, que corromper\u00e1 os inimigos e far\u00e1 com que eles se tornem aliados. A habilidade Elos Perdidos (Vis\u00e3o) agarrar\u00e1 os seus alvos com gavinhas do Void, que acumular\u00e3o dano e o infligir\u00e3o quando os seus alvos s\u00e3o soltos. A habilidade Elos Perdidos (Condena\u00e7\u00e3o) aniquilar\u00e1 os inimigos com um feixe de energia do Void, removendo as resist\u00eancias a dano acumuladas por unidades Sentient."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BrokenDestructAbility",
-                    "abilityName": "The Vast Untime",
-                    "description": "Ejetar\u00e1 temporariamente as pe\u00e7as externas dos Xaku em uma explos\u00e3o destrutiva, permitindo uma \u00e1gil movimenta\u00e7\u00e3o pelo campo de batalha com sua nova forma esquel\u00e9tica. Inimigos que receberem dano dos estilha\u00e7os corporais ficar\u00e3o mais vulner\u00e1veis ao Dano de <DT_RADIANT_COLOR>Void. A dura\u00e7\u00e3o das outras habilidades ativas dos Xaku ser\u00e1 congelada no tempo, e redefinida assim que a habilidade The Vast Untime acabar."
+                    "abilityName": "Vastid\u00e3o Atemporal",
+                    "description": "Ejetar\u00e1 temporariamente as pe\u00e7as externas dos Xaku em uma explos\u00e3o destrutiva, permitindo uma \u00e1gil movimenta\u00e7\u00e3o pelo campo de batalha com sua nova forma esquel\u00e9tica. Inimigos que receberem dano dos estilha\u00e7os corporais ficar\u00e3o mais vulner\u00e1veis ao Dano de <DT_RADIANT_COLOR>Void. A dura\u00e7\u00e3o das outras habilidades ativas dos Xaku ser\u00e1 congelada no tempo e redefinida assim que a habilidade Vastid\u00e3o Atemporal acabar."
                 }
             ],
             "productCategory": "Suits"
@@ -4241,22 +4241,22 @@
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/AlchemistSerpentAbility",
-                    "abilityName": "Ophidian Bite",
+                    "abilityName": "Mordida Of\u00eddica",
                     "description": "Atacar\u00e1 com uma investida serpentina t\u00f3xica, consumindo o alvo para curar o Lavos.\r\n\r\nSegurar o bot\u00e3o da habilidade imbuir\u00e1 todas as habilidades com Dano <DT_POISON_COLOR>T\u00f3xico."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/AlchemistVialAbility",
-                    "abilityName": "Vial Rush",
+                    "abilityName": "Frascos Elementais",
                     "description": "Realizar\u00e1 uma investida \u00e0 frente, atropelando os inimigos e deixando um rastro congelante de frascos estilha\u00e7ados.\r\n\r\nSegurar o bot\u00e3o da habilidade imbuir\u00e1 a pr\u00f3xima habilidade conjurada com Dano <DT_FREEZE_COLOR>Glacial."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/AlchemistTransmuteAbility",
-                    "abilityName": "Transmutation Probe",
+                    "abilityName": "Sonda de Transmuta\u00e7\u00e3o",
                     "description": "Disparar\u00e1 uma sonda que converter\u00e1 Orbes de Vida e de Energia em Orbes Universais, que fornecer\u00e3o ambos. Al\u00e9m disso, Colet\u00e1veis de Muni\u00e7\u00e3o ser\u00e3o convertidos em Colet\u00e1veis de Muni\u00e7\u00e3o Universais. A sonda tamb\u00e9m eletrocutar\u00e1 os inimigos pr\u00f3ximos dela. Cada inimigo eletrocutado reduzir\u00e1 o tempo de recarga das outras habilidades em 1,5 segundos.\r\n\r\nSegurar o bot\u00e3o da habilidade imbuir\u00e1 a pr\u00f3xima habilidade conjurada com Dano <DT_ELECTRICITY_COLOR>El\u00e9trico."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/AlchemistDistillAbility",
-                    "abilityName": "Catalyze",
+                    "abilityName": "Catalisa\u00e7\u00e3o",
                     "description": "Sondas Catalisadoras emergir\u00e3o do Lavos, cobrindo os alvos afetados com um gel incendi\u00e1rio. O dano causado ser\u00e1 dobrado para cada elemento afetando o inimigo.\r\n\r\nSegurar o bot\u00e3o da habilidade imbuir\u00e1 a pr\u00f3xima habilidade conjurada com Dano <DT_FIRE_COLOR>\u00cdgneo."
                 }
             ],
