@@ -11339,48 +11339,48 @@
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/HexAmirBobbleHead",
-            "name": "Noggle Statue - Amir Beckett",
-            "description": "A small wobbly statue of the protoframe Amir.",
+            "name": "\u0421\u0442\u0430\u0442\u0443\u044d\u0442\u043a\u0430: \u0410\u043c\u0438\u0440 \u0411\u0435\u043a\u043a\u0435\u0442",
+            "description": "\u041d\u0435\u0431\u043e\u043b\u044c\u0448\u0430\u044f \u0444\u0438\u0433\u0443\u0440\u043a\u0430 \u043f\u0440\u043e\u0442\u043e\u0444\u0440\u0435\u0439\u043c\u0430 \u0410\u043c\u0438\u0440\u0430.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/HexAoiBobbleHead",
-            "name": "Noggle Statue - Aoi Morohoshi",
-            "description": "A small wobbly statue of the protoframe Aoi.",
+            "name": "\u0424\u0438\u0433\u0443\u0440\u043a\u0430: \u0410\u043e\u0438 \u041c\u043e\u0445\u043e\u0440\u043e\u0448\u0438",
+            "description": "\u041d\u0435\u0431\u043e\u043b\u044c\u0448\u0430\u044f \u0444\u0438\u0433\u0443\u0440\u043a\u0430 \u043f\u0440\u043e\u0442\u043e\u0444\u0440\u0435\u0439\u043c\u0430 \u0410\u043e\u0438.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/HexArthurBobbleHead",
-            "name": "Noggle Statue - Arthur Nightingale",
-            "description": "A small wobbly statue of the protoframe Arthur.",
+            "name": "\u0424\u0438\u0433\u0443\u0440\u043a\u0430: \u0410\u0440\u0442\u0443\u0440 \u041d\u0430\u0439\u0442\u0438\u043d\u0433\u0435\u0439\u043b",
+            "description": "\u041d\u0435\u0431\u043e\u043b\u044c\u0448\u0430\u044f \u0444\u0438\u0433\u0443\u0440\u043a\u0430 \u043f\u0440\u043e\u0442\u043e\u0444\u0440\u0435\u0439\u043c\u0430 \u0410\u0440\u0442\u0443\u0440\u0430.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/HexEleanorBobbleHead",
-            "name": "Noggle Statue - Eleanor Nightingale",
-            "description": "A small wobbly statue of the protoframe Eleanor.",
+            "name": "\u0421\u0442\u0430\u0442\u0443\u044d\u0442\u043a\u0430: \u042d\u043b\u0435\u0430\u043d\u043e\u0440\u0430 \u041d\u0430\u0439\u0442\u0438\u043d\u0433\u0435\u0439\u043b",
+            "description": "\u041d\u0435\u0431\u043e\u043b\u044c\u0448\u0430\u044f \u0444\u0438\u0433\u0443\u0440\u043a\u0430 \u043f\u0440\u043e\u0442\u043e\u0444\u0440\u0435\u0439\u043c\u0430 \u042d\u043b\u0435\u0430\u043d\u043e\u0440\u044b.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/HexLettieBobbleHead",
-            "name": "Noggle Statue - Lettie Garcia",
-            "description": "A small wobbly statue of the protoframe Lettie.",
+            "name": "\u0421\u0442\u0430\u0442\u0443\u044d\u0442\u043a\u0430: \u041b\u044d\u0442\u0442\u0438 \u0413\u0430\u0440\u0441\u0438\u044f",
+            "description": "\u041d\u0435\u0431\u043e\u043b\u044c\u0448\u0430\u044f \u0444\u0438\u0433\u0443\u0440\u043a\u0430 \u043f\u0440\u043e\u0442\u043e\u0444\u0440\u0435\u0439\u043c\u0430 \u041b\u044d\u0442\u0442\u0438.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/HexQuincyBobbleHead",
-            "name": "Noggle Statue - Quincy Isaacs",
-            "description": "A small wobbly statue of the protoframe Quincy.",
+            "name": "\u0421\u0442\u0430\u0442\u0443\u044d\u0442\u043a\u0430: \u041a\u0443\u0438\u043d\u0441\u0438 \u0410\u0439\u0437\u0435\u043a\u0441",
+            "description": "\u041d\u0435\u0431\u043e\u043b\u044c\u0448\u0430\u044f \u0444\u0438\u0433\u0443\u0440\u043a\u0430 \u043f\u0440\u043e\u0442\u043e\u0444\u0440\u0435\u0439\u043c\u0430 \u041a\u0443\u0438\u043d\u0441\u0438.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
             "excludeFromCodex": true

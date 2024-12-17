@@ -7550,7 +7550,7 @@
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/NewWar/LisetPropZarTechTablet",
             "name": "\u624e\u91cc\u66fc\u5e73\u677f\u7535\u8111",
-            "description": "\u4e3a\u5145\u6ee1\u62b1\u8d1f\u7684 Tau \u661f\u7403\u5f00\u62d3\u8005\u51c6\u5907\u7684\u901a\u7528\u5e73\u677f\u7535\u8111\u3002",
+            "description": "\u4e3a\u5145\u6ee1\u62b1\u8d1f\u7684 Tau \u661f\u7cfb\u5f00\u62d3\u8005\u51c6\u5907\u7684\u901a\u7528\u5e73\u677f\u7535\u8111\u3002",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
             "excludeFromCodex": true
