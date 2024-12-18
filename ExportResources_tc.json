@@ -338,8 +338,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Microphone",
-            "name": "\u958b\u6620<RETRO_TM>\u64ad\u97f3\u7cfb\u7d71",
-            "description": "\u958b\u6620<RETRO_TM>\u64ad\u97f3\u7cfb\u7d71\u8207\u7d55\u5927\u90e8\u5206\u7cfb\u7d71\u76f8\u5bb9\u3002\u642d\u914d\u53ef\u8abf\u7bc0\u7684\u97f3\u91cf\u7dda\u63a7\u5668\uff0c\u5373\u4f7f\u662f\u6700\u53eb\u4e0d\u52d5\u7684\u90e8\u968a\u4e5f\u90fd\u552f\u547d\u662f\u5f9e\u3002",
+            "name": "Kinemantik<RETRO_TM> Announce",
+            "description": "The Kinemantik<RETRO_TM> Announce is compatible with all major systems. With an adjustable in-line volume override, it is sure to muster even the most stubborn of troops.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
             "excludeFromCodex": true
@@ -499,7 +499,7 @@
         {
             "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Scooter",
             "name": "\u932b\u7dad\u62c9\u6a5f\u8eca<RETRO_TM>",
-            "description": "\u932b\u7dad\u62c9\u6a5f\u8eca<RETRO_TM>\u8207\u5176\u8f03\u5927\u578b\u7684\u539f\u62d3\u5bc6\u91cd\u6a5f\u76f8\u6bd4\u7a0d\u905c\u4e00\u7c4c\uff0c\u4f46\u8a2d\u8a08\u90a3\u6b3e\u5f37\u5927\u4e14\u77e5\u540d\u7684\u91cd\u6a5f\u80cc\u5f8c\u7684\u5de5\u7a0b\u5718\u968a\u4e0d\u907a\u9918\u529b\u5730\u8a2d\u8a08\u4e86\u9019\u6b3e\u5c0f\u5de7\u4e14\u9069\u5408\u5e02\u5340\u901a\u52e4\u7684\u8eca\u6b3e\uff01",
+            "description": "The ZeViLa Scooticle<RETRO_TM> might seem like it pales in comparison to its bigger sibling the Atomiccycle, but the engineers behind the powerful and popular motorcycle spared no expense when they designed its smaller, city-friendly sibling! ",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
             "excludeFromCodex": true

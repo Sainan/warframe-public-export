@@ -338,8 +338,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Microphone",
-            "name": "Tannoy Kinemantik<RETRO_TM>",
-            "description": "Tannoy \u0e41\u0e1a\u0e23\u0e19\u0e14\u0e4c Kinemantik<RETRO_TM> \u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e44\u0e14\u0e49\u0e01\u0e31\u0e1a\u0e23\u0e30\u0e1a\u0e1a\u0e2b\u0e25\u0e31\u0e01\u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14 \u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e1b\u0e23\u0e31\u0e1a\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e43\u0e19\u0e2a\u0e32\u0e22\u0e44\u0e14\u0e49 \u0e08\u0e36\u0e07\u0e21\u0e31\u0e48\u0e19\u0e43\u0e08\u0e44\u0e14\u0e49\u0e27\u0e48\u0e32\u0e08\u0e30\u0e43\u0e0a\u0e49\u0e2a\u0e48\u0e07\u0e40\u0e2a\u0e35\u0e22\u0e01\u0e40\u0e23\u0e35\u0e22\u0e01\u0e23\u0e27\u0e21\u0e15\u0e31\u0e27\u0e44\u0e14\u0e49\u0e41\u0e21\u0e49\u0e01\u0e31\u0e1a\u0e1e\u0e27\u0e01\u0e17\u0e35\u0e48\u0e14\u0e37\u0e49\u0e2d\u0e23\u0e31\u0e49\u0e19\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14",
+            "name": "Kinemantik<RETRO_TM> Announce",
+            "description": "The Kinemantik<RETRO_TM> Announce is compatible with all major systems. With an adjustable in-line volume override, it is sure to muster even the most stubborn of troops.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
             "excludeFromCodex": true
@@ -499,7 +499,7 @@
         {
             "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Scooter",
             "name": "Scooticle<RETRO_TM>",
-            "description": "ZeViLa Scooticle<RetroTM> \u0e2d\u0e32\u0e08\u0e14\u0e39\u0e18\u0e23\u0e23\u0e21\u0e14\u0e32\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e40\u0e17\u0e35\u0e22\u0e1a\u0e01\u0e31\u0e1a Atomicycle \u0e41\u0e15\u0e48\u0e17\u0e35\u0e21\u0e27\u0e34\u0e28\u0e27\u0e01\u0e23\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e39\u0e48\u0e40\u0e1a\u0e37\u0e49\u0e2d\u0e07\u0e2b\u0e25\u0e31\u0e07\u0e21\u0e2d\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e44\u0e0b\u0e04\u0e4c\u0e17\u0e35\u0e48\u0e17\u0e23\u0e07\u0e1e\u0e25\u0e31\u0e07\u0e41\u0e25\u0e30\u0e22\u0e2d\u0e14\u0e19\u0e34\u0e22\u0e21\u0e01\u0e47\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e25\u0e30\u0e40\u0e25\u0e22\u0e23\u0e32\u0e22\u0e25\u0e30\u0e40\u0e2d\u0e35\u0e22\u0e14\u0e17\u0e35\u0e48\u0e2a\u0e33\u0e04\u0e31\u0e0d\u0e43\u0e19\u0e01\u0e32\u0e23\u0e2d\u0e2d\u0e01\u0e41\u0e1a\u0e1a\u0e21\u0e2d\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e44\u0e0b\u0e04\u0e4c\u0e19\u0e49\u0e2d\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e40\u0e25\u0e47\u0e01\u0e01\u0e27\u0e48\u0e32\u0e41\u0e25\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e21\u0e34\u0e15\u0e23\u0e15\u0e48\u0e2d\u0e1c\u0e39\u0e49\u0e43\u0e0a\u0e49\u0e43\u0e19\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e04\u0e31\u0e19\u0e19\u0e35\u0e49 ",
+            "description": "The ZeViLa Scooticle<RETRO_TM> might seem like it pales in comparison to its bigger sibling the Atomiccycle, but the engineers behind the powerful and popular motorcycle spared no expense when they designed its smaller, city-friendly sibling! ",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
             "excludeFromCodex": true

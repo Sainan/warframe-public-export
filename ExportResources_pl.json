@@ -338,8 +338,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Microphone",
-            "name": "Kinemantik<RETRO_TM> Sprz\u0119t Tannoy",
-            "description": "Kinemantik<RETRO_TM> Tannoy jest kompatybilny ze wszystkimi g\u0142\u00f3wnymi systemami. Dzi\u0119ki regulowanej regulacji g\u0142o\u015bno\u015bci na linii, z pewno\u015bci\u0105 zmobilizuje nawet najbardziej upartych \u017co\u0142nierzy.",
+            "name": "Kinemantik<RETRO_TM> Announce",
+            "description": "The Kinemantik<RETRO_TM> Announce is compatible with all major systems. With an adjustable in-line volume override, it is sure to muster even the most stubborn of troops.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
             "excludeFromCodex": true
@@ -499,7 +499,7 @@
         {
             "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Scooter",
             "name": "Skootikle<RETRO_TM>",
-            "description": "Skootikle ZeViLa<RetroTM> mo\u017ce wygl\u0105da\u0107 mizernie w por\u00f3wnaniu do swojego wi\u0119kszego brata Atomicykla, ale in\u017cynierowie stoj\u0105cy za tym pot\u0119\u017cnym i popularnym motocyklem nie szcz\u0119dzili wydatk\u00f3w, projektuj\u0105c jego mniejsze, przyjazne dla miasta rodze\u0144stwo! ",
+            "description": "The ZeViLa Scooticle<RETRO_TM> might seem like it pales in comparison to its bigger sibling the Atomiccycle, but the engineers behind the powerful and popular motorcycle spared no expense when they designed its smaller, city-friendly sibling! ",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
             "excludeFromCodex": true

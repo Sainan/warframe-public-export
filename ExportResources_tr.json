@@ -338,8 +338,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Microphone",
-            "name": "Kinemantik<RETRO_TM> Hoparl\u00f6r",
-            "description": "Kinemantik<RETRO_TM> Hoparl\u00f6r t\u00fcm b\u00fcy\u00fck sistemlerle uyumludur. Ayarlanabilir hat i\u00e7i ses engelleme \u00f6zelli\u011fiyle en inat\u00e7\u0131 parazitleri bile giderece\u011finden emin olabilirsiniz.",
+            "name": "Kinemantik<RETRO_TM> Announce",
+            "description": "The Kinemantik<RETRO_TM> Announce is compatible with all major systems. With an adjustable in-line volume override, it is sure to muster even the most stubborn of troops.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
             "excludeFromCodex": true
@@ -499,7 +499,7 @@
         {
             "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Scooter",
             "name": "Scooticle<RETRO_TM>",
-            "description": "ZeViLa Scooticle<RetroTM>, daha b\u00fcy\u00fck karde\u015fi olan Atomisiklet ile kar\u015f\u0131la\u015ft\u0131r\u0131ld\u0131\u011f\u0131nda s\u00f6n\u00fck g\u00f6r\u00fcnebilir, ancak bu g\u00fc\u00e7l\u00fc ve pop\u00fcler motosikletin arkas\u0131ndaki m\u00fchendisler, daha k\u00fc\u00e7\u00fck ve \u015fehir dostu karde\u015fini tasarlarken hi\u00e7bir masraftan ka\u00e7\u0131nmad\u0131! ",
+            "description": "The ZeViLa Scooticle<RETRO_TM> might seem like it pales in comparison to its bigger sibling the Atomiccycle, but the engineers behind the powerful and popular motorcycle spared no expense when they designed its smaller, city-friendly sibling! ",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
             "excludeFromCodex": true

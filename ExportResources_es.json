@@ -338,8 +338,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Microphone",
-            "name": "Altavoces Kinemantik<RETRO_TM>",
-            "description": "Los altavoces Kinemantik<RETRO_TM> son compatibles con todos los sistemas principales. Gracias a su control de volumen en l\u00ednea ajustable, sin duda podr\u00e1 convocar incluso a las tropas m\u00e1s obstinadas.",
+            "name": "Kinemantik<RETRO_TM> Announce",
+            "description": "The Kinemantik<RETRO_TM> Announce is compatible with all major systems. With an adjustable in-line volume override, it is sure to muster even the most stubborn of troops.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
             "excludeFromCodex": true
@@ -499,7 +499,7 @@
         {
             "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Scooter",
             "name": "Scooticle<RETRO_TM>",
-            "description": "Puede que la Scooticle<RetroTM> de ZeViLa parezca insignificante en comparaci\u00f3n con su hermana mayor, la Atomicycle, pero los ingenieros detr\u00e1s de esta poderosa y popular motocicleta no escatimaron gastos cuando dise\u00f1aron su hermana m\u00e1s peque\u00f1a y apta para la ciudad. ",
+            "description": "The ZeViLa Scooticle<RETRO_TM> might seem like it pales in comparison to its bigger sibling the Atomiccycle, but the engineers behind the powerful and popular motorcycle spared no expense when they designed its smaller, city-friendly sibling! ",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
             "excludeFromCodex": true
