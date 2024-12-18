@@ -11339,48 +11339,48 @@
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/HexAmirBobbleHead",
-            "name": "Noggle Statue - Amir Beckett",
-            "description": "A small wobbly statue of the protoframe Amir.",
+            "name": "Statuetta Noggle - Amir Beckett",
+            "description": "Una statuetta del protoframe Amir con la testa tremolante.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/HexAoiBobbleHead",
-            "name": "Noggle Statue - Aoi Morohoshi",
-            "description": "A small wobbly statue of the protoframe Aoi.",
+            "name": "Statuetta Noggle - Aoi Morohoshi",
+            "description": "Una statuetta del protoframe Aoi con la testa tremolante.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/HexArthurBobbleHead",
-            "name": "Noggle Statue - Arthur Nightingale",
-            "description": "A small wobbly statue of the protoframe Arthur.",
+            "name": "Statuetta Noggle - Arthur Nightingale",
+            "description": "Una statuetta del protoframe Arthur con la testa tremolante.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/HexEleanorBobbleHead",
-            "name": "Noggle Statue - Eleanor Nightingale",
-            "description": "A small wobbly statue of the protoframe Eleanor.",
+            "name": "Statuetta Noggle - Eleanor Nightingale",
+            "description": "Una statuetta del protoframe Eleanor con la testa tremolante.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/HexLettieBobbleHead",
-            "name": "Noggle Statue - Lettie Garcia",
-            "description": "A small wobbly statue of the protoframe Lettie.",
+            "name": "Statuetta Noggle - Lettie Garcia",
+            "description": "Una statuetta del protoframe Lettie con la testa tremolante.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/HexQuincyBobbleHead",
-            "name": "Noggle Statue - Quincy Isaacs",
-            "description": "A small wobbly statue of the protoframe Quincy.",
+            "name": "Statuetta Noggle - Quincy Isaacs",
+            "description": "Una statuetta del protoframe Quincy con la testa tremolante.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
             "excludeFromCodex": true

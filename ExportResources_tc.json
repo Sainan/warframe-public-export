@@ -11339,48 +11339,48 @@
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/HexAmirBobbleHead",
-            "name": "Noggle Statue - Amir Beckett",
-            "description": "A small wobbly statue of the protoframe Amir.",
+            "name": "\u963f\u7c73\u723e\u30fb\u8c9d\u514b\u7279\u6416\u982d\u5a03\u5a03",
+            "description": "\u4e00\u5c0f\u5ea7\u539f\u578b Warframe\u2500\u2500\u963f\u7c73\u723e\u30fb\u8c9d\u514b\u7279\u7684\u6416\u982d\u5a03\u5a03\u3002",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/HexAoiBobbleHead",
-            "name": "Noggle Statue - Aoi Morohoshi",
-            "description": "A small wobbly statue of the protoframe Aoi.",
+            "name": "\u8af8\u661f\u30fb\u8475\u6416\u982d\u5a03\u5a03",
+            "description": "\u4e00\u5c0f\u5ea7\u539f\u578b Warframe\u2500\u2500\u8af8\u661f\u30fb\u8475\u7684\u6416\u982d\u5a03\u5a03\u3002",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/HexArthurBobbleHead",
-            "name": "Noggle Statue - Arthur Nightingale",
-            "description": "A small wobbly statue of the protoframe Arthur.",
+            "name": "\u4e9e\u745f\u30fb\u5357\u4e01\u683c\u723e\u6416\u982d\u5a03\u5a03",
+            "description": "\u4e00\u5c0f\u5ea7\u539f\u578b Warframe\u2500\u2500\u4e9e\u745f\u30fb\u5357\u4e01\u683c\u723e\u7684\u6416\u982d\u5a03\u5a03\u3002",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/HexEleanorBobbleHead",
-            "name": "Noggle Statue - Eleanor Nightingale",
-            "description": "A small wobbly statue of the protoframe Eleanor.",
+            "name": "\u611b\u7433\u5a1c\u30fb\u5357\u4e01\u683c\u723e\u6416\u982d\u5a03\u5a03",
+            "description": "\u4e00\u5c0f\u5ea7\u539f\u578b Warframe\u2500\u2500\u611b\u7433\u5a1c\u30fb\u5357\u4e01\u683c\u723e\u7684\u6416\u982d\u5a03\u5a03\u3002",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/HexLettieBobbleHead",
-            "name": "Noggle Statue - Lettie Garcia",
-            "description": "A small wobbly statue of the protoframe Lettie.",
+            "name": "\u8389\u8482\u30fb\u52a0\u897f\u4e9e\u6416\u982d\u5a03\u5a03",
+            "description": "\u4e00\u5c0f\u5ea7\u539f\u578b Warframe\u2500\u2500\u8389\u8482\u30fb\u52a0\u897f\u4e9e\u7684\u6416\u982d\u5a03\u5a03\u3002",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
             "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/HexQuincyBobbleHead",
-            "name": "Noggle Statue - Quincy Isaacs",
-            "description": "A small wobbly statue of the protoframe Quincy.",
+            "name": "\u5d11\u897f\u30fb\u4ee5\u6492\u6416\u982d\u5a03\u5a03",
+            "description": "\u4e00\u5c0f\u5ea7\u539f\u578b Warframe\u2500\u2500\u5d11\u897f\u30fb\u4ee5\u6492\u7684\u6416\u982d\u5a03\u5a03\u3002",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
             "excludeFromCodex": true
