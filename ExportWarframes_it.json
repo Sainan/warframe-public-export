@@ -1002,12 +1002,12 @@
             "codexSecret": false,
             "masteryReq": 0,
             "sprintSpeed": 1.4,
-            "passiveDescription": "Lo spostamento genera una corrente elettrica che riempie la batteria di Gauss. Gli scudi si ricaricano fino a |SPEED|% pi\u00f9 veloce mentre il Ritardo di Ricarica \u00e8 fino a |DELAY|% pi\u00f9 breve, in base al livello della batteria.",
+            "passiveDescription": "Muoversi genera una corrente elettrica che riempie la batteria di Gauss. Gli scudi si ricaricano fino al |SPEED|% pi\u00f9 velocemente mentre il tempo di Ricarica \u00e8 ridotto del |DELAY|%, in base al livello della batteria.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RunnerRushAbility",
                     "abilityName": "Mach Rush",
-                    "description": "Prorompi in un scatto super veloce per sbaragliare i nemici e caricare la batteria, o schiantanti contro oggetti solidi per generare una potente onda d'urto. Mantieni attiva l'abilit\u00e0 per correre continuamente."
+                    "description": "Prorompi in un scatto super veloce per sbaragliare i nemici e caricare la batteria, o schiantati contro oggetti solidi per generare una potente onda d'urto. Tieni premuto il pulsante dell'abilit\u00e0 per correre continuamente."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RunnerPlatingAbility",
@@ -1017,7 +1017,7 @@
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RunnerTransferAbility",
                     "abilityName": "Thermal Sunder",
-                    "description": "Estrae l'energia cinetica proveniente dall'area caricando la batteria e applica l'<DT_FREEZE_COLOR>effetto Ghiaccio ai nemici vicini. Viceversa, rilasciando l'energia scaricando la batteria applica l'<DT_FIRE_COLOR>effetto Fuoco ai nemici vicini."
+                    "description": "Estrae l'energia cinetica proveniente dall'area caricando la batteria e applica l'Effetto <DT_FREEZE_COLOR>Ghiaccio ai nemici vicini. Viceversa, rilasciando l'energia scaricando la batteria applica l'Effetto <DT_FIRE_COLOR>Fuoco ai nemici vicini."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RunnerRedlineAbility",
@@ -1040,12 +1040,12 @@
             "codexSecret": false,
             "masteryReq": 0,
             "sprintSpeed": 1.5,
-            "passiveDescription": "Lo spostamento genera una corrente elettrica che riempie la batteria di Gauss. Gli scudi si ricaricano fino a |SPEED|% pi\u00f9 veloce mentre il Ritardo di Ricarica \u00e8 fino a |DELAY|% pi\u00f9 breve, in base al livello della batteria.",
+            "passiveDescription": "Muoversi genera una corrente elettrica che riempie la batteria di Gauss. Gli scudi si ricaricano fino al |SPEED|% pi\u00f9 velocemente mentre il tempo di Ricarica \u00e8 ridotto del |DELAY|%, in base al livello della batteria.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RunnerRushAbility",
                     "abilityName": "Mach Rush",
-                    "description": "Prorompi in un scatto super veloce per sbaragliare i nemici e caricare la batteria, o schiantanti contro oggetti solidi per generare una potente onda d'urto. Mantieni attiva l'abilit\u00e0 per correre continuamente."
+                    "description": "Prorompi in un scatto super veloce per sbaragliare i nemici e caricare la batteria, o schiantati contro oggetti solidi per generare una potente onda d'urto. Tieni premuto il pulsante dell'abilit\u00e0 per correre continuamente."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RunnerPlatingAbility",
@@ -1055,7 +1055,7 @@
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RunnerTransferAbility",
                     "abilityName": "Thermal Sunder",
-                    "description": "Estrae l'energia cinetica proveniente dall'area caricando la batteria e applica l'<DT_FREEZE_COLOR>effetto Ghiaccio ai nemici vicini. Viceversa, rilasciando l'energia scaricando la batteria applica l'<DT_FIRE_COLOR>effetto Fuoco ai nemici vicini."
+                    "description": "Estrae l'energia cinetica proveniente dall'area caricando la batteria e applica l'Effetto <DT_FREEZE_COLOR>Ghiaccio ai nemici vicini. Viceversa, rilasciando l'energia scaricando la batteria applica l'Effetto <DT_FIRE_COLOR>Fuoco ai nemici vicini."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RunnerRedlineAbility",
@@ -3027,7 +3027,7 @@
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusScanAbility",
                     "abilityName": "Seek",
-                    "description": "Piazza un'antenna che effettuer\u00e0 una scansione di fronte a s\u00e9. I nemici rilevati subiscono Danno da Punto Debole aumentato e diventano visibili attraverso i muri. Conferisce inoltre Attraversamento alle armi."
+                    "description": "Piazza un'antenna che effettuer\u00e0 una scansione di fronte a s\u00e9. I nemici rilevati diventano pi\u00f9 vulnerabili ai Danni da Punto Debole e sono visibili attraverso i muri. Conferisce inoltre Attraversamento alle armi."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FrumentariusAmmoAbility",
@@ -3060,7 +3060,7 @@
             "codexSecret": false,
             "masteryReq": 0,
             "sprintSpeed": 0.94999999,
-            "passiveDescription": "La durata degli Effetti Ghiaccio delle abilit\u00e0 di Frost \u00e8 aumentata del |DURATION|%. Frost guadagna |ARMOR| Armatura per nemico a cui \u00e8 stato inflitto l'Effetto <DT_FREEZE_COLOR>Ghiaccio entro |RADIUS|m.",
+            "passiveDescription": "Cold Status Effects from Frost's Abilities last |DURATION|% longer. Frost gains |ARMOR| Armor for each enemy afflicted with <DT_FREEZE_COLOR>Cold within <AFFINITY_SHARE>Affinity Range.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/IcicleAbility",
@@ -3098,7 +3098,7 @@
             "codexSecret": false,
             "masteryReq": 0,
             "sprintSpeed": 0.94999999,
-            "passiveDescription": "La durata degli Effetti Ghiaccio delle abilit\u00e0 di Frost \u00e8 aumentata del |DURATION|%. Frost guadagna |ARMOR| Armatura per nemico a cui \u00e8 stato inflitto l'Effetto <DT_FREEZE_COLOR>Ghiaccio entro |RADIUS|m.",
+            "passiveDescription": "Cold Status Effects from Frost's Abilities last |DURATION|% longer. Frost gains |ARMOR| Armor for each enemy afflicted with <DT_FREEZE_COLOR>Cold within <AFFINITY_SHARE>Affinity Range.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/IcicleAbility",
@@ -3155,7 +3155,7 @@
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FairyLightAbility",
                     "abilityName": "Lantern",
-                    "description": "Crea uno sciame di razorflies per trasformare un nemico in una irresistibile esca galleggiante, attraendo sciocchi camerati ed infine esplodendo a comando."
+                    "description": "Crea uno sciame di razorflies per trasformare un nemico in una irresistibile esca galleggiante, attirando l'attenzione dei suoi alleati prima di esplodere a comando."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FairyFlightAbility",
@@ -3197,7 +3197,7 @@
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FairyLightAbility",
                     "abilityName": "Lantern",
-                    "description": "Crea uno sciame di razorflies per trasformare un nemico in una irresistibile esca galleggiante, attraendo sciocchi camerati ed infine esplodendo a comando."
+                    "description": "Crea uno sciame di razorflies per trasformare un nemico in una irresistibile esca galleggiante, attirando l'attenzione dei suoi alleati prima di esplodere a comando."
                 },
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FairyFlightAbility",
@@ -3386,7 +3386,7 @@
             "masteryReq": 0,
             "longDescription": "Tre figure aspettavano dietro ad un semplice tavolo. La loro attenzione su di una singola sedia, immersa nella luce. La voce di una vecchia donna dall'ombra: 'Mandatela dentro'. Dall'altra parte della stanza, un funzionario di sicurezza, severo, apr\u00ec la porta. Il profilo di una giovane donna apparve alla porta. Esit\u00f2, ma solo per un istante, poi attravers\u00f2 la stanza e si sedette.\r\n\r\nCi fu un sospiro quando la luce illumin\u00f2 la sua faccia. Il suo occhio destro era chiaro e lampeggiante, ma il suo sinistro era squarciato. La sua pelle era bruciata. La sua bocca era un taglio cadente senza labbra o espressione. Il suo berretto militare era attillato sopra uno scalpo sfregiato e senza capelli.\r\n\r\nLa vecchia voce: 'Il tuo nome \u00e8 Kaleen.' Kaleen fece un cenno col capo. 'Eri la principale investigatrice della Zariman?' La voce di Kaleen fu un sussurro tagliente, la faccia rigida. 'Si'.\r\n\r\nKaleen toss\u00ec, si raddrizz\u00f2: 'La Zariman \u00e8 andata perduta nella piega da Saturno ai cancelli Esterni. Guasto meccanico. Ho informato le famiglie e preparato il verbale con gli ispettori. Nulla torna mai dalla piega, quindi ho chiuso il caso.'\r\n\r\n'Ma hai riaperto il caso, giorni dopo.'\r\n\r\n'Non ci credevo finch\u00e9 non ho messo piede a bordo della nave. Era completamente intatta, tutto operativo, come se non se ne fosse mai andata.'\r\n\r\n'E la ciurma era sparita.'\r\n\r\n'Non esattamente.' Kaleen esit\u00f2. 'Pensavamo che fosse vuota ma abbiamo iniziato a trovare...' La sua faccia si contorse al ricordo del dolore, 'Abbiamo iniziato a trovare bambini nascosti nella nave.'\r\n\r\n'\u00c8 stato allora che hai violato la procedura?'\r\n\r\nKaleen pieg\u00f2 la testa, una lacrima apparve nel suo occhio cieco. 'Erano bambini. Erano spaventati. Avevano bisogno di conforto.'\r\n\r\n'Quindi hai rotto la quarantena e questo \u00e8 ci\u00f2 che ti \u00e8 successo.'\r\n\r\nCi fu silenzio quando Kaleen si tocc\u00f2 la faccia, 'Cosa ne avete fatto?'\r\n\r\nLa vecchia donna fece cenno al funzionario di portare via Kaleen. L'incontro era finito. Quando Kaleen raggiunse la porta si liber\u00f2 dalla sua presa e replic\u00f2, 'Perch\u00e9 l'avete fatto? Perch\u00e9 avete messo bambini su una nave militare?'\r\n\r\n'Non l'abbiamo fatto. Avrebbe violato la procedura.'",
             "sprintSpeed": 1.1,
-            "passiveDescription": "Riceve |STRENGTH|% Potenza Abilit\u00e0 per ogni nemico entro |RANGE|m affetto dall'Effetto <DT_FIRE_COLOR>Fuoco.",
+            "passiveDescription": "Receive |STRENGTH|% Ability Strength for every enemy within <AFFINITY_SHARE>Affinity Range affected by <DT_FIRE_COLOR>Heat.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FireBallAbility",

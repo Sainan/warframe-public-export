@@ -2190,6 +2190,13 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LNY2025SnakeEmote",
+            "name": "\ub8e8\ub098 \ub9ac\ub274\uc5bc \uc2a4\ub124\uc774\ud06c \ud50c\ub7ec\ub9ac\uc26c",
+            "description": "\uc74c\ub825 \uc124\uc744 \uc54c\ub9ac\ub294 \uc6c5\uc7a5\ud55c \ubab8\uc9d3\uc785\ub2c8\ub2e4.",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/Emotes/LeftHeartEmote",
             "name": "\uc5d0\ub85c\uc2a4\uc758 \uc67c\uc190",
             "description": "\ub450 \uac1c\uc758 \ubc18\ucabd\uc774 \ub9cc\ub098 \ud558\ub098\ub97c \uc774\ub8f9\ub2c8\ub2e4. \uc774 \uac10\uc815 \ud45c\ud604\uc73c\ub85c \ub2e4\ub978 \ud150\ub178\uac00 \ud45c\ud604\ud558\ub294 \uc5d0\ub85c\uc2a4\uc758 \uc624\ub978\uc190\uacfc \ud568\uaed8 \ud558\ud2b8\ub97c \ub9cc\ub4e4\uc5b4 \ubcf4\uc138\uc694.",
@@ -5565,13 +5572,15 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphA",
             "name": "\uae30\ube59 \uc2a4\ub124\uc774\ud06c \uae00\ub9ac\ud504",
             "description": "\ud504\ub85c\ud544\uc744 \uc704\ud55c \uae00\ub9ac\ud504\uc785\ub2c8\ub2e4.",
-            "codexSecret": false
+            "codexSecret": false,
+            "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphB",
             "name": "\uc744\uc0ac \uae00\ub9ac\ud504",
             "description": "\ud504\ub85c\ud544\uc744 \uc704\ud55c \uae00\ub9ac\ud504\uc785\ub2c8\ub2e4.",
-            "codexSecret": false
+            "codexSecret": false,
+            "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageChillingGlyphFour",
@@ -7859,7 +7868,7 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumJade",
             "name": "\ucee4\ubba4\ub2c8\ud2f0 \ud150\ub178\ubc14\uc6c0 \uc81c\uc774\ub4dc \uae00\ub9ac\ud504",
-            "description": "alcyonsa\uac00 \uc81c\uc791\ud55c, \uc2a4\ub178\uc6b0 \uc564\uc824\uc744 \ub9cc\ub4dc\ub294 \uc81c\uc774\ub4dc\ub97c \ubb18\uc0ac\ud55c \uae00\ub9ac\ud504\uc785\ub2c8\ub2e4.",
+            "description": "alcyonsa\uac00 \uc81c\uc791\ud55c, \ub208 \ucc9c\uc0ac\ub97c \ub9cc\ub4dc\ub294 \uc81c\uc774\ub4dc\ub97c \ubb18\uc0ac\ud55c \uae00\ub9ac\ud504\uc785\ub2c8\ub2e4.",
             "codexSecret": true
         },
         {
@@ -9474,7 +9483,7 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLimboPrimeDark",
             "name": "\ub9bc\ubcf4 \ud504\ub77c\uc784 \uae00\ub9ac\ud504 - \uc5b4\ub450\uc6c0",
-            "description": "\uc5b4\ub450\uc6b4 \ubc30\uacbd\uc744 \ub4f1\uc9c0\uace0 \uc788\ub294 \ubc34\uc26c \ud504\ub77c\uc784\uc744 \ubb18\uc0ac\ud55c \uae00\ub9ac\ud504\uc785\ub2c8\ub2e4.",
+            "description": "\uc5b4\ub450\uc6b4 \ubc30\uacbd\uc744 \ub4f1\uc9c0\uace0 \uc788\ub294 \ub9bc\ubcf4 \ud504\ub77c\uc784\uc744 \ubb18\uc0ac\ud55c \uae00\ub9ac\ud504\uc785\ub2c8\ub2e4.",
             "codexSecret": true
         },
         {

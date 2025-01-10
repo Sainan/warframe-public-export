@@ -4311,6 +4311,13 @@
             "description": "Esta Armadura decorativa foi forjada para os Kavats da realeza das Rainhas Grineer."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/Armor/LNYKavatBoltorArmor",
+            "name": "Armadura de Kavat: Moondance",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Prepare your Kavat for a dance of Lunar Renewal revelry."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/Armor/RevenantKavatArmor",
             "name": "Armadura de Kavat: Kasha",
             "codexSecret": false,
@@ -6553,6 +6560,13 @@
             "description": "O esp\u00edrito de um drag\u00e3o agracia seu caminho."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Effects/LNYStonesEphemera",
+            "name": "Heaven Stones Ephemera",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Step lightly with stones that could mend the very fabric of the heavens."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Effects/LotusFlowers",
             "name": "Ef\u00eamera: L\u00f3tus",
             "codexSecret": false,
@@ -8690,6 +8704,20 @@
             "name": "Mirage: Skin Oneiro",
             "codexSecret": false,
             "description": "Dance atrav\u00e9s dos sonhos sombrios com esta Skin luxuosa inspirada no Arlequim. "
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MirageLunarNewYearHelmet",
+            "name": "Mirage Nuwa Helmet",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Mirage Nuwa's signature helmet."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MirageLunarNewYearSkin",
+            "name": "Mirage Nuwa Skin",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Embody the essence of creation and restoration with this divine, serpentine look."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MiragePrimeHelmet",
@@ -10949,6 +10977,7 @@
             "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/CNY2025ScytheSkin",
             "name": "Hespar: Skin Lunaeus",
             "codexSecret": false,
+            "excludeFromCodex": true,
             "description": "Ataque com precis\u00e3o e prosperidade ao utilizar esta Skin para a Hespar."
         },
         {
@@ -10968,6 +10997,13 @@
             "name": "Ogris: Skin Lunaeus",
             "codexSecret": false,
             "description": "Atraia a prosperidade para o campo de batalha com esta Skin para a Ogris."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/LNY2025BoltorSkin",
+            "name": "Boltor Lunaeus Skin",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Transform in the crucible of battle with this skin for the Boltor."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/LNYHookSword",
@@ -11543,6 +11579,13 @@
             "name": "Sugatra da Carpa da Renova\u00e7\u00e3o Lunar",
             "codexSecret": false,
             "description": "Uma decora\u00e7\u00e3o para armas na forma de duas carpas em c\u00edrculo."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/LNYSnakeMeleeDangle",
+            "name": "Cordmade Sugatra",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "In this Sugatra, the elegant serpent weaves itself through gold like a sacred cord."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/LimboDeluxeDangle",
@@ -18690,7 +18733,7 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Scarves/GaussDeluxeCape",
-            "name": "Syandana Bolide",
+            "name": "Syandana: Bolide",
             "codexSecret": false,
             "description": "A Syandana tradicional do Gauss Kresnik, a prova que ele pode suportar o calor."
         },

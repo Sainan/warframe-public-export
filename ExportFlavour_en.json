@@ -2190,6 +2190,13 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LNY2025SnakeEmote",
+            "name": "Lunar Renewal Snake Flourish",
+            "description": "A noble reminder of Lunar Renewal.",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/Emotes/LeftHeartEmote",
             "name": "Left Hand of Eros",
             "description": "Two halves make a whole. Perform this emote with another Tenno's Right Hand of Eros to form a heart.",
@@ -5565,13 +5572,15 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphA",
             "name": "Giving Snake Glyph",
             "description": "A Glyph for your profile.",
-            "codexSecret": false
+            "codexSecret": false,
+            "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphB",
             "name": "Yisi Glyph",
             "description": "A Glyph for your profile.",
-            "codexSecret": false
+            "codexSecret": false,
+            "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageChillingGlyphFour",

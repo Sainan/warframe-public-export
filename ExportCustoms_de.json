@@ -4311,6 +4311,13 @@
             "description": "Eine dekorative R\u00fcstung, welche f\u00fcr die majest\u00e4tischen Kavats der K\u00f6niginnen geschmiedet wurde."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/Armor/LNYKavatBoltorArmor",
+            "name": "Kavat-R\u00fcstung: Mondtanz",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Prepare your Kavat for a dance of Lunar Renewal revelry."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/Armor/RevenantKavatArmor",
             "name": "Kavat-R\u00fcstung: Kasha",
             "codexSecret": false,
@@ -6553,6 +6560,13 @@
             "description": "Der Geist eines Drachens ziert deinen Weg."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Effects/LNYStonesEphemera",
+            "name": "Heaven Stones Ephemera",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Step lightly with stones that could mend the very fabric of the heavens."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Effects/LotusFlowers",
             "name": "Ephemera: Lotus",
             "codexSecret": false,
@@ -8690,6 +8704,20 @@
             "name": "Mirage-Skin: Oneiro",
             "codexSecret": false,
             "description": "Tanze durch dunkle Tr\u00e4ume mit diesem schelmischen, von Harlequin inspirierten, Delux-Skin."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MirageLunarNewYearHelmet",
+            "name": "Mirage Nuwa Helmet",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Mirage Nuwa's signature helmet."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MirageLunarNewYearSkin",
+            "name": "Mirage Nuwa Skin",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Embody the essence of creation and restoration with this divine, serpentine look."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MiragePrimeHelmet",
@@ -10949,6 +10977,7 @@
             "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/CNY2025ScytheSkin",
             "name": "Hespar-Skin: Lunaeus",
             "codexSecret": false,
+            "excludeFromCodex": true,
             "description": "Schlage zu, wenn Pr\u00e4zision und Wohlstand auf deiner Seite sind, wenn du diesen Hespar-Skin ausr\u00fcstest."
         },
         {
@@ -10968,6 +10997,13 @@
             "name": "Ogris-Skin: Lunaeus",
             "codexSecret": false,
             "description": "Bringe mit diesem Ogris-Skin Wohlstand auf das Schlachtfeld."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/LNY2025BoltorSkin",
+            "name": "Boltor Lunaeus Skin",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Transform in the crucible of battle with this skin for the Boltor."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/LNYHookSword",
@@ -11545,6 +11581,13 @@
             "description": "Eine Waffendekoration in Form von zwei kreisenden Karpfen."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/LNYSnakeMeleeDangle",
+            "name": "Cordmade Sugatra",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "In this Sugatra, the elegant serpent weaves itself through gold like a sacred cord."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/LimboDeluxeDangle",
             "name": "Interga Sugatra",
             "codexSecret": false,
@@ -11881,68 +11924,68 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleColourShiftSkin",
-            "name": "Dichrom-Lackierung",
+            "name": "Lackierung: Dichrom",
             "codexSecret": false,
             "description": "Eine farbwechselnde Lackierung f\u00fcr das Atomkrad."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleDefaultSkin",
-            "name": "Standard-Lackierung",
+            "name": "Lackierung: Standard",
             "codexSecret": false,
             "excludeFromCodex": true,
             "description": "Die werkseitig erstellte Lackierung des Atomkrads."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleFlamesSkin",
-            "name": "Korrosivkern-Lackierung",
+            "name": "Lackierung: Korrosivkern",
             "codexSecret": false,
             "description": "Gr\u00fcne Flammen tanzen \u00fcber diese Atomkrad-Lackierung."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleGraffitiSkin",
-            "name": "Stadtgraffiti-Lackierung",
+            "name": "Lackierung: Stadtgraffiti",
             "codexSecret": false,
             "description": "Repr\u00e4sentiere die Stra\u00dfen mit dieser Graffiti-inspirierten Lackierung."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleLightsSkin",
-            "name": "Neonlicht-Lackierung",
+            "name": "Lackierung: Neonlichter",
             "codexSecret": false,
             "description": "Neonstreifen erhellen diese elegante Atomkrad-Lackierung."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleMedicSkin",
-            "name": "Rasendsani-Lackierung",
+            "name": "Lackierung: Rasendsani",
             "codexSecret": false,
             "description": "Sei als Erster vor Ort mit dieser von Medizinern inspirierten Atomkrad-Lackierung."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleMonsterSkin",
-            "name": "Barrakuda-Lackierung",
+            "name": "Lackierung: Barrakuda",
             "codexSecret": false,
             "description": "Individualisiere dein Atomkrad mit dieser uners\u00e4ttlichen Lackierung."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleNakedBikeSkin",
-            "name": "Cafe Racer-Lackierung",
+            "name": "Lackierung: Cafe Racer",
             "codexSecret": false,
             "description": "Abgespeckt und aufgemotzt ist diese Lackierung bereit f\u00fcr ein Stra\u00dfenrennen. "
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleRacingSkin",
-            "name": "Ziellinie-Lackierung",
+            "name": "Lackierung: Ziellinie",
             "codexSecret": false,
             "description": "Eine vom Rennsport inspirierte Lackierung f\u00fcr das Atomkrad."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleRustSkin",
-            "name": "Rostlaube-Lackierung",
+            "name": "Lackierung: Rostlaube",
             "codexSecret": false,
             "description": "Kratzer bedeuten dieser groben und schnittigen Atomkrad-Lackierung nichts."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleTennoSkin",
-            "name": "Monostern-Lackierung",
+            "name": "Lackierung: Monostern",
             "codexSecret": false,
             "description": "Ein Atomkrad au\u00dferhalb der Zeit."
         },

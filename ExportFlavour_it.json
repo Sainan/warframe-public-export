@@ -2190,6 +2190,13 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LNY2025SnakeEmote",
+            "name": "Emote - Serpente Rinnovo Lunare",
+            "description": "Un nobile promemoria del Rinnovo Lunare.",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/Emotes/LeftHeartEmote",
             "name": "Mano Sinistra di Eros",
             "description": "Due met\u00e0 formano un intero. Esegui questa emote con la Mano Destra di Eros di un altro Tenno per formare un cuore.",
@@ -5565,13 +5572,15 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphA",
             "name": "Glifo Giving Snake",
             "description": "Un Glifo per il tuo profilo.",
-            "codexSecret": false
+            "codexSecret": false,
+            "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphB",
             "name": "Glifo Yisi",
             "description": "Un Glifo per il tuo profilo.",
-            "codexSecret": false
+            "codexSecret": false,
+            "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageChillingGlyphFour",

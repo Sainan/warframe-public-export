@@ -2190,6 +2190,13 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LNY2025SnakeEmote",
+            "name": "Floreio da Renova\u00e7\u00e3o Lunar da Serpente",
+            "description": "Uma nobre recorda\u00e7\u00e3o da Renova\u00e7\u00e3o Lunar.",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/Emotes/LeftHeartEmote",
             "name": "M\u00e3o Esquerda de Eros",
             "description": "Duas metades fazem um todo. Execute este Emote com a M\u00e3o Direita de Eros de outro Tenno para formar um cora\u00e7\u00e3o.",
@@ -5565,13 +5572,15 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphA",
             "name": "Glifo: Serpente da Caridade",
             "description": "Um glifo para o seu perfil.",
-            "codexSecret": false
+            "codexSecret": false,
+            "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphB",
             "name": "Glifo: Yisi",
             "description": "Um glifo para o seu perfil.",
-            "codexSecret": false
+            "codexSecret": false,
+            "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageChillingGlyphFour",
@@ -6269,19 +6278,19 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAmirAccoladeGlyph",
             "name": "Glifo: Ins\u00edgnia do Amir",
-            "description": "Um glifo representando um feito de for\u00e7a, criado pelo artista Carl Tabora.",
+            "description": "Um glifo representando um feito de for\u00e7a, desenvolvido por Carl Tabora.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageAoiAccoladeGlyph",
             "name": "Glifo: Ins\u00edgnia da Aoi",
-            "description": "Um glifo representando um feito de for\u00e7a, criado pelo artista Carl Tabora.",
+            "description": "Um glifo representando um feito de for\u00e7a, desenvolvido por Carl Tabora.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageArthurAccoladeGlyph",
             "name": "Glifo: Ins\u00edgnia do Arthur",
-            "description": "Um glifo representando um feito de for\u00e7a, criado pelo artista Carl Tabora.",
+            "description": "Um glifo representando um feito de for\u00e7a, desenvolvido por Carl Tabora.",
             "codexSecret": true
         },
         {
@@ -6390,7 +6399,7 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityCaliban",
             "name": "Glifo: Caliban (Comunidade)",
-            "description": "Um glifo da Comunidade retratando o Caliban, criado pelo artista LeoDoodling.",
+            "description": "Um glifo da Comunidade retratando o Caliban, desenvolvido por LeoDoodling.",
             "codexSecret": true
         },
         {
@@ -6402,7 +6411,7 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityChroma",
             "name": "Glifo: Chroma (Comunidade)",
-            "description": "Um glifo da comunidade retratando o Chroma, criado pelo artista StudioCyen.",
+            "description": "Um glifo da comunidade retratando o Chroma, desenvolvido por StudioCyen.",
             "codexSecret": true
         },
         {
@@ -6414,31 +6423,31 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityDagath",
             "name": "Glifo: Dagath (Comunidade)",
-            "description": "Um glifo da Comunidade retratando a Dagath, criado pelo artista Zarionis.",
+            "description": "Um glifo da Comunidade retratando a Dagath, desenvolvido por Zarionis.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityEquinox",
             "name": "Glifo: Equinox (Comunidade)",
-            "description": "Um glifo da Comunidade retratando a Equinox, criado pelo artista CalamityDeath.",
+            "description": "Um glifo da Comunidade retratando a Equinox, desenvolvido por CalamityDeath.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityGaruda",
             "name": "Glifo: Garuda (Comunidade)",
-            "description": "Um glifo da Comunidade retratando a Garuda, criado pelo artista ibumuc.",
+            "description": "Um glifo da Comunidade retratando a Garuda, desenvolvido por ibumuc.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityHarrow",
             "name": "Glifo: Harrow (Comunidade)",
-            "description": "Um glifo da Comunidade retratando o Harrow, criado pelo artista Endquar.",
+            "description": "Um glifo da Comunidade retratando o Harrow, desenvolvido por Endquar.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityKullervo",
             "name": "Glifo: Kullervo (Comunidade)",
-            "description": "Um glifo da Comunidade retratando o Kullervo, criado pelo artista UpsideDownSmore.",
+            "description": "Um glifo da Comunidade retratando o Kullervo, desenvolvido por UpsideDownSmore.",
             "codexSecret": true
         },
         {
@@ -6456,13 +6465,13 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityQorvex",
             "name": "Glifo: Qorvex (Comunidade)",
-            "description": "Um glifo da Comunidade retratando o Qorvex, criado pelo artista Veroz.",
+            "description": "Um glifo da Comunidade retratando o Qorvex, desenvolvido por Veroz.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityRevenant",
             "name": "Glifo: Revenant (Comunidade)",
-            "description": "Um glifo da Comunidade retratando o Revenant, criado pelo artista Kirdy.",
+            "description": "Um glifo da Comunidade retratando o Revenant, desenvolvido por Kirdy.",
             "codexSecret": true
         },
         {
@@ -6516,7 +6525,7 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCommunityTitania",
             "name": "Glifo: Titania (Comunidade)",
-            "description": "Um glifo da Comunidade retratando a Titania, criado pelo artista Ritens.",
+            "description": "Um glifo da Comunidade retratando a Titania, desenvolvido por Ritens.",
             "codexSecret": true
         },
         {
@@ -6528,19 +6537,19 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageConqueraGlyphVI",
             "name": "Glifo: Conquera VI",
-            "description": "Um glifo para o seu perfil, criado pelo artista OHHONO.",
+            "description": "Um glifo para o seu perfil, desenvolvido por OHHONO.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageConqueraGlyphVII",
             "name": "Glifo: Conquera VII",
-            "description": "Um glifo para o seu perfil, criado pelo artista OHHONO.",
+            "description": "Um glifo para o seu perfil, desenvolvido por OHHONO.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageConqueraOrdis",
             "name": "Glifo: Ordis Conquera",
-            "description": "Um glifo para o seu perfil, criado pelo artista OHHONO.",
+            "description": "Um glifo para o seu perfil, desenvolvido por OHHONO.",
             "codexSecret": true
         },
         {
@@ -6654,7 +6663,7 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDJRoMGlyph",
             "name": "Glifo: DJ RoMeu da On-lyne (Comunidade)",
-            "description": "Um glifo da Comunidade retratando o membro da On-lyne, DJ RoMeu, criado pelo artista death_ma666ots.",
+            "description": "Um glifo da Comunidade retratando o membro da On-lyne, DJ RoMeu, desenvolvido por death_ma666ots.",
             "codexSecret": true
         },
         {
@@ -6679,7 +6688,7 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDrillbitGlyph",
             "name": "Glifo: Broca da On-lyne (Comunidade)",
-            "description": "Um glifo da Comunidade retratando o membro da On-lyne, Broca, criado pelo artista death_ma666ots.",
+            "description": "Um glifo da Comunidade retratando o membro da On-lyne, Broca, desenvolvido por death_ma666ots.",
             "codexSecret": true
         },
         {
@@ -6692,7 +6701,7 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageEleanorAccoladeGlyph",
             "name": "Glifo: Ins\u00edgnia da Eleanor",
-            "description": "Um glifo representando um feito de for\u00e7a, criado pelo artista Carl Tabora.",
+            "description": "Um glifo representando um feito de for\u00e7a, desenvolvido por Carl Tabora.",
             "codexSecret": true
         },
         {
@@ -6790,7 +6799,7 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGaussAccoladeGlyph",
             "name": "Glifo: Ins\u00edgnia do Gauss",
-            "description": "Um glifo da comunidade representando um feito de for\u00e7a, criado pelo artista Anavi_Ivy.",
+            "description": "Um glifo da comunidade representando um feito de for\u00e7a, desenvolvido por Anavi_Ivy.",
             "codexSecret": true
         },
         {
@@ -7282,7 +7291,7 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageHarddriveGlyph",
             "name": "Glifo: HD da On-lyne (Comunidade)",
-            "description": "Um glifo da Comunidade retratando o membro da On-lyne, HD, criado pelo artista death_ma666ots.",
+            "description": "Um glifo da Comunidade retratando o membro da On-lyne, HD, desenvolvido por death_ma666ots.",
             "codexSecret": true
         },
         {
@@ -7313,37 +7322,37 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedDJRoMGlyph",
             "name": "Glifo: DJ RoMeu Infestado da On-lyne (Comunidade)",
-            "description": "Um glifo da Comunidade retratando o membro Infestado da On-lyne, DJ RoMeu, criado pelo artista death_ma666ots.",
+            "description": "Um glifo da Comunidade retratando o membro Infestado da On-lyne, DJ RoMeu, desenvolvido por death_ma666ots.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedDrillbitGlyph",
             "name": "Glifo: Broca Infestado da On-lyne (Comunidade)",
-            "description": "Um glifo da Comunidade retratando o membro Infestado da On-lyne, Broca, criado pelo artista death_ma666ots.",
+            "description": "Um glifo da Comunidade retratando o membro Infestado da On-lyne, Broca, desenvolvido por death_ma666ots.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedHarddriveGlyph",
             "name": "Glifo: HD Infestado da On-lyne (Comunidade)",
-            "description": "Um glifo da Comunidade retratando o membro Infestado da On-lyne, HD, criado pelo artista death_ma666ots.",
+            "description": "Um glifo da Comunidade retratando o membro Infestado da On-lyne, HD, desenvolvido por death_ma666ots.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedLogoGlyph",
             "name": "Glifo: Logotipo Infestado da On-lyne (Comunidade)",
-            "description": "Um glifo da Comunidade retratando o logotipo Infestado da On-lyne, criado pelo artista death_ma666ots.",
+            "description": "Um glifo da Comunidade retratando o logotipo Infestado da On-lyne, desenvolvido por death_ma666ots.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedPacketGlyph",
             "name": "Glifo: Pacotinho Infestado da On-lyne (Comunidade)",
-            "description": "Um glifo da Comunidade retratando o membro Infestado da On-lyne, Pacotinho, criado pelo artista death_ma666ots.",
+            "description": "Um glifo da Comunidade retratando o membro Infestado da On-lyne, Pacotinho, desenvolvido por death_ma666ots.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInfestedZekeGlyph",
             "name": "Glifo: Z\u00e9ca Infestado da On-lyne (Comunidade)",
-            "description": "Um glifo da Comunidade retratando o membro Infestado da On-lyne, Z\u00e9ca, criado pelo artista death_ma666ots.",
+            "description": "Um glifo da Comunidade retratando o membro Infestado da On-lyne, Z\u00e9ca, desenvolvido por death_ma666ots.",
             "codexSecret": true
         },
         {
@@ -7409,7 +7418,7 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageJadeAccoladeGlyph",
             "name": "Glifo: Ins\u00edgnia da Jade",
-            "description": "Um glifo da comunidade representando um feito de for\u00e7a, criado pelo artista Anavi_Ivy.",
+            "description": "Um glifo da comunidade representando um feito de for\u00e7a, desenvolvido por Anavi_Ivy.",
             "codexSecret": true
         },
         {
@@ -7457,13 +7466,13 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLettieAccoladeGlyph",
             "name": "Glifo: Ins\u00edgnia da L\u00ea",
-            "description": "Um glifo representando um feito de for\u00e7a, criado pelo artista Carl Tabora.",
+            "description": "Um glifo representando um feito de for\u00e7a, desenvolvido por Carl Tabora.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLogoGlyph",
             "name": "Glifo: Logotipo Radiante da On-lyne (Comunidade)",
-            "description": "Um glifo da Comunidade retratando o logotipo radiante da On-lyne, criado pelo artista death_ma666ots.",
+            "description": "Um glifo da Comunidade retratando o logotipo radiante da On-lyne, desenvolvido por death_ma666ots.",
             "codexSecret": true
         },
         {
@@ -7550,7 +7559,7 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageMirageAccoladeGlyph",
             "name": "Glifo: Ins\u00edgnia da Mirage",
-            "description": "Um glifo da comunidade representando um feito de for\u00e7a, criado pelo artista Anavi_Ivy.",
+            "description": "Um glifo da comunidade representando um feito de for\u00e7a, desenvolvido por Anavi_Ivy.",
             "codexSecret": true
         },
         {
@@ -7694,7 +7703,7 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImagePacketGlyph",
             "name": "Glifo: Pacotinho da On-lyne (Comunidade)",
-            "description": "Um glifo da Comunidade retratando o membro da On-lyne, Pacotinho, criado pelo artista death_ma666ots.",
+            "description": "Um glifo da Comunidade retratando o membro da On-lyne, Pacotinho, desenvolvido por death_ma666ots.",
             "codexSecret": true
         },
         {
@@ -7754,7 +7763,7 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageProteaAccoladeGlyph",
             "name": "Glifo: Ins\u00edgnia da Protea",
-            "description": "Um glifo da comunidade representando um feito de for\u00e7a, criado pelo artista Anavi_Ivy.",
+            "description": "Um glifo da comunidade representando um feito de for\u00e7a, desenvolvido por Anavi_Ivy.",
             "codexSecret": true
         },
         {
@@ -7767,7 +7776,7 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageQuincyAccoladeGlyph",
             "name": "Glifo: Ins\u00edgnia do Quincy",
-            "description": "Um glifo representando um feito de for\u00e7a, criado pelo artista Carl Tabora.",
+            "description": "Um glifo representando um feito de for\u00e7a, desenvolvido por Carl Tabora.",
             "codexSecret": true
         },
         {
@@ -7797,7 +7806,7 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSevagothAccoladeGlyph",
             "name": "Glifo: Ins\u00edgnia do Sevagoth",
-            "description": "Um glifo da comunidade representando um feito de for\u00e7a, criado pelo artista Anavi_Ivy.",
+            "description": "Um glifo da comunidade representando um feito de for\u00e7a, desenvolvido por Anavi_Ivy.",
             "codexSecret": true
         },
         {
@@ -7853,19 +7862,19 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumCozyStalker",
             "name": "Glifo: Stalker Confort\u00e1vel do Tennobaum (Comunidade)",
-            "description": "Um glifo representando o Stalker vestindo um su\u00e9ter aconchegante, criado pelo artista alcyonsa.",
+            "description": "Um glifo representando o Stalker vestindo um su\u00e9ter aconchegante, desenvolvido por alcyonsa.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumJade",
             "name": "Glifo: Jade do Tennobaum (Comunidade)",
-            "description": "Um glifo representando a Jade fazendo um anjo de neve, criado pelo artista alcyonsa.",
+            "description": "Um glifo representando a Jade fazendo um anjo de neve, desenvolvido por alcyonsa.",
             "codexSecret": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageTennobaumManintheCookie",
             "name": "Glifo: Homem no Biscoito do Tennobaum (Comunidade)",
-            "description": "Um glifo representando um biscoito de gengibre do Homem na Parede, criado pelo artista alcyonsa.",
+            "description": "Um glifo representando um biscoito de gengibre do Homem na Parede, desenvolvido por alcyonsa.",
             "codexSecret": true
         },
         {
@@ -8034,7 +8043,7 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageVaubanAccoladeGlyph",
             "name": "Glifo: Ins\u00edgnia do Vauban",
-            "description": "Um glifo da comunidade representando um feito de for\u00e7a, criado pelo artista Anavi_Ivy.",
+            "description": "Um glifo da comunidade representando um feito de for\u00e7a, desenvolvido por Anavi_Ivy.",
             "codexSecret": true
         },
         {
@@ -8260,7 +8269,7 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageZekeGlyph",
             "name": "Glifo: Z\u00e9ca da On-lyne (Comunidade)",
-            "description": "Um glifo da Comunidade retratando o membro da On-lyne, Z\u00e9ca, criado pelo artista death_ma666ots.",
+            "description": "Um glifo da Comunidade retratando o membro da On-lyne, Z\u00e9ca, desenvolvido por death_ma666ots.",
             "codexSecret": true
         },
         {

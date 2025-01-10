@@ -4311,6 +4311,13 @@
             "description": "Bu dekoratif z\u0131rh Grineer Krali\u00e7lerinin sad\u0131k Kavat'lar\u0131 i\u00e7in d\u00f6v\u00fcld\u00fc."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/Armor/LNYKavatBoltorArmor",
+            "name": "Moondance Kavat Z\u0131rh\u0131",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Prepare your Kavat for a dance of Lunar Renewal revelry."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/Armor/RevenantKavatArmor",
             "name": "Kasha Kavat Z\u0131rh\u0131",
             "codexSecret": false,
@@ -6553,6 +6560,13 @@
             "description": "Bir ejderhan\u0131n ruhu yolunu s\u00fcsl\u00fcyor."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Effects/LNYStonesEphemera",
+            "name": "Heaven Stones Ephemera",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Step lightly with stones that could mend the very fabric of the heavens."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Effects/LotusFlowers",
             "name": "Lotus Ephemera",
             "codexSecret": false,
@@ -8361,7 +8375,7 @@
             "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenDread",
             "name": "Dread Day of the Dead Skin",
             "codexSecret": false,
-            "description": "Dread i\u00e7in \u00f6\u00fcmc\u00fcl bir festival skin"
+            "description": "Dread i\u00e7in \u00f6l\u00fcmc\u00fcl bir festival skin."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenDualZoren",
@@ -8690,6 +8704,20 @@
             "name": "Mirage Oneiro Skin",
             "codexSecret": false,
             "description": "Harlequin'den ilham al\u0131nm\u0131\u015f bu l\u00fcks skin ile karanl\u0131k r\u00fcyalarda dans et. "
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MirageLunarNewYearHelmet",
+            "name": "Mirage Nuwa Helmet",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Mirage Nuwa's signature helmet."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MirageLunarNewYearSkin",
+            "name": "Mirage Nuwa Skin",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Embody the essence of creation and restoration with this divine, serpentine look."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MiragePrimeHelmet",
@@ -10949,6 +10977,7 @@
             "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/CNY2025ScytheSkin",
             "name": "Hespar Lunaeus Skin",
             "codexSecret": false,
+            "excludeFromCodex": true,
             "description": "Bu Hespar skin'i ile isabetli ve refah dolu sald\u0131r\u0131lar senin taraf\u0131nda olur."
         },
         {
@@ -10968,6 +10997,13 @@
             "name": "Ogris Lunaeus Skin",
             "codexSecret": false,
             "description": "Bu Ogris skin ile sava\u015f alan\u0131na refah\u0131 davet et."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/LNY2025BoltorSkin",
+            "name": "Boltor Lunaeus Skin",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Transform in the crucible of battle with this skin for the Boltor."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/LNYHookSword",
@@ -11543,6 +11579,13 @@
             "name": "Yeni Ay Y\u0131l\u0131 Sazan Bal\u0131\u011f\u0131 Sugatra",
             "codexSecret": false,
             "description": "\u0130ki sazan bal\u0131\u011f\u0131n\u0131n bir daire \u015feklini ald\u0131\u011f\u0131 bir silah dekorasyonu."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/LNYSnakeMeleeDangle",
+            "name": "Cordmade Sugatra",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "In this Sugatra, the elegant serpent weaves itself through gold like a sacred cord."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/LimboDeluxeDangle",

@@ -2190,6 +2190,13 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LNY2025SnakeEmote",
+            "name": "Yeni Ay Y\u0131l\u0131 Y\u0131lan \u00c7i\u00e7e\u011fi",
+            "description": "Yeni Ay Y\u0131l\u0131n\u0131n asil bir hat\u0131rlat\u0131c\u0131s\u0131.",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/Emotes/LeftHeartEmote",
             "name": "Eros'un Sol Eli",
             "description": "\u0130ki yar\u0131m bir b\u00fct\u00fcn eder. Eros'un Sa\u011f Elini kullanan ba\u015fka bir Tenno ile bu hareketi yaparak bir kalp olu\u015fturabilirsin.",
@@ -5565,13 +5572,15 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphA",
             "name": "Bereketli Y\u0131lan Glifi",
             "description": "Profilin i\u00e7in bir Glif.",
-            "codexSecret": false
+            "codexSecret": false,
+            "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphB",
             "name": "Yisi Glifi",
             "description": "Profilin i\u00e7in bir Glif.",
-            "codexSecret": false
+            "codexSecret": false,
+            "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageChillingGlyphFour",

@@ -338,8 +338,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Microphone",
-            "name": "Kinemantik<RETRO_TM> Announce",
-            "description": "The Kinemantik<RETRO_TM> Announce is compatible with all major systems. With an adjustable in-line volume override, it is sure to muster even the most stubborn of troops.",
+            "name": "Micr\u00f3fono Kinemantik<RETRO_TM>",
+            "description": "El micr\u00f3fono Kinemantik<RETRO_TM> es compatible con todos los sistemas principales. Gracias a su control de volumen en l\u00ednea ajustable, sin duda podr\u00e1 convocar incluso a las tropas m\u00e1s obstinadas.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
             "excludeFromCodex": true
@@ -499,7 +499,7 @@
         {
             "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Scooter",
             "name": "Scooticle<RETRO_TM>",
-            "description": "The ZeViLa Scooticle<RETRO_TM> might seem like it pales in comparison to its bigger sibling the Atomiccycle, but the engineers behind the powerful and popular motorcycle spared no expense when they designed its smaller, city-friendly sibling! ",
+            "description": "Puede que la Scooticle<RETRO_TM> de ZeViLa parezca insignificante en comparaci\u00f3n con su hermana mayor, la Atomicycle, pero los ingenieros detr\u00e1s de esta poderosa y popular motocicleta no escatimaron gastos cuando dise\u00f1aron su hermana m\u00e1s peque\u00f1a y apta para la ciudad. ",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
             "excludeFromCodex": true
@@ -8138,6 +8138,14 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLNYMirage",
+            "name": "Floof de Mirage Nuwa",
+            "description": "Disfruta de la renovaci\u00f3n lunar con esta linda y tierna Mirage a tu lado.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLettie",
             "name": "Floof de Lettie",
             "description": "Esta adorable versi\u00f3n de la agotada m\u00e9dica del Hex parece mucho m\u00e1s dispuesta a aceptar abrazos que su hom\u00f3loga de la vida real.",
@@ -8248,6 +8256,14 @@
             "description": "\u00a1Estos son los amiguitos apachurrables de la cordillera de los Valles! \u00a1Ll\u00e9valos a casa hoy!",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushySnake",
+            "name": "Charming Snake Floof",
+            "description": "A cuddly snake floof, to honor the most clever of the zodiac animals.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyStoverCommon",

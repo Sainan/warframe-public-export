@@ -3060,7 +3060,7 @@
             "codexSecret": false,
             "masteryReq": 0,
             "sprintSpeed": 0.94999999,
-            "passiveDescription": "Cold Status Effects from Frost's Abilities have their duration increased by |DURATION|%. Frost gains |ARMOR| Armor per enemy inflicted with <DT_FREEZE_COLOR>Cold Status within |RADIUS|m.",
+            "passiveDescription": "Cold Status Effects from Frost's Abilities last |DURATION|% longer. Frost gains |ARMOR| Armor for each enemy afflicted with <DT_FREEZE_COLOR>Cold within <AFFINITY_SHARE>Affinity Range.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/IcicleAbility",
@@ -3098,7 +3098,7 @@
             "codexSecret": false,
             "masteryReq": 0,
             "sprintSpeed": 0.94999999,
-            "passiveDescription": "Cold Status Effects from Frost's Abilities have their duration increased by |DURATION|%. Frost gains |ARMOR| Armor per enemy inflicted with <DT_FREEZE_COLOR>Cold Status within |RADIUS|m.",
+            "passiveDescription": "Cold Status Effects from Frost's Abilities last |DURATION|% longer. Frost gains |ARMOR| Armor for each enemy afflicted with <DT_FREEZE_COLOR>Cold within <AFFINITY_SHARE>Affinity Range.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/IcicleAbility",
@@ -3347,7 +3347,7 @@
             "masteryReq": 0,
             "longDescription": "Three figures waited behind a simple table. Their attention on a single chair, bathed in light. An old woman\u2019s voice from the shadow: 'Send her in'. Across the room a security officer, stern and plain, opened the door. The outline of a young woman appeared at the door. She hesitated, but only for an instant, then crossed the room and sat.\r\n\r\nThere was a gasp as the light hit her face. Her right eye was bright and blinking, but her left was a greasy slit. Her skin had been burned moon-white. Her mouth was a sagging gash without lips or expression. Her military beret was pulled snug over a scarred and hairless scalp.\r\n\r\nThe old voice: 'Your name is Kaleen.' Kaleen nodded. 'You were the principal investigator of the Zariman?' Kaleen\u2019s voice was a jagged whisper, a rigid face. 'Yes.'\r\n\r\nKaleen coughed, straightened: 'The Zariman was lost making the fold from Saturn to the Outer gates. Mechanical failure. I notified families and filed a report with the inspectors. Nothing ever returns from the fold, so I closed the case.'\r\n\r\n'But you reopened the case, days later.'\r\n\r\n'I didn\u2019t believe it myself until I stepped aboard the ship. It was completely intact, full environmental, as if it had never left.'\r\n\r\n'And the crew was gone.'\r\n\r\n'Not exactly.' Kaleen hesitated. 'We thought it was empty but we began to find...' Her face twitched at remembered pain, 'We began to find children hiding in the ship.'\r\n\r\n'And that is when you violated procedure?'\r\n\r\nKaleen bowed her head, a tear welling in her sightless eye. 'They were children. They were afraid. They needed comfort.'\r\n\r\n'So you broke quarantine and this happened to you.'\r\n\r\nThere was silence as Kaleen touched her face, 'So what have you done with them?'\r\n\r\nThe old woman gestured for the officer to take Kaleen away. The meeting was over. When Kaleen reached the door she twisted out of his grip and shot back, 'Why would you do that? Why would you put children on a military ship?'\r\n\r\n'We didn\u2019t. That would violate procedure.'",
             "sprintSpeed": 1.1,
-            "passiveDescription": "Receive |STRENGTH|% Ability Strength for every enemy within |RANGE|m affected by <DT_FIRE>Heat Status Effect.",
+            "passiveDescription": "Receive |STRENGTH|% Ability Strength for every enemy within <AFFINITY_SHARE>Affinity Range affected by <DT_FIRE_COLOR>Heat.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FireBallAbility",
@@ -3386,7 +3386,7 @@
             "masteryReq": 0,
             "longDescription": "Three figures waited behind a simple table. Their attention on a single chair, bathed in light. An old woman\u2019s voice from the shadow: 'Send her in'. Across the room a security officer, stern and plain, opened the door. The outline of a young woman appeared at the door. She hesitated, but only for an instant, then crossed the room and sat.\r\n\r\nThere was a gasp as the light hit her face. Her right eye was bright and blinking, but her left was a greasy slit. Her skin had been burned moon-white. Her mouth was a sagging gash without lips or expression. Her military beret was pulled snug over a scarred and hairless scalp.\r\n\r\nThe old voice: 'Your name is Kaleen.' Kaleen nodded. 'You were the principal investigator of the Zariman?' Kaleen\u2019s voice was a jagged whisper, a rigid face. 'Yes.'\r\n\r\nKaleen coughed, straightened: 'The Zariman was lost making the fold from Saturn to the Outer gates. Mechanical failure. I notified families and filed a report with the inspectors. Nothing ever returns from the fold, so I closed the case.'\r\n\r\n'But you reopened the case, days later.'\r\n\r\n'I didn\u2019t believe it myself until I stepped aboard the ship. It was completely intact, full environmental, as if it had never left.'\r\n\r\n'And the crew was gone.'\r\n\r\n'Not exactly.' Kaleen hesitated. 'We thought it was empty but we began to find...' Her face twitched at remembered pain, 'We began to find children hiding in the ship.'\r\n\r\n'And that is when you violated procedure?'\r\n\r\nKaleen bowed her head, a tear welling in her sightless eye. 'They were children. They were afraid. They needed comfort.'\r\n\r\n'So you broke quarantine and this happened to you.'\r\n\r\nThere was silence as Kaleen touched her face, 'So what have you done with them?'\r\n\r\nThe old woman gestured for the officer to take Kaleen away. The meeting was over. When Kaleen reached the door she twisted out of his grip and shot back, 'Why would you do that? Why would you put children on a military ship?'\r\n\r\n'We didn\u2019t. That would violate procedure.'",
             "sprintSpeed": 1.1,
-            "passiveDescription": "Receive |STRENGTH|% Ability Strength for every enemy within |RANGE|m affected by <DT_FIRE_COLOR>Heat Status Effect.",
+            "passiveDescription": "Receive |STRENGTH|% Ability Strength for every enemy within <AFFINITY_SHARE>Affinity Range affected by <DT_FIRE_COLOR>Heat.",
             "abilities": [
                 {
                     "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FireBallAbility",

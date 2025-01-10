@@ -338,8 +338,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Microphone",
-            "name": "Kinemantik<RETRO_TM> Announce",
-            "description": "The Kinemantik<RETRO_TM> Announce is compatible with all major systems. With an adjustable in-line volume override, it is sure to muster even the most stubborn of troops.",
+            "name": "Micro Kinemantik<RETRO_TM>",
+            "description": "Le Micro Kinemantik<RETRO_TM> est compatible avec tous les principaux syst\u00e8mes. Avec un r\u00e9glage de volume en ligne, il saura convaincre m\u00eame les utilisateurs les plus difficiles.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
             "excludeFromCodex": true
@@ -499,7 +499,7 @@
         {
             "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Scooter",
             "name": "The Scooticle<RETRO_TM>",
-            "description": "The ZeViLa Scooticle<RETRO_TM> might seem like it pales in comparison to its bigger sibling the Atomiccycle, but the engineers behind the powerful and popular motorcycle spared no expense when they designed its smaller, city-friendly sibling! ",
+            "description": "Le Scooticle<RETRO_TM> ZeViLa peut sembler p\u00e2le par rapport \u00e0 son grand fr\u00e8re, l'Atomicycle, mais les ing\u00e9nieurs derri\u00e8re cette moto puissante et populaire n'ont \u00e9pargn\u00e9 aucune d\u00e9pense lorsqu'ils ont con\u00e7u son petit fr\u00e8re adapt\u00e9 \u00e0 la ville! ",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
             "excludeFromCodex": true
@@ -8138,6 +8138,14 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLNYMirage",
+            "name": "Peluche Mirage Nuwa",
+            "description": "C\u00e9l\u00e9brez le Renouveau Lunaire avec cette Peluche Mirage toute mignonne \u00e0 vos c\u00f4t\u00e9s.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLettie",
             "name": "Peluche Lettie",
             "description": "Cette version c\u00e2line du m\u00e9decin fatigu\u00e9 de l'Hexagone accepte beaucoup plus les c\u00e2lins que son homologue de la vie r\u00e9elle.",
@@ -8248,6 +8256,14 @@
             "description": "Ce sont les mignonnes petites peluches de la cha\u00eene de la Vall\u00e9e! Emportez-les chez vous d\u00e8s aujourd'hui!",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushySnake",
+            "name": "Charming Snake Floof",
+            "description": "A cuddly snake floof, to honor the most clever of the zodiac animals.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyStoverCommon",

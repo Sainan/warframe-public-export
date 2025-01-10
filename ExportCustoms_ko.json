@@ -4311,6 +4311,13 @@
             "description": "\uc774 \uc758\uc7a5\uc6a9 \uc544\uba38\ub294 \uadf8\ub9ac\ub2c8\uc5b4 \uc5ec\uc655\uc758 \uc655\uc871 \uce74\ubc27\uc744 \uc704\ud574 \ub2e8\uc870\ub418\uc5c8\uc2b5\ub2c8\ub2e4."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/Armor/LNYKavatBoltorArmor",
+            "name": "\ubb38\ub304\uc2a4 \uce74\ubc27 \uc544\uba38",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Prepare your Kavat for a dance of Lunar Renewal revelry."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/Armor/RevenantKavatArmor",
             "name": "\uce74\uc0e4 \uce74\ubc27 \uc544\uba38",
             "codexSecret": false,
@@ -6553,6 +6560,13 @@
             "description": "\ub2f9\uc2e0\uc774 \ub098\uc544\uac00\ub294 \uae38\uc744 \uc6a9\uc758 \ud63c\uc774 \ucd95\ubcf5\ud569\ub2c8\ub2e4."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Effects/LNYStonesEphemera",
+            "name": "Heaven Stones Ephemera",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Step lightly with stones that could mend the very fabric of the heavens."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Effects/LotusFlowers",
             "name": "\ub85c\ud130\uc2a4 \uc774\ud398\uba54\ub77c",
             "codexSecret": false,
@@ -8690,6 +8704,20 @@
             "name": "\ubbf8\ub77c\uc9c0 \uc624\ub098\uc774\ub85c \uc2a4\ud0a8",
             "codexSecret": false,
             "description": "\uc5b4\ub9bf\uad11\ub300\uc5d0\uac8c\uc11c \uc601\uac10\uc744 \ubc1b\uc740 \uc774 \uc9d3\uad82\uc740 \ub514\ub7ed\uc2a4 \uc2a4\ud0a8\uc73c\ub85c \uc5b4\ub450\uc6b4 \uafc8 \uc18d \uc800\ud3b8\uae4c\uc9c0 \ucda4\ucdb0 \ubcf4\uc138\uc694. "
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MirageLunarNewYearHelmet",
+            "name": "Mirage Nuwa Helmet",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Mirage Nuwa's signature helmet."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MirageLunarNewYearSkin",
+            "name": "Mirage Nuwa Skin",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Embody the essence of creation and restoration with this divine, serpentine look."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MiragePrimeHelmet",
@@ -10949,6 +10977,7 @@
             "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/CNY2025ScytheSkin",
             "name": "\ud5e4\uc2a4\ud30c\ub974 \ub8e8\ub098\uc5d0\uc6b0\uc2a4 \uc2a4\ud0a8",
             "codexSecret": false,
+            "excludeFromCodex": true,
             "description": "\uc774 \ud5e4\uc2a4\ud30c\ub974 \uc2a4\ud0a8\uc744 \uc7a5\ucc29\ud558\uace0 \uc815\ubc00\ud568\uacfc \ubc88\uc601\uc744 \uae43\ub4e4\uc778 \uce7c\ub0a0\ub85c \uc801\uc744 \uce58\uc138\uc694."
         },
         {
@@ -10968,6 +10997,13 @@
             "name": "\uc624\uadf8\ub9ac\uc2a4 \ub8e8\ub098\uc5d0\uc6b0\uc2a4 \uc2a4\ud0a8",
             "codexSecret": false,
             "description": "\uc774 \uc624\uadf8\ub9ac\uc2a4 \uc2a4\ud0a8\uc73c\ub85c \uc804\uc7a5\uc5d0 \ubc88\uc601\uc744 \ubd88\ub7ec \uc77c\uc73c\ucf1c\ubcf4\uc138\uc694."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/LNY2025BoltorSkin",
+            "name": "Boltor Lunaeus Skin",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Transform in the crucible of battle with this skin for the Boltor."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/LNYHookSword",
@@ -11545,6 +11581,13 @@
             "description": "\ube59\uae00\ube59\uae00 \ub3c4\ub294 \ub450 \ub9c8\ub9ac \uc789\uc5b4\uc758 \ubaa8\uc2b5\uc744 \ub764 \ubb34\uae30 \uc7a5\uc2dd\uc785\ub2c8\ub2e4."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/LNYSnakeMeleeDangle",
+            "name": "Cordmade Sugatra",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "In this Sugatra, the elegant serpent weaves itself through gold like a sacred cord."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/LimboDeluxeDangle",
             "name": "\uc778\ud130\uac00 \uc218\uac00\ud2b8\ub77c",
             "codexSecret": false,
@@ -11906,7 +11949,7 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Motorcycle/MotorcycleLightsSkin",
-            "name": "\ub124\uc628 \ub098\uc774\ud2b8 \ub3c4\uc0c9",
+            "name": "\ub124\uc628 \ub098\uc774\ud2b8 \ub3c4\uc7a5",
             "codexSecret": false,
             "description": "\ub124\uc628 \uc2a4\ud2b8\ub9bd\uc774 \uc774 \uc138\ub828\ub41c \uc544\ud1a0\ubbf8\uc0ac\uc774\ud074\uc6a9 \ub3c4\uc7a5\uc744 \ube44\ucd94\uace0 \uc788\uc2b5\ub2c8\ub2e4."
         },

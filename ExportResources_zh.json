@@ -338,8 +338,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Microphone",
-            "name": "Kinemantik<RETRO_TM> Announce",
-            "description": "The Kinemantik<RETRO_TM> Announce is compatible with all major systems. With an adjustable in-line volume override, it is sure to muster even the most stubborn of troops.",
+            "name": "\u5373\u65f6\u901a<RETRO_TM>\u5e7f\u64ad\u7cfb\u7edf",
+            "description": "\u5373\u65f6\u901a<RETRO_TM>\u5e7f\u64ad\u7cfb\u7edf\u4e0e\u6240\u6709\u4e3b\u6d41\u7cfb\u7edf\u517c\u5bb9\u3002\u914d\u6709\u53ef\u8c03\u8282\u7684\u5185\u7f6e\u97f3\u91cf\u8986\u76d6\uff0c\u5373\u4f7f\u662f\u6700\u53eb\u4e0d\u52a8\u7684\u90e8\u961f\u4e5f\u80fd\u88ab\u53ec\u96c6\u8d77\u6765\u3002",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
             "excludeFromCodex": true
@@ -499,7 +499,7 @@
         {
             "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Scooter",
             "name": "\u6cfd\u5a01\u62c9\u7535\u52a8\u8f66<RETRO_TM>",
-            "description": "The ZeViLa Scooticle<RETRO_TM> might seem like it pales in comparison to its bigger sibling the Atomiccycle, but the engineers behind the powerful and popular motorcycle spared no expense when they designed its smaller, city-friendly sibling! ",
+            "description": "\u6cfd\u5a01\u62c9\u7535\u52a8\u8f66<RETRO_TM>\u53ef\u80fd\u770b\u8d77\u6765\u4e0d\u5982\u5b83\u7684\u5927\u54e5\u539f\u5b50\u6469\u6258\u8f66\u90a3\u4e48\u62a2\u773c\uff0c\u4f46\u8bbe\u8ba1\u4e86\u5f3a\u52b2\u4e14\u5e7f\u53d7\u6b22\u8fce\u7684\u6469\u6258\u8f66\u7684\u5de5\u7a0b\u5e08\uff0c\u4e5f\u4e3a\u6253\u9020\u8fd9\u6b3e\u9002\u5408\u57ce\u5e02\u51fa\u884c\u7684\u5c0f\u578b\u673a\u8f66\u503e\u6ce8\u4e86\u5927\u91cf\u5fc3\u8840\uff01 ",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
             "excludeFromCodex": true
@@ -8138,6 +8138,14 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLNYMirage",
+            "name": "Mirage \u5973\u5a32\u73a9\u5076",
+            "description": "\u4e0e\u8f6f\u840c\u7684 Mirage \u4e00\u8d77\u4eab\u53d7\u65b0\u6625\u4f73\u8282\u3002",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLettie",
             "name": "\u83b1\u8482\u73a9\u5076",
             "description": "\u8fd9\u4e2a\u53ef\u7231\u7248\u7684\u516d\u4eba\u7ec4\u75b2\u60eb\u519b\u533b\u6bd4\u5979\u73b0\u5b9e\u751f\u6d3b\u4e2d\u66f4\u613f\u610f\u63a5\u53d7\u62e5\u62b1\u3002",
@@ -8248,6 +8256,14 @@
             "description": "\u6765\u81ea\u5c71\u8c37\u4e00\u5e26\u7684\u62b1\u62b1\u5c0f\u5bb6\u4f19\uff01\u4eca\u5929\u5c31\u628a\u5b83\u4eec\u5e26\u56de\u5bb6\u5427\uff01",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushySnake",
+            "name": "Charming Snake Floof",
+            "description": "A cuddly snake floof, to honor the most clever of the zodiac animals.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyStoverCommon",
@@ -14777,7 +14793,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/Items/SongItems/CCAnnaKiGOBSongItem",
-            "name": "\u5b89\u5a1c\u00b7\u57fa\u5c5e\u4e8e\u8d1d\u5fb7\u5170\u8d77\u6e90",
+            "name": "\u6df7\u6c8c\u8d77\u6e90\u7684\u5b89\u5a1c\u00b7\u57fa",
             "description": "\u300a\u706b\u529b\u5973\u5175 2\u300b\u539f\u58f0\u5e26\uff0c\u53ef\u901a\u8fc7\u8f68\u9053\u98de\u884c\u5668\u4e2d\u7684\u8eab\u5fc3\u548c\u5f26\u7434\u6b23\u8d4f\u3002",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/SongItem",
@@ -14801,7 +14817,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/Items/SongItems/CCIWannaBeYourGOBSongItem",
-            "name": "\u6211\u60f3\u6210\u4e3a\u4f60\u7684\u8d1d\u5fb7\u5170\u8d77\u6e90",
+            "name": "\u6211\u60f3\u6210\u4e3a\u4f60\u7684\u6df7\u6c8c\u8d77\u6e90",
             "description": "\u300a\u706b\u529b\u5973\u5175 2\u300b\u539f\u58f0\u5e26\uff0c\u53ef\u901a\u8fc7\u8f68\u9053\u98de\u884c\u5668\u4e2d\u7684\u8eab\u5fc3\u548c\u5f26\u7434\u6b23\u8d4f\u3002",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Game/SongItem",

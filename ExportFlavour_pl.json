@@ -2190,6 +2190,13 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LNY2025SnakeEmote",
+            "name": "Gest Ksi\u0119\u017cycowego Roku W\u0119\u017ca",
+            "description": "Szlachetne wspomnienie Roku Ksi\u0119\u017cycowego.",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/Emotes/LeftHeartEmote",
             "name": "Lewa d\u0142o\u0144 Erosa",
             "description": "Dwie po\u0142\u00f3wki tworz\u0105 ca\u0142o\u015b\u0107. Wykonaj ten gest praw\u0105 d\u0142oni\u0105 Erosa z innym Tenno, aby uformowa\u0107 serce.",
@@ -5565,13 +5572,15 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphA",
             "name": "Glif Szczodrego W\u0119\u017ca",
             "description": "Glif dla Twojego profilu.",
-            "codexSecret": false
+            "codexSecret": false,
+            "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphB",
             "name": "Glif Yisi",
             "description": "Glif dla Twojego profilu.",
-            "codexSecret": false
+            "codexSecret": false,
+            "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageChillingGlyphFour",

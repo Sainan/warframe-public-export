@@ -4311,6 +4311,13 @@
             "description": "Esta armadura decorativa fue forjada para los kavats reales de las Reinas grineer."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/Armor/LNYKavatBoltorArmor",
+            "name": "Armadura Moondance de Kavat",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Prepare your Kavat for a dance of Lunar Renewal revelry."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/Armor/RevenantKavatArmor",
             "name": "Armadura Kasha para kavat",
             "codexSecret": false,
@@ -6553,6 +6560,13 @@
             "description": "El esp\u00edritu de un drag\u00f3n adorna tu camino."
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Effects/LNYStonesEphemera",
+            "name": "Heaven Stones Ephemera",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Step lightly with stones that could mend the very fabric of the heavens."
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Effects/LotusFlowers",
             "name": "Ef\u00edmero Lotus",
             "codexSecret": false,
@@ -8690,6 +8704,20 @@
             "name": "Dise\u00f1o Oneiro de Mirage",
             "codexSecret": false,
             "description": "Baila en los sue\u00f1os sombr\u00edos con este travieso dise\u00f1o de lujo inspirado en el arlequ\u00edn. "
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MirageLunarNewYearHelmet",
+            "name": "Mirage Nuwa Helmet",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Mirage Nuwa's signature helmet."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MirageLunarNewYearSkin",
+            "name": "Mirage Nuwa Skin",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Embody the essence of creation and restoration with this divine, serpentine look."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MiragePrimeHelmet",
@@ -10949,6 +10977,7 @@
             "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/CNY2025ScytheSkin",
             "name": "Dise\u00f1o Lunaeus de Hespar",
             "codexSecret": false,
+            "excludeFromCodex": true,
             "description": "Golpea con precisi\u00f3n y prosperidad equipando este dise\u00f1o de Hespar."
         },
         {
@@ -10968,6 +10997,13 @@
             "name": "Dise\u00f1o Lunaeus de Ogris",
             "codexSecret": false,
             "description": "Invita a la prosperidad en el campo de batalla con este dise\u00f1o de Ogris."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/LNY2025BoltorSkin",
+            "name": "Boltor Lunaeus Skin",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "Transform in the crucible of battle with this skin for the Boltor."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/LNYHookSword",
@@ -11543,6 +11579,13 @@
             "name": "Sugatra de Carpa de renovaci\u00f3n lunar",
             "codexSecret": false,
             "description": "Una decoraci\u00f3n de armas en forma de dos carpas en un c\u00edrculo."
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/LNYSnakeMeleeDangle",
+            "name": "Cordmade Sugatra",
+            "codexSecret": false,
+            "excludeFromCodex": true,
+            "description": "In this Sugatra, the elegant serpent weaves itself through gold like a sacred cord."
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/LimboDeluxeDangle",

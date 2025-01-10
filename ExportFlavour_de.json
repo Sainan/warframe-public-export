@@ -2190,6 +2190,13 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LNY2025SnakeEmote",
+            "name": "Neues Mondjahr Schlangen-Verzierung",
+            "description": "Eine edle Erinnerung an das neue Mondjahr.",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/Emotes/LeftHeartEmote",
             "name": "Linke Hand des Eros",
             "description": "Zwei H\u00e4lften ergeben ein Ganzes. F\u00fchre dieses Emote mit der rechten Hand des Eros eines anderen Tenno aus, um ein Herz zu bilden.",
@@ -5565,13 +5572,15 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphA",
             "name": "Glyphe: Gro\u00dfz\u00fcgige Schlange",
             "description": "Eine Glyphe f\u00fcr dein Profil.",
-            "codexSecret": false
+            "codexSecret": false,
+            "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphB",
             "name": "Glyphe: Yisi",
             "description": "Eine Glyphe f\u00fcr dein Profil.",
-            "codexSecret": false
+            "codexSecret": false,
+            "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageChillingGlyphFour",

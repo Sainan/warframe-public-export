@@ -338,8 +338,8 @@
         },
         {
             "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Microphone",
-            "name": "Kinemantik<RETRO_TM> Announce",
-            "description": "The Kinemantik<RETRO_TM> Announce is compatible with all major systems. With an adjustable in-line volume override, it is sure to muster even the most stubborn of troops.",
+            "name": "Kinemantik<RETRO_TM> Duyurucu",
+            "description": "Kinemantik<RETRO_TM> Duyurucu t\u00fcm b\u00fcy\u00fck sistemlerle uyumludur. Ayarlanabilir hat i\u00e7i ses engelleme \u00f6zelli\u011fiyle en inat\u00e7\u0131 parazitleri bile giderece\u011finden emin olabilirsiniz.",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
             "excludeFromCodex": true
@@ -499,7 +499,7 @@
         {
             "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Gifts/Scooter",
             "name": "Scooticle<RETRO_TM>",
-            "description": "The ZeViLa Scooticle<RETRO_TM> might seem like it pales in comparison to its bigger sibling the Atomiccycle, but the engineers behind the powerful and popular motorcycle spared no expense when they designed its smaller, city-friendly sibling! ",
+            "description": "ZeViLa Scooticle<RETRO_TM>, daha b\u00fcy\u00fck karde\u015fi olan Atomisiklet ile kar\u015f\u0131la\u015ft\u0131r\u0131ld\u0131\u011f\u0131nda s\u00f6n\u00fck g\u00f6r\u00fcnebilir, ancak bu g\u00fc\u00e7l\u00fc ve pop\u00fcler motosikletin arkas\u0131ndaki m\u00fchendisler, daha k\u00fc\u00e7\u00fck ve \u015fehir dostu karde\u015fini tasarlarken hi\u00e7bir masraftan ka\u00e7\u0131nmad\u0131! ",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
             "excludeFromCodex": true
@@ -8138,6 +8138,14 @@
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLNYMirage",
+            "name": "Mirage Nuwa Pelu\u015fu",
+            "description": "Yan\u0131nda bu sevimli ve tatl\u0131 Mirage ile Yeni Ay Y\u0131l\u0131n\u0131n tad\u0131n\u0131 \u00e7\u0131kar.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLettie",
             "name": "Lettie Pelu\u015f",
             "description": "Hex'in yorgun doktorunun bu sevimli versiyonu, ger\u00e7ek hayattaki benzerine g\u00f6re sar\u0131lmalar\u0131 kabul etmete \u00e7ok daha istekli g\u00f6r\u00fcn\u00fcyor.",
@@ -8248,6 +8256,14 @@
             "description": "Onlar Vallis'in meralar\u0131ndan gelen basit k\u00fc\u00e7\u00fck adamlar! Onlar\u0131 bug\u00fcn eve g\u00f6t\u00fcr\u00fcn!",
             "codexSecret": false,
             "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushySnake",
+            "name": "Charming Snake Floof",
+            "description": "A cuddly snake floof, to honor the most clever of the zodiac animals.",
+            "codexSecret": false,
+            "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
+            "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyStoverCommon",

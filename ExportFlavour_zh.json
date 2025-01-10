@@ -2190,6 +2190,13 @@
             "codexSecret": false
         },
         {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LNY2025SnakeEmote",
+            "name": "\u7075\u86c7\u8fce\u65b0",
+            "description": "\u5c0a\u8d35\u795d\u798f\u519c\u5386\u86c7\u5e74\uff0c\u8f9e\u65e7\u8fce\u65b0\u3002",
+            "codexSecret": false,
+            "excludeFromCodex": true
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/Emotes/LeftHeartEmote",
             "name": "\u7231\u795e\u7684\u5de6\u624b",
             "description": "\u4e24\u4e2a\u4e00\u534a\u6784\u6210\u4e00\u4e2a\u6574\u4f53\u3002\u4e0e\u53e6\u4e00\u540d\u62e5\u6709\u7231\u795e\u7684\u53f3\u624b\u7684 Tenno \u4e00\u8d77\u5408\u4f5c\u8be5\u8868\u60c5\u52a8\u4f5c\u6765\u6bd4\u5fc3\u3002",
@@ -5291,7 +5298,7 @@
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Minigames/MinigameGlyphPixelPerfectD",
             "name": "\u5b8c\u7f8e\u50cf\u7d20\u66b4\u5f92\u6d6e\u5370",
-            "description": "\u63cf\u7ed8\u7740\u50cf\u7d20\u5316\u7684\u8d1d\u5fb7\u5170\u8d77\u6e90\u66b4\u5f92\u7684\u6d6e\u5370\u3002",
+            "description": "\u63cf\u7ed8\u7740\u50cf\u7d20\u5316\u7684\u6df7\u6c8c\u8d77\u6e90\u66b4\u5f92\u7684\u6d6e\u5370\u3002",
             "codexSecret": true
         },
         {
@@ -5565,13 +5572,15 @@
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphA",
             "name": "\u9001\u798f\u7075\u86c7\u6d6e\u5370",
             "description": "\u4e2a\u4eba\u6863\u6848\u7684\u6d6e\u5370\u3002",
-            "codexSecret": false
+            "codexSecret": false,
+            "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageCNY2025SnakeGlyphB",
             "name": "\u4e59\u5df3\u6d6e\u5370",
             "description": "\u4e2a\u4eba\u6863\u6848\u7684\u6d6e\u5370\u3002",
-            "codexSecret": false
+            "codexSecret": false,
+            "excludeFromCodex": true
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/AvatarImageChillingGlyphFour",

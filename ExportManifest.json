@@ -17097,6 +17097,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Emotes/YearOfTheDragonEmote.png!00_kuLthoN3Yorc0kfuJo+UOQ"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/Emotes/LNY2025SnakeEmote",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Emotes/YearOfTheSnakeEmote.png!00_9lC-N+mRvL5Rf36KM5qcew"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/Emotes/LeftHeartEmote",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Emotes/HeartEmoteLeft.png!00_IuVDy1xLFI1i2qWeLL6GJg"
         },
@@ -22509,6 +22513,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyLNY2024Chroma.png!00_IptxumAtaROXeLqg5KnIsQ"
         },
         {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLNYMirage",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyLNYMirage.png!00_h5zdJIk5OT-o0e2OZxnSYQ"
+        },
+        {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyLettie",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushyLettie.png!00_s25t81rdWvjGyI-2ZuC0Iw"
         },
@@ -22571,6 +22579,10 @@
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushySawgawUncommon",
             "textureLocation": "/Lotus/Interface/Icons/Store/Plushies/Theme/PlushySawgawUncommon.png!00_kfAQdN1+A84iHwTJKgakoQ"
+        },
+        {
+            "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushySnake",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/ShipDecos/Decorations/PlushySnake.png!00_xiaEjDKosd1ia46ewp878Q"
         },
         {
             "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyStoverCommon",
@@ -24642,7 +24654,7 @@
         },
         {
             "uniqueName": "/Lotus/Types/Items/SongItems/CorpusRailjackLoginSongItem",
-            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/ExcaliburLoginSongItemStoreIcon.png!00_CcGtKVZ0Mfun6t78dsz++g"
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/SongItem/EmpyreanLoginSongItemStoreIcon.png!00_irpJXC2CzzQuIxBoGyhgQQ"
         },
         {
             "uniqueName": "/Lotus/Types/Items/SongItems/DanteUnboundLoginSongItem",
@@ -50361,6 +50373,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Companions/Pets/Kavat/Armor/KavatArmorGrnQueen.png!00_F1oCbNA38Iee5Pr6SSGuXQ"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/Armor/LNYKavatBoltorArmor",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Companions/Pets/Kavat/Armor/LNYKavatBoltorArmour.png!00_GJ7cVy32DAZH6wr+d4URdA"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/Armor/RevenantKavatArmor",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Companions/Pets/Kavat/Armor/KavatArmorRevenant.png!00_ak6umc6-g6x85ymToZ7mCw"
         },
@@ -51853,6 +51869,10 @@
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Ephemera/DragonLNYEphemera.png!00_4HJRzr7GLe+U5NYSrr9XsQ"
         },
         {
+            "uniqueName": "/Lotus/Upgrades/Skins/Effects/LNYStonesEphemera",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Ephemera/LNYStonesEphemera.png!00_IKepYJTTFISFqzCrhw+Etg"
+        },
+        {
             "uniqueName": "/Lotus/Upgrades/Skins/Effects/LotusFlowers",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Ephemera/LotusEphemera.png!00_fM02vmoefhwtIfAfR37UVQ"
         },
@@ -53323,6 +53343,14 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MirageDeluxeSkin",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/MirageDeluxe.png!00_iWGKjcEQEN45LUYlh97xOw"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MirageLunarNewYearHelmet",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Helmets/LNYMirageHelmet.png!00_XP0ab3uMxT47r9zL21evVA"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MirageLunarNewYearSkin",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/WarframeSkins/LNYMirageSkin.png!00_ALXYFsmwEndczsDIpEz2+g"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MiragePrimeHelmet",
@@ -55110,7 +55138,7 @@
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/CNY2025ScytheSkin",
-            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/MeleeWeapons/Skins/Halloween2024HateSkin.png!00_6Z9LuMp2ns1EolBaKcqo4A"
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/LNY2025ScytheSkin.png!00_rRgetSIFKn6LRARuUPmzUQ"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/LNY2024DragonSigil",
@@ -55123,6 +55151,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/LNY2024Ogris",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/LNY2024Ogris.png!00_s9rxpFFiLza8IKF-V48-yQ"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/LNY2025BoltorSkin",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Weapons/PrimaryWeapons/Skins/LNY2025BoltorSkin.png!00_7kB1P5RCgmagFDElzuM7sg"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/LNYHookSword",
@@ -55511,6 +55543,10 @@
         {
             "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/LNYCarpSugatra",
             "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Sugatras/LNYCarpSugatra.png!00_kV7WO3x5gL4P2kbnvxfJrQ"
+        },
+        {
+            "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/LNYSnakeMeleeDangle",
+            "textureLocation": "/Lotus/Interface/Icons/StoreIcons/Cosmetics/Sugatras/LNYSnakeMeleeDangle.png!00_v7ZzQws4Kh5LaPbWm5gBcw"
         },
         {
             "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/LimboDeluxeDangle",
